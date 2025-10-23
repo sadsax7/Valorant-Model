@@ -132,3 +132,8 @@ python -m mvp_model.print_test_all \
 
 ---
 Para más detalles del modelo, ver `mvp_model/README.md`.
+
+## Contactos:
+- **aarangom1@eafit.edu.co**
+- **triveraf@eafit.edu.co**
+-
