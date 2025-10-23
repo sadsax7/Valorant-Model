@@ -137,6 +137,17 @@ python -m mvp_model.print_test_all \
 ---
 Para más detalles del modelo, ver `mvp_model/README.md`.
 
+## Ejecución de todo el pipeline (one‑liner)
+- Windows (PowerShell):
+  - `powershell -ExecutionPolicy Bypass -File scripts/run_all.ps1`
+  - Por defecto usa TODO el bloque de test para las gráficas; para limitar a N: `-LastN 10`
+  - Otros parámetros: `-Threshold 0.5 -CsvPath masters_csvs/matches.csv -ModelPath mvp_model/artifacts/model.pkl`
+
+- Linux/WSL:
+  - `bash scripts/run_all.sh`
+  - Por defecto usa TODO el bloque de test; para limitar a N: `bash scripts/run_all.sh --last-n 10`
+  - Otros parámetros: `--threshold 0.5 --csv-path masters_csvs/matches.csv --model mvp_model/artifacts/model.pkl`
+
 ## Contactos:
 - **aarangom1@eafit.edu.co**
 - **triveraf@eafit.edu.co**

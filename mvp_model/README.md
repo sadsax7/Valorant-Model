@@ -51,7 +51,8 @@ python -m mvp_model.plot_test_predictions \
   --model mvp_model/artifacts/model.pkl \
   --out-dir mvp_model/artifacts/plots \
   --test-size 0.2 \
-  --all-test
+  --all-test \
+  --threshold 0.5
 
 # Solo los últimos N del test (para ver tendencia reciente):
 python -m mvp_model.plot_test_predictions \
@@ -59,19 +60,25 @@ python -m mvp_model.plot_test_predictions \
   --model mvp_model/artifacts/model.pkl \
   --out-dir mvp_model/artifacts/plots \
   --test-size 0.2 \
-  --last-n 100
+  --last-n 100 \
+  --threshold 0.5
 ```
 Salidas:
 - `mvp_model/artifacts/plots/test_predictions_timeseries.png`: serie temporal con probabilidad predicha y resultado real (0/1).
 - `mvp_model/artifacts/plots/test_calibration_curve.png`: curva de calibración (con 10 bins por cuantiles).
-- `mvp_model/artifacts/plots/test_metrics.json`: resumen de métricas del bloque de test.
+- `mvp_model/artifacts/plots/test_metrics.json`: resumen de métricas del bloque de test, incluyendo métricas discretas (accuracy, precision, recall, F1) y TP/TN/FP/FN al umbral indicado.
 
-Últimos 10 del test (Windows/PowerShell y Linux)
+Últimos N del test (Windows/PowerShell y Linux)
 ```bash
 # Ejecutar desde la raíz del proyecto
 python -m mvp_model.print_test_tail \
   --csv-path masters_csvs/matches.csv \
-  --model mvp_model/artifacts/model.pkl
+  --model mvp_model/artifacts/model.pkl \
+  --last-n 10 \
+  --out mvp_model/artifacts/test_tail_preds.csv \
+  --threshold 0.5
+# Para exportar TODO el bloque de test en este formato:
+# python -m mvp_model.print_test_tail --csv-path masters_csvs/matches.csv --model mvp_model/artifacts/model.pkl --all-test --out mvp_model/artifacts/test_tail_preds.csv --threshold 0.5
 ```
 
 Todo el bloque de test a CSV

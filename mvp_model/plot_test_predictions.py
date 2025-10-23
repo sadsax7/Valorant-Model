@@ -24,6 +24,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--elo-base", type=float, default=1500.0, help="Elo base rating (must match training)")
     p.add_argument("--style", default="seaborn-v0_8", help="Matplotlib style to use")
     p.add_argument("--dpi", type=int, default=140, help="Figure DPI for saved images")
+    p.add_argument("--threshold", type=float, default=0.5, help="Threshold for discrete metrics (confusion matrix)")
     return p.parse_args()
 
 
@@ -83,12 +84,34 @@ def main():
     model = joblib.load(args.model)
     proba = model.predict_proba(X_test)[:, 1]
 
-    # Metrics summary
+    # Metrics summary (probabilistic)
     metrics = {
         "log_loss": float(log_loss(y_test, proba)),
         "roc_auc": float(roc_auc_score(y_test, proba)) if len(np.unique(y_test)) > 1 else None,
         "brier": float(brier_score_loss(y_test, proba)),
         "n_test": int(len(y_test)),
+    }
+
+    # Discrete metrics at threshold
+    pred = (proba >= args.threshold).astype(int)
+    tp = int(((pred == 1) & (y_test == 1)).sum())
+    tn = int(((pred == 0) & (y_test == 0)).sum())
+    fp = int(((pred == 1) & (y_test == 0)).sum())
+    fn = int(((pred == 0) & (y_test == 1)).sum())
+    acc = (tp + tn) / max(1, len(y_test))
+    prec = tp / max(1, (tp + fp))
+    rec = tp / max(1, (tp + fn))
+    f1 = (2 * prec * rec / (prec + rec)) if (prec + rec) > 0 else 0.0
+    metrics["discrete"] = {
+        "threshold": args.threshold,
+        "tp": tp,
+        "tn": tn,
+        "fp": fp,
+        "fn": fn,
+        "accuracy": float(acc),
+        "precision": float(prec),
+        "recall": float(rec),
+        "f1": float(f1),
     }
 
     os.makedirs(args.out_dir, exist_ok=True)

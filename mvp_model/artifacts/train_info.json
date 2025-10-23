@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-10-23T21:02:06.728036+00:00",
+  "n_total": 504,
+  "n_train": 403,
+  "n_test": 101,
+  "elo_k": 32.0,
+  "elo_base": 1500.0,
+  "features": [
+    "elo1_before",
+    "elo2_before",
+    "elo_diff"
+  ],
+  "model_type": "LogisticRegression",
+  "csv_path": "masters_csvs/matches.csv"
+}
