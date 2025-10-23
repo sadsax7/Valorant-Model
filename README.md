@@ -1,7 +1,7 @@
 # Data Valorant – Consolidación de CSVs y MVP de Modelo
 **Autoría del Proyecto: Alejandro Arango Mejía y Thomas Rivera Fernandez.**
 
-Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y entrenar un MVP de modelo de predicción de resultados de partidos (basado en Elo y un clasificador sencillo).
+Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y entrenar un MVP de modelo para predecir ganadores usando Elo (pre‑partido). Incluye scripts para visualización, export de predicciones y orquestadores para ejecutar todo con un solo comando.
 
 ## Estructura del Repo
 - `scripts/`
@@ -9,14 +9,14 @@ Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpet
   - `join_matches_by_match_id.py`: hace join por `match_id` entre `matches.csv`, `detailed_matches_overview.csv`, `detailed_matches_player_stats.csv` y `detailed_matches_maps.csv`, produciendo `masters_csvs/matches_joined.csv` con columnas `ov_*` y dos columnas JSON (`players_json`, `maps_json`).
 - `tournaments/` (recomendado): carpeta donde viven todas las carpetas crudas `*_csvs/` de torneos.
 - `masters_csvs/`: CSVs maestros consolidados (salida de los scripts, se mantienen en la raíz del repo).
-  - `mvp_model/`: MVP del modelo (entrenamiento, predicción, utilidades Elo y artifacts).
-  - `train_mvp.py`, `predict_mvp.py`, `utils/elo.py`, `artifacts/`, `README.md`.
+- `mvp_model/`: MVP del modelo (entrenamiento, predicción, utilidades Elo y artifacts).
+  - `train_mvp.py`, `predict_mvp.py`, `plot_test_predictions.py`, `print_test_tail.py`, `print_test_all.py`, `utils/elo.py`, `artifacts/`, `README.md`.
 - `.venv/` (Windows) o `.venv_cli/` (Linux/WSL, opcional): entornos virtuales.
 - `.gitignore`: ignora caches, entornos, artefactos y temporales.
 
 ## Requisitos
 - Python 3.9+ (recomendado 3.11 o 3.12).
-- Paquetes del modelo (si vas a entrenar/predicción): `pandas`, `numpy`, `scikit-learn`, `joblib`, `xgboost`.
+- Paquetes del modelo (si vas a entrenar/predicción): `pandas`, `numpy`, `scikit-learn`, `joblib`, `matplotlib` (opcional `xgboost`).
   - Ya listados en `mvp_model/requirements.txt`.
 
 ## Flujo de Datos
@@ -27,6 +27,13 @@ Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpet
 
 ## Uso Rápido
 Desde la raíz del repo (este folder):
+
+0. Entorno y dependencias
+```powershell
+py -3.12 -m venv .venv
+. .\.venv\Scripts\Activate.ps1
+pip install -r mvp_model/requirements.txt
+```
 
 1. Generar maestros
 ```bash
@@ -88,16 +95,30 @@ python -m mvp_model.predict_mvp \
 
 4. Utilidades de test
 ```bash
-# Últimos N del test (ver README de mvp_model)
+# CSV del bloque de test (todo el test recomendado)
 python -m mvp_model.print_test_tail \
   --csv-path masters_csvs/matches.csv \
-  --model mvp_model/artifacts/model.pkl
+  --model mvp_model/artifacts/model.pkl \
+  --all-test \
+  --out mvp_model/artifacts/test_tail_preds.csv \
+  --threshold 0.5
 
 # Todo el bloque de test a CSV
 python -m mvp_model.print_test_all \
   --csv-path masters_csvs/matches.csv \
   --model mvp_model/artifacts/model.pkl \
   --out mvp_model/artifacts/test_preds.csv
+```
+
+5. Gráficas del test (serie temporal + calibración)
+```bash
+python -m mvp_model.plot_test_predictions \
+  --csv-path masters_csvs/matches.csv \
+  --model mvp_model/artifacts/model.pkl \
+  --out-dir mvp_model/artifacts/plots \
+  --test-size 0.2 \
+  --all-test \
+  --threshold 0.5
 ```
 
 ## Detalles de Implementación
@@ -129,6 +150,7 @@ python -m mvp_model.print_test_all \
 - `ModuleNotFoundError` (p. ej. `numpy`): activa el entorno correcto antes de ejecutar (`.venv/Scripts/Activate.ps1` en Windows; `source .venv_cli/bin/activate` en Linux/WSL) o instala dependencias.
 - `PermissionError` al activar en PowerShell: permite scripts con `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` y vuelve a activar.
 - CSVs vacíos o faltantes en algún torneo: el merge los omite; revisa el resumen por archivo para detectar ausentes.
+- PowerShell partiendo líneas: pega los comandos en una sola línea o usa backticks (`) al final de cada línea. Evita partir rutas en medio (p. ej., `mvp_model/artifacts/` + `model.pkl`).
 
 ## Siguientes Pasos
 - Añadir más features pre-partido (ratings por mapa, forma reciente por jugador/agente, contexto de patch/torneo) manteniendo splits temporales.
@@ -147,6 +169,33 @@ Para más detalles del modelo, ver `mvp_model/README.md`.
   - `bash scripts/run_all.sh`
   - Por defecto usa TODO el bloque de test; para limitar a N: `bash scripts/run_all.sh --last-n 10`
   - Otros parámetros: `--threshold 0.5 --csv-path masters_csvs/matches.csv --model mvp_model/artifacts/model.pkl`
+
+## Salidas esperadas y verificación rápida
+- Salidas clave (rutas por defecto):
+  - Modelo: `mvp_model/artifacts/model.pkl`
+  - Métricas test (probabilísticas): `mvp_model/artifacts/metrics.json`
+  - CSV de test (predicciones + aciertos): `mvp_model/artifacts/test_tail_preds.csv`
+  - Gráficas: `mvp_model/artifacts/plots/test_predictions_timeseries.png` y `.../test_calibration_curve.png`
+  - Métricas de gráficas (incluye discretas y matriz de confusión): `mvp_model/artifacts/plots/test_metrics.json`
+
+- Verificar en PowerShell:
+  - `Test-Path "mvp_model/artifacts/model.pkl"` (debe ser True)
+  - `Get-Content "mvp_model/artifacts/metrics.json"`
+  - `Get-Content "mvp_model/artifacts/plots/test_metrics.json"`
+  - Abrir imágenes: `Start-Process "mvp_model/artifacts/plots/test_predictions_timeseries.png"`
+
+- Verificar en Linux/WSL:
+  - `ls -lh mvp_model/artifacts/model.pkl`
+  - `sed -n '1,200p' mvp_model/artifacts/metrics.json`
+  - `sed -n '1,200p' mvp_model/artifacts/plots/test_metrics.json`
+
+## Cómo interpretar resultados
+- `roc_auc` (≈0.5 azar, >0.6 aceptable): mide discriminación (qué tanto ordena ganadores por encima de perdedores).
+- `log_loss` y `brier` (más bajos son mejores): calidad/calibración de las probabilidades.
+- Gráficas:
+  - Serie temporal: la línea de probabilidad debe estar alta cuando el punto real es 1 y baja cuando es 0.
+  - Calibración: la curva ideal se pega a la diagonal; por debajo = sobreconfianza, por encima = subconfianza.
+- Métricas discretas en `test_metrics.json.discrete` (umbral configurable `--threshold`): TP/TN/FP/FN, accuracy, precision, recall, F1.
 
 ## Contactos:
 - **aarangom1@eafit.edu.co**

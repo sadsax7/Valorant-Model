@@ -7,9 +7,9 @@ Resumen
 
 Requisitos
 - Python 3.9+.
-- Paquetes: `pandas`, `numpy`, `scikit-learn`. Opcional: `xgboost`.
+- Paquetes: `pandas`, `numpy`, `scikit-learn`, `joblib`, `matplotlib`. Opcional: `xgboost`.
 
-Instalación de dependencias (opcional XGBoost)
+Instalación de dependencias (incluye matplotlib; XGBoost es opcional)
 ```bash
 pip install -r mvp_model/requirements.txt
 ```
@@ -68,13 +68,40 @@ Salidas:
 - `mvp_model/artifacts/plots/test_calibration_curve.png`: curva de calibración (con 10 bins por cuantiles).
 - `mvp_model/artifacts/plots/test_metrics.json`: resumen de métricas del bloque de test, incluyendo métricas discretas (accuracy, precision, recall, F1) y TP/TN/FP/FN al umbral indicado.
 
+Formato del CSV de test (test_tail_preds.csv)
+```text
+parsed_date,match_id,team1,team2,p_team1_win,pred_team1_win,team1_win,correct
+2025-09-29,542277,Paper Rex,Team Heretics,0.6290,1,1,True
+...
+```
+- `p_team1_win`: probabilidad predicha para que `team1` gane.
+- `pred_team1_win`: etiqueta 0/1 usando el umbral (`--threshold`, por defecto 0.5).
+- `team1_win`: resultado real 0/1.
+- `correct`: True si `pred_team1_win == team1_win`.
+
+Ejemplos de verificación (PowerShell)
+```powershell
+$rows = Import-Csv "mvp_model/artifacts/test_tail_preds.csv"
+$rows.Count
+$ok = ($rows | ? { $_.correct -eq 'True' }).Count
+"Aciertos: $ok de $($rows.Count) = $([math]::Round($ok/$rows.Count,4))"
+```
+
+Ejemplos de verificación (Linux/WSL)
+```bash
+wc -l mvp_model/artifacts/test_tail_preds.csv   # incluye cabecera
+head -n 5 mvp_model/artifacts/test_tail_preds.csv
+```
+
 Últimos N del test (Windows/PowerShell y Linux)
 ```bash
 # Ejecutar desde la raíz del proyecto
 python -m mvp_model.print_test_tail \
   --csv-path masters_csvs/matches.csv \
   --model mvp_model/artifacts/model.pkl \
-  --last-n 10 \
+  --all-test \
+  # o limitar a N recientes: \
+  # --last-n 10 \
   --out mvp_model/artifacts/test_tail_preds.csv \
   --threshold 0.5
 # Para exportar TODO el bloque de test en este formato:
@@ -93,3 +120,4 @@ Notas
 - Este MVP usa solo `elo_diff`. Es intencional para evitar fugas de información usando campos post-partido.
 - Próximos pasos: añadir más features prepartido (ratings por mapa, forma reciente por jugador/agente, contexto de patch/torneo) manteniendo splits temporales.
 - Requisitos de columnas mínimas en `masters_csvs/matches.csv`: `date` (recomendado, para ordenar), `team1`, `team2`, `winner`, `status` (para filtrar a `Completed`).
+ - Si `parsed_date` no se puede parsear para alguna fila, aparecerá `NaT` (no afecta el cálculo de Elo ni la predicción).
