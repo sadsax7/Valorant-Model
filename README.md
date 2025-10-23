@@ -1,7 +1,7 @@
 # Data Valorant – Consolidación de CSVs y MVP de Modelo
 **Autoría del Proyecto: Alejandro Arango Mejía y Thomas Rivera Fernandez.**
 
-Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y, opcionalmente, entrenar un MVP de modelo de predicción de resultados de partidos (basado en Elo y un clasificador sencillo).
+Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y entrenar un MVP de modelo de predicción de resultados de partidos (basado en Elo y un clasificador sencillo).
 
 ## Estructura del Repo
 - `scripts/`
@@ -16,14 +16,14 @@ Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpet
 
 ## Requisitos
 - Python 3.9+ (recomendado 3.11 o 3.12).
-- Paquetes del modelo (si vas a entrenar/predicción): `pandas`, `numpy`, `scikit-learn`, `joblib` (opcional `xgboost`).
+- Paquetes del modelo (si vas a entrenar/predicción): `pandas`, `numpy`, `scikit-learn`, `joblib`, `xgboost`.
   - Ya listados en `mvp_model/requirements.txt`.
 
 ## Flujo de Datos
 1) Entrada: carpetas `*_csvs/` por torneo con archivos como `matches.csv`, `detailed_matches_overview.csv`, etc.
 2) Consolidación: `scripts/merge_tournaments_to_masters.py` crea `masters_csvs/*.csv` unificando columnas y añadiendo `tournament_name`.
 3) Join por partido: `scripts/join_matches_by_match_id.py` crea `masters_csvs/matches_joined.csv` con overview y listas JSON de jugadores y mapas por `match_id`.
-4) Modelo (opcional): `mvp_model/train_mvp.py` entrena un clasificador para `team1_win` usando `elo_diff` generado cronológicamente.
+4) Modelo: `mvp_model/train_mvp.py` entrena un clasificador para `team1_win` usando `elo_diff` generado cronológicamente.
 
 ## Uso Rápido
 Desde la raíz del repo (este folder):
@@ -38,7 +38,7 @@ python scripts/merge_tournaments_to_masters.py
 python scripts/join_matches_by_match_id.py
 ```
 
-3. (Opcional) Entrenar modelo y generar métricas/artefactos
+3. Entrenar modelo y generar métricas/artefactos
 
 Windows (PowerShell)
 ```powershell
@@ -54,7 +54,7 @@ python -m mvp_model.train_mvp \
   --metrics-out mvp_model/artifacts/metrics.json \
   --train-info-out mvp_model/artifacts/train_info.json
 
-# (Opcional) Predecir sobre un CSV
+# Predecir sobre un CSV
 python -m mvp_model.predict_mvp \
   --model mvp_model/artifacts/model.pkl \
   --csv masters_csvs/matches.csv \
@@ -75,14 +75,14 @@ python -m mvp_model.train_mvp \
   --metrics-out mvp_model/artifacts/metrics.json \
   --train-info-out mvp_model/artifacts/train_info.json
 
-# (Opcional) Predecir
+# Predecir
 python -m mvp_model.predict_mvp \
   --model mvp_model/artifacts/model.pkl \
   --csv masters_csvs/matches.csv \
   --out mvp_model/artifacts/preds_sample.csv
 ```
 
-4. (Opcional) Utilidades de test
+4. Utilidades de test
 ```bash
 # Últimos N del test (ver README de mvp_model)
 python -m mvp_model.print_test_tail \
