@@ -1,0 +1,44 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Wed, July 16, 2025",511543,8:30 PM,Natus Vincere,2,Apeks,1,2-1,Natus Vincere,Completed,Week 1,Group Stage
+"Wed, July 16, 2025",511544,11:20 PM,Team Vitality,0,GIANTX,2,0-2,GIANTX,Completed,Week 1,Group Stage
+"Thu, July 17, 2025",511545,8:30 PM,FUT Esports,2,Gentle Mates,1,2-1,FUT Esports,Completed,Week 1,Group Stage
+"Fri, July 18, 2025",511546,12:00 AM,Team Liquid,2,KOI,1,2-1,Team Liquid,Completed,Week 1,Group Stage
+"Fri, July 18, 2025",511547,8:30 PM,Team Heretics,2,BBL Esports,1,2-1,Team Heretics,Completed,Week 1,Group Stage
+"Fri, July 18, 2025",511548,11:45 PM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Week 1,Group Stage
+"Wed, July 23, 2025",511549,8:30 PM,Apeks,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 2,Group Stage
+"Thu, July 24, 2025",511550,12:00 AM,GIANTX,2,BBL Esports,1,2-1,GIANTX,Completed,Week 2,Group Stage
+"Thu, July 24, 2025",511551,8:30 PM,Team Liquid,2,Natus Vincere,0,2-0,Team Liquid,Completed,Week 2,Group Stage
+"Thu, July 24, 2025",511552,10:35 PM,Gentle Mates,1,Team Heretics,2,1-2,Team Heretics,Completed,Week 2,Group Stage
+"Fri, July 25, 2025",511553,8:30 PM,FUT Esports,0,Team Vitality,2,0-2,Team Vitality,Completed,Week 2,Group Stage
+"Fri, July 25, 2025",511554,10:25 PM,KOI,0,FNATIC,2,0-2,FNATIC,Completed,Week 2,Group Stage
+"Wed, July 30, 2025",511562,8:30 PM,FUT Esports,2,GIANTX,1,2-1,FUT Esports,Completed,Week 3,Group Stage
+"Wed, July 30, 2025",511563,11:40 PM,Gentle Mates,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 3,Group Stage
+"Thu, July 31, 2025",511564,8:30 PM,Team Liquid,2,Apeks,1,2-1,Team Liquid,Completed,Week 3,Group Stage
+"Fri, August 1, 2025",511565,12:10 AM,KOI,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 3,Group Stage
+"Fri, August 1, 2025",511566,8:30 PM,Natus Vincere,1,FNATIC,2,1-2,FNATIC,Completed,Week 3,Group Stage
+"Sat, August 2, 2025",511567,12:10 AM,Team Vitality,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 3,Group Stage
+"Wed, August 6, 2025",511568,8:30 PM,FUT Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 4,Group Stage
+"Wed, August 6, 2025",511569,11:05 PM,KOI,2,Apeks,1,2-1,KOI,Completed,Week 4,Group Stage
+"Thu, August 7, 2025",511570,8:30 PM,Gentle Mates,1,GIANTX,2,1-2,GIANTX,Completed,Week 4,Group Stage
+"Thu, August 7, 2025",511571,11:30 PM,Natus Vincere,2,Karmine Corp,0,2-0,Natus Vincere,Completed,Week 4,Group Stage
+"Fri, August 8, 2025",511572,8:30 PM,Team Vitality,1,BBL Esports,2,1-2,BBL Esports,Completed,Week 4,Group Stage
+"Sat, August 9, 2025",511573,12:10 AM,Team Liquid,2,FNATIC,0,2-0,Team Liquid,Completed,Week 4,Group Stage
+"Wed, August 13, 2025",511575,8:30 PM,KOI,1,Natus Vincere,2,1-2,Natus Vincere,Completed,Week 5,Group Stage
+"Wed, August 13, 2025",511576,11:50 PM,Apeks,0,FNATIC,2,0-2,FNATIC,Completed,Week 5,Group Stage
+"Thu, August 14, 2025",511577,8:30 PM,GIANTX,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 5,Group Stage
+"Thu, August 14, 2025",511579,10:35 PM,Gentle Mates,1,Team Vitality,2,1-2,Team Vitality,Completed,Week 5,Group Stage
+"Fri, August 15, 2025",511580,8:30 PM,FUT Esports,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 5,Group Stage
+"Fri, August 15, 2025",511581,11:00 PM,Team Liquid,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 5,Group Stage
+"Thu, August 21, 2025",530924,8:30 PM,FNATIC,1,BBL Esports,2,1-2,BBL Esports,Completed,Upper Round 1,Playoffs
+"Thu, August 21, 2025",530925,11:45 PM,GIANTX,2,Natus Vincere,1,2-1,GIANTX,Completed,Upper Round 1,Playoffs
+"Fri, August 22, 2025",530928,8:30 PM,Team Heretics,0,BBL Esports,2,0-2,BBL Esports,Completed,Upper Semifinals,Playoffs
+"Fri, August 22, 2025",530929,10:50 PM,Team Liquid,2,GIANTX,1,2-1,Team Liquid,Completed,Upper Semifinals,Playoffs
+"Sat, August 23, 2025",530926,8:30 PM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Lower Round 1,Playoffs
+"Sun, August 24, 2025",530927,12:25 AM,Natus Vincere,2,Team Vitality,0,2-0,Natus Vincere,Completed,Lower Round 1,Playoffs
+"Sun, August 24, 2025",530930,8:30 PM,GIANTX,2,FNATIC,0,2-0,GIANTX,Completed,Lower Round 2,Playoffs
+"Sun, August 24, 2025",530931,10:55 PM,Team Heretics,0,Natus Vincere,2,0-2,Natus Vincere,Completed,Lower Round 2,Playoffs
+"Fri, August 29, 2025",530932,8:30 PM,BBL Esports,1,Team Liquid,2,1-2,Team Liquid,Completed,Upper Final,Playoffs
+"Sat, August 30, 2025",530933,12:10 AM,GIANTX,2,Natus Vincere,1,2-1,GIANTX,Completed,Lower Round 3,Playoffs
+"Sat, August 30, 2025",530934,9:30 PM,BBL Esports,0,GIANTX,3,0-3,GIANTX,Completed,Lower Final,Playoffs
+"Sun, August 31, 2025Yesterday",538583,8:30 PM,Team France,7,Team EMEA,13,7-13,Team EMEA,Completed,Main Event,Showmatch
+"Sun, August 31, 2025Yesterday",530935,9:30 PM,Team Liquid,3,GIANTX,0,3-0,Team Liquid,Completed,Grand Final,Playoffs

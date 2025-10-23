@@ -1,0 +1,1705 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Wo0t,21328,Team Heretics,overall,"Breach, Gekko",0.93,179,23,27,13,-4,64%,113,50%,2,4,-2,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,benjyfishy,29873,Team Heretics,overall,Killjoy,0.93,187,24,29,3,-5,61%,130,34%,7,3,+4,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,RieNs,10971,Team Heretics,overall,"Fade, Sova",0.67,176,20,30,6,-10,56%,111,33%,2,5,-3,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Boo,1144,Team Heretics,overall,"Astra, Viper",0.47,106,12,29,14,-17,56%,68,33%,0,5,-5,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,MiniBoo,18350,Team Heretics,overall,"Yoru, Neon",0.43,119,16,31,4,-15,47%,82,44%,2,6,-4,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,overall,"Raze, Omen",1.45,251,32,19,20,+13,92%,153,23%,10,1,+9,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,overall,"Astra, Sova",1.42,243,30,17,15,+13,83%,141,35%,5,2,+3,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,PatMen,13744,Paper Rex,overall,"Fade, Viper",1.22,213,30,18,9,+12,81%,140,32%,2,5,-3,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,d4v41,9803,Paper Rex,overall,"Vyse, Killjoy",1.17,187,27,21,4,+6,81%,148,29%,0,1,-1,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,something,17086,Paper Rex,overall,"Yoru, Jett",1.10,205,27,20,8,+7,78%,139,19%,6,4,+2,,
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,RieNs,10971,Team Heretics,map,Fade,0.54,177,8,12,1,-4,50%,105,41%,1,2,-1,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,benjyfishy,29873,Team Heretics,map,Killjoy,0.53,141,6,13,2,-7,64%,100,28%,2,1,+1,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Boo,1144,Team Heretics,map,Astra,0.45,105,5,12,7,-7,50%,60,46%,0,3,-3,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Wo0t,21328,Team Heretics,map,Breach,0.41,135,6,12,6,-6,57%,76,46%,1,2,-1,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,MiniBoo,18350,Team Heretics,map,Yoru,0.20,85,4,13,1,-9,36%,57,71%,1,1,0,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Astra,2.27,324,18,3,8,+15,93%,187,47%,2,0,+2,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Fade,1.43,187,10,4,6,+6,93%,125,43%,0,1,-1,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Raze,1.40,239,12,6,4,+6,86%,154,19%,5,1,+4,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,something,17086,Paper Rex,map,Yoru,1.36,246,13,7,3,+6,100%,182,29%,2,2,0,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Vyse,1.02,172,9,9,3,0,86%,131,27%,0,1,-1,Pearl,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Wo0t,21328,Team Heretics,map,Gekko,1.27,222,17,15,7,+2,68%,136,52%,1,2,-1,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,benjyfishy,29873,Team Heretics,map,Killjoy,1.20,233,18,16,1,+2,59%,150,39%,5,2,+3,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,RieNs,10971,Team Heretics,map,Sova,0.76,174,12,18,5,-6,59%,114,29%,1,3,-2,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,MiniBoo,18350,Team Heretics,map,Neon,0.57,152,12,18,3,-6,55%,98,38%,1,5,-4,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Boo,1144,Team Heretics,map,Viper,0.49,106,7,17,7,-10,59%,73,26%,0,2,-2,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Omen,1.48,262,20,13,16,+7,95%,152,27%,5,0,+5,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Killjoy,1.26,202,18,12,1,+6,77%,159,30%,0,0,0,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Viper,1.08,239,20,14,3,+6,73%,150,27%,2,4,-2,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,something,17086,Paper Rex,map,Jett,0.94,164,14,13,5,+1,64%,112,14%,4,2,+2,Icebox,Paper Rex
+490309,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 12:00:00,Team Heretics,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Sova,0.87,161,12,14,7,-2,77%,112,25%,3,2,+1,Icebox,Paper Rex
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Harbor, Omen",1.22,232,58,49,33,+9,78%,151,29%,11,4,+7,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Jett, Neon",1.16,248,69,54,15,+15,70%,158,31%,15,15,0,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Viper, Breach, Kayo",1.05,203,50,50,39,0,78%,134,21%,5,6,-1,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,Sova,1.03,161,42,42,19,0,74%,117,27%,5,3,+2,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Killjoy, Cypher",0.93,179,50,50,15,0,75%,127,25%,4,8,-4,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,penny,7716,Team Liquid,overall,"Omen, Phoenix",1.03,183,49,51,26,-2,71%,134,24%,7,8,-1,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Keiko,11494,Team Liquid,overall,"Harbor, Omen, Iso",1.02,183,55,50,14,+5,72%,128,46%,7,8,-1,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,kamo,14681,Team Liquid,overall,"Clove, Neon",0.91,207,55,60,22,-5,67%,138,37%,10,14,-4,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Serial,18162,Team Liquid,overall,"Gekko, Killjoy, Cypher",0.84,174,47,56,13,-9,59%,120,51%,9,4,+5,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,paTiTek,309,Team Liquid,overall,"Kayo, Sova",0.79,167,38,52,14,-14,68%,102,18%,3,6,-3,,
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Harbor,1.49,263,22,15,10,+7,83%,173,38%,3,1,+2,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Jett,1.25,252,22,15,1,+7,57%,151,38%,5,5,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Killjoy,1.21,219,17,15,4,+2,83%,162,23%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Viper,1.00,202,14,16,11,-2,78%,129,13%,2,1,+1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,0.76,106,7,11,4,-4,70%,82,19%,1,1,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Harbor,1.07,197,18,13,3,+5,74%,140,56%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Kayo,0.91,198,16,17,4,-1,61%,112,16%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Clove,0.88,214,17,19,8,-2,78%,152,40%,3,5,-2,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,penny,7716,Team Liquid,map,Omen,0.66,142,10,16,7,-6,65%,94,14%,2,3,-1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Serial,18162,Team Liquid,map,Gekko,0.48,128,10,17,2,-7,52%,88,65%,1,1,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Neon,1.25,281,29,22,8,+7,80%,177,28%,6,5,+1,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Breach,1.05,210,21,20,13,+1,73%,137,29%,2,4,-2,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,1.04,179,18,18,8,0,73%,128,25%,2,2,0,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,0.91,202,18,22,15,-4,73%,140,18%,3,2,+1,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Cypher,0.64,162,19,23,5,-4,67%,112,44%,0,4,-4,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,penny,7716,Team Liquid,map,Phoenix,1.61,289,30,18,15,+12,73%,207,29%,3,3,0,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Omen,1.27,225,25,21,8,+4,77%,145,42%,4,1,+3,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Neon,1.08,249,26,24,9,+2,77%,142,43%,5,4,+1,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Serial,18162,Team Liquid,map,Killjoy,0.97,186,20,21,6,-1,67%,133,46%,4,1,+3,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Sova,0.37,68,4,21,5,-17,63%,54,19%,1,4,-3,Haven,Team Liquid
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,1.35,232,18,12,8,+6,78%,144,40%,5,1,+4,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,1.28,199,17,13,7,+4,78%,138,35%,2,0,+2,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Kayo,1.10,197,15,14,15,+1,83%,134,21%,1,1,0,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Cypher,1.03,155,14,12,6,+2,78%,110,14%,2,2,0,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Neon,0.96,210,18,17,6,+1,70%,138,29%,4,5,-1,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Sova,1.22,236,18,14,5,+4,83%,154,18%,0,0,0,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Serial,18162,Team Liquid,map,Cypher,1.02,208,17,18,5,-1,57%,135,50%,4,2,+2,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Neon,0.73,158,12,17,5,-5,43%,118,27%,2,5,-3,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,penny,7716,Team Liquid,map,Omen,0.65,117,9,17,4,-8,74%,81,26%,2,2,0,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490307,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-07 14:10:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Iso,0.65,127,12,16,3,-4,65%,93,40%,1,5,-4,Sunset,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,N4RRATE,36245,Sentinels,overall,"Breach, Fade",1.29,229,37,26,19,+11,76%,135,27%,2,2,0,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,johnqt,1265,Sentinels,overall,"Skye, Viper",1.27,199,33,24,18,+9,78%,124,26%,1,4,-3,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,bang,3880,Sentinels,overall,Omen,1.07,201,33,33,17,0,73%,123,34%,4,1,+3,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,zekken,4004,Sentinels,overall,"Yoru, Raze",1.04,208,32,31,12,+1,78%,145,24%,7,13,-6,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Zellsis,729,Sentinels,overall,"Viper, Vyse",0.93,168,26,27,13,-1,69%,117,26%,4,7,-3,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,overall,Viper,1.12,245,37,35,17,+2,67%,166,35%,9,3,+6,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,overall,Fade,1.04,172,28,27,13,+1,69%,114,29%,2,3,-1,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,overall,Raze,0.94,214,35,35,6,0,69%,141,26%,13,6,+7,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,overall,"Cypher, Killjoy",0.70,155,25,34,4,-9,58%,102,19%,3,4,-1,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,overall,Omen,0.66,111,16,30,18,-14,73%,79,15%,0,2,-2,,
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,N4RRATE,36245,Sentinels,map,Breach,1.18,208,18,14,12,+4,71%,122,23%,1,1,0,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,johnqt,1265,Sentinels,map,Skye,1.15,184,16,14,15,+2,75%,103,30%,0,2,-2,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,bang,3880,Sentinels,map,Omen,1.08,202,17,17,12,0,79%,121,36%,2,0,+2,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,zekken,4004,Sentinels,map,Yoru,1.00,229,18,19,5,-1,83%,146,28%,4,6,-2,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Zellsis,729,Sentinels,map,Viper,0.89,177,15,15,5,0,63%,116,24%,4,4,0,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Fade,1.25,204,17,13,8,+4,79%,132,30%,1,1,0,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Raze,1.14,262,22,19,3,+3,75%,175,26%,7,3,+4,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Viper,1.11,220,18,18,9,0,58%,159,32%,4,3,+1,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Omen,0.73,125,9,15,12,-6,75%,96,21%,0,2,-2,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Cypher,0.64,151,13,19,2,-6,54%,103,23%,1,2,-1,Split,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,johnqt,1265,Sentinels,map,Viper,1.42,213,17,10,3,+7,81%,148,22%,1,2,-1,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,N4RRATE,36245,Sentinels,map,Fade,1.41,250,19,12,7,+7,81%,151,30%,1,1,0,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,zekken,4004,Sentinels,map,Raze,1.08,187,14,12,7,+2,71%,144,17%,3,7,-4,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,bang,3880,Sentinels,map,Omen,1.07,199,16,16,5,0,67%,126,33%,2,1,+1,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Zellsis,729,Sentinels,map,Vyse,0.97,158,11,12,8,-1,76%,119,27%,0,3,-3,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Viper,1.12,270,19,17,8,+2,76%,173,39%,5,0,+5,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Fade,0.81,140,11,14,5,-3,57%,93,28%,1,2,-1,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Killjoy,0.76,159,12,15,2,-3,62%,100,15%,2,2,0,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Raze,0.70,166,13,16,3,-3,62%,102,26%,6,3,+3,Lotus,Sentinels
+490308,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 12:00:00,Sentinels,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Omen,0.57,97,7,15,6,-8,71%,61,6%,0,0,0,Lotus,Sentinels
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,t3xture,9196,Gen.G,overall,Neon,1.48,301,35,17,9,+18,78%,196,29%,10,0,+10,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Karon,34974,Gen.G,overall,Omen,1.44,276,34,16,10,+18,88%,198,40%,3,3,0,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Ash,25017,Gen.G,overall,Sova,1.43,217,26,12,5,+14,88%,152,32%,3,0,+3,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Foxy9,11600,Gen.G,overall,"Deadlock, Killjoy",1.31,215,29,14,5,+15,88%,142,33%,3,3,0,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Munchkin,2489,Gen.G,overall,Viper,1.22,207,23,13,10,+10,91%,137,29%,4,3,+1,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Verno,21668,MIBR,overall,Sova,1.03,204,21,27,6,-6,56%,135,29%,0,2,-2,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,cortezia,5395,MIBR,overall,Cypher,0.58,161,17,31,5,-14,50%,107,32%,3,3,0,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,xenom,20240,MIBR,overall,Omen,0.50,114,12,30,3,-18,50%,82,40%,3,3,0,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,aspas,8480,MIBR,overall,"Neon, Jett",0.48,107,12,29,5,-17,53%,72,24%,2,9,-7,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,artzin,5957,MIBR,overall,Breach,0.30,80,10,30,4,-20,56%,53,31%,1,6,-5,,
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Foxy9,11600,Gen.G,map,Deadlock,1.43,237,18,8,3,+10,94%,143,42%,3,1,+2,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Karon,34974,Gen.G,map,Omen,1.34,306,21,11,4,+10,78%,223,44%,2,3,-1,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Ash,25017,Gen.G,map,Sova,1.30,207,14,8,2,+6,83%,152,29%,1,0,+1,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,t3xture,9196,Gen.G,map,Neon,1.29,261,16,10,7,+6,78%,185,26%,5,0,+5,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Munchkin,2489,Gen.G,map,Viper,1.00,176,11,9,6,+2,83%,126,30%,1,2,-1,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Verno,21668,MIBR,map,Sova,1.37,259,16,14,3,+2,50%,156,22%,0,1,-1,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,cortezia,5395,MIBR,map,Cypher,0.65,154,9,17,4,-8,44%,111,24%,2,3,-1,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,xenom,20240,MIBR,map,Omen,0.54,125,7,17,2,-10,56%,89,35%,3,1,+2,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,aspas,8480,MIBR,map,Neon,0.51,120,7,16,4,-9,50%,79,17%,0,3,-3,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,artzin,5957,MIBR,map,Breach,0.41,108,7,16,3,-9,56%,68,35%,1,4,-3,Sunset,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,t3xture,9196,Gen.G,map,Neon,1.73,340,19,7,2,+12,79%,210,32%,5,0,+5,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Ash,25017,Gen.G,map,Sova,1.60,226,12,4,3,+8,93%,153,36%,2,0,+2,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Karon,34974,Gen.G,map,Omen,1.58,245,13,5,6,+8,100%,165,35%,1,0,+1,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Munchkin,2489,Gen.G,map,Viper,1.50,238,12,4,4,+8,100%,152,28%,3,1,+2,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Foxy9,11600,Gen.G,map,Killjoy,1.15,192,11,6,2,+5,79%,140,24%,0,2,-2,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,Verno,21668,MIBR,map,Sova,0.58,148,5,13,3,-8,64%,108,44%,0,1,-1,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,cortezia,5395,MIBR,map,Cypher,0.49,167,8,14,1,-6,57%,102,50%,1,0,+1,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,xenom,20240,MIBR,map,Omen,0.46,103,5,13,1,-8,43%,75,56%,0,2,-2,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,aspas,8480,MIBR,map,Jett,0.43,93,5,13,1,-8,57%,63,45%,2,6,-4,Haven,Gen.G
+490306,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 1",2025-06-08 14:45:00,Gen.G,MIBR,2 - 0,artzin,5957,MIBR,map,Breach,0.14,52,3,14,1,-11,57%,34,22%,0,2,-2,Haven,Gen.G
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Jett, Neon, Raze",1.03,250,53,47,6,+6,58%,149,25%,11,12,-1,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Harbor, Omen",1.03,213,47,45,16,+2,69%,134,25%,10,6,+4,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Killjoy, Cypher, Vyse",0.90,140,34,35,6,-1,71%,95,25%,1,6,-5,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Viper, Kayo",0.89,176,37,41,21,-4,71%,113,25%,5,6,-1,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Sova, Fade",0.66,131,27,42,12,-15,68%,91,28%,1,4,-3,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,zekken,4004,Sentinels,overall,"Omen, Neon, Raze",1.32,264,56,38,13,+18,77%,162,30%,15,5,+10,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Zellsis,729,Sentinels,overall,"Killjoy, Cypher, Vyse",1.16,203,45,38,17,+7,74%,130,18%,5,3,+2,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,johnqt,1265,Sentinels,overall,"Kayo, Breach, Viper",1.03,174,37,39,24,-2,79%,115,24%,6,4,+2,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,bang,3880,Sentinels,overall,"Viper, Omen",0.88,150,34,38,20,-4,69%,98,36%,4,7,-3,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,N4RRATE,36245,Sentinels,overall,"Gekko, Fade",0.84,169,37,45,13,-8,68%,111,24%,4,9,-5,,
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Harbor,1.48,277,23,13,7,+10,86%,178,31%,1,2,-1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Jett,1.39,299,24,15,2,+9,73%,171,29%,6,4,+2,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Viper,1.26,218,17,12,9,+5,77%,136,31%,3,4,-1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Killjoy,1.08,154,14,11,2,+3,82%,103,21%,0,1,-1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,0.64,116,9,13,5,-4,73%,84,39%,0,1,-1,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Zellsis,729,Sentinels,map,Killjoy,0.95,188,13,15,5,-2,73%,138,13%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,zekken,4004,Sentinels,map,Omen,0.88,185,13,17,5,-4,73%,128,43%,4,0,+4,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,johnqt,1265,Sentinels,map,Kayo,0.88,178,13,18,7,-5,59%,126,18%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,bang,3880,Sentinels,map,Viper,0.75,164,13,18,5,-5,55%,106,25%,2,2,0,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Gekko,0.54,147,12,19,2,-7,59%,93,27%,2,4,-2,Icebox,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming)
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Neon,0.98,272,16,15,2,+1,56%,164,35%,2,2,0,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,0.89,190,12,14,5,-2,61%,112,23%,4,2,+2,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Cypher,0.66,95,7,12,2,-5,44%,65,27%,1,2,-1,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Kayo,0.52,167,9,17,9,-8,50%,102,22%,1,2,-1,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,0.42,104,4,14,4,-10,50%,77,22%,1,1,0,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,zekken,4004,Sentinels,map,Neon,1.70,298,20,8,2,+12,67%,176,40%,3,3,0,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,johnqt,1265,Sentinels,map,Breach,1.32,212,14,10,7,+4,89%,141,36%,3,0,+3,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Zellsis,729,Sentinels,map,Cypher,1.22,243,16,12,7,+4,78%,139,19%,1,0,+1,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,bang,3880,Sentinels,map,Omen,1.16,166,12,8,7,+4,72%,107,50%,1,2,-1,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Fade,1.00,172,10,10,5,0,72%,119,18%,1,4,-3,Sunset,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Vyse,0.92,171,13,12,2,+1,82%,111,29%,0,3,-3,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Fade,0.88,172,14,15,3,-1,77%,110,26%,0,2,-2,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Viper,0.82,143,11,12,3,-1,82%,98,21%,1,0,+1,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Raze,0.72,178,13,17,2,-4,45%,115,7%,3,6,-3,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,0.70,171,12,18,4,-6,59%,108,21%,5,2,+3,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,zekken,4004,Sentinels,map,Raze,1.46,310,23,13,6,+10,91%,186,19%,8,2,+6,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,Zellsis,729,Sentinels,map,Vyse,1.30,179,16,11,5,+5,73%,116,22%,2,1,+1,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Fade,1.02,189,15,16,6,-1,73%,122,29%,1,1,0,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,johnqt,1265,Sentinels,map,Viper,0.96,131,10,11,10,-1,91%,82,21%,1,2,-1,Lotus,Sentinels
+490311,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Sentinels,1 - 2,bang,3880,Sentinels,map,Omen,0.77,119,9,12,8,-3,82%,84,37%,1,3,-2,Lotus,Sentinels
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Jinggg,7378,Paper Rex,overall,"Raze, Omen",0.94,208,28,32,9,-4,60%,135,14%,6,5,+1,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,PatMen,13744,Paper Rex,overall,"Fade, Viper",0.88,175,26,31,10,-5,70%,104,28%,2,3,-1,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,f0rsakeN,9801,Paper Rex,overall,"Omen, Sova",0.87,183,27,34,11,-7,68%,129,29%,4,3,+1,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,d4v41,9803,Paper Rex,overall,"Viper, Killjoy",0.83,143,21,30,11,-9,60%,103,27%,0,2,-2,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,something,17086,Paper Rex,overall,"Gekko, Jett",0.56,159,22,34,6,-12,58%,105,32%,5,10,-5,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,t3xture,9196,Gen.G,overall,Jett,1.39,296,45,25,3,+20,80%,189,30%,12,8,+4,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Foxy9,11600,Gen.G,overall,Killjoy,1.26,234,34,24,10,+10,83%,144,26%,5,3,+2,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Munchkin,2489,Gen.G,overall,"Kayo, Viper",1.12,251,33,29,23,+4,73%,141,17%,2,1,+1,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Karon,34974,Gen.G,overall,Omen,1.07,174,29,24,12,+5,75%,123,26%,3,5,-2,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Ash,25017,Gen.G,overall,Sova,1.03,141,20,22,18,-2,83%,98,33%,1,0,+1,,
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Jinggg,7378,Paper Rex,map,Raze,1.15,243,19,18,8,+1,71%,151,12%,6,1,+5,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,f0rsakeN,9801,Paper Rex,map,Omen,1.11,264,22,20,7,+2,75%,167,32%,3,2,+1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,d4v41,9803,Paper Rex,map,Viper,0.98,200,17,18,8,-1,75%,130,31%,0,1,-1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,PatMen,13744,Paper Rex,map,Fade,0.73,144,14,18,9,-4,75%,92,33%,1,2,-1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,something,17086,Paper Rex,map,Gekko,0.51,145,13,20,4,-7,67%,91,33%,2,6,-4,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,t3xture,9196,Gen.G,map,Jett,1.32,313,27,19,2,+8,79%,203,33%,6,5,+1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Karon,34974,Gen.G,map,Omen,1.28,258,24,17,11,+7,79%,167,26%,2,3,-1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Foxy9,11600,Gen.G,map,Killjoy,1.26,203,18,14,4,+4,79%,136,28%,2,3,-1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Ash,25017,Gen.G,map,Sova,0.94,134,11,16,14,-5,79%,92,30%,1,0,+1,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Munchkin,2489,Gen.G,map,Kayo,0.91,191,14,19,19,-5,71%,108,9%,1,1,0,Ascent,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,PatMen,13744,Paper Rex,map,Viper,1.12,206,12,13,1,-1,63%,123,24%,1,1,0,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,something,17086,Paper Rex,map,Jett,0.63,172,9,14,2,-5,44%,125,30%,3,4,-1,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,d4v41,9803,Paper Rex,map,Killjoy,0.61,86,4,12,3,-8,38%,62,18%,0,1,-1,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Jinggg,7378,Paper Rex,map,Omen,0.61,173,9,14,1,-5,44%,111,19%,0,4,-4,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,f0rsakeN,9801,Paper Rex,map,Sova,0.52,101,5,14,4,-9,56%,71,19%,1,1,0,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,t3xture,9196,Gen.G,map,Jett,1.50,278,18,6,1,+12,81%,168,23%,6,3,+3,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Munchkin,2489,Gen.G,map,Viper,1.44,310,19,10,4,+9,75%,191,32%,1,0,+1,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Foxy9,11600,Gen.G,map,Killjoy,1.24,264,16,10,6,+6,88%,155,24%,3,0,+3,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Ash,25017,Gen.G,map,Sova,1.16,147,9,6,4,+3,88%,109,37%,0,0,0,Icebox,Gen.G
+490310,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-06-09 15:30:00,Paper Rex,Gen.G,0 - 2,Karon,34974,Gen.G,map,Omen,0.76,90,5,7,1,-2,69%,58,23%,1,2,-1,Icebox,Gen.G
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,RieNs,10971,Team Heretics,overall,"Sova, Viper",1.00,208,31,31,14,0,69%,137,26%,5,5,0,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,MiniBoo,18350,Team Heretics,overall,"Yoru, Raze",1.00,217,36,33,3,+3,71%,125,26%,8,3,+5,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Boo,1144,Team Heretics,overall,"Astra, Omen",0.99,174,27,27,21,0,67%,102,41%,2,3,-1,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Wo0t,21328,Team Heretics,overall,"Jett, Fade",0.95,188,28,32,16,-4,71%,124,26%,6,8,-2,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,benjyfishy,29873,Team Heretics,overall,"Cypher, Killjoy",0.79,171,27,31,6,-4,62%,111,26%,3,2,+1,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,overall,"Astra, Viper",1.40,260,44,29,11,+15,71%,157,31%,9,4,+5,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,overall,"Yoru, Raze",1.33,242,40,29,9,+11,64%,157,29%,4,9,-5,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,overall,"Chamber, Killjoy",0.99,198,31,30,7,+1,62%,129,30%,6,5,+1,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,overall,"Vyse, Omen",0.91,164,24,29,27,-5,64%,101,22%,2,3,-1,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,overall,Fade,0.57,104,15,32,15,-17,71%,68,33%,0,3,-3,,
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Boo,1144,Team Heretics,map,Astra,1.08,158,13,12,16,+1,65%,85,43%,1,1,0,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,RieNs,10971,Team Heretics,map,Sova,1.01,205,14,15,7,-1,65%,148,25%,3,1,+2,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,MiniBoo,18350,Team Heretics,map,Yoru,0.95,210,17,16,2,+1,70%,123,39%,2,1,+1,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Wo0t,21328,Team Heretics,map,Jett,0.92,206,17,17,2,0,70%,133,22%,6,5,+1,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,benjyfishy,29873,Team Heretics,map,Cypher,0.67,141,12,16,4,-4,57%,86,21%,1,2,-1,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Astra,1.57,270,24,14,6,+10,83%,161,30%,5,0,+5,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Yoru,1.37,258,21,15,4,+6,57%,161,40%,2,4,-2,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Fade,0.86,131,10,14,9,-4,70%,76,42%,0,2,-2,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Vyse,0.83,137,10,14,12,-4,57%,92,27%,1,2,-1,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Chamber,0.64,128,11,16,2,-5,52%,85,37%,2,5,-3,Pearl,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,MiniBoo,18350,Team Heretics,map,Raze,1.04,223,19,17,1,+2,73%,126,15%,6,2,+4,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,RieNs,10971,Team Heretics,map,Viper,0.99,210,17,16,7,+1,73%,124,26%,2,4,-2,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Wo0t,21328,Team Heretics,map,Fade,0.98,169,11,15,14,-4,73%,114,30%,0,3,-3,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,benjyfishy,29873,Team Heretics,map,Killjoy,0.91,200,15,15,2,0,68%,138,32%,2,0,+2,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Boo,1144,Team Heretics,map,Omen,0.90,189,14,15,5,-1,68%,119,40%,1,2,-1,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Killjoy,1.36,267,20,14,5,+6,73%,176,28%,4,0,+4,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Raze,1.29,226,19,14,5,+5,73%,152,22%,2,5,-3,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Viper,1.23,250,20,15,5,+5,59%,154,32%,4,4,0,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Omen,0.99,191,14,15,15,-1,73%,110,18%,1,1,0,Lotus,Wolves Esports
+490312,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 12:00:00,Team Heretics,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Fade,0.26,76,5,18,6,-13,73%,58,22%,0,1,-1,Lotus,Wolves Esports
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Keiko,11494,Team Liquid,overall,"Harbor, Omen",1.33,201,31,20,9,+11,72%,130,51%,2,2,0,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,nAts,457,Team Liquid,overall,Viper,1.18,240,33,27,12,+6,77%,162,29%,5,2,+3,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,penny,7716,Team Liquid,overall,Jett,1.12,198,15,12,3,+3,84%,124,20%,6,0,+6,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Serial,18162,Team Liquid,overall,Cypher,1.02,176,14,10,0,+4,80%,107,29%,2,2,0,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,kamo,14681,Team Liquid,overall,"Chamber, Neon",1.01,199,28,26,8,+2,79%,132,29%,7,5,+2,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,paTiTek,309,Team Liquid,overall,Sova,0.91,185,25,29,12,-4,69%,129,31%,4,2,+2,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Verno,21668,MIBR,overall,Sova,1.31,258,35,28,15,+7,82%,176,27%,3,1,+2,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,xenom,20240,MIBR,overall,"Viper, Omen",0.88,183,27,30,8,-3,74%,118,33%,1,7,-6,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,cortezia,5395,MIBR,overall,"Killjoy, Cypher",0.78,168,22,28,7,-6,67%,122,33%,4,7,-3,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,artzin,5957,MIBR,overall,"Harbor, Gekko",0.69,163,21,30,14,-9,74%,113,24%,2,5,-3,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,aspas,8480,MIBR,overall,"Jett, Raze",0.58,153,19,30,7,-11,64%,103,14%,3,6,-3,,
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Keiko,11494,Team Liquid,map,Harbor,1.27,193,14,10,3,+4,63%,122,44%,1,1,0,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,nAts,457,Team Liquid,map,Viper,1.16,242,15,13,5,+2,79%,158,25%,4,1,+3,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,penny,7716,Team Liquid,map,Jett,1.12,198,15,12,3,+3,84%,124,20%,6,0,+6,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,paTiTek,309,Team Liquid,map,Sova,0.95,187,13,13,2,0,63%,126,31%,1,2,-1,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,kamo,14681,Team Liquid,map,Chamber,0.82,154,11,11,2,0,74%,105,36%,1,2,-1,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Verno,21668,MIBR,map,Sova,1.26,231,16,12,6,+4,74%,155,21%,3,0,+3,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,artzin,5957,MIBR,map,Harbor,1.00,183,12,13,8,-1,79%,125,27%,0,3,-3,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,xenom,20240,MIBR,map,Viper,0.87,169,12,14,4,-2,74%,125,37%,0,2,-2,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,cortezia,5395,MIBR,map,Killjoy,0.63,156,10,14,2,-4,68%,101,23%,2,4,-2,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,aspas,8480,MIBR,map,Jett,0.53,158,9,15,4,-6,53%,105,14%,1,4,-3,Icebox,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Keiko,11494,Team Liquid,map,Omen,1.39,208,17,10,6,+7,80%,138,57%,1,1,0,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,kamo,14681,Team Liquid,map,Neon,1.20,243,17,15,6,+2,85%,159,26%,6,3,+3,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,nAts,457,Team Liquid,map,Viper,1.19,238,18,14,7,+4,75%,166,32%,1,1,0,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Serial,18162,Team Liquid,map,Cypher,1.02,176,14,10,0,+4,80%,107,29%,2,2,0,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,paTiTek,309,Team Liquid,map,Sova,0.87,183,12,16,10,-4,75%,131,30%,3,0,+3,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,Verno,21668,MIBR,map,Sova,1.35,284,19,16,9,+3,90%,196,33%,0,1,-1,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,cortezia,5395,MIBR,map,Cypher,0.92,179,12,14,5,-2,65%,141,43%,2,3,-1,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,xenom,20240,MIBR,map,Omen,0.88,196,15,16,4,-1,75%,111,30%,1,5,-4,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,aspas,8480,MIBR,map,Raze,0.62,148,10,15,3,-5,75%,100,16%,2,2,0,Sunset,Team Liquid
+490313,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-06-10 14:30:00,Team Liquid,MIBR,2 - 0,artzin,5957,MIBR,map,Gekko,0.40,143,9,17,6,-8,70%,102,19%,2,2,0,Sunset,Team Liquid
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Raze, Neon",1.21,267,38,31,8,+7,78%,161,27%,8,4,+4,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Viper, Killjoy",0.85,155,21,27,7,-6,59%,108,17%,0,5,-5,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Skye, Kayo",0.76,146,19,31,22,-12,63%,96,19%,2,2,0,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,"Cypher, Sova",0.73,159,23,29,11,-6,63%,104,23%,5,9,-4,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),overall,Omen,0.70,140,21,33,19,-12,66%,87,24%,1,5,-4,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Spring,14125,Wolves Esports,overall,"Viper, Omen",1.32,264,38,27,17,+11,76%,170,31%,7,5,+2,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,overall,"Omen, Deadlock",1.15,187,27,22,13,+5,80%,124,20%,4,0,+4,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,overall,"Fade, Sova",1.10,191,26,22,14,+4,85%,123,25%,2,0,+2,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,overall,Cypher,1.09,192,27,22,18,+5,83%,120,26%,5,3,+2,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,overall,"Raze, Yoru",0.94,226,33,30,8,+3,73%,143,21%,7,8,-1,,
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Raze,1.06,250,19,17,7,+2,74%,154,22%,5,3,+2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Viper,0.99,148,13,12,1,+1,61%,102,20%,0,2,-2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Skye,0.87,160,12,16,12,-4,70%,103,19%,2,0,+2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,0.79,159,14,17,11,-3,65%,95,21%,1,3,-2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Cypher,0.75,149,11,15,6,-4,65%,101,17%,3,4,-1,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Viper,1.28,270,21,16,5,+5,78%,172,25%,5,3,+2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Omen,1.13,178,14,13,7,+1,87%,122,21%,2,0,+2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Raze,1.09,270,21,17,5,+4,78%,171,20%,3,5,-2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,0.95,147,12,12,9,0,83%,103,24%,1,3,-2,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Fade,0.86,127,9,12,6,-3,78%,90,16%,1,0,+1,Split,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,whzy,4885,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Neon,1.40,283,19,14,1,+5,83%,172,33%,3,1,+2,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Knight,4774,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Sova,0.71,168,12,14,5,-2,61%,108,36%,2,5,-3,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Levius,40845,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Killjoy,0.66,161,8,15,6,-7,56%,117,14%,0,3,-3,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,nephh,10698,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Kayo,0.63,132,7,15,10,-8,56%,87,18%,0,2,-2,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,rushia,48878,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),map,Omen,0.57,121,7,16,8,-9,67%,77,28%,0,2,-2,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Sova,1.41,254,17,10,8,+7,94%,165,32%,1,0,+1,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Omen,1.38,258,17,11,12,+6,72%,168,39%,2,2,0,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,1.26,236,15,10,9,+5,83%,141,30%,4,0,+4,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Deadlock,1.17,195,13,9,6,+4,72%,127,19%,2,0,+2,Ascent,Wolves Esports
+490315,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 12:00:00,Guangzhou Huadu Bilibili Gaming(Bilibili Gaming),Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Yoru,0.76,182,12,13,3,-1,67%,108,23%,4,3,+1,Ascent,Wolves Esports
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Jinggg,7378,Paper Rex,overall,Raze,1.16,258,66,52,13,+14,75%,172,22%,11,12,-1,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,f0rsakeN,9801,Paper Rex,overall,Omen,1.12,202,52,47,30,+5,74%,129,24%,7,5,+2,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,PatMen,13744,Paper Rex,overall,"Fade, Viper",1.02,208,52,50,27,+2,75%,138,42%,9,6,+3,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,d4v41,9803,Paper Rex,overall,"Viper, Sage, Vyse",0.99,177,47,45,18,+2,75%,121,27%,4,3,+1,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,something,17086,Paper Rex,overall,"Yoru, Sova",0.97,160,43,45,14,-2,74%,118,29%,3,12,-9,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Keiko,11494,Team Liquid,overall,"Raze, Omen",1.06,215,56,51,9,+5,72%,139,42%,7,3,+4,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,paTiTek,309,Team Liquid,overall,"Fade, Sova",1.05,198,51,49,13,+2,78%,128,33%,10,6,+4,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,kamo,14681,Team Liquid,overall,"Yoru, Neon, Waylay",0.97,223,57,55,8,+2,67%,151,36%,13,13,0,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,penny,7716,Team Liquid,overall,Raze,0.83,196,17,20,6,-3,69%,128,10%,2,4,-2,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Serial,18162,Team Liquid,overall,"Astra, Cypher",0.72,117,20,31,10,-11,72%,74,45%,2,4,-2,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,nAts,457,Team Liquid,overall,"Viper, Cypher",0.72,150,38,54,10,-16,72%,99,28%,4,4,0,,
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,something,17086,Paper Rex,map,Yoru,1.05,211,20,19,6,+1,68%,146,18%,3,9,-6,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Jinggg,7378,Paper Rex,map,Raze,1.03,241,23,22,5,+1,71%,166,19%,2,4,-2,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,f0rsakeN,9801,Paper Rex,map,Omen,1.01,189,20,21,8,-1,68%,122,35%,0,2,-2,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,PatMen,13744,Paper Rex,map,Fade,0.82,172,17,21,7,-4,68%,109,42%,2,2,0,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,d4v41,9803,Paper Rex,map,Viper,0.64,144,13,22,6,-9,68%,103,31%,2,2,0,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Raze,1.41,293,29,19,2,+10,82%,185,43%,4,0,+4,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Fade,1.16,220,23,17,3,+6,86%,140,42%,7,1,+6,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Yoru,1.14,238,24,19,3,+5,79%,155,41%,5,4,+1,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,nAts,457,Team Liquid,map,Viper,0.76,165,17,20,3,-3,71%,99,32%,2,1,+1,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Serial,18162,Team Liquid,map,Astra,0.71,111,12,18,6,-6,79%,71,45%,1,3,-2,Split,Team Liquid
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Jinggg,7378,Paper Rex,map,Raze,1.33,253,17,10,3,+7,78%,159,34%,5,3,+2,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,PatMen,13744,Paper Rex,map,Viper,1.24,231,14,10,7,+4,72%,159,48%,3,1,+2,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,d4v41,9803,Paper Rex,map,Sage,1.22,179,14,9,5,+5,78%,122,21%,1,0,+1,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,f0rsakeN,9801,Paper Rex,map,Omen,1.20,203,13,10,7,+3,78%,130,39%,3,1,+2,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,something,17086,Paper Rex,map,Sova,1.07,125,9,8,1,+1,83%,97,42%,0,1,-1,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Sova,0.85,208,12,15,3,-3,67%,136,29%,2,3,-1,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,nAts,457,Team Liquid,map,Viper,0.76,139,8,12,3,-4,78%,91,26%,1,1,0,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Serial,18162,Team Liquid,map,Cypher,0.73,122,8,13,4,-5,61%,78,44%,1,1,0,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Omen,0.72,173,11,13,2,-2,50%,109,55%,1,2,-1,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Neon,0.49,157,8,14,3,-6,56%,126,26%,1,5,-4,Sunset,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,d4v41,9803,Paper Rex,map,Vyse,1.19,209,20,14,7,+6,81%,139,28%,1,1,0,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,f0rsakeN,9801,Paper Rex,map,Omen,1.19,214,19,16,15,+3,77%,135,12%,4,2,+2,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Jinggg,7378,Paper Rex,map,Raze,1.17,279,26,20,5,+6,77%,188,21%,4,5,-1,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,PatMen,13744,Paper Rex,map,Fade,1.08,222,21,19,13,+2,85%,154,38%,4,3,+1,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,something,17086,Paper Rex,map,Yoru,0.81,143,14,18,7,-4,73%,104,44%,0,2,-2,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,kamo,14681,Team Liquid,map,Waylay,1.14,273,25,22,2,+3,62%,165,38%,7,4,+3,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,paTiTek,309,Team Liquid,map,Fade,1.06,165,16,17,7,-1,77%,110,27%,1,2,-1,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,Keiko,11494,Team Liquid,map,Omen,0.92,178,16,19,5,-3,77%,112,33%,2,1,+1,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,penny,7716,Team Liquid,map,Raze,0.83,196,17,20,6,-3,69%,128,10%,2,4,-2,Lotus,Paper Rex
+490314,Valorant Masters Toronto 2025,"Swiss Stage: 
+						Round 3 (1-1)",2025-06-11 14:30:00,Paper Rex,Team Liquid,2 - 1,nAts,457,Team Liquid,map,Cypher,0.66,146,13,22,4,-9,69%,105,26%,1,2,-1,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,trent,15500,G2 Esports,overall,"Fade, Sova",1.28,230,39,28,11,+11,83%,151,29%,5,4,+1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,jawgemo,3993,G2 Esports,overall,"Yoru, Neon",1.03,225,36,35,9,+1,66%,160,25%,8,7,+1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,valyn,3885,G2 Esports,overall,Omen,0.95,191,31,36,15,-5,79%,119,21%,3,2,+1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,leaf,7873,G2 Esports,overall,Viper,0.81,193,29,35,15,-6,66%,123,22%,5,5,0,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,JonahP,4581,G2 Esports,overall,Breach,0.81,154,24,32,19,-8,77%,97,29%,2,6,-4,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,PatMen,13744,Paper Rex,overall,Fade,1.14,205,34,29,20,+5,79%,134,30%,2,3,-1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,overall,Omen,1.07,195,28,32,24,-4,74%,128,23%,4,5,-1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,overall,Raze,1.03,213,34,32,14,+2,74%,146,20%,3,7,-4,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,something,17086,Paper Rex,overall,Yoru,1.02,220,37,33,8,+4,79%,138,28%,10,4,+6,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,d4v41,9803,Paper Rex,overall,"Viper, Vyse",0.96,185,33,33,7,0,64%,123,26%,5,4,+1,,
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.11,237,18,16,5,+2,78%,167,18%,2,3,-1,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,trent,15500,G2 Esports,map,Fade,1.10,196,17,15,5,+2,83%,123,26%,2,3,-1,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.08,196,15,16,8,-1,87%,132,40%,1,3,-2,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,leaf,7873,G2 Esports,map,Viper,0.84,200,15,18,8,-3,65%,129,18%,4,2,+2,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,valyn,3885,G2 Esports,map,Omen,0.83,183,16,19,8,-3,83%,105,13%,2,1,+1,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Fade,1.31,249,21,14,7,+7,87%,145,27%,2,2,0,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Omen,1.07,205,14,17,13,-3,74%,132,24%,3,0,+3,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,something,17086,Paper Rex,map,Yoru,0.90,194,18,16,0,+2,78%,130,24%,3,1,+2,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Raze,0.88,194,14,17,10,-3,87%,145,24%,2,4,-2,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Viper,0.86,197,17,17,2,0,57%,135,27%,2,4,-2,Split,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,trent,15500,G2 Esports,map,Sova,1.45,263,22,13,6,+9,83%,178,31%,3,1,+2,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,valyn,3885,G2 Esports,map,Omen,1.06,198,15,17,7,-2,75%,133,30%,1,1,0,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,jawgemo,3993,G2 Esports,map,Neon,0.96,213,18,19,4,-1,54%,153,37%,6,4,+2,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,leaf,7873,G2 Esports,map,Viper,0.79,185,14,17,7,-3,67%,117,27%,1,3,-2,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,JonahP,4581,G2 Esports,map,Breach,0.56,112,9,16,11,-7,67%,64,15%,1,3,-2,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Raze,1.18,231,20,15,4,+5,63%,147,18%,1,3,-2,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,something,17086,Paper Rex,map,Yoru,1.14,246,19,17,8,+2,79%,146,33%,7,3,+4,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Omen,1.07,185,14,15,11,-1,75%,123,23%,1,5,-4,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Vyse,1.05,172,16,16,5,0,71%,113,26%,3,0,+3,Lotus,Paper Rex
+498622,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 12:00:00,G2 Esports,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Fade,0.96,161,13,15,13,-2,71%,122,33%,0,1,-1,Lotus,Paper Rex
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,happywei,37927,Xi Lai Gaming,overall,Cypher,1.08,238,29,32,7,-3,66%,157,42%,7,3,+4,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Rarga,22047,Xi Lai Gaming,overall,Neon,0.86,190,27,30,6,-3,66%,120,38%,6,9,-3,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,coconut,12365,Xi Lai Gaming,overall,Omen,0.70,142,20,30,10,-10,68%,89,29%,1,5,-4,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Viva,36415,Xi Lai Gaming,overall,Sova,0.61,151,17,34,11,-17,53%,110,26%,2,2,0,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Midi,37017,Xi Lai Gaming,overall,Breach,0.48,134,17,32,9,-15,66%,84,28%,2,1,+1,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,zekken,4004,Sentinels,overall,"Neon, Raze",1.54,301,41,20,9,+21,84%,192,26%,8,9,-1,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,johnqt,1265,Sentinels,overall,"Breach, Viper",1.44,244,34,20,20,+14,89%,158,29%,2,0,+2,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,N4RRATE,36245,Sentinels,overall,Fade,1.14,231,29,23,16,+6,92%,149,19%,2,2,0,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,bang,3880,Sentinels,overall,Omen,1.10,199,30,24,15,+6,89%,104,33%,4,2,+2,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Zellsis,729,Sentinels,overall,"Cypher, Vyse",1.00,179,24,23,11,+1,71%,120,21%,4,5,-1,,
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,happywei,37927,Xi Lai Gaming,map,Cypher,1.23,297,18,17,3,+1,68%,189,43%,5,1,+4,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Rarga,22047,Xi Lai Gaming,map,Neon,1.13,215,15,13,4,+2,68%,134,52%,2,5,-3,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,coconut,12365,Xi Lai Gaming,map,Omen,0.67,128,8,15,4,-7,68%,90,19%,0,2,-2,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Midi,37017,Xi Lai Gaming,map,Breach,0.46,119,8,16,6,-8,63%,71,20%,0,0,0,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Viva,36415,Xi Lai Gaming,map,Sova,0.27,107,6,18,2,-12,37%,74,25%,2,2,0,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,zekken,4004,Sentinels,map,Neon,1.95,401,27,10,6,+17,89%,259,34%,5,4,+1,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,johnqt,1265,Sentinels,map,Breach,1.43,249,18,10,10,+8,89%,149,24%,1,0,+1,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,N4RRATE,36245,Sentinels,map,Fade,1.23,222,14,10,6,+4,89%,145,16%,2,1,+1,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,bang,3880,Sentinels,map,Omen,0.79,158,12,13,6,-1,84%,93,36%,2,2,0,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Zellsis,729,Sentinels,map,Cypher,0.75,116,8,12,3,-4,63%,93,13%,0,2,-2,Sunset,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Viva,36415,Xi Lai Gaming,map,Sova,0.95,194,11,16,9,-5,68%,146,27%,0,0,0,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,happywei,37927,Xi Lai Gaming,map,Cypher,0.93,179,11,15,4,-4,63%,125,40%,2,2,0,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,coconut,12365,Xi Lai Gaming,map,Omen,0.74,155,12,15,6,-3,68%,88,45%,1,3,-2,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Rarga,22047,Xi Lai Gaming,map,Neon,0.59,165,12,17,2,-5,63%,105,28%,4,4,0,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Midi,37017,Xi Lai Gaming,map,Breach,0.50,149,9,16,3,-7,68%,97,34%,2,1,+1,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,johnqt,1265,Sentinels,map,Viper,1.46,239,16,10,10,+6,89%,166,36%,1,0,+1,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,bang,3880,Sentinels,map,Omen,1.42,239,18,11,9,+7,95%,114,31%,2,0,+2,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,Zellsis,729,Sentinels,map,Vyse,1.25,241,16,11,8,+5,79%,147,30%,4,3,+1,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,zekken,4004,Sentinels,map,Raze,1.13,200,14,10,3,+4,79%,125,13%,3,5,-2,Lotus,Sentinels
+498621,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-13 14:25:00,Xi Lai Gaming,Sentinels,0 - 2,N4RRATE,36245,Sentinels,map,Fade,1.05,240,15,13,10,+2,95%,153,23%,0,1,-1,Lotus,Sentinels
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Monyet,8497,Rex Regum Qeon,overall,"Omen, Viper",1.11,214,32,30,18,+2,76%,134,27%,3,3,0,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Kushy,4866,Rex Regum Qeon,overall,Sova,1.05,190,33,31,8,+2,80%,126,42%,0,1,-1,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Jemkin,24895,Rex Regum Qeon,overall,Jett,1.03,241,35,34,11,+1,76%,166,28%,10,9,+1,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,xffero,4871,Rex Regum Qeon,overall,"Cypher, Killjoy",0.85,174,29,33,10,-4,69%,121,32%,1,3,-2,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,crazyguy,1430,Rex Regum Qeon,overall,"Kayo, Omen",0.62,129,19,32,16,-13,69%,81,22%,5,10,-5,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,overall,"Yoru, Jett",1.24,268,40,31,12,+9,71%,179,27%,12,5,+7,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,overall,"Omen, Viper",1.10,222,35,30,15,+5,76%,149,24%,5,2,+3,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,overall,"Deadlock, Killjoy",0.97,189,31,31,13,0,78%,129,28%,1,1,0,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,overall,Sova,0.96,154,25,25,7,0,69%,102,25%,3,2,+1,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,overall,"Cypher, Gekko",0.93,174,29,31,15,-2,71%,119,27%,5,9,-4,,
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Kushy,4866,Rex Regum Qeon,map,Sova,1.33,251,23,16,5,+7,88%,159,43%,0,0,0,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Monyet,8497,Rex Regum Qeon,map,Omen,1.01,200,15,17,11,-2,75%,132,27%,3,2,+1,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Jemkin,24895,Rex Regum Qeon,map,Jett,0.97,202,16,17,5,-1,75%,141,37%,5,5,0,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,crazyguy,1430,Rex Regum Qeon,map,Kayo,0.76,137,10,15,12,-5,75%,89,13%,2,3,-1,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,xffero,4871,Rex Regum Qeon,map,Cypher,0.73,170,15,19,5,-4,67%,113,41%,1,3,-2,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Omen,1.20,225,18,13,11,+5,88%,148,19%,3,2,+1,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Sova,1.14,193,17,13,3,+4,71%,120,22%,3,1,+2,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,1.02,200,19,18,6,+1,71%,128,31%,2,4,-2,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Yoru,1.00,233,17,17,8,0,67%,170,26%,4,3,+1,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Deadlock,0.66,146,13,18,8,-5,83%,93,32%,1,1,0,Ascent,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Monyet,8497,Rex Regum Qeon,map,Viper,1.22,227,17,13,7,+4,76%,136,27%,0,1,-1,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Jemkin,24895,Rex Regum Qeon,map,Jett,1.09,280,19,17,6,+2,76%,195,24%,5,4,+1,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,xffero,4871,Rex Regum Qeon,map,Killjoy,1.00,178,14,14,5,0,71%,131,26%,0,0,0,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Kushy,4866,Rex Regum Qeon,map,Sova,0.73,129,10,15,3,-5,71%,89,38%,0,1,-1,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,crazyguy,1430,Rex Regum Qeon,map,Omen,0.46,120,9,17,4,-8,62%,73,45%,3,7,-4,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Juicy,7426,Wolves Esports,map,Jett,1.51,302,23,14,4,+9,76%,190,28%,8,2,+6,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Lysoar,37489,Wolves Esports,map,Killjoy,1.32,232,18,13,5,+5,71%,171,26%,0,0,0,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Viper,0.98,219,17,17,4,0,62%,150,33%,2,0,+2,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Gekko,0.83,147,10,13,9,-3,71%,108,22%,3,5,-2,Icebox,Wolves Esports
+498623,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 12:00:00,Rex Regum Qeon,Wolves Esports,0 - 2,SiuFatBB,7849,Wolves Esports,map,Sova,0.76,115,8,12,4,-4,67%,82,29%,0,1,-1,Icebox,Wolves Esports
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,crashies,4,FNATIC,overall,"Sova, Fade",1.15,204,48,41,18,+7,75%,140,36%,4,0,+4,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,kaajak,9554,FNATIC,overall,"Yoru, Neon",1.12,219,52,48,18,+4,71%,152,37%,13,11,+2,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Alfajer,9810,FNATIC,overall,"Iso, Raze, Cypher",0.96,217,54,58,8,-4,71%,142,33%,12,6,+6,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Chronicle,458,FNATIC,overall,"Cypher, Viper",0.95,180,42,47,16,-5,58%,135,28%,6,7,-1,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Boaster,438,FNATIC,overall,"Omen, Astra",0.73,113,27,45,20,-18,65%,80,25%,2,8,-6,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,t3xture,9196,Gen.G,overall,Neon,1.23,250,60,45,18,+15,72%,150,25%,9,15,-6,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Ash,25017,Gen.G,overall,"Sova, Tejo",1.00,177,43,41,11,+2,74%,121,34%,5,2,+3,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Karon,34974,Gen.G,overall,Omen,0.97,181,46,45,25,+1,78%,120,29%,9,5,+4,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Munchkin,2489,Gen.G,overall,Viper,0.96,197,47,46,23,+1,62%,128,22%,8,8,0,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Foxy9,11600,Gen.G,overall,"Killjoy, Deadlock",0.82,167,43,46,7,-3,68%,102,40%,1,7,-6,,
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,crashies,4,FNATIC,map,Sova,1.28,240,21,16,7,+5,71%,166,40%,1,0,+1,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,kaajak,9554,FNATIC,map,Yoru,1.27,263,20,17,7,+3,67%,170,44%,6,5,+1,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Chronicle,458,FNATIC,map,Cypher,1.04,178,15,15,6,0,63%,124,27%,1,1,0,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Boaster,438,FNATIC,map,Omen,0.75,120,9,16,8,-7,67%,79,20%,1,3,-2,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Alfajer,9810,FNATIC,map,Iso,0.53,127,11,20,4,-9,63%,86,28%,2,4,-2,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.26,258,21,15,13,+6,58%,157,26%,4,3,+1,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Neon,1.16,224,20,16,7,+4,75%,139,28%,3,5,-2,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Karon,34974,Gen.G,map,Omen,1.11,218,18,16,9,+2,83%,143,26%,5,0,+5,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Ash,25017,Gen.G,map,Sova,0.88,135,13,13,2,0,79%,109,30%,1,1,0,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Foxy9,11600,Gen.G,map,Killjoy,0.74,141,12,16,1,-4,67%,98,38%,0,2,-2,Haven,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Alfajer,9810,FNATIC,map,Raze,1.33,305,28,22,4,+6,85%,196,26%,7,2,+5,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,kaajak,9554,FNATIC,map,Yoru,1.20,218,20,17,9,+3,77%,147,42%,5,2,+3,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Chronicle,458,FNATIC,map,Viper,1.08,196,17,17,8,0,65%,157,28%,1,3,-2,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,crashies,4,FNATIC,map,Fade,1.04,182,16,14,7,+2,85%,113,30%,1,0,+1,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Boaster,438,FNATIC,map,Astra,0.80,133,14,17,7,-3,62%,91,35%,1,4,-3,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Karon,34974,Gen.G,map,Omen,1.13,223,21,17,12,+4,88%,137,35%,3,1,+2,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Neon,1.01,210,19,19,7,0,69%,126,22%,3,7,-4,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Ash,25017,Gen.G,map,Tejo,0.99,212,19,19,4,0,69%,134,29%,2,1,+1,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.85,205,18,20,7,-2,58%,130,15%,3,2,+1,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Foxy9,11600,Gen.G,map,Deadlock,0.41,97,10,20,3,-10,62%,65,33%,0,4,-4,Split,FNATIC
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,crashies,4,FNATIC,map,Sova,1.13,189,11,11,4,0,68%,142,39%,2,0,+2,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Alfajer,9810,FNATIC,map,Cypher,0.98,218,15,16,0,-1,63%,139,58%,3,0,+3,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,kaajak,9554,FNATIC,map,Neon,0.82,177,12,14,2,-2,68%,135,24%,2,4,-2,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Chronicle,458,FNATIC,map,Viper,0.65,166,10,15,2,-5,42%,118,29%,4,3,+1,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Boaster,438,FNATIC,map,Omen,0.60,85,4,12,5,-8,68%,66,15%,0,1,-1,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Neon,1.61,317,21,10,4,+11,74%,196,24%,3,3,0,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Foxy9,11600,Gen.G,map,Deadlock,1.47,262,21,10,3,+11,79%,159,47%,1,1,0,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Ash,25017,Gen.G,map,Sova,1.17,184,11,9,5,+2,74%,117,48%,2,0,+2,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.72,127,8,11,3,-3,74%,90,31%,1,3,-2,Sunset,Gen.G
+498624,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Quarterfinals",2025-06-14 14:30:00,FNATIC,Gen.G,1 - 2,Karon,34974,Gen.G,map,Omen,0.58,101,7,12,4,-5,58%,69,23%,1,4,-3,Sunset,Gen.G
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,happywei,37927,Xi Lai Gaming,overall,"Killjoy, Cypher",1.05,208,28,27,6,+1,57%,136,48%,5,8,-3,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Rarga,22047,Xi Lai Gaming,overall,"Jett, Yoru",0.85,244,30,35,6,-5,62%,153,46%,9,10,-1,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Viva,36415,Xi Lai Gaming,overall,Sova,0.72,144,16,31,10,-15,65%,105,28%,2,0,+2,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Midi,37017,Xi Lai Gaming,overall,"Gekko, Breach",0.69,130,19,30,5,-11,57%,94,40%,1,1,0,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,coconut,12365,Xi Lai Gaming,overall,"Viper, Omen",0.59,115,14,30,12,-16,62%,76,23%,0,1,-1,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,overall,"Killjoy, Vyse",1.68,303,42,17,8,+25,89%,194,30%,4,1,+3,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,overall,"Sage, Yoru",1.24,269,35,23,17,+12,84%,171,25%,6,6,0,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,overall,"Sova, Fade",1.23,221,29,21,10,+8,89%,140,40%,5,1,+4,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,overall,Viper,1.01,196,27,22,10,+5,73%,121,24%,2,6,-4,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,overall,Omen,0.87,142,19,24,13,-5,81%,90,24%,3,3,0,,
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Viva,36415,Xi Lai Gaming,map,Sova,0.71,148,7,14,4,-7,56%,110,29%,0,0,0,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Rarga,22047,Xi Lai Gaming,map,Jett,0.62,201,10,16,2,-6,50%,133,43%,2,5,-3,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,happywei,37927,Xi Lai Gaming,map,Killjoy,0.58,146,8,14,1,-6,31%,99,52%,1,6,-5,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,coconut,12365,Xi Lai Gaming,map,Viper,0.52,117,7,14,3,-7,50%,78,32%,0,1,-1,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Midi,37017,Xi Lai Gaming,map,Gekko,0.39,107,5,15,1,-10,38%,75,32%,1,0,+1,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Killjoy,1.95,358,22,5,2,+17,94%,213,24%,4,0,+4,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Sova,1.68,268,16,6,4,+10,100%,179,38%,3,0,+3,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Sage,1.54,278,17,7,6,+10,88%,183,26%,3,1,+2,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Viper,1.01,210,13,10,4,+3,75%,144,24%,1,2,-1,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Omen,0.76,76,5,9,5,-4,81%,35,20%,1,1,0,Icebox,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,happywei,37927,Xi Lai Gaming,map,Cypher,1.40,270,20,13,5,+7,76%,165,47%,4,2,+2,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Rarga,22047,Xi Lai Gaming,map,Yoru,1.03,287,20,19,4,+1,71%,168,47%,7,5,+2,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Midi,37017,Xi Lai Gaming,map,Breach,0.93,153,14,15,4,-1,71%,108,45%,0,1,-1,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,Viva,36415,Xi Lai Gaming,map,Sova,0.73,139,9,17,6,-8,71%,102,26%,2,0,+2,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,coconut,12365,Xi Lai Gaming,map,Omen,0.65,113,7,16,9,-9,71%,75,18%,0,0,0,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Vyse,1.46,247,20,12,6,+8,86%,180,38%,0,1,-1,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.01,260,18,16,11,+2,81%,161,25%,3,5,-2,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Viper,1.00,181,14,12,6,+2,71%,104,23%,1,4,-3,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Omen,0.95,207,14,15,8,-1,81%,133,25%,2,2,0,Haven,G2 Esports
+498629,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 12:00:00,Xi Lai Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Fade,0.88,173,13,15,6,-2,81%,110,41%,2,1,+1,Haven,G2 Esports
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,xffero,4871,Rex Regum Qeon,overall,"Viper, Cypher",0.95,176,35,39,7,-4,62%,117,32%,6,4,+2,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Monyet,8497,Rex Regum Qeon,overall,"Omen, Neon",0.86,185,34,44,13,-10,60%,127,25%,2,10,-8,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crazyguy,1430,Rex Regum Qeon,overall,"Fade, Omen, Kayo",0.85,155,28,40,18,-12,60%,98,28%,6,4,+2,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Kushy,4866,Rex Regum Qeon,overall,"Vyse, Sova",0.74,163,29,41,14,-12,62%,104,37%,1,4,-3,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Jemkin,24895,Rex Regum Qeon,overall,"Raze, Yoru, Jett",0.70,167,34,44,3,-10,58%,115,42%,11,7,+4,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crashies,4,FNATIC,overall,"Fade, Sova",1.33,210,43,27,21,+16,85%,138,32%,0,2,-2,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Chronicle,458,FNATIC,overall,"Viper, Cypher, Vyse",1.32,218,40,27,20,+13,82%,137,28%,6,1,+5,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,kaajak,9554,FNATIC,overall,"Raze, Yoru",1.20,257,51,36,11,+15,75%,168,40%,14,7,+7,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Alfajer,9810,FNATIC,overall,"Killjoy, Iso, Chamber",1.06,231,47,38,8,+9,73%,151,29%,7,10,-3,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Boaster,438,FNATIC,overall,Omen,0.82,130,27,32,18,-5,65%,85,30%,2,6,-4,,
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Monyet,8497,Rex Regum Qeon,map,Omen,0.83,188,10,16,5,-6,67%,131,29%,1,4,-3,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crazyguy,1430,Rex Regum Qeon,map,Fade,0.81,193,11,17,4,-6,44%,119,13%,3,1,+2,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,xffero,4871,Rex Regum Qeon,map,Viper,0.69,149,9,15,3,-6,56%,103,26%,2,1,+1,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Kushy,4866,Rex Regum Qeon,map,Vyse,0.50,122,7,15,4,-8,56%,74,29%,0,3,-3,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Jemkin,24895,Rex Regum Qeon,map,Raze,0.29,99,6,16,0,-10,44%,71,21%,1,2,-1,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Viper,1.71,283,18,6,7,+12,94%,174,20%,4,0,+4,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crashies,4,FNATIC,map,Fade,1.58,201,15,6,10,+9,78%,122,26%,0,1,-1,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Raze,1.55,308,21,11,5,+10,83%,221,35%,4,1,+3,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Killjoy,1.13,212,15,10,3,+5,94%,145,32%,2,3,-1,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Boaster,438,FNATIC,map,Omen,0.91,143,10,10,8,0,83%,100,18%,1,2,-1,Lotus,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Jemkin,24895,Rex Regum Qeon,map,Yoru,1.41,261,19,11,1,+8,68%,179,56%,4,1,+3,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,xffero,4871,Rex Regum Qeon,map,Cypher,1.15,178,14,10,3,+4,68%,116,26%,1,2,-1,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crazyguy,1430,Rex Regum Qeon,map,Omen,1.14,144,10,8,9,+2,89%,99,46%,3,2,+1,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Monyet,8497,Rex Regum Qeon,map,Neon,1.13,242,16,13,6,+3,68%,164,25%,1,3,-2,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Kushy,4866,Rex Regum Qeon,map,Sova,0.77,137,9,12,5,-3,63%,90,32%,1,1,0,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crashies,4,FNATIC,map,Sova,1.24,251,17,12,4,+5,84%,168,45%,0,1,-1,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Cypher,1.11,189,12,12,5,0,68%,119,35%,2,1,+1,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Yoru,0.84,215,13,15,2,-2,58%,131,35%,6,1,+5,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Iso,0.54,131,8,15,5,-7,58%,99,32%,0,4,-4,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Boaster,438,FNATIC,map,Omen,0.41,71,4,14,5,-10,42%,38,38%,1,3,-2,Haven,Rex Regum Qeon
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,xffero,4871,Rex Regum Qeon,map,Cypher,0.98,201,12,14,1,-2,61%,132,40%,3,1,+2,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Kushy,4866,Rex Regum Qeon,map,Sova,0.95,231,13,14,5,-1,67%,148,43%,0,0,0,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Monyet,8497,Rex Regum Qeon,map,Omen,0.59,125,8,15,2,-7,44%,84,21%,0,3,-3,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crazyguy,1430,Rex Regum Qeon,map,Kayo,0.58,127,7,15,5,-8,44%,78,47%,0,1,-1,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Jemkin,24895,Rex Regum Qeon,map,Jett,0.35,142,9,17,2,-8,61%,92,42%,6,4,+2,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Chamber,1.52,349,24,13,0,+11,67%,211,26%,5,3,+2,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Yoru,1.22,248,17,10,4,+7,83%,154,53%,4,5,-1,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,crashies,4,FNATIC,map,Sova,1.17,177,11,9,7,+2,94%,124,26%,0,0,0,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Boaster,438,FNATIC,map,Omen,1.16,176,13,8,5,+5,72%,119,47%,0,1,-1,Ascent,FNATIC
+498630,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 1",2025-06-15 14:10:00,Rex Regum Qeon,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Vyse,1.16,183,10,9,8,+1,83%,118,29%,0,0,0,Ascent,FNATIC
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Spring,14125,Wolves Esports,overall,"Viper, Omen",1.33,238,37,28,19,+9,80%,159,30%,3,4,-1,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Lysoar,37489,Wolves Esports,overall,"Omen, Cypher",1.14,197,32,29,13,+3,70%,129,25%,7,0,+7,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Yuicaw,11218,Wolves Esports,overall,"Cypher, Raze",1.11,215,36,32,5,+4,67%,149,30%,6,3,+3,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,SiuFatBB,7849,Wolves Esports,overall,"Fade, Sova",1.08,170,30,25,10,+5,80%,117,31%,2,3,-1,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Juicy,7426,Wolves Esports,overall,"Raze, Yoru",0.67,142,23,33,8,-10,59%,103,26%,7,11,-4,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,t3xture,9196,Gen.G,overall,Neon,1.21,262,44,33,9,+11,78%,160,33%,12,8,+4,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Karon,34974,Gen.G,overall,Omen,1.13,193,31,28,20,+3,78%,123,28%,2,4,-2,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Ash,25017,Gen.G,overall,"Tejo, Sova",0.84,148,24,30,8,-6,70%,103,33%,2,2,0,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Munchkin,2489,Gen.G,overall,Viper,0.73,151,20,31,18,-11,72%,105,15%,1,5,-4,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Foxy9,11600,Gen.G,overall,Deadlock,0.66,157,27,36,10,-9,65%,95,30%,4,6,-2,,
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Spring,14125,Wolves Esports,map,Viper,1.45,239,19,12,6,+7,88%,163,24%,1,2,-1,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Yuicaw,11218,Wolves Esports,map,Cypher,1.26,204,18,14,2,+4,75%,143,33%,3,1,+2,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Lysoar,37489,Wolves Esports,map,Omen,1.20,221,19,15,8,+4,75%,140,26%,3,0,+3,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,SiuFatBB,7849,Wolves Esports,map,Fade,0.88,146,13,14,4,-1,83%,98,24%,1,1,0,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Juicy,7426,Wolves Esports,map,Raze,0.62,144,12,17,3,-5,50%,99,20%,3,9,-6,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Karon,34974,Gen.G,map,Omen,1.46,229,20,12,12,+8,83%,146,28%,1,2,-1,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,t3xture,9196,Gen.G,map,Neon,1.00,225,19,17,3,+2,71%,124,32%,8,4,+4,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Foxy9,11600,Gen.G,map,Deadlock,0.84,199,18,19,6,-1,67%,117,26%,3,1,+2,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Munchkin,2489,Gen.G,map,Viper,0.59,137,9,18,12,-9,75%,97,11%,0,2,-2,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Ash,25017,Gen.G,map,Tejo,0.46,64,5,15,3,-10,63%,49,14%,1,2,-1,Split,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,SiuFatBB,7849,Wolves Esports,map,Sova,1.29,193,17,11,6,+6,77%,137,37%,1,2,-1,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Spring,14125,Wolves Esports,map,Omen,1.19,237,18,16,13,+2,73%,155,37%,2,2,0,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Lysoar,37489,Wolves Esports,map,Cypher,1.07,173,13,14,5,-1,64%,116,24%,4,0,+4,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Yuicaw,11218,Wolves Esports,map,Raze,0.95,226,18,18,3,0,59%,155,26%,3,2,+1,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Juicy,7426,Wolves Esports,map,Yoru,0.72,139,11,16,5,-5,68%,108,33%,4,2,+2,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,t3xture,9196,Gen.G,map,Neon,1.44,298,25,16,6,+9,86%,200,34%,4,4,0,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Ash,25017,Gen.G,map,Sova,1.25,232,19,15,5,+4,77%,163,47%,1,0,+1,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Munchkin,2489,Gen.G,map,Viper,0.89,165,11,13,6,-2,68%,114,21%,1,3,-2,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Karon,34974,Gen.G,map,Omen,0.78,157,11,16,8,-5,73%,98,28%,1,2,-1,Sunset,Wolves Esports
+498626,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 12:00:00,Wolves Esports,Gen.G,2 - 0,Foxy9,11600,Gen.G,map,Deadlock,0.45,114,9,17,4,-8,64%,71,38%,1,5,-4,Sunset,Wolves Esports
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,N4RRATE,36245,Sentinels,overall,"Breach, Fade",1.10,228,29,32,20,-3,83%,145,26%,2,2,0,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,zekken,4004,Sentinels,overall,"Yoru, Neon",1.06,228,32,31,9,+1,65%,133,16%,10,8,+2,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,bang,3880,Sentinels,overall,Omen,1.02,221,29,30,13,-1,68%,131,34%,5,2,+3,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,johnqt,1265,Sentinels,overall,"Skye, Breach",0.71,126,18,30,13,-12,63%,96,27%,2,2,0,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Zellsis,729,Sentinels,overall,"Viper, Cypher",0.62,126,16,32,12,-16,58%,87,17%,2,5,-3,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,overall,Raze,1.21,271,39,27,4,+12,75%,179,27%,6,8,-2,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,something,17086,Paper Rex,overall,"Yoru, Sova",1.19,242,33,25,10,+8,83%,141,26%,7,2,+5,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,d4v41,9803,Paper Rex,overall,"Viper, Sage",1.11,212,32,23,6,+9,78%,141,19%,1,2,-1,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,PatMen,13744,Paper Rex,overall,"Fade, Viper",1.10,208,29,24,10,+5,75%,129,29%,3,5,-2,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,overall,Omen,0.99,169,22,25,25,-3,78%,117,27%,2,4,-2,,
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,bang,3880,Sentinels,map,Omen,1.12,240,13,13,4,0,63%,147,41%,2,2,0,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,N4RRATE,36245,Sentinels,map,Breach,1.07,230,13,15,7,-2,81%,146,29%,0,2,-2,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,zekken,4004,Sentinels,map,Yoru,0.77,209,11,15,5,-4,69%,126,17%,5,4,+1,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Zellsis,729,Sentinels,map,Viper,0.54,110,5,14,6,-9,56%,85,22%,0,1,-1,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,johnqt,1265,Sentinels,map,Skye,0.26,93,4,15,5,-11,63%,68,21%,0,0,0,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Fade,1.49,234,14,7,5,+7,94%,159,33%,0,1,-1,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Raze,1.37,257,16,9,1,+7,88%,172,36%,1,2,-1,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Omen,1.27,180,11,8,14,+3,88%,132,48%,0,2,-2,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,something,17086,Paper Rex,map,Yoru,1.20,297,17,12,2,+5,81%,167,24%,7,1,+6,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Viper,1.08,246,14,10,3,+4,81%,164,16%,1,1,0,Split,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,zekken,4004,Sentinels,map,Neon,1.25,247,21,16,4,+5,63%,138,15%,5,4,+1,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,N4RRATE,36245,Sentinels,map,Fade,1.12,226,16,17,13,-1,83%,144,24%,2,0,+2,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,johnqt,1265,Sentinels,map,Breach,1.00,159,14,15,8,-1,63%,115,30%,2,2,0,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,bang,3880,Sentinels,map,Omen,0.96,202,16,17,9,-1,71%,120,29%,3,0,+3,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Zellsis,729,Sentinels,map,Cypher,0.67,142,11,18,6,-7,58%,89,15%,2,4,-2,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,something,17086,Paper Rex,map,Sova,1.18,186,16,13,8,+3,83%,123,28%,0,1,-1,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Sage,1.13,177,18,13,3,+5,75%,125,23%,0,1,-1,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,Jinggg,7378,Paper Rex,map,Raze,1.11,285,23,18,3,+5,67%,183,22%,5,6,-1,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,PatMen,13744,Paper Rex,map,Viper,0.84,182,15,17,5,-2,63%,110,26%,3,4,-1,Sunset,Paper Rex
+498625,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Semifinals",2025-06-16 14:30:00,Sentinels,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Omen,0.80,157,11,17,11,-6,71%,108,16%,2,2,0,Sunset,Paper Rex
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,t3xture,9196,Gen.G,overall,"Raze, Neon, Jett",1.02,211,55,46,9,+9,66%,135,28%,11,12,-1,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Munchkin,2489,Gen.G,overall,Viper,1.00,229,51,51,16,0,74%,154,30%,10,9,+1,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Ash,25017,Gen.G,overall,"Fade, Sova",0.95,182,45,45,15,0,65%,122,28%,3,3,0,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Karon,34974,Gen.G,overall,Omen,0.80,148,36,48,14,-12,68%,100,32%,5,6,-1,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Foxy9,11600,Gen.G,overall,"Vyse, Killjoy",0.68,147,34,50,14,-16,65%,99,31%,7,2,+5,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,leaf,7873,G2 Esports,overall,"Viper, Vyse, Killjoy",1.28,220,55,42,21,+13,81%,154,23%,3,3,0,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,trent,15500,G2 Esports,overall,"Tejo, Fade, Sova",1.08,201,49,45,16,+4,78%,133,39%,5,5,0,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,jawgemo,3993,G2 Esports,overall,"Yoru, Sage",1.07,214,49,47,20,+2,78%,141,22%,14,11,+3,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,valyn,3885,G2 Esports,overall,Omen,1.01,185,44,43,23,+1,75%,115,25%,7,7,0,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,JonahP,4581,G2 Esports,overall,"Fade, Viper",1.00,180,43,44,25,-1,74%,121,23%,3,10,-7,,
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.00,223,14,16,3,-2,60%,148,39%,2,2,0,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Karon,34974,Gen.G,map,Omen,0.83,160,11,17,6,-6,65%,103,28%,1,2,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,t3xture,9196,Gen.G,map,Raze,0.73,142,12,15,1,-3,50%,84,22%,4,5,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Ash,25017,Gen.G,map,Fade,0.63,169,11,17,3,-6,45%,120,27%,0,1,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Foxy9,11600,Gen.G,map,Vyse,0.53,142,9,17,6,-8,65%,82,63%,2,1,+1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.48,285,19,12,9,+7,85%,179,21%,7,3,+4,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,1.31,239,20,11,6,+9,85%,152,51%,1,2,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Viper,1.25,188,15,11,9,+4,85%,133,40%,1,0,+1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Fade,1.18,190,14,11,12,+3,80%,127,25%,1,2,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Tejo,1.04,204,14,12,6,+2,90%,131,37%,1,2,-1,Lotus,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,t3xture,9196,Gen.G,map,Neon,1.28,248,22,14,5,+8,79%,154,26%,5,4,+1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.12,244,20,17,7,+3,79%,165,30%,4,3,+1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Ash,25017,Gen.G,map,Sova,1.03,170,16,13,8,+3,79%,115,32%,0,0,0,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Karon,34974,Gen.G,map,Omen,1.03,183,16,13,4,+3,71%,132,36%,3,2,+1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Foxy9,11600,Gen.G,map,Killjoy,0.75,143,12,16,5,-4,67%,101,25%,3,0,+3,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Vyse,1.21,188,16,15,6,+1,79%,128,17%,1,2,-1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Viper,1.17,225,20,17,6,+3,75%,143,22%,1,4,-3,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Fade,1.01,192,16,17,5,-1,71%,135,40%,2,3,-1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,0.67,106,7,17,10,-10,71%,74,15%,0,1,-1,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.66,172,14,20,1,-6,58%,123,17%,5,5,0,Haven,Gen.G
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Ash,25017,Gen.G,map,Sova,1.14,207,18,15,4,+3,67%,131,25%,3,2,+1,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,t3xture,9196,Gen.G,map,Jett,1.00,242,21,17,3,+4,67%,157,33%,2,3,-1,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.87,219,17,18,6,-1,79%,148,24%,4,4,0,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Foxy9,11600,Gen.G,map,Killjoy,0.73,156,13,17,3,-4,63%,111,28%,2,1,+1,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,Karon,34974,Gen.G,map,Omen,0.56,102,9,18,4,-9,67%,66,33%,1,2,-1,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Killjoy,1.39,284,24,16,6,+8,79%,197,21%,1,1,0,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Sova,1.19,207,19,16,5,+3,75%,132,41%,2,0,+2,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,jawgemo,3993,G2 Esports,map,Sage,1.13,185,16,15,10,+1,92%,127,30%,2,3,-1,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,1.10,211,17,15,7,+2,71%,127,16%,6,4,+2,Icebox,G2 Esports
+498631,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 12:00:00,Gen.G,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Viper,0.68,125,9,16,7,-7,67%,95,23%,1,4,-3,Icebox,G2 Esports
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,N4RRATE,36245,Sentinels,overall,"Fade, Tejo, Gekko",1.13,250,53,48,17,+5,67%,163,24%,6,8,-2,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Zellsis,729,Sentinels,overall,"Cypher, Vyse, Killjoy",1.10,176,41,40,16,+1,75%,125,24%,2,3,-1,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,bang,3880,Sentinels,overall,"Omen, Viper",0.96,189,45,47,18,-2,67%,113,33%,4,7,-3,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,zekken,4004,Sentinels,overall,"Neon, Waylay, Omen",0.95,195,41,47,22,-6,69%,116,20%,7,18,-11,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,johnqt,1265,Sentinels,overall,"Breach, Kayo",0.65,112,25,43,20,-18,77%,75,26%,2,7,-5,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Alfajer,9810,FNATIC,overall,"Cypher, Chamber, Killjoy",1.31,273,66,41,6,+25,77%,177,33%,11,4,+7,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,kaajak,9554,FNATIC,overall,"Neon, Yoru, Jett",1.07,221,50,45,5,+5,69%,142,39%,15,12,+3,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Chronicle,458,FNATIC,overall,"Viper, Vyse, Sage",0.98,193,42,42,21,0,72%,135,27%,7,4,+3,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,crashies,4,FNATIC,overall,Sova,0.94,165,40,37,11,+3,70%,125,29%,3,1,+2,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Boaster,438,FNATIC,overall,"Omen, Viper",0.77,136,27,41,24,-14,72%,85,22%,7,0,+7,,
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Zellsis,729,Sentinels,map,Cypher,1.43,247,20,13,6,+7,82%,167,25%,0,1,-1,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,N4RRATE,36245,Sentinels,map,Fade,1.40,289,21,14,6,+7,68%,191,27%,4,2,+2,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,bang,3880,Sentinels,map,Omen,1.04,224,19,16,5,+3,73%,124,37%,2,2,0,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,zekken,4004,Sentinels,map,Neon,0.96,185,14,14,6,0,68%,106,15%,3,7,-4,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,johnqt,1265,Sentinels,map,Breach,0.67,84,6,11,6,-5,86%,62,26%,0,1,-1,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Cypher,1.12,245,20,16,2,+4,68%,163,35%,0,2,-2,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Neon,1.09,229,17,16,2,+1,68%,141,36%,7,6,+1,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Viper,1.00,207,16,17,4,-1,64%,148,31%,2,1,+1,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Boaster,438,FNATIC,map,Omen,0.53,113,7,17,9,-10,59%,71,27%,3,0,+3,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,crashies,4,FNATIC,map,Sova,0.52,99,8,15,4,-7,68%,79,33%,1,0,+1,Sunset,Sentinels
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,bang,3880,Sentinels,map,Omen,1.26,216,15,14,5,+1,70%,143,33%,1,1,0,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,zekken,4004,Sentinels,map,Waylay,0.99,227,15,16,3,-1,70%,132,27%,3,7,-4,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,N4RRATE,36245,Sentinels,map,Tejo,0.94,215,15,15,5,0,60%,142,21%,1,4,-3,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Zellsis,729,Sentinels,map,Vyse,0.78,120,8,15,6,-7,80%,87,19%,1,1,0,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,johnqt,1265,Sentinels,map,Kayo,0.42,73,5,16,8,-11,80%,49,19%,0,1,-1,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,crashies,4,FNATIC,map,Sova,1.30,228,18,10,3,+8,75%,160,28%,1,0,+1,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Chamber,1.28,237,19,11,2,+8,75%,153,31%,4,2,+2,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Vyse,1.07,219,15,12,7,+3,80%,150,32%,3,1,+2,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Boaster,438,FNATIC,map,Omen,1.05,162,10,10,11,0,85%,97,15%,3,0,+3,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Yoru,0.83,189,14,15,2,-1,60%,120,50%,3,3,0,Ascent,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Zellsis,729,Sentinels,map,Killjoy,1.04,162,13,12,4,+1,64%,119,27%,1,1,0,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,N4RRATE,36245,Sentinels,map,Gekko,1.04,246,17,19,6,-2,73%,155,24%,1,2,-1,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,zekken,4004,Sentinels,map,Omen,0.90,172,12,17,13,-5,68%,111,21%,1,4,-3,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,johnqt,1265,Sentinels,map,Kayo,0.85,180,14,16,6,-2,64%,112,30%,2,5,-3,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,bang,3880,Sentinels,map,Viper,0.60,128,11,17,8,-6,59%,73,29%,1,4,-3,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Alfajer,9810,FNATIC,map,Killjoy,1.51,337,27,14,2,+13,86%,213,32%,7,0,+7,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,kaajak,9554,FNATIC,map,Jett,1.26,244,19,14,1,+5,77%,161,33%,5,3,+2,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,crashies,4,FNATIC,map,Sova,1.03,168,14,12,4,+2,68%,139,28%,1,1,0,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Chronicle,458,FNATIC,map,Sage,0.88,153,11,13,10,-2,73%,108,17%,2,2,0,Icebox,FNATIC
+498632,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 2",2025-06-17 15:35:00,Sentinels,FNATIC,1 - 2,Boaster,438,FNATIC,map,Viper,0.76,133,10,14,4,-4,73%,88,27%,1,0,+1,Icebox,FNATIC
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,f0rsakeN,9801,Paper Rex,overall,"Omen, Fade",1.31,239,40,33,19,+7,79%,157,25%,8,4,+4,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,d4v41,9803,Paper Rex,overall,"Vyse, Viper",1.28,230,40,31,14,+9,72%,165,27%,3,2,+1,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,something,17086,Paper Rex,overall,"Yoru, Jett",1.06,200,35,31,14,+4,81%,115,19%,8,11,-3,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Jinggg,7378,Paper Rex,overall,"Raze, Omen",1.02,205,35,33,12,+2,72%,134,30%,6,4,+2,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,PatMen,13744,Paper Rex,overall,"Fade, Kayo",0.86,178,25,33,23,-8,74%,111,19%,1,0,+1,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,overall,"Viper, Omen",1.10,236,35,34,18,+1,83%,167,29%,5,4,+1,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,overall,"Killjoy, Cypher",1.06,204,35,32,8,+3,64%,136,28%,5,3,+2,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,overall,"Fade, Sova",0.87,146,28,31,8,-3,70%,96,29%,0,3,-3,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,overall,"Raze, Yoru",0.85,230,37,39,12,-2,72%,138,18%,4,6,-2,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,overall,"Omen, Deadlock",0.69,168,26,39,15,-13,74%,102,36%,7,10,-3,,
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,d4v41,9803,Paper Rex,map,Vyse,1.49,279,26,16,10,+10,77%,190,28%,3,1,+2,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,f0rsakeN,9801,Paper Rex,map,Omen,1.44,266,25,18,11,+7,85%,180,32%,4,3,+1,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Jinggg,7378,Paper Rex,map,Raze,1.06,222,20,19,6,+1,65%,145,30%,4,1,+3,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,something,17086,Paper Rex,map,Yoru,0.85,154,16,18,9,-2,85%,88,30%,3,6,-3,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,PatMen,13744,Paper Rex,map,Fade,0.71,144,11,18,12,-7,62%,90,14%,1,0,+1,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Killjoy,1.26,243,24,17,2,+7,69%,160,26%,3,0,+3,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Viper,1.02,217,18,19,9,-1,81%,161,30%,2,3,-1,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Fade,0.94,149,15,17,5,-2,65%,100,24%,0,1,-1,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Raze,0.72,207,19,23,4,-4,69%,125,11%,1,5,-4,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Omen,0.63,164,13,22,11,-9,81%,99,31%,5,6,-1,Lotus,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,something,17086,Paper Rex,map,Jett,1.33,246,19,13,5,+6,76%,148,12%,5,5,0,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,f0rsakeN,9801,Paper Rex,map,Fade,1.15,211,15,15,8,0,71%,130,15%,4,1,+3,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,PatMen,13744,Paper Rex,map,Kayo,1.04,212,14,15,11,-1,90%,137,24%,0,0,0,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,d4v41,9803,Paper Rex,map,Viper,1.03,180,14,15,4,-1,67%,135,26%,0,1,-1,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Jinggg,7378,Paper Rex,map,Omen,0.97,188,15,14,6,+1,81%,121,30%,2,3,-1,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Omen,1.20,254,17,15,9,+2,86%,176,28%,3,1,+2,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Yoru,1.01,253,18,16,8,+2,76%,155,28%,3,1,+2,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Cypher,0.80,165,11,15,6,-4,57%,107,31%,2,3,-1,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Sova,0.78,142,13,14,3,-1,76%,91,39%,0,2,-2,Ascent,Paper Rex
+498627,Valorant Masters Toronto 2025,"Playoffs: 
+						Upper Final",2025-06-20 12:00:00,Paper Rex,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Deadlock,0.77,171,13,17,4,-4,67%,106,43%,2,4,-2,Ascent,Paper Rex
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,trent,15500,G2 Esports,overall,"Tejo, Fade",1.16,213,35,31,12,+4,76%,131,33%,4,3,+1,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,JonahP,4581,G2 Esports,overall,"Fade, Breach",0.89,185,26,35,23,-9,80%,111,22%,1,5,-4,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,leaf,7873,G2 Esports,overall,Viper,0.86,212,35,39,7,-4,63%,131,22%,3,7,-4,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,valyn,3885,G2 Esports,overall,Omen,0.86,165,27,37,22,-10,65%,107,20%,1,4,-3,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,jawgemo,3993,G2 Esports,overall,Yoru,0.59,162,24,39,4,-15,61%,110,19%,4,14,-10,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Alfajer,9810,FNATIC,overall,"Killjoy, Raze",1.49,278,46,27,9,+19,85%,188,36%,15,3,+12,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Chronicle,458,FNATIC,overall,Viper,1.45,295,47,29,17,+18,89%,194,23%,4,1,+3,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,kaajak,9554,FNATIC,overall,"Raze, Yoru",1.03,204,37,31,7,+6,74%,133,36%,4,7,-3,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Boaster,438,FNATIC,overall,"Omen, Astra",1.01,173,28,30,20,-2,78%,123,30%,6,2,+4,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,crashies,4,FNATIC,overall,Fade,0.75,142,23,30,14,-7,74%,100,29%,4,0,+4,,
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,valyn,3885,G2 Esports,map,Omen,1.16,196,18,16,9,+2,70%,125,20%,1,1,0,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,leaf,7873,G2 Esports,map,Viper,1.05,208,17,17,4,0,65%,138,18%,1,3,-2,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,trent,15500,G2 Esports,map,Tejo,1.04,202,16,15,6,+1,78%,133,38%,3,2,+1,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,JonahP,4581,G2 Esports,map,Fade,0.70,173,12,18,9,-6,78%,102,21%,1,4,-3,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.38,150,11,21,2,-10,57%,108,23%,1,6,-5,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Chronicle,458,FNATIC,map,Viper,1.77,354,27,13,10,+14,96%,232,25%,2,0,+2,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Alfajer,9810,FNATIC,map,Killjoy,1.62,284,25,14,2,+11,87%,192,46%,9,0,+9,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,kaajak,9554,FNATIC,map,Raze,0.97,188,17,15,2,+2,70%,118,28%,2,5,-3,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,crashies,4,FNATIC,map,Fade,0.73,134,11,16,6,-5,70%,89,18%,1,0,+1,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Boaster,438,FNATIC,map,Omen,0.60,105,7,16,10,-9,70%,76,24%,2,2,0,Lotus,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,trent,15500,G2 Esports,map,Fade,1.28,223,19,16,6,+3,74%,130,28%,1,1,0,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.07,197,14,17,14,-3,83%,120,24%,0,1,-1,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.80,174,13,18,2,-5,65%,112,16%,3,8,-5,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,leaf,7873,G2 Esports,map,Viper,0.68,215,18,22,3,-4,61%,124,25%,2,4,-2,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,valyn,3885,G2 Esports,map,Omen,0.56,133,9,21,13,-12,61%,89,20%,0,3,-3,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Boaster,438,FNATIC,map,Astra,1.43,241,21,14,10,+7,87%,170,33%,4,0,+4,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Alfajer,9810,FNATIC,map,Raze,1.35,272,21,13,7,+8,83%,184,29%,6,3,+3,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,Chronicle,458,FNATIC,map,Viper,1.13,236,20,16,7,+4,83%,156,21%,2,1,+1,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,kaajak,9554,FNATIC,map,Yoru,1.09,220,20,16,5,+4,78%,148,43%,2,2,0,Split,FNATIC
+498633,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Round 3",2025-06-20 14:40:00,G2 Esports,FNATIC,0 - 2,crashies,4,FNATIC,map,Fade,0.77,149,12,14,8,-2,78%,110,39%,3,0,+3,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Spring,14125,Wolves Esports,overall,"Viper, Omen",1.16,244,69,57,14,+12,69%,156,26%,9,9,0,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Lysoar,37489,Wolves Esports,overall,"Omen, Killjoy, Deadlock",0.88,191,55,61,16,-6,68%,117,28%,7,6,+1,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Juicy,7426,Wolves Esports,overall,"Raze, Jett, Yoru",0.82,188,52,63,10,-11,63%,126,28%,18,16,+2,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,SiuFatBB,7849,Wolves Esports,overall,"Fade, Sova",0.82,137,38,55,21,-17,59%,90,29%,3,2,+1,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Yuicaw,11218,Wolves Esports,overall,"Cypher, Gekko, Killjoy",0.58,132,35,63,11,-28,48%,88,28%,3,7,-4,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Alfajer,9810,FNATIC,overall,"Raze, Killjoy, Chamber",1.17,276,80,58,16,+22,70%,174,30%,11,11,0,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Chronicle,458,FNATIC,overall,"Viper, Sage, Vyse",1.12,198,56,48,28,+8,74%,133,26%,5,7,-2,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,crashies,4,FNATIC,overall,"Fade, Sova",1.09,195,58,51,29,+7,76%,135,39%,4,6,-2,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Boaster,438,FNATIC,overall,"Astra, Viper, Omen",1.04,182,49,42,21,+7,80%,114,27%,9,4,+5,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,kaajak,9554,FNATIC,overall,"Yoru, Jett, Raze",1.03,207,56,50,15,+6,70%,130,30%,11,12,-1,,
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Juicy,7426,Wolves Esports,map,Raze,1.05,215,16,16,2,0,64%,140,24%,4,4,0,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Lysoar,37489,Wolves Esports,map,Omen,1.02,188,15,17,7,-2,77%,126,37%,2,0,+2,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Spring,14125,Wolves Esports,map,Viper,0.99,231,17,16,3,+1,64%,149,25%,4,4,0,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,SiuFatBB,7849,Wolves Esports,map,Fade,0.96,166,12,15,8,-3,68%,112,23%,1,0,+1,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Yuicaw,11218,Wolves Esports,map,Cypher,0.44,111,8,18,0,-10,41%,81,28%,1,2,-1,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Chronicle,458,FNATIC,map,Viper,1.27,240,19,12,5,+7,82%,155,25%,1,2,-1,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,crashies,4,FNATIC,map,Fade,1.13,172,14,13,11,+1,77%,125,32%,2,1,+1,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,kaajak,9554,FNATIC,map,Yoru,1.07,220,18,13,3,+5,68%,129,21%,4,3,+1,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Alfajer,9810,FNATIC,map,Raze,1.00,267,21,17,3,+4,68%,165,25%,1,4,-3,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Boaster,438,FNATIC,map,Astra,0.75,139,10,13,6,-3,86%,92,33%,2,2,0,Split,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Spring,14125,Wolves Esports,map,Viper,1.22,286,16,15,3,+1,71%,173,28%,1,1,0,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Lysoar,37489,Wolves Esports,map,Killjoy,0.91,218,13,14,1,-1,59%,136,23%,1,2,-1,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,SiuFatBB,7849,Wolves Esports,map,Sova,0.67,117,6,13,3,-7,41%,90,27%,0,1,-1,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Juicy,7426,Wolves Esports,map,Jett,0.55,171,10,16,1,-6,53%,102,35%,3,5,-2,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Yuicaw,11218,Wolves Esports,map,Gekko,0.29,88,5,16,4,-11,47%,51,50%,0,3,-3,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,kaajak,9554,FNATIC,map,Jett,1.47,285,16,8,5,+8,76%,197,57%,5,1,+4,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Boaster,438,FNATIC,map,Viper,1.34,254,16,9,5,+7,88%,154,20%,3,0,+3,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Alfajer,9810,FNATIC,map,Killjoy,1.25,276,18,12,2,+6,82%,180,33%,3,2,+1,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Chronicle,458,FNATIC,map,Sage,1.09,178,11,9,11,+2,82%,111,31%,1,1,0,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,crashies,4,FNATIC,map,Sova,0.89,181,13,12,2,+1,82%,133,58%,0,1,-1,Icebox,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Spring,14125,Wolves Esports,map,Viper,1.54,300,26,11,6,+15,78%,188,23%,4,2,+2,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Juicy,7426,Wolves Esports,map,Raze,1.19,273,21,15,5,+6,78%,183,30%,8,1,+7,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Lysoar,37489,Wolves Esports,map,Omen,0.93,198,17,14,6,+3,78%,114,20%,2,2,0,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,SiuFatBB,7849,Wolves Esports,map,Fade,0.76,94,9,12,6,-3,65%,60,27%,1,1,0,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Yuicaw,11218,Wolves Esports,map,Killjoy,0.68,124,11,13,4,-2,57%,92,25%,0,2,-2,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,crashies,4,FNATIC,map,Fade,1.09,222,17,18,7,-1,61%,145,36%,1,3,-2,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Alfajer,9810,FNATIC,map,Killjoy,1.05,223,19,17,5,+2,61%,156,32%,3,3,0,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Chronicle,458,FNATIC,map,Viper,1.00,179,13,18,8,-5,61%,123,21%,1,2,-1,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Boaster,438,FNATIC,map,Omen,0.78,101,7,13,5,-6,65%,76,20%,3,2,+1,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,kaajak,9554,FNATIC,map,Raze,0.64,121,9,18,1,-9,61%,81,13%,0,5,-5,Lotus,Wolves Esports
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Yuicaw,11218,Wolves Esports,map,Cypher,0.88,204,11,16,3,-5,44%,126,26%,2,0,+2,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,SiuFatBB,7849,Wolves Esports,map,Sova,0.88,171,11,15,4,-4,56%,102,42%,1,0,+1,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Spring,14125,Wolves Esports,map,Omen,0.82,159,10,15,2,-5,61%,107,31%,0,2,-2,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Lysoar,37489,Wolves Esports,map,Deadlock,0.62,158,10,16,2,-6,50%,92,39%,2,2,0,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Juicy,7426,Wolves Esports,map,Yoru,0.30,91,5,16,2,-11,50%,61,24%,3,6,-3,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Alfajer,9810,FNATIC,map,Chamber,1.46,338,22,12,6,+10,72%,202,31%,4,2,+2,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Boaster,438,FNATIC,map,Omen,1.43,232,16,7,5,+9,83%,152,37%,1,0,+1,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,crashies,4,FNATIC,map,Sova,1.25,203,14,8,9,+6,89%,138,37%,1,1,0,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,Chronicle,458,FNATIC,map,Vyse,1.13,193,13,9,4,+4,72%,139,30%,2,2,0,Ascent,FNATIC
+498634,Valorant Masters Toronto 2025,"Playoffs: 
+						Lower Final",2025-06-21 12:00:00,Wolves Esports,FNATIC,1 - 3,kaajak,9554,FNATIC,map,Yoru,1.07,202,13,11,6,+2,78%,130,32%,2,3,-1,Ascent,FNATIC
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,tarik,31376,Team tarik,overall,Reyna,N/A,N/A,17,18,6,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Kyedae,37656,Team tarik,overall,Vyse,N/A,N/A,15,15,8,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Vinnie,55809,Team tarik,overall,Sova,N/A,N/A,13,15,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,joshseki,55810,Team tarik,overall,Astra,N/A,N/A,10,16,7,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Yvonnie,35089,Team tarik,overall,Sage,N/A,N/A,6,15,7,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,TenZ,9,Team Toast,overall,Jett,N/A,N/A,24,14,4,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,meL,3063,Team Toast,overall,Omen,N/A,N/A,23,9,11,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Sidsity,48629,Team Toast,overall,Fade,N/A,N/A,15,12,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Disguised Toast,55812,Team Toast,overall,Cypher,N/A,N/A,12,12,5,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Jacob,55811,Team Toast,overall,Gekko,N/A,N/A,6,13,5,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,tarik,31376,Team tarik,map,Reyna,N/A,N/A,17,18,6,-1,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Kyedae,37656,Team tarik,map,Vyse,N/A,N/A,15,15,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Vinnie,55809,Team tarik,map,Sova,N/A,N/A,13,15,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,joshseki,55810,Team tarik,map,Astra,N/A,N/A,10,16,7,-6,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Yvonnie,35089,Team tarik,map,Sage,N/A,N/A,6,15,7,-9,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,TenZ,9,Team Toast,map,Jett,N/A,N/A,24,14,4,+10,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,meL,3063,Team Toast,map,Omen,N/A,N/A,23,9,11,+14,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Sidsity,48629,Team Toast,map,Fade,N/A,N/A,15,12,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Disguised Toast,55812,Team Toast,map,Cypher,N/A,N/A,12,12,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+507067,Valorant Masters Toronto 2025,"Showmatch: 
+						Showmatch",2025-06-22 12:00:00,Team tarik,Team Toast,0 - 1,Jacob,55811,Team Toast,map,Gekko,N/A,N/A,6,13,5,-7,N/A,N/A,N/A,N/A,N/A,N/A,Corrode,Team Toast
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,d4v41,9803,Paper Rex,overall,"Sage, Killjoy, Vyse",1.12,194,77,64,28,+13,75%,130,26%,8,12,-4,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,f0rsakeN,9801,Paper Rex,overall,"Omen, Sova, Astra",1.11,223,81,75,32,+6,70%,149,28%,7,8,-1,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Jinggg,7378,Paper Rex,overall,"Raze, Omen",1.03,207,69,69,28,0,68%,144,23%,12,13,-1,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,PatMen,13744,Paper Rex,overall,"Viper, Fade",0.94,175,67,72,24,-5,67%,117,33%,5,10,-5,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,something,17086,Paper Rex,overall,"Sova, Jett, Yoru",0.90,185,68,77,18,-9,68%,121,25%,15,15,0,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Alfajer,9810,FNATIC,overall,"Cypher, Killjoy, Neon",1.17,270,99,79,13,+20,70%,174,32%,17,11,+6,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Chronicle,458,FNATIC,overall,"Viper, Sage, Killjoy",1.10,198,75,64,25,+11,67%,135,24%,7,5,+2,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,kaajak,9554,FNATIC,overall,"Neon, Jett, Yoru, Raze",0.96,205,81,80,10,+1,71%,133,31%,22,16,+6,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,crashies,4,FNATIC,overall,"Sova, Fade",0.93,165,61,68,27,-7,68%,118,35%,5,2,+3,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Boaster,438,FNATIC,overall,"Omen, Viper, Astra",0.74,129,41,71,46,-30,70%,87,22%,7,13,-6,,
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,f0rsakeN,9801,Paper Rex,map,Omen,1.35,255,22,17,7,+5,67%,164,31%,2,3,-1,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,d4v41,9803,Paper Rex,map,Sage,1.04,167,16,14,9,+2,75%,99,33%,0,2,-2,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Jinggg,7378,Paper Rex,map,Raze,0.97,205,15,17,9,-2,71%,144,22%,4,3,+1,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,PatMen,13744,Paper Rex,map,Viper,0.94,190,16,17,6,-1,67%,125,48%,2,4,-2,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,something,17086,Paper Rex,map,Sova,0.90,171,14,16,3,-2,71%,112,18%,1,3,-2,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Alfajer,9810,FNATIC,map,Cypher,1.24,264,23,18,4,+5,67%,169,35%,4,1,+3,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,kaajak,9554,FNATIC,map,Neon,1.07,265,24,20,0,+4,75%,170,41%,5,5,0,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,crashies,4,FNATIC,map,Sova,0.84,178,13,16,4,-3,75%,121,37%,3,0,+3,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Chronicle,458,FNATIC,map,Viper,0.84,140,11,13,2,-2,63%,99,25%,3,0,+3,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Boaster,438,FNATIC,map,Omen,0.72,120,10,16,10,-6,63%,77,29%,0,3,-3,Sunset,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,d4v41,9803,Paper Rex,map,Killjoy,1.25,222,29,21,3,+8,59%,153,27%,1,5,-4,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Jinggg,7378,Paper Rex,map,Omen,1.10,223,23,22,10,+1,66%,166,31%,2,4,-2,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,PatMen,13744,Paper Rex,map,Viper,0.89,192,22,25,1,-3,59%,128,33%,3,3,0,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,something,17086,Paper Rex,map,Jett,0.85,168,18,23,5,-5,69%,106,28%,4,5,-1,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,f0rsakeN,9801,Paper Rex,map,Sova,0.67,170,16,27,7,-11,63%,117,17%,2,3,-1,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,kaajak,9554,FNATIC,map,Jett,1.29,278,32,23,4,+9,81%,166,27%,11,3,+8,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,crashies,4,FNATIC,map,Sova,1.19,201,26,19,7,+7,69%,140,35%,1,1,0,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Chronicle,458,FNATIC,map,Sage,1.13,207,24,19,15,+5,69%,135,27%,2,2,0,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Alfajer,9810,FNATIC,map,Killjoy,0.84,217,25,25,2,0,69%,145,34%,4,2,+2,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Boaster,438,FNATIC,map,Viper,0.76,124,11,22,16,-11,75%,99,18%,2,4,-2,Icebox,FNATIC
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,d4v41,9803,Paper Rex,map,Vyse,1.33,230,20,11,4,+9,91%,153,23%,3,3,0,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,f0rsakeN,9801,Paper Rex,map,Astra,1.32,228,20,14,14,+6,78%,160,41%,1,0,+1,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Jinggg,7378,Paper Rex,map,Raze,1.07,217,15,14,6,+1,70%,136,15%,3,3,0,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,PatMen,13744,Paper Rex,map,Fade,0.96,156,13,13,8,0,74%,94,16%,0,0,0,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,something,17086,Paper Rex,map,Yoru,0.77,162,14,17,6,-3,65%,114,28%,5,5,0,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Alfajer,9810,FNATIC,map,Neon,1.18,269,22,19,5,+3,70%,173,20%,4,5,-1,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Boaster,438,FNATIC,map,Astra,1.01,195,14,16,11,-2,70%,128,22%,4,1,+3,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Chronicle,458,FNATIC,map,Killjoy,0.97,167,14,15,4,-1,57%,110,17%,0,2,-2,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,crashies,4,FNATIC,map,Sova,0.95,152,11,14,6,-3,61%,112,33%,1,0,+1,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,kaajak,9554,FNATIC,map,Yoru,0.54,100,8,18,4,-10,57%,84,32%,2,4,-2,Pearl,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,f0rsakeN,9801,Paper Rex,map,Omen,1.26,239,23,17,4,+6,73%,164,26%,2,2,0,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,something,17086,Paper Rex,map,Yoru,1.06,238,22,21,4,+1,65%,155,26%,5,2,+3,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,PatMen,13744,Paper Rex,map,Fade,0.98,160,16,17,9,-1,69%,115,41%,0,3,-3,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Jinggg,7378,Paper Rex,map,Raze,0.95,182,16,16,3,0,65%,125,28%,3,3,0,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,d4v41,9803,Paper Rex,map,Vyse,0.84,158,12,18,12,-6,81%,109,20%,4,2,+2,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Alfajer,9810,FNATIC,map,Killjoy,1.49,330,29,17,2,+12,77%,214,46%,5,3,+2,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Chronicle,458,FNATIC,map,Viper,1.41,276,26,17,4,+9,77%,191,26%,2,1,+1,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,kaajak,9554,FNATIC,map,Raze,0.83,178,17,19,2,-2,69%,104,23%,4,4,0,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,crashies,4,FNATIC,map,Fade,0.66,127,11,19,10,-8,65%,92,33%,0,1,-1,Lotus,Paper Rex
+498628,Valorant Masters Toronto 2025,"Playoffs: 
+						Grand Final",2025-06-22 13:15:00,Paper Rex,FNATIC,3 - 1,Boaster,438,FNATIC,map,Omen,0.48,77,6,17,9,-11,69%,45,19%,1,5,-4,Lotus,Paper Rex

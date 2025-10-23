@@ -1,0 +1,23 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, January 18, 2025",430514,1:30 PM,BOOM Esports,1,T1,2,1-2,T1,Completed,Upper Round 1,Main Event
+"Sat, January 18, 2025",430515,4:45 PM,ZETA DIVISION,0,Nongshim RedForce,2,0-2,Nongshim RedForce,Completed,Upper Round 1,Main Event
+"Sun, January 19, 2025",430516,1:30 PM,Global Esports,2,Team Secret,1,2-1,Global Esports,Completed,Upper Round 1,Main Event
+"Sun, January 19, 2025",430517,4:30 PM,DetonatioN FocusMe,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Upper Round 1,Main Event
+"Mon, January 20, 2025",430521,1:30 PM,DRX,2,Nongshim RedForce,1,2-1,DRX,Completed,Upper Quarterfinals,Main Event
+"Mon, January 20, 2025",430518,4:45 PM,Paper Rex,1,T1,2,1-2,T1,Completed,Upper Quarterfinals,Main Event
+"Sat, January 25, 2025",430519,1:30 PM,TALON,2,Global Esports,1,2-1,TALON,Completed,Upper Quarterfinals,Main Event
+"Sat, January 25, 2025",430520,4:30 PM,Gen.G,2,Rex Regum Qeon,1,2-1,Gen.G,Completed,Upper Quarterfinals,Main Event
+"Sun, January 26, 2025",430526,1:30 PM,Nongshim RedForce,2,BOOM Esports,1,2-1,Nongshim RedForce,Completed,Lower Round 1,Main Event
+"Sun, January 26, 2025",430529,4:30 PM,Paper Rex,2,ZETA DIVISION,0,2-0,Paper Rex,Completed,Lower Round 1,Main Event
+"Mon, January 27, 2025",430527,1:30 PM,Rex Regum Qeon,2,Team Secret,1,2-1,Rex Regum Qeon,Completed,Lower Round 1,Main Event
+"Mon, January 27, 2025",430528,4:30 PM,Global Esports,0,DetonatioN FocusMe,2,0-2,DetonatioN FocusMe,Completed,Lower Round 1,Main Event
+"Fri, January 31, 2025",430522,1:30 PM,T1,2,TALON,1,2-1,T1,Completed,Upper Semifinals,Main Event
+"Fri, January 31, 2025",430523,4:15 PM,Gen.G,0,DRX,2,0-2,DRX,Completed,Upper Semifinals,Main Event
+"Sat, February 1, 2025",430530,1:30 PM,Nongshim RedForce,2,Rex Regum Qeon,1,2-1,Nongshim RedForce,Completed,Lower Round 2,Main Event
+"Sat, February 1, 2025",430531,5:40 PM,DetonatioN FocusMe,2,Paper Rex,0,2-0,DetonatioN FocusMe,Completed,Lower Round 2,Main Event
+"Sun, February 2, 2025",430532,1:30 PM,TALON,2,Nongshim RedForce,1,2-1,TALON,Completed,Lower Round 3,Main Event
+"Sun, February 2, 2025",430533,4:30 PM,Gen.G,2,DetonatioN FocusMe,0,2-0,Gen.G,Completed,Lower Round 3,Main Event
+"Fri, February 7, 2025",430524,1:30 PM,T1,1,DRX,2,1-2,DRX,Completed,Upper Final,Main Event
+"Fri, February 7, 2025",430534,5:00 PM,TALON,0,Gen.G,2,0-2,Gen.G,Completed,Lower Round 4,Main Event
+"Sat, February 8, 2025",430535,1:30 PM,T1,3,Gen.G,2,3-2,T1,Completed,Lower Final,Main Event
+"Sun, February 9, 2025",430525,1:30 PM,DRX,3,T1,2,3-2,DRX,Completed,Grand Final,Main Event

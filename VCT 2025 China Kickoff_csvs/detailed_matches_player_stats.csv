@@ -1,0 +1,1561 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,slowly,41739,TYLOO,overall,"Sova, Astra",N/A,259,43,30,12,+13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Ninebody,3547,TYLOO,overall,"Killjoy, Jett",N/A,195,32,35,10,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,zjc,7135,TYLOO,overall,"Breach, Sova",N/A,176,28,35,16,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Eren,14444,TYLOO,overall,"Raze, Yoru",N/A,164,29,37,9,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,5CM,47101,TYLOO,overall,"Brimstone, Omen",N/A,139,21,33,20,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,overall,"Fade, Sova",N/A,246,40,30,11,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Dynamite,42235,Titan Esports Club,overall,"Raze, Jett",N/A,245,43,31,5,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Haodong,4720,Titan Esports Club,overall,"Brimstone, Omen",N/A,206,32,28,29,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,overall,"Killjoy, Cypher",N/A,184,32,34,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,B1ack,30526,Titan Esports Club,overall,"Breach, Kayo",N/A,154,23,30,22,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,slowly,41739,TYLOO,map,Sova,N/A,238,20,16,5,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,zjc,7135,TYLOO,map,Breach,N/A,213,17,20,12,-3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Eren,14444,TYLOO,map,Raze,N/A,194,17,20,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Ninebody,3547,TYLOO,map,Killjoy,N/A,137,12,20,6,-8,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,5CM,47101,TYLOO,map,Brimstone,N/A,137,10,16,12,-6,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,map,Fade,N/A,293,25,16,8,+9,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Dynamite,42235,Titan Esports Club,map,Raze,N/A,242,21,14,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,map,Killjoy,N/A,218,21,17,1,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Haodong,4720,Titan Esports Club,map,Brimstone,N/A,171,14,15,21,-1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,B1ack,30526,Titan Esports Club,map,Breach,N/A,143,11,14,12,-3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,slowly,41739,TYLOO,map,Astra,N/A,280,23,14,7,+9,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Ninebody,3547,TYLOO,map,Jett,N/A,253,20,15,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,5CM,47101,TYLOO,map,Omen,N/A,140,11,17,8,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,zjc,7135,TYLOO,map,Sova,N/A,139,11,15,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Eren,14444,TYLOO,map,Yoru,N/A,134,12,17,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Dynamite,42235,Titan Esports Club,map,Jett,N/A,247,22,17,1,+5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Haodong,4720,Titan Esports Club,map,Omen,N/A,241,18,13,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,map,Sova,N/A,199,15,14,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,B1ack,30526,Titan Esports Club,map,Kayo,N/A,165,12,16,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430838,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 04:00:00,TYLOO,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,map,Cypher,N/A,150,11,17,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,happywei,37927,Xi Lai Gaming,overall,"Omen, Cypher",N/A,260,43,29,16,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Rarga,22047,Xi Lai Gaming,overall,"Neon, Raze",N/A,241,36,35,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,coconut,12365,Xi Lai Gaming,overall,"Sova, Omen",N/A,204,34,25,16,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Viva,36415,Xi Lai Gaming,overall,"Cypher, Viper",N/A,203,34,27,18,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,YOU,4710,Xi Lai Gaming,overall,"Breach, Skye",N/A,159,25,29,19,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,overall,Raze,N/A,264,40,35,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,overall,Omen,N/A,204,33,30,15,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,overall,Vyse,N/A,191,27,39,13,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,overall,"Fade, Skye",N/A,145,23,35,19,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,overall,"Breach, Cypher",N/A,138,22,33,12,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,happywei,37927,Xi Lai Gaming,map,Omen,N/A,272,24,17,10,+7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,231,19,20,3,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,204,17,16,12,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,coconut,12365,Xi Lai Gaming,map,Sova,N/A,185,15,16,9,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,YOU,4710,Xi Lai Gaming,map,Breach,N/A,167,14,17,12,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Raze,N/A,339,29,18,4,+11,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Vyse,N/A,260,20,19,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Omen,N/A,164,14,16,9,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Breach,N/A,146,12,17,8,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Fade,N/A,133,11,19,8,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Rarga,22047,Xi Lai Gaming,map,Raze,N/A,250,17,15,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,happywei,37927,Xi Lai Gaming,map,Cypher,N/A,248,19,12,6,+7,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,coconut,12365,Xi Lai Gaming,map,Omen,N/A,222,19,9,7,+10,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Viva,36415,Xi Lai Gaming,map,Viper,N/A,201,17,11,6,+6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,YOU,4710,Xi Lai Gaming,map,Skye,N/A,150,11,12,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Juicy,7426,Wolves Esports,map,Omen,N/A,244,19,14,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Spring,14125,Wolves Esports,map,Raze,N/A,188,11,17,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,SiuFatBB,7849,Wolves Esports,map,Skye,N/A,157,12,16,11,-4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,129,10,16,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430837,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-11 06:35:00,Xi Lai Gaming,Wolves Esports,2 - 0,Lysoar,37489,Wolves Esports,map,Vyse,N/A,122,7,20,6,-13,N/A,N/A,N/A,N/A,N/A,N/A,Split,Xi Lai Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),overall,"Jett, Neon",N/A,240,58,46,13,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),overall,"Astra, Cypher",N/A,224,52,50,14,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),overall,"Yoru, Omen, Brimstone",N/A,204,43,54,20,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),overall,"Sova, Deadlock",N/A,174,40,49,15,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),overall,"Omen, Breach, Skye",N/A,110,26,50,16,-24,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Sova, Deadlock",N/A,259,62,40,19,+22,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,overall,"Jett, Raze",N/A,215,49,47,13,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,overall,"Omen, Cypher, Vyse",N/A,212,50,43,11,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,overall,"Kayo, Breach",N/A,192,43,41,42,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,overall,"Astra, Omen, Brimstone",N/A,191,45,49,19,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Jett,N/A,215,15,14,1,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Sova,N/A,213,14,14,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Yoru,N/A,167,9,18,7,-9,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Astra,N/A,157,9,15,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Omen,N/A,100,6,16,3,-10,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Omen,N/A,302,21,9,5,+12,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,256,17,11,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,241,16,14,4,+2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,192,12,12,2,0,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,168,11,8,11,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Cypher,N/A,312,30,20,7,+10,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Neon,N/A,264,27,17,6,+10,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Sova,N/A,191,19,19,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Breach,N/A,154,15,19,9,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Omen,N/A,153,15,21,7,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,248,23,20,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,210,20,25,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Omen,N/A,198,20,20,7,0,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,193,18,20,16,-2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,143,15,21,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,JD Mall JDG Esports(JDG Esports)
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Brimstone,N/A,293,19,15,6,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Neon,N/A,242,16,15,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Cypher,N/A,203,13,15,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Deadlock,N/A,117,7,16,3,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Skye,N/A,75,5,15,4,-10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Deadlock,N/A,273,22,9,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Raze,N/A,242,17,10,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,214,14,13,15,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Vyse,N/A,191,14,13,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430839,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 04:00:00,JD Mall JDG Esports(JDG Esports),Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Brimstone,N/A,135,9,15,8,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,deLb,10821,All Gamers,overall,"Yoru, Vyse",N/A,234,32,31,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,K1ra,46748,All Gamers,overall,"Jett, Raze",N/A,206,25,35,7,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Lsn,50080,All Gamers,overall,"Astra, Kayo",N/A,148,23,30,14,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,monk,14431,All Gamers,overall,"Sova, Gekko",N/A,132,16,28,13,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,nizhaoTZH,4880,All Gamers,overall,"Omen, Brimstone",N/A,131,13,31,14,-18,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Ezeir,46460,Nova Esports,overall,"Astra, Brimstone",N/A,278,38,20,21,+18,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,SWERL,1209,Nova Esports,overall,"Jett, Raze",N/A,272,33,25,10,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,CB,39697,Nova Esports,overall,"Sova, Deadlock",N/A,228,32,21,19,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,GuanG,41054,Nova Esports,overall,"Cypher, Vyse",N/A,227,30,20,10,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,overall,"Kayo, Skye",N/A,173,22,23,25,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,deLb,10821,All Gamers,map,Yoru,N/A,250,20,17,3,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,K1ra,46748,All Gamers,map,Jett,N/A,225,16,19,4,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Lsn,50080,All Gamers,map,Astra,N/A,197,17,16,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,monk,14431,All Gamers,map,Sova,N/A,170,10,14,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,nizhaoTZH,4880,All Gamers,map,Omen,N/A,113,7,16,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,CB,39697,Nova Esports,map,Sova,N/A,256,19,15,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Ezeir,46460,Nova Esports,map,Astra,N/A,235,17,13,16,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,SWERL,1209,Nova Esports,map,Jett,N/A,212,16,17,1,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,map,Kayo,N/A,199,15,14,15,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,GuanG,41054,Nova Esports,map,Cypher,N/A,198,15,11,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,deLb,10821,All Gamers,map,Vyse,N/A,217,12,14,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,K1ra,46748,All Gamers,map,Raze,N/A,187,9,16,3,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,nizhaoTZH,4880,All Gamers,map,Brimstone,N/A,149,6,15,8,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Lsn,50080,All Gamers,map,Kayo,N/A,98,6,14,8,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,monk,14431,All Gamers,map,Gekko,N/A,94,6,14,3,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,SWERL,1209,Nova Esports,map,Raze,N/A,331,17,8,9,+9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,Ezeir,46460,Nova Esports,map,Brimstone,N/A,321,21,7,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,GuanG,41054,Nova Esports,map,Vyse,N/A,256,15,9,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,CB,39697,Nova Esports,map,Deadlock,N/A,200,13,6,9,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430840,VCT 2025: China Kickoff,"Main Event: 
+						Upper Round 1",2025-01-12 07:25:00,All Gamers,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,map,Skye,N/A,146,7,9,10,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Nova Esports
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,AAAAY,19530,FunPlus Phoenix,overall,"Gekko, Fade",N/A,231,53,39,13,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,yosemite,6022,FunPlus Phoenix,overall,Viper,N/A,218,46,41,23,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Life,3028,FunPlus Phoenix,overall,"Yoru, Phoenix",N/A,213,49,44,15,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Autumn,872,FunPlus Phoenix,overall,"Omen, Vyse, Cypher",N/A,181,40,41,13,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,BerLIN,7857,FunPlus Phoenix,overall,Astra,N/A,173,37,44,22,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,B1ack,30526,Titan Esports Club,overall,"Kayo, Breach",N/A,233,50,41,40,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,overall,"Cypher, Killjoy",N/A,228,53,48,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Haodong,4720,Titan Esports Club,overall,"Omen, Brimstone, Astra",N/A,183,42,44,27,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Dynamite,42235,Titan Esports Club,overall,"Jett, Neon",N/A,158,32,48,15,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,overall,"Sova, Tejo",N/A,154,32,44,20,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,248,19,18,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,199,16,17,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,184,14,20,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Life,3028,FunPlus Phoenix,map,Yoru,N/A,183,17,19,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Autumn,872,FunPlus Phoenix,map,Omen,N/A,95,8,20,5,-12,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,B1ack,30526,Titan Esports Club,map,Kayo,N/A,291,24,12,18,+12,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Cypher,N/A,240,23,17,2,+6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Dynamite,42235,Titan Esports Club,map,Jett,N/A,204,17,18,6,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Sova,N/A,188,15,14,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Haodong,4720,Titan Esports Club,map,Omen,N/A,170,15,13,10,+2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Titan Esports Club
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,280,18,12,13,+6,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,239,17,12,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,217,16,12,11,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Autumn,872,FunPlus Phoenix,map,Vyse,N/A,212,15,11,8,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Life,3028,FunPlus Phoenix,map,Phoenix,N/A,201,16,13,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Haodong,4720,Titan Esports Club,map,Brimstone,N/A,230,17,18,11,-1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Killjoy,N/A,213,16,15,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,B1ack,30526,Titan Esports Club,map,Breach,N/A,180,11,16,13,-5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Tejo,N/A,161,11,16,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Dynamite,42235,Titan Esports Club,map,Neon,N/A,132,5,17,7,-12,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Life,3028,FunPlus Phoenix,map,Phoenix,N/A,256,16,12,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,255,20,10,5,+10,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Autumn,872,FunPlus Phoenix,map,Cypher,N/A,236,17,10,0,+7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,127,9,11,1,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,119,7,12,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Killjoy,N/A,232,14,16,1,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,B1ack,30526,Titan Esports Club,map,Kayo,N/A,229,15,13,9,+2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Haodong,4720,Titan Esports Club,map,Astra,N/A,149,10,13,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Dynamite,42235,Titan Esports Club,map,Jett,N/A,139,10,13,2,-3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430842,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 04:00:00,FunPlus Phoenix,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Sova,N/A,113,6,14,5,-8,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,whzy,4885,Bilibili Gaming,overall,"Neon, Raze, Yoru",N/A,235,59,53,19,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,nephh,10698,Bilibili Gaming,overall,"Viper, Omen",N/A,216,51,48,31,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,rushia,48878,Bilibili Gaming,overall,"Omen, Harbor",N/A,174,43,43,24,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Knight,4774,Bilibili Gaming,overall,"Sova, Fade",N/A,165,40,50,21,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Levius,40845,Bilibili Gaming,overall,"Killjoy, Vyse",N/A,163,46,46,10,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,overall,"Neon, Jett",N/A,279,70,51,5,+19,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,overall,"Omen, Cypher",N/A,200,52,50,20,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,overall,Sova,N/A,193,47,43,21,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,overall,"Breach, Kayo",N/A,170,40,47,40,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,overall,"Cypher, Omen",N/A,135,31,48,21,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,nephh,10698,Bilibili Gaming,map,Viper,N/A,268,21,18,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Knight,4774,Bilibili Gaming,map,Sova,N/A,195,14,19,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,rushia,48878,Bilibili Gaming,map,Omen,N/A,176,16,16,9,0,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,161,15,19,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,whzy,4885,Bilibili Gaming,map,Neon,N/A,142,13,18,8,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Omen,N/A,261,22,16,11,+6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,260,23,20,1,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Breach,N/A,215,17,13,18,+4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,212,16,14,13,+2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,133,12,16,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,nephh,10698,Bilibili Gaming,map,Viper,N/A,223,18,14,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,whzy,4885,Bilibili Gaming,map,Raze,N/A,217,16,19,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,171,17,13,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Knight,4774,Bilibili Gaming,map,Fade,N/A,158,13,15,7,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,rushia,48878,Bilibili Gaming,map,Omen,N/A,157,12,13,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,316,26,15,2,+11,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Omen,N/A,159,14,16,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,151,14,13,1,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,140,10,16,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Breach,N/A,118,10,16,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,whzy,4885,Bilibili Gaming,map,Yoru,N/A,345,30,16,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,rushia,48878,Bilibili Gaming,map,Harbor,N/A,188,15,14,8,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,nephh,10698,Bilibili Gaming,map,Omen,N/A,157,12,16,11,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Levius,40845,Bilibili Gaming,map,Vyse,N/A,157,14,14,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Knight,4774,Bilibili Gaming,map,Sova,N/A,143,13,16,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Jett,N/A,261,21,16,2,+5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,215,17,16,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Cypher,N/A,180,16,18,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Kayo,N/A,178,13,18,13,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430841,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-16 07:20:00,Bilibili Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Omen,N/A,131,9,16,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Bilibili Gaming
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Kai,37494,Trace Esports,overall,"Neon, Jett",N/A,243,35,31,8,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,FengF,4770,Trace Esports,overall,"Yoru, Cypher",N/A,241,38,24,4,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Biank,3021,Trace Esports,overall,Sova,N/A,240,34,27,16,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,LuoK1ng,3045,Trace Esports,overall,Astra,N/A,212,31,22,28,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,heybay,4712,Trace Esports,overall,"Killjoy, Kayo",N/A,163,24,23,17,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,overall,Kayo,N/A,234,35,29,14,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Flex1n,4705,Dragon Ranger Gaming,overall,Astra,N/A,197,29,28,16,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,overall,Jett,N/A,180,25,36,6,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,overall,"Killjoy, Omen",N/A,154,22,35,6,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Fade, Sova",N/A,116,16,34,15,-18,N/A,N/A,N/A,N/A,N/A,N/A,,
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,FengF,4770,Trace Esports,map,Yoru,N/A,328,27,12,3,+15,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Biank,3021,Trace Esports,map,Sova,N/A,271,20,13,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Kai,37494,Trace Esports,map,Neon,N/A,249,19,14,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,heybay,4712,Trace Esports,map,Killjoy,N/A,146,11,13,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,LuoK1ng,3045,Trace Esports,map,Astra,N/A,127,9,14,19,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,256,20,15,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,236,17,18,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,222,16,15,11,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Killjoy,N/A,110,7,19,2,-12,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,map,Fade,N/A,85,6,19,7,-13,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,LuoK1ng,3045,Trace Esports,map,Astra,N/A,296,22,8,9,+14,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Kai,37494,Trace Esports,map,Jett,N/A,237,16,17,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Biank,3021,Trace Esports,map,Sova,N/A,208,14,14,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,heybay,4712,Trace Esports,map,Kayo,N/A,180,13,10,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,FengF,4770,Trace Esports,map,Cypher,N/A,153,11,12,1,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,212,15,14,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Omen,N/A,197,15,16,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,172,13,13,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,146,10,15,8,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430843,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 04:00:00,Trace Esports,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,124,8,18,2,-10,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Trace Esports
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,ZmjjKK,3520,EDward Gaming,overall,"Raze, Neon",N/A,305,49,31,10,+18,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CHICHOO,15559,EDward Gaming,overall,"Viper, Killjoy",N/A,211,33,27,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,S1Mon,13768,EDward Gaming,overall,"Tejo, Breach",N/A,209,27,32,29,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Smoggy,4742,EDward Gaming,overall,"Omen, Brimstone",N/A,183,31,31,20,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,nobody,3017,EDward Gaming,overall,"Skye, Fade",N/A,171,26,30,11,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CB,39697,Nova Esports,overall,"Deadlock, Neon",N/A,257,39,35,12,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,GuanG,41054,Nova Esports,overall,"Vyse, Cypher",N/A,232,40,29,4,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Ezeir,46460,Nova Esports,overall,"Astra, Brimstone",N/A,219,27,35,25,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,SWERL,1209,Nova Esports,overall,Raze,N/A,200,31,34,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,overall,"Skye, Breach",N/A,96,14,33,17,-19,N/A,N/A,N/A,N/A,N/A,N/A,,
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,338,27,14,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CHICHOO,15559,EDward Gaming,map,Viper,N/A,229,17,14,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,S1Mon,13768,EDward Gaming,map,Tejo,N/A,226,14,17,12,-3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Smoggy,4742,EDward Gaming,map,Omen,N/A,148,13,16,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,nobody,3017,EDward Gaming,map,Skye,N/A,146,10,16,5,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Deadlock,N/A,322,24,18,7,+6,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Vyse,N/A,239,21,14,1,+7,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,SWERL,1209,Nova Esports,map,Raze,N/A,217,16,16,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Ezeir,46460,Nova Esports,map,Astra,N/A,210,11,17,13,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Skye,N/A,90,5,16,10,-11,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,272,22,17,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Smoggy,4742,EDward Gaming,map,Brimstone,N/A,218,18,15,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,nobody,3017,EDward Gaming,map,Fade,N/A,195,16,14,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CHICHOO,15559,EDward Gaming,map,Killjoy,N/A,193,16,13,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,S1Mon,13768,EDward Gaming,map,Breach,N/A,192,13,15,17,-2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,Ezeir,46460,Nova Esports,map,Brimstone,N/A,228,16,18,12,-2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Cypher,N/A,224,19,15,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Neon,N/A,192,15,17,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,SWERL,1209,Nova Esports,map,Raze,N/A,182,15,18,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430844,VCT 2025: China Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-17 06:10:00,EDward Gaming,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Breach,N/A,102,9,17,7,-8,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Haodong,4720,Titan Esports Club,overall,"Brimstone, Omen",N/A,214,28,27,19,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Rb,488,Titan Esports Club,overall,"Fade, Sova",N/A,202,27,31,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,B1ack,30526,Titan Esports Club,overall,"Breach, Kayo",N/A,160,21,30,18,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Dynamite,42235,Titan Esports Club,overall,"Raze, Jett",N/A,146,19,35,4,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Abo,5011,Titan Esports Club,overall,"Killjoy, Cypher",N/A,134,17,31,6,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),overall,"Neon, Jett",N/A,293,41,18,5,+23,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),overall,"Brimstone, Omen",N/A,261,34,24,21,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),overall,"Vyse, Astra",N/A,199,28,19,10,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),overall,"Tejo, Sova",N/A,189,29,24,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),overall,"Breach, Kayo",N/A,171,22,27,17,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Haodong,4720,Titan Esports Club,map,Brimstone,N/A,256,20,13,13,+7,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Rb,488,Titan Esports Club,map,Fade,N/A,221,17,18,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,B1ack,30526,Titan Esports Club,map,Breach,N/A,221,17,16,11,+1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Abo,5011,Titan Esports Club,map,Killjoy,N/A,155,11,18,4,-7,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Dynamite,42235,Titan Esports Club,map,Raze,N/A,153,11,21,3,-10,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Neon,N/A,254,21,12,4,+9,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Brimstone,N/A,243,18,15,10,+3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Vyse,N/A,240,19,15,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Tejo,N/A,177,15,17,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Breach,N/A,157,13,17,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Rb,488,Titan Esports Club,map,Sova,N/A,183,10,13,0,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Haodong,4720,Titan Esports Club,map,Omen,N/A,171,8,14,6,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Dynamite,42235,Titan Esports Club,map,Jett,N/A,138,8,14,1,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Abo,5011,Titan Esports Club,map,Cypher,N/A,113,6,13,2,-7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,B1ack,30526,Titan Esports Club,map,Kayo,N/A,98,4,14,7,-10,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Jett,N/A,332,20,6,1,+14,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Omen,N/A,279,16,9,11,+7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Sova,N/A,201,14,7,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Kayo,N/A,184,9,10,13,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430851,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 04:00:00,Titan Esports Club,JD Mall JDG Esports(JDG Esports),0 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Astra,N/A,157,9,4,3,+5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,JD Mall JDG Esports(JDG Esports)
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,happywei,37927,Xi Lai Gaming,overall,"Cypher, Viper, Omen",N/A,265,49,29,17,+20,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Rarga,22047,Xi Lai Gaming,overall,"Jett, Raze, Neon",N/A,230,42,33,5,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,coconut,12365,Xi Lai Gaming,overall,"Sova, Brimstone",N/A,223,39,31,19,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,YOU,4710,Xi Lai Gaming,overall,"Kayo, Skye, Breach",N/A,200,38,33,19,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Viva,36415,Xi Lai Gaming,overall,"Omen, Gekko, Cypher",N/A,169,31,26,15,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,deLb,10821,All Gamers,overall,"Yoru, Vyse, Cypher",N/A,195,38,38,4,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,monk,14431,All Gamers,overall,"Harbor, Gekko, Fade",N/A,190,30,45,23,-15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Lsn,50080,All Gamers,overall,"Sova, Kayo, Breach",N/A,176,33,39,18,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,K1ra,46748,All Gamers,overall,"Omen, Brimstone",N/A,166,31,38,15,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,bunt,25949,All Gamers,overall,"Vyse, Raze, Neon",N/A,122,20,41,15,-21,N/A,N/A,N/A,N/A,N/A,N/A,,
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,YOU,4710,Xi Lai Gaming,map,Kayo,N/A,180,13,18,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,happywei,37927,Xi Lai Gaming,map,Cypher,N/A,175,12,15,5,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Viva,36415,Xi Lai Gaming,map,Omen,N/A,156,11,15,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Rarga,22047,Xi Lai Gaming,map,Jett,N/A,155,11,16,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,154,11,17,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,deLb,10821,All Gamers,map,Yoru,N/A,269,23,9,0,+14,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Lsn,50080,All Gamers,map,Sova,N/A,255,20,11,6,+9,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,K1ra,46748,All Gamers,map,Omen,N/A,222,17,13,6,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,monk,14431,All Gamers,map,Harbor,N/A,181,12,15,13,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,bunt,25949,All Gamers,map,Vyse,N/A,144,9,12,10,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,All Gamers
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,happywei,37927,Xi Lai Gaming,map,Viper,N/A,321,16,7,5,+9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,coconut,12365,Xi Lai Gaming,map,Brimstone,N/A,291,15,6,8,+9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Viva,36415,Xi Lai Gaming,map,Gekko,N/A,245,13,3,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Rarga,22047,Xi Lai Gaming,map,Raze,N/A,221,12,6,0,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,YOU,4710,Xi Lai Gaming,map,Skye,N/A,150,9,7,1,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,monk,14431,All Gamers,map,Gekko,N/A,241,11,13,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,deLb,10821,All Gamers,map,Vyse,N/A,154,7,13,1,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Lsn,50080,All Gamers,map,Kayo,N/A,146,6,13,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,bunt,25949,All Gamers,map,Raze,N/A,86,3,13,1,-10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,K1ra,46748,All Gamers,map,Brimstone,N/A,63,2,13,6,-11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,313,19,11,2,+8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,happywei,37927,Xi Lai Gaming,map,Omen,N/A,299,21,7,7,+14,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,YOU,4710,Xi Lai Gaming,map,Breach,N/A,270,16,8,13,+8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,223,13,8,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,107,7,8,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,K1ra,46748,All Gamers,map,Omen,N/A,212,12,12,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,deLb,10821,All Gamers,map,Cypher,N/A,162,8,16,3,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,monk,14431,All Gamers,map,Fade,N/A,149,7,17,8,-10,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,bunt,25949,All Gamers,map,Neon,N/A,135,8,16,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430853,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-18 06:20:00,Xi Lai Gaming,All Gamers,2 - 1,Lsn,50080,All Gamers,map,Breach,N/A,128,7,15,5,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,overall,Cypher,N/A,238,37,24,9,+13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Flex1n,4705,Dragon Ranger Gaming,overall,"Astra, Omen",N/A,225,35,26,17,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Nicc,11524,Dragon Ranger Gaming,overall,"Kayo, Breach",N/A,212,31,30,28,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,overall,Jett,N/A,178,29,28,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Fade, Sova",N/A,177,25,31,10,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,zjc,7135,TYLOO,overall,Sova,N/A,231,29,32,13,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,slowly,41739,TYLOO,overall,"Killjoy, Breach",N/A,193,31,32,11,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Ninebody,3547,TYLOO,overall,"Jett, Cypher",N/A,192,27,29,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,5CM,47101,TYLOO,overall,"Astra, Omen",N/A,183,26,33,14,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Eren,14444,TYLOO,overall,"Yoru, Neon",N/A,167,26,31,12,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,264,19,15,13,+4,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,255,17,11,12,+6,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,map,Fade,N/A,214,15,14,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,189,14,11,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,151,11,11,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,zjc,7135,TYLOO,map,Sova,N/A,254,15,14,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Ninebody,3547,TYLOO,map,Jett,N/A,208,14,14,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,slowly,41739,TYLOO,map,Killjoy,N/A,176,12,16,1,-4,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,5CM,47101,TYLOO,map,Astra,N/A,174,11,16,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Eren,14444,TYLOO,map,Yoru,N/A,147,10,16,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,287,23,13,4,+10,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,205,18,17,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Flex1n,4705,Dragon Ranger Gaming,map,Omen,N/A,194,18,15,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,160,12,15,15,-3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,140,10,17,6,-7,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,slowly,41739,TYLOO,map,Breach,N/A,209,19,16,10,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,zjc,7135,TYLOO,map,Sova,N/A,207,14,18,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,5CM,47101,TYLOO,map,Omen,N/A,192,15,17,10,-2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Eren,14444,TYLOO,map,Neon,N/A,187,16,15,8,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430850,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 04:00:00,Dragon Ranger Gaming,TYLOO,2 - 0,Ninebody,3547,TYLOO,map,Cypher,N/A,175,13,15,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,GuanG,41054,Nova Esports,overall,"Cypher, Vyse",N/A,258,62,40,7,+22,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SWERL,1209,Nova Esports,overall,"Raze, Jett",N/A,227,54,39,11,+15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,CB,39697,Nova Esports,overall,"Neon, Sova, Deadlock",N/A,195,42,47,18,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Ezeir,46460,Nova Esports,overall,"Brimstone, Astra",N/A,187,40,43,28,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,o0o0o,4402,Nova Esports,overall,"Breach, Kayo, Skye",N/A,161,36,45,33,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Yuicaw,11218,Wolves Esports,overall,"Breach, Kayo, Cypher",N/A,209,44,49,26,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Lysoar,37489,Wolves Esports,overall,"Killjoy, Cypher, Vyse",N/A,204,44,50,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Spring,14125,Wolves Esports,overall,"Neon, Jett, Raze",N/A,201,44,47,10,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Juicy,7426,Wolves Esports,overall,"Brimstone, Astra, Omen",N/A,175,40,48,30,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SiuFatBB,7849,Wolves Esports,overall,"Tejo, Sova, Skye",N/A,158,37,40,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SWERL,1209,Nova Esports,map,Raze,N/A,333,28,14,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,CB,39697,Nova Esports,map,Neon,N/A,229,18,17,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,GuanG,41054,Nova Esports,map,Cypher,N/A,211,20,16,1,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,o0o0o,4402,Nova Esports,map,Breach,N/A,139,13,15,13,-2,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Ezeir,46460,Nova Esports,map,Brimstone,N/A,135,10,18,15,-8,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Lysoar,37489,Wolves Esports,map,Killjoy,N/A,220,19,19,1,0,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Juicy,7426,Wolves Esports,map,Brimstone,N/A,218,17,18,16,-1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Spring,14125,Wolves Esports,map,Neon,N/A,217,18,17,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SiuFatBB,7849,Wolves Esports,map,Tejo,N/A,210,19,16,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Yuicaw,11218,Wolves Esports,map,Breach,N/A,95,7,19,11,-12,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,GuanG,41054,Nova Esports,map,Cypher,N/A,220,17,14,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,o0o0o,4402,Nova Esports,map,Kayo,N/A,216,15,16,9,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Ezeir,46460,Nova Esports,map,Astra,N/A,171,12,16,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,CB,39697,Nova Esports,map,Sova,N/A,157,11,19,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SWERL,1209,Nova Esports,map,Jett,N/A,150,12,15,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Yuicaw,11218,Wolves Esports,map,Kayo,N/A,290,22,12,12,+10,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Spring,14125,Wolves Esports,map,Jett,N/A,251,18,15,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Lysoar,37489,Wolves Esports,map,Cypher,N/A,188,13,15,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Juicy,7426,Wolves Esports,map,Astra,N/A,158,13,14,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SiuFatBB,7849,Wolves Esports,map,Sova,N/A,121,9,11,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Wolves Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,GuanG,41054,Nova Esports,map,Vyse,N/A,344,25,10,2,+15,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Ezeir,46460,Nova Esports,map,Astra,N/A,254,18,9,3,+9,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SWERL,1209,Nova Esports,map,Raze,N/A,198,14,10,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,CB,39697,Nova Esports,map,Deadlock,N/A,198,13,11,7,+2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,o0o0o,4402,Nova Esports,map,Skye,N/A,127,8,14,11,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,242,15,18,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Lysoar,37489,Wolves Esports,map,Vyse,N/A,203,12,16,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Juicy,7426,Wolves Esports,map,Omen,N/A,149,10,16,7,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,SiuFatBB,7849,Wolves Esports,map,Skye,N/A,143,9,13,1,-4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430849,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 1",2025-01-19 06:15:00,Nova Esports,Wolves Esports,2 - 1,Spring,14125,Wolves Esports,map,Raze,N/A,134,8,15,2,-7,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,nephh,10698,Bilibili Gaming,overall,"Skye, Viper",N/A,263,43,29,24,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,whzy,4885,Bilibili Gaming,overall,Raze,N/A,250,39,32,10,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Knight,4774,Bilibili Gaming,overall,"Cypher, Fade",N/A,193,32,28,16,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,rushia,48878,Bilibili Gaming,overall,"Brimstone, Omen",N/A,163,28,27,17,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Levius,40845,Bilibili Gaming,overall,"Viper, Killjoy",N/A,144,24,31,4,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,yosemite,6022,FunPlus Phoenix,overall,"Clove, Viper",N/A,262,45,31,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,overall,Yoru,N/A,234,35,33,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,overall,Raze,N/A,171,24,36,7,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,overall,"Sova, Fade",N/A,159,27,35,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,overall,Astra,N/A,112,16,31,20,-15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,whzy,4885,Bilibili Gaming,map,Raze,N/A,325,26,14,7,+12,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,nephh,10698,Bilibili Gaming,map,Skye,N/A,210,19,14,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Knight,4774,Bilibili Gaming,map,Cypher,N/A,150,12,16,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,rushia,48878,Bilibili Gaming,map,Brimstone,N/A,143,11,14,9,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Levius,40845,Bilibili Gaming,map,Viper,N/A,130,11,18,1,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,yosemite,6022,FunPlus Phoenix,map,Clove,N/A,268,24,16,2,+8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Sova,N/A,185,18,15,1,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,map,Yoru,N/A,183,15,16,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,map,Raze,N/A,182,13,17,3,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,93,6,15,11,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,nephh,10698,Bilibili Gaming,map,Viper,N/A,316,24,15,13,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Knight,4774,Bilibili Gaming,map,Fade,N/A,235,20,12,11,+8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,rushia,48878,Bilibili Gaming,map,Omen,N/A,183,17,13,8,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,whzy,4885,Bilibili Gaming,map,Raze,N/A,175,13,18,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,158,13,13,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,map,Yoru,N/A,284,20,17,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,255,21,15,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,map,Raze,N/A,159,11,19,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,133,9,20,3,-11,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430845,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 04:00:00,Bilibili Gaming,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,130,10,16,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,heybay,4712,Trace Esports,overall,"Viper, Deadlock",N/A,286,35,15,10,+20,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Biank,3021,Trace Esports,overall,Fade,N/A,232,27,20,15,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,FengF,4770,Trace Esports,overall,Raze,N/A,205,25,20,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,LuoK1ng,3045,Trace Esports,overall,"Omen, Brimstone",N/A,199,26,15,14,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Kai,37494,Trace Esports,overall,Vyse,N/A,189,25,19,11,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,overall,"Omen, Viper",N/A,202,24,27,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,overall,"Clove, Brimstone",N/A,186,21,26,12,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,overall,"Neon, Raze",N/A,165,18,31,3,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,S1Mon,13768,EDward Gaming,overall,"Breach, Tejo",N/A,125,14,26,13,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,overall,"Fade, Skye",N/A,99,12,28,4,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,heybay,4712,Trace Esports,map,Viper,N/A,364,22,7,6,+15,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Biank,3021,Trace Esports,map,Fade,N/A,213,12,6,8,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Kai,37494,Trace Esports,map,Vyse,N/A,208,14,11,7,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,LuoK1ng,3045,Trace Esports,map,Omen,N/A,165,11,10,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,164,10,10,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,map,Omen,N/A,223,13,15,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,map,Clove,N/A,207,12,12,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,133,7,16,2,-9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,S1Mon,13768,EDward Gaming,map,Breach,N/A,124,6,12,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,map,Fade,N/A,98,6,14,1,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Biank,3021,Trace Esports,map,Fade,N/A,251,15,14,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,246,15,10,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,LuoK1ng,3045,Trace Esports,map,Brimstone,N/A,233,15,5,10,+10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,heybay,4712,Trace Esports,map,Deadlock,N/A,208,13,8,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Kai,37494,Trace Esports,map,Vyse,N/A,170,11,8,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,196,11,15,1,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,map,Viper,N/A,181,11,12,1,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,map,Brimstone,N/A,164,9,14,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,S1Mon,13768,EDward Gaming,map,Tejo,N/A,125,8,14,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430846,VCT 2025: China Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-20 06:25:00,Trace Esports,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,map,Skye,N/A,99,6,14,3,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Ezeir,46460,Nova Esports,overall,"Astra, Brimstone",N/A,229,32,30,17,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,CB,39697,Nova Esports,overall,"Killjoy, Deadlock",N/A,190,26,30,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SWERL,1209,Nova Esports,overall,"Jett, Raze",N/A,178,24,34,6,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,GuanG,41054,Nova Esports,overall,Vyse,N/A,168,24,31,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,o0o0o,4402,Nova Esports,overall,Skye,N/A,138,20,33,6,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,overall,"Astra, Brimstone",N/A,232,35,21,21,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,overall,"Cypher, Vyse",N/A,220,31,22,11,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Fade, Deadlock",N/A,218,35,24,8,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,overall,"Jett, Raze",N/A,205,28,33,8,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,overall,Kayo,N/A,196,29,26,32,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Ezeir,46460,Nova Esports,map,Astra,N/A,227,16,16,7,0,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,CB,39697,Nova Esports,map,Killjoy,N/A,173,12,14,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,GuanG,41054,Nova Esports,map,Vyse,N/A,170,13,15,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SWERL,1209,Nova Esports,map,Jett,N/A,161,11,18,3,-7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,o0o0o,4402,Nova Esports,map,Skye,N/A,153,12,17,2,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,244,19,13,15,+6,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Fade,N/A,232,19,12,3,+7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,229,19,11,12,+8,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,186,13,11,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,157,10,17,4,-7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Ezeir,46460,Nova Esports,map,Brimstone,N/A,230,16,14,10,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,CB,39697,Nova Esports,map,Deadlock,N/A,207,14,16,7,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SWERL,1209,Nova Esports,map,Raze,N/A,194,13,16,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,GuanG,41054,Nova Esports,map,Vyse,N/A,166,11,16,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,o0o0o,4402,Nova Esports,map,Skye,N/A,123,8,16,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Vyse,N/A,253,18,11,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Raze,N/A,252,18,16,4,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Brimstone,N/A,235,16,10,9,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Deadlock,N/A,203,16,12,5,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430854,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 04:00:00,Nova Esports,Dragon Ranger Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,148,10,13,17,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),overall,"Killjoy, Vyse, Cypher",N/A,244,52,38,13,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),overall,"Jett, Raze, Neon",N/A,232,49,42,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),overall,"Fade, Tejo, Sova",N/A,194,38,45,11,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),overall,"Astra, Brimstone, Omen",N/A,159,31,44,24,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),overall,"Kayo, Breach",N/A,127,27,46,14,-19,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,happywei,37927,Xi Lai Gaming,overall,"Astra, Viper, Omen",N/A,241,47,35,27,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Rarga,22047,Xi Lai Gaming,overall,"Neon, Raze",N/A,227,45,47,9,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Viva,36415,Xi Lai Gaming,overall,"Killjoy, Gekko, Cypher",N/A,211,46,34,15,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,YOU,4710,Xi Lai Gaming,overall,"Kayo, Skye, Breach",N/A,185,38,37,37,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,coconut,12365,Xi Lai Gaming,overall,"Sova, Brimstone",N/A,177,37,42,19,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Jett,N/A,349,28,13,1,+15,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Killjoy,N/A,215,19,12,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Astra,N/A,190,14,14,10,0,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Fade,N/A,167,12,16,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Kayo,N/A,146,12,16,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,happywei,37927,Xi Lai Gaming,map,Astra,N/A,275,19,16,9,+3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Viva,36415,Xi Lai Gaming,map,Killjoy,N/A,255,20,14,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,131,10,19,3,-9,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,coconut,12365,Xi Lai Gaming,map,Sova,N/A,129,11,17,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,YOU,4710,Xi Lai Gaming,map,Kayo,N/A,122,9,17,13,-8,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,JD Mall JDG Esports(JDG Esports)
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Vyse,N/A,255,15,14,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Tejo,N/A,234,14,14,0,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Raze,N/A,141,8,13,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Brimstone,N/A,136,7,16,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Kayo,N/A,112,6,15,3,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,YOU,4710,Xi Lai Gaming,map,Skye,N/A,323,23,8,8,+15,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Rarga,22047,Xi Lai Gaming,map,Raze,N/A,260,15,11,5,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,coconut,12365,Xi Lai Gaming,map,Brimstone,N/A,232,13,11,13,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,happywei,37927,Xi Lai Gaming,map,Viper,N/A,226,13,9,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Viva,36415,Xi Lai Gaming,map,Gekko,N/A,119,8,11,4,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Z1yan,41029,JD Mall JDG Esports(JDG Esports),map,Cypher,N/A,262,18,12,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,stew,16924,JD Mall JDG Esports(JDG Esports),map,Neon,N/A,207,13,16,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Babyblue,15302,JD Mall JDG Esports(JDG Esports),map,Sova,N/A,182,12,15,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,jkuro,3519,JD Mall JDG Esports(JDG Esports),map,Omen,N/A,152,10,14,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,MrCANI,37674,JD Mall JDG Esports(JDG Esports),map,Breach,N/A,122,9,15,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,290,20,17,1,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,259,18,9,7,+9,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,happywei,37927,Xi Lai Gaming,map,Omen,N/A,223,15,10,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,coconut,12365,Xi Lai Gaming,map,Sova,N/A,170,13,14,3,-1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430855,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 2",2025-01-21 06:15:00,JD Mall JDG Esports(JDG Esports),Xi Lai Gaming,1 - 2,YOU,4710,Xi Lai Gaming,map,Breach,N/A,111,6,12,16,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Xi Lai Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Life,3028,FunPlus Phoenix,overall,"Yoru, Phoenix, Jett",N/A,321,63,42,14,+21,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Autumn,872,FunPlus Phoenix,overall,"Omen, Cypher",N/A,210,41,40,19,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,yosemite,6022,FunPlus Phoenix,overall,"Viper, Clove",N/A,184,38,42,12,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,AAAAY,19530,FunPlus Phoenix,overall,"Gekko, Fade, Tejo",N/A,176,37,38,12,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,BerLIN,7857,FunPlus Phoenix,overall,"Astra, Kayo",N/A,166,32,38,27,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,overall,"Omen, Cypher",N/A,241,50,40,24,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,overall,"Kayo, Breach",N/A,213,43,38,31,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,overall,Jett,N/A,211,46,47,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,overall,"Astra, Omen",N/A,161,32,40,20,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Sova, Fade",N/A,135,29,46,10,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Life,3028,FunPlus Phoenix,map,Yoru,N/A,276,23,16,6,+7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,207,18,16,3,+2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Autumn,872,FunPlus Phoenix,map,Omen,N/A,176,14,16,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,155,12,17,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,138,11,18,2,-7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,266,23,19,2,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,236,19,13,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Omen,N/A,205,17,14,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,150,13,17,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,136,11,15,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Life,3028,FunPlus Phoenix,map,Phoenix,N/A,362,19,8,5,+11,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,278,17,4,7,+13,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Autumn,872,FunPlus Phoenix,map,Cypher,N/A,267,14,6,5,+8,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,193,11,6,3,+5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,yosemite,6022,FunPlus Phoenix,map,Viper,N/A,171,8,6,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,199,9,14,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,162,7,14,3,-7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,145,5,14,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,107,5,14,2,-9,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Fade,N/A,100,4,13,1,-9,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,FunPlus Phoenix
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Life,3028,FunPlus Phoenix,map,Jett,N/A,324,21,18,3,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,yosemite,6022,FunPlus Phoenix,map,Clove,N/A,244,19,18,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Autumn,872,FunPlus Phoenix,map,Omen,N/A,186,13,18,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Tejo,N/A,127,8,16,6,-8,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Kayo,N/A,65,3,17,13,-14,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,357,26,12,8,+14,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,260,18,14,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,258,19,11,15,+8,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,154,12,16,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430856,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,1 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Omen,N/A,148,12,11,8,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Dragon Ranger Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,ZmjjKK,3520,EDward Gaming,overall,"Neon, Raze, Jett",N/A,303,65,45,16,+20,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,nobody,3017,EDward Gaming,overall,"Sova, Tejo",N/A,219,44,38,19,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,CHICHOO,15559,EDward Gaming,overall,"Omen, Vyse, Cypher",N/A,214,48,36,9,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Smoggy,4742,EDward Gaming,overall,"Clove, Brimstone, Omen",N/A,187,44,39,20,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,S1Mon,13768,EDward Gaming,overall,"Breach, Kayo",N/A,132,27,37,35,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,overall,"Omen, Viper",N/A,237,55,43,21,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,overall,"Neon, Raze",N/A,234,54,50,9,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,overall,"Sova, Brimstone",N/A,172,32,46,17,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,overall,"Breach, Skye",N/A,118,27,41,24,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,overall,"Cypher, Gekko",N/A,111,26,48,18,-22,N/A,N/A,N/A,N/A,N/A,N/A,,
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,249,22,21,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Smoggy,4742,EDward Gaming,map,Clove,N/A,221,22,22,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,S1Mon,13768,EDward Gaming,map,Breach,N/A,174,15,16,18,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,CHICHOO,15559,EDward Gaming,map,Omen,N/A,169,17,18,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,nobody,3017,EDward Gaming,map,Sova,N/A,161,14,18,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,305,27,22,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Omen,N/A,239,23,18,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,177,14,17,9,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Breach,N/A,175,16,14,17,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,145,14,19,9,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Xi Lai Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,357,29,15,7,+14,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,CHICHOO,15559,EDward Gaming,map,Vyse,N/A,205,18,12,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,nobody,3017,EDward Gaming,map,Tejo,N/A,166,13,17,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Smoggy,4742,EDward Gaming,map,Brimstone,N/A,140,12,11,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,S1Mon,13768,EDward Gaming,map,Kayo,N/A,104,6,17,11,-11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Viper,N/A,300,25,14,4,+11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Raze,N/A,274,22,15,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Gekko,N/A,114,9,17,6,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Brimstone,N/A,113,8,17,7,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Skye,N/A,104,8,15,5,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,nobody,3017,EDward Gaming,map,Sova,N/A,331,17,3,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,302,14,9,3,+5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,268,13,6,2,+7,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Smoggy,4742,EDward Gaming,map,Omen,N/A,200,10,6,9,+4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,S1Mon,13768,EDward Gaming,map,Breach,N/A,119,6,4,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,coconut,12365,Xi Lai Gaming,map,Sova,N/A,225,10,12,1,-2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,happywei,37927,Xi Lai Gaming,map,Omen,N/A,173,7,11,6,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Rarga,22047,Xi Lai Gaming,map,Neon,N/A,124,5,13,0,-8,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,Viva,36415,Xi Lai Gaming,map,Cypher,N/A,75,3,12,3,-9,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430857,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 3",2025-01-22 07:05:00,EDward Gaming,Xi Lai Gaming,2 - 1,YOU,4710,Xi Lai Gaming,map,Breach,N/A,74,3,12,2,-9,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,overall,"Cypher, Sova, Fade",N/A,221,53,43,17,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,nephh,10698,Bilibili Gaming,overall,"Skye, Viper",N/A,217,47,50,22,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,overall,"Raze, Neon",N/A,208,47,47,11,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Levius,40845,Bilibili Gaming,overall,"Viper, Killjoy",N/A,186,43,49,12,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,rushia,48878,Bilibili Gaming,overall,"Brimstone, Omen",N/A,156,36,50,22,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,overall,"Raze, Killjoy",N/A,290,67,45,11,+22,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,overall,"Vyse, Neon",N/A,230,49,44,17,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Trace Esports,overall,"Fade, Sova",N/A,204,43,48,24,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,LuoK1ng,3045,Trace Esports,overall,"Brimstone, Omen",N/A,190,40,46,43,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,overall,"Deadlock, Breach, Viper",N/A,170,40,43,23,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,nephh,10698,Bilibili Gaming,map,Skye,N/A,253,19,16,7,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,237,17,14,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Cypher,N/A,229,19,12,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Levius,40845,Bilibili Gaming,map,Viper,N/A,140,11,19,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,rushia,48878,Bilibili Gaming,map,Brimstone,N/A,112,8,17,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Vyse,N/A,360,27,13,5,+14,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,321,24,13,4,+11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,LuoK1ng,3045,Trace Esports,map,Brimstone,N/A,171,10,16,18,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Trace Esports,map,Fade,N/A,115,7,18,9,-11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Deadlock,N/A,111,10,14,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Sova,N/A,227,20,15,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Neon,N/A,223,19,17,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,nephh,10698,Bilibili Gaming,map,Viper,N/A,220,18,16,9,+2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,205,19,16,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,rushia,48878,Bilibili Gaming,map,Omen,N/A,193,16,17,10,-1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Trace Esports,map,Sova,N/A,271,21,17,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Killjoy,N/A,248,22,17,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Breach,N/A,199,15,19,12,-4,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,LuoK1ng,3045,Trace Esports,map,Omen,N/A,194,14,20,13,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Neon,N/A,122,9,19,5,-10,N/A,N/A,N/A,N/A,N/A,N/A,Haven,Bilibili Gaming
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,212,13,14,6,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Fade,N/A,208,14,16,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,nephh,10698,Bilibili Gaming,map,Viper,N/A,179,10,18,6,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,164,11,16,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,rushia,48878,Bilibili Gaming,map,Omen,N/A,164,12,16,6,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,300,21,15,3,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Trace Esports,map,Fade,N/A,226,15,13,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Vyse,N/A,207,13,12,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,LuoK1ng,3045,Trace Esports,map,Omen,N/A,204,16,10,12,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430847,VCT 2025: China Kickoff,"Main Event: 
+						Upper Final",2025-01-23 04:00:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Viper,N/A,201,15,10,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,overall,"Omen, Astra",N/A,190,23,29,18,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,overall,Cypher,N/A,181,22,29,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,overall,"Sova, Fade",N/A,153,18,33,7,-15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,overall,Jett,N/A,147,21,33,2,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,overall,"Breach, Kayo",N/A,108,10,31,18,-21,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,ZmjjKK,3520,EDward Gaming,overall,"Jett, Neon",N/A,291,34,27,14,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Smoggy,4742,EDward Gaming,overall,"Omen, Astra",N/A,284,38,14,19,+24,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,nobody,3017,EDward Gaming,overall,Sova,N/A,251,36,16,8,+20,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,CHICHOO,15559,EDward Gaming,overall,Cypher,N/A,220,27,17,8,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,S1Mon,13768,EDward Gaming,overall,"Breach, Kayo",N/A,157,20,20,28,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,173,7,12,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Omen,N/A,164,7,13,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Sova,N/A,131,5,13,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,94,3,13,3,-10,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,48,2,13,0,-11,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,344,17,11,1,+6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Smoggy,4742,EDward Gaming,map,Omen,N/A,322,17,4,7,+13,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,272,14,1,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,nobody,3017,EDward Gaming,map,Sova,N/A,180,10,3,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,S1Mon,13768,EDward Gaming,map,Breach,N/A,138,6,5,12,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,245,19,20,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Flex1n,4705,Dragon Ranger Gaming,map,Astra,N/A,215,16,16,14,0,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,189,15,17,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,SpiritZ1,31753,Dragon Ranger Gaming,map,Fade,N/A,175,13,20,3,-7,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,121,7,18,15,-11,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,nobody,3017,EDward Gaming,map,Sova,N/A,322,26,13,4,+13,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,Smoggy,4742,EDward Gaming,map,Astra,N/A,246,21,10,12,+11,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,237,17,16,13,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,S1Mon,13768,EDward Gaming,map,Kayo,N/A,175,14,15,16,-1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430858,VCT 2025: China Kickoff,"Main Event: 
+						Lower Round 4",2025-01-23 07:15:00,Dragon Ranger Gaming,EDward Gaming,0 - 2,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,167,13,16,5,-3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nephh,10698,Bilibili Gaming,overall,"Kayo, Viper",N/A,229,46,49,21,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Knight,4774,Bilibili Gaming,overall,"Fade, Sova",N/A,190,39,43,20,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Levius,40845,Bilibili Gaming,overall,Killjoy,N/A,168,37,51,7,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,rushia,48878,Bilibili Gaming,overall,"Astra, Omen",N/A,160,38,49,22,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,whzy,4885,Bilibili Gaming,overall,"Neon, Raze",N/A,149,34,51,6,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,ZmjjKK,3520,EDward Gaming,overall,"Neon, Jett",N/A,272,61,44,11,+17,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Smoggy,4742,EDward Gaming,overall,"Astra, Omen, Clove",N/A,230,54,39,22,+15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nobody,3017,EDward Gaming,overall,Sova,N/A,212,47,40,13,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,CHICHOO,15559,EDward Gaming,overall,"Cypher, Omen",N/A,211,47,38,18,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,S1Mon,13768,EDward Gaming,overall,"Kayo, Breach",N/A,149,34,34,32,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nephh,10698,Bilibili Gaming,map,Kayo,N/A,228,18,17,16,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,rushia,48878,Bilibili Gaming,map,Astra,N/A,211,21,19,11,+2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,whzy,4885,Bilibili Gaming,map,Neon,N/A,208,18,20,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,185,17,19,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Knight,4774,Bilibili Gaming,map,Fade,N/A,141,13,18,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,253,24,21,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Smoggy,4742,EDward Gaming,map,Astra,N/A,212,19,17,11,+2,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,209,19,18,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,182,18,15,7,+3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,S1Mon,13768,EDward Gaming,map,Kayo,N/A,165,13,16,17,-3,N/A,N/A,N/A,N/A,N/A,N/A,Pearl,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nephh,10698,Bilibili Gaming,map,Viper,N/A,201,14,16,1,-2,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Knight,4774,Bilibili Gaming,map,Sova,N/A,184,11,12,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,163,12,17,2,-5,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,rushia,48878,Bilibili Gaming,map,Omen,N/A,150,9,15,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,whzy,4885,Bilibili Gaming,map,Neon,N/A,127,8,16,1,-8,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,354,24,11,2,+13,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Smoggy,4742,EDward Gaming,map,Omen,N/A,269,19,12,7,+7,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,201,12,11,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,185,12,11,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,S1Mon,13768,EDward Gaming,map,Breach,N/A,110,9,9,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Haven,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nephh,10698,Bilibili Gaming,map,Viper,N/A,258,14,16,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Knight,4774,Bilibili Gaming,map,Fade,N/A,244,15,13,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Levius,40845,Bilibili Gaming,map,Killjoy,N/A,157,8,15,2,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,rushia,48878,Bilibili Gaming,map,Omen,N/A,118,8,15,2,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,whzy,4885,Bilibili Gaming,map,Raze,N/A,111,8,15,1,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,CHICHOO,15559,EDward Gaming,map,Omen,N/A,266,17,12,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,227,16,11,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,210,13,12,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,Smoggy,4742,EDward Gaming,map,Clove,N/A,210,16,10,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430860,VCT 2025: China Kickoff,"Main Event: 
+						Lower Final",2025-01-24 04:00:00,Bilibili Gaming,EDward Gaming,0 - 3,S1Mon,13768,EDward Gaming,map,Breach,N/A,173,12,9,9,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,LuoK1ng,3045,Trace Esports,overall,"Omen, Brimstone, Astra",N/A,206,74,68,38,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Biank,3021,Trace Esports,overall,"Fade, Sova",N/A,192,63,78,34,-15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,heybay,4712,Trace Esports,overall,"Viper, Deadlock, Kayo, Breach",N/A,191,61,76,31,-15,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Kai,37494,Trace Esports,overall,"Vyse, Jett, Neon",N/A,183,65,73,17,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,FengF,4770,Trace Esports,overall,"Raze, Cypher, Vyse",N/A,181,58,78,11,-20,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,overall,"Neon, Raze, Jett",N/A,271,86,69,19,+17,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,overall,"Sova, Tejo, Fade",N/A,240,87,58,19,+29,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,overall,"Clove, Brimstone, Omen",N/A,210,73,66,39,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,overall,"Omen, Vyse, Astra, Killjoy",N/A,202,73,68,43,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,S1Mon,13768,EDward Gaming,overall,"Breach, Kayo",N/A,150,54,60,47,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Biank,3021,Trace Esports,map,Fade,N/A,300,28,21,14,+7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,FengF,4770,Trace Esports,map,Raze,N/A,225,20,20,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Kai,37494,Trace Esports,map,Vyse,N/A,213,19,19,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,LuoK1ng,3045,Trace Esports,map,Omen,N/A,206,18,15,13,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,heybay,4712,Trace Esports,map,Viper,N/A,143,11,22,8,-11,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Clove,N/A,285,28,22,6,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,275,25,19,8,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Omen,N/A,218,19,20,14,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,136,14,17,2,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,S1Mon,13768,EDward Gaming,map,Breach,N/A,116,11,18,14,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,heybay,4712,Trace Esports,map,Deadlock,N/A,274,25,15,7,+10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,LuoK1ng,3045,Trace Esports,map,Brimstone,N/A,197,18,18,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Kai,37494,Trace Esports,map,Vyse,N/A,190,16,17,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Biank,3021,Trace Esports,map,Fade,N/A,187,14,17,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,FengF,4770,Trace Esports,map,Raze,N/A,179,15,19,0,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,274,23,20,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Tejo,N/A,221,21,16,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Brimstone,N/A,170,13,17,13,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,S1Mon,13768,EDward Gaming,map,Kayo,N/A,169,16,16,12,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Vyse,N/A,158,13,19,10,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,LuoK1ng,3045,Trace Esports,map,Astra,N/A,279,31,20,9,+11,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Kai,37494,Trace Esports,map,Jett,N/A,219,25,22,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Biank,3021,Trace Esports,map,Sova,N/A,203,19,26,8,-7,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,heybay,4712,Trace Esports,map,Kayo,N/A,177,16,25,14,-9,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,FengF,4770,Trace Esports,map,Cypher,N/A,157,15,26,7,-11,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,345,37,17,5,+20,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Astra,N/A,232,28,24,17,+4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Omen,N/A,188,19,23,11,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,S1Mon,13768,EDward Gaming,map,Kayo,N/A,157,18,21,14,-3,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,155,17,21,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Abyss,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,heybay,4712,Trace Esports,map,Breach,N/A,168,9,14,2,-5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,FengF,4770,Trace Esports,map,Vyse,N/A,162,8,13,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,LuoK1ng,3045,Trace Esports,map,Brimstone,N/A,143,7,15,8,-8,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Kai,37494,Trace Esports,map,Neon,N/A,111,5,15,2,-10,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Biank,3021,Trace Esports,map,Sova,N/A,77,2,14,4,-12,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Neon,N/A,378,21,9,3,+12,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Fade,N/A,258,15,8,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Killjoy,N/A,200,13,5,2,+8,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Brimstone,N/A,195,13,4,9,+9,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming
+430848,VCT 2025: China Kickoff,"Main Event: 
+						Grand Final",2025-01-25 04:00:00,Trace Esports,EDward Gaming,1 - 3,S1Mon,13768,EDward Gaming,map,Breach,N/A,156,9,5,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,Fracture,EDward Gaming

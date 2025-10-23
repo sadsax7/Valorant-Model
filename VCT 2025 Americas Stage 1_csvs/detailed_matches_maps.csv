@@ -1,0 +1,105 @@
+match_id,map_name,map_order,score,winner,duration,picked_by
+459517,Lotus,1,6 - 13,NRG,54:13,NRG
+459517,Fracture,2,13 - 5,Cloud9,38:15,Cloud9
+459517,Pearl,3,13 - 9,Cloud9,48:35,Decider
+459518,Fracture,1,3 - 13,LOUD,46:33,VISA KRÜ(KRÜ Esports)
+459518,Haven,2,13 - 2,VISA KRÜ(KRÜ Esports),34:40,LOUD
+459518,Split,3,13 - 10,VISA KRÜ(KRÜ Esports),59:53,Decider
+459519,Lotus,1,13 - 10,G2 Esports,1:06:57,G2 Esports
+459519,Ascent,2,13 - 7,G2 Esports,46:33,FURIA
+459520,Split,1,13 - 7,MIBR,50:40,LEVIATÁN
+459520,Icebox,2,13 - 8,MIBR,52:57,MIBR
+459521,Haven,1,11 - 13,Evil Geniuses,58:34,2Game Esports
+459521,Lotus,2,8 - 13,Evil Geniuses,46:25,Evil Geniuses
+459522,Pearl,1,13 - 5,Sentinels,47:37,Sentinels
+459522,Haven,2,9 - 13,100 Thieves,42:21,100 Thieves
+459522,Split,3,13 - 1,Sentinels,32:58,Decider
+459523,Lotus,1,10 - 13,FURIA,1:03:20,NRG
+459523,Pearl,2,13 - 2,NRG,38:07,FURIA
+459523,Fracture,3,13 - 4,NRG,37:29,Decider
+459524,Lotus,1,7 - 13,VISA KRÜ(KRÜ Esports),52:17,Sentinels
+459524,Icebox,2,8 - 13,VISA KRÜ(KRÜ Esports),48:28,VISA KRÜ(KRÜ Esports)
+459525,Fracture,1,13 - 10,100 Thieves,54:51,Evil Geniuses
+459525,Haven,2,13 - 7,100 Thieves,44:46,100 Thieves
+459526,Pearl,1,12 - 14,MIBR,1:10:31,MIBR
+459526,Haven,2,13 - 11,G2 Esports,1:03:03,G2 Esports
+459526,Ascent,3,13 - 8,G2 Esports,48:09,Decider
+459527,Lotus,1,12 - 14,2Game Esports,1:14:14,LOUD
+459527,Pearl,2,11 - 13,2Game Esports,58:40,2Game Esports
+459528,Split,1,8 - 13,Cloud9,1:03:43,Cloud9
+459528,Ascent,2,3 - 13,Cloud9,33:55,LEVIATÁN
+459529,Haven,1,4 - 13,Sentinels,48:27,Evil Geniuses
+459529,Pearl,2,6 - 13,Sentinels,48:01,Sentinels
+459530,Haven,1,6 - 13,LOUD,51:00,Decider
+459530,Icebox,2,13 - 11,100 Thieves,55:05,Decider
+459530,Split,3,13 - 8,100 Thieves,50:57,Decider
+459531,Icebox,1,6 - 13,VISA KRÜ(KRÜ Esports),54:19,VISA KRÜ(KRÜ Esports)
+459531,Ascent,2,13 - 6,2Game Esports,47:05,2Game Esports
+459531,Pearl,3,6 - 13,VISA KRÜ(KRÜ Esports),44:57,Decider
+459532,Lotus,1,13 - 1,G2 Esports,39:18,NRG
+459532,Ascent,2,13 - 6,G2 Esports,45:13,G2 Esports
+459533,Ascent,1,4 - 13,LEVIATÁN,45:56,FURIA
+459533,Pearl,2,5 - 13,LEVIATÁN,42:06,LEVIATÁN
+459534,Pearl,1,13 - 9,Cloud9,1:00:19,MIBR
+459534,Lotus,2,13 - 15,MIBR,1:01:15,Cloud9
+459534,Haven,3,11 - 13,MIBR,54:53,Decider
+459535,Ascent,1,15 - 13,100 Thieves,1:14:32,2Game Esports
+459535,Icebox,2,13 - 6,100 Thieves,40:50,100 Thieves
+459536,Lotus,1,13 - 10,G2 Esports,1:03:37,G2 Esports
+459536,Fracture,2,11 - 13,LEVIATÁN,55:09,LEVIATÁN
+459536,Haven,3,13 - 7,G2 Esports,44:09,Decider
+459537,Lotus,1,14 - 16,Cloud9,1:20:37,FURIA
+459537,Pearl,2,1 - 13,Cloud9,33:41,Cloud9
+459538,Split,1,13 - 10,Sentinels,1:03:10,Sentinels
+459538,Lotus,2,11 - 13,LOUD,55:13,LOUD
+459538,Haven,3,13 - 5,Sentinels,36:15,Decider
+459539,Lotus,1,4 - 13,Evil Geniuses,53:00,VISA KRÜ(KRÜ Esports)
+459539,Pearl,2,7 - 13,Evil Geniuses,50:32,Evil Geniuses
+459540,Haven,1,6 - 13,MIBR,49:42,NRG
+459540,Icebox,2,5 - 13,MIBR,41:04,MIBR
+459541,Icebox,1,13 - 5,G2 Esports,48:28,Cloud9
+459541,Haven,2,4 - 13,Cloud9,35:56,G2 Esports
+459541,Pearl,3,13 - 11,G2 Esports,55:53,Decider
+459542,Icebox,1,13 - 3,MIBR,49:18,MIBR
+459542,Ascent,2,9 - 13,FURIA,45:32,FURIA
+459542,Split,3,13 - 8,MIBR,44:36,Decider
+459543,Haven,1,13 - 4,Sentinels,53:37,2Game Esports
+459543,Pearl,2,13 - 5,Sentinels,47:59,Sentinels
+459544,Fracture,1,13 - 10,VISA KRÜ(KRÜ Esports),49:14,100 Thieves
+459544,Icebox,2,13 - 9,VISA KRÜ(KRÜ Esports),50:50,VISA KRÜ(KRÜ Esports)
+459545,Lotus,1,11 - 13,LOUD,1:02:10,LOUD
+459545,Pearl,2,14 - 12,Evil Geniuses,1:19:08,Evil Geniuses
+459545,Split,3,13 - 11,Evil Geniuses,57:18,Decider
+459546,Fracture,1,13 - 15,NRG,1:01:26,NRG
+459546,Icebox,2,8 - 13,NRG,44:28,LEVIATÁN
+475897,Split,1,13 - 10,MIBR,1:06:50,100 Thieves
+475897,Icebox,2,13 - 4,MIBR,37:57,MIBR
+475898,Ascent,1,13 - 9,Sentinels,57:32,Cloud9
+475898,Pearl,2,13 - 9,Sentinels,1:30:48,Sentinels
+475903,Fracture,1,13 - 5,100 Thieves,55:46,100 Thieves
+475903,Haven,2,13 - 11,100 Thieves,52:32,NRG
+475904,Fracture,1,9 - 13,Evil Geniuses,57:18,Evil Geniuses
+475904,Icebox,2,13 - 15,Evil Geniuses,1:06:17,Cloud9
+475899,Lotus,1,8 - 13,MIBR,58:52,VISA KRÜ(KRÜ Esports)
+475899,Icebox,2,5 - 13,MIBR,36:49,MIBR
+475900,Split,1,13 - 5,G2 Esports,52:23,Sentinels
+475900,Icebox,2,11 - 13,Sentinels,54:31,G2 Esports
+475900,Ascent,3,11 - 13,Sentinels,56:50,Decider
+475906,Lotus,1,12 - 14,Evil Geniuses,1:17:07,Evil Geniuses
+475906,Icebox,2,11 - 13,Evil Geniuses,56:08,VISA KRÜ(KRÜ Esports)
+475905,Haven,1,13 - 4,G2 Esports,52:43,100 Thieves
+475905,Split,2,12 - 14,100 Thieves,1:00:10,G2 Esports
+475905,Pearl,3,16 - 14,G2 Esports,1:10:55,Decider
+475901,Lotus,1,7 - 13,Sentinels,1:27:20,MIBR
+475901,Split,2,11 - 13,Sentinels,55:23,Sentinels
+475907,Lotus,1,9 - 13,Evil Geniuses,1:02:48,Evil Geniuses
+475907,Split,2,13 - 7,G2 Esports,46:03,G2 Esports
+475907,Pearl,3,13 - 11,G2 Esports,57:09,Decider
+475908,Haven,1,13 - 10,MIBR,1:07:02,MIBR
+475908,Lotus,2,13 - 15,G2 Esports,1:05:11,G2 Esports
+475908,Split,3,10 - 13,G2 Esports,56:00,MIBR
+475908,Ascent,4,8 - 13,G2 Esports,44:37,G2 Esports
+475902,Haven,1,9 - 13,G2 Esports,1:04:24,Sentinels
+475902,Split,2,9 - 13,G2 Esports,47:11,G2 Esports
+475902,Pearl,3,13 - 10,Sentinels,55:28,Sentinels
+475902,Ascent,4,10 - 13,G2 Esports,55:21,G2 Esports

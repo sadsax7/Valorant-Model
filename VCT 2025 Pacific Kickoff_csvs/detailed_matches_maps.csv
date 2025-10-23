@@ -1,0 +1,64 @@
+match_id,map_name,map_order,score,winner,duration,picked_by
+430514,Pearl,1,11 - 13,T1,1:19:42,BOOM Esports
+430514,Bind,2,13 - 8,BOOM Esports,45:08,T1
+430514,Fracture,3,7 - 13,T1,39:44,Decider
+430515,Split,1,9 - 13,Nongshim RedForce,53:44,Nongshim RedForce
+430515,Haven,2,9 - 13,Nongshim RedForce,43:54,ZETA DIVISION
+430516,Abyss,1,3 - 13,Team Secret,51:17,Team Secret
+430516,Split,2,13 - 7,Global Esports,45:52,Global Esports
+430516,Pearl,3,13 - 6,Global Esports,48:22,Decider
+430517,Abyss,1,14 - 12,DetonatioN FocusMe,1:15:45,Rex Regum Qeon
+430517,Pearl,2,3 - 13,Rex Regum Qeon,35:42,DetonatioN FocusMe
+430517,Haven,3,3 - 13,Rex Regum Qeon,37:48,Decider
+430521,Lotus,1,13 - 11,DRX,1:11:24,Nongshim RedForce
+430521,Pearl,2,6 - 13,Nongshim RedForce,45:26,DRX
+430521,Fracture,3,13 - 9,DRX,48:44,Decider
+430518,Bind,1,6 - 13,T1,43:53,T1
+430518,Fracture,2,13 - 8,Paper Rex,42:18,Paper Rex
+430518,Split,3,11 - 13,T1,53:11,Decider
+430519,Split,1,6 - 13,Global Esports,54:35,Global Esports
+430519,Abyss,2,13 - 9,TALON,51:05,TALON
+430519,Lotus,3,13 - 8,TALON,51:39,Decider
+430520,Fracture,1,6 - 13,Rex Regum Qeon,49:04,Rex Regum Qeon
+430520,Lotus,2,13 - 8,Gen.G,51:22,Gen.G
+430520,Haven,3,14 - 12,Gen.G,1:05:05,Decider
+430526,Pearl,1,13 - 3,Nongshim RedForce,50:29,BOOM Esports
+430526,Bind,2,7 - 13,BOOM Esports,55:46,Nongshim RedForce
+430526,Lotus,3,13 - 9,Nongshim RedForce,52:11,Decider
+430529,Lotus,1,13 - 5,Paper Rex,51:07,ZETA DIVISION
+430529,Fracture,2,13 - 8,Paper Rex,45:05,Paper Rex
+430527,Lotus,1,9 - 13,Team Secret,1:09:49,Team Secret
+430527,Pearl,2,13 - 4,Rex Regum Qeon,50:02,Rex Regum Qeon
+430527,Haven,3,13 - 4,Rex Regum Qeon,41:34,Decider
+430528,Abyss,1,8 - 13,DetonatioN FocusMe,50:07,DetonatioN FocusMe
+430528,Split,2,12 - 14,DetonatioN FocusMe,1:04:41,Global Esports
+430522,Fracture,1,13 - 5,T1,52:42,TALON
+430522,Bind,2,4 - 13,TALON,34:07,T1
+430522,Haven,3,13 - 9,T1,49:31,Decider
+430523,Abyss,1,9 - 13,DRX,59:49,DRX
+430523,Bind,2,13 - 15,DRX,1:03:54,Gen.G
+430530,Fracture,1,12 - 14,Rex Regum Qeon,1:13:25,Rex Regum Qeon
+430530,Lotus,2,22 - 20,Nongshim RedForce,1:32:19,Nongshim RedForce
+430530,Pearl,3,13 - 8,Nongshim RedForce,52:15,Decider
+430531,Abyss,1,13 - 10,DetonatioN FocusMe,58:57,DetonatioN FocusMe
+430531,Pearl,2,13 - 1,DetonatioN FocusMe,34:24,Paper Rex
+430532,Lotus,1,9 - 13,Nongshim RedForce,1:02:09,Nongshim RedForce
+430532,Bind,2,13 - 10,TALON,52:01,TALON
+430532,Split,3,13 - 5,TALON,42:15,Decider
+430533,Abyss,1,13 - 6,Gen.G,52:41,DetonatioN FocusMe
+430533,Lotus,2,13 - 6,Gen.G,41:55,Gen.G
+430524,Lotus,1,13 - 11,T1,1:06:28,DRX
+430524,Haven,2,13 - 15,DRX,59:21,T1
+430524,Fracture,3,10 - 13,DRX,50:27,Decider
+430534,Bind,1,7 - 13,Gen.G,52:32,TALON
+430534,Lotus,2,2 - 13,Gen.G,34:08,Gen.G
+430535,Pearl,1,13 - 8,T1,1:07:45,T1
+430535,Lotus,2,13 - 8,T1,41:54,Gen.G
+430535,Haven,3,5 - 13,Gen.G,43:00,T1
+430535,Split,4,15 - 17,Gen.G,1:14:51,Gen.G
+430535,Bind,5,13 - 10,T1,55:35,Decider
+430525,Abyss,1,13 - 3,DRX,1:00:22,DRX
+430525,Lotus,2,6 - 13,T1,42:03,T1
+430525,Fracture,3,13 - 9,DRX,49:54,DRX
+430525,Bind,4,12 - 14,T1,1:02:47,T1
+430525,Split,5,13 - 11,DRX,56:48,Decider

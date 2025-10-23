@@ -1,0 +1,112 @@
+match_id,map_name,map_order,score,winner,duration,picked_by
+511543,Icebox,1,13 - 4,Natus Vincere,37:53,Natus Vincere
+511543,Sunset,2,6 - 13,Apeks,40:00,Apeks
+511543,Corrode,3,13 - 3,Natus Vincere,37:03,Decider
+511544,Sunset,1,10 - 13,GIANTX,51:20,Team Vitality
+511544,Bind,2,11 - 13,GIANTX,52:27,GIANTX
+511545,Bind,1,7 - 13,Gentle Mates,45:43,FUT Esports
+511545,Sunset,2,13 - 5,FUT Esports,44:06,Gentle Mates
+511545,Lotus,3,16 - 14,FUT Esports,1:07:52,Decider
+511546,Bind,1,13 - 4,Team Liquid,36:55,Team Liquid
+511546,Icebox,2,10 - 13,Movistar KOI(KOI),49:30,Movistar KOI(KOI)
+511546,Lotus,3,13 - 8,Team Liquid,44:29,Decider
+511547,Icebox,1,5 - 13,BBL Esports,42:33,BBL Esports
+511547,Haven,2,13 - 9,Team Heretics,48:26,Team Heretics
+511547,Sunset,3,13 - 11,Team Heretics,50:17,Decider
+511548,Bind,1,13 - 7,FNATIC,45:35,Karmine Corp
+511548,Lotus,2,10 - 13,Karmine Corp,59:44,FNATIC
+511548,Icebox,3,13 - 11,FNATIC,59:55,Decider
+511549,Icebox,1,7 - 13,Karmine Corp,48:44,Karmine Corp
+511549,Sunset,2,13 - 11,Apeks,55:12,Apeks
+511549,Lotus,3,11 - 13,Karmine Corp,52:28,Decider
+511550,Icebox,1,13 - 7,GIANTX,46:28,BBL Esports
+511550,Lotus,2,11 - 13,BBL Esports,52:20,GIANTX
+511550,Corrode,3,13 - 11,GIANTX,52:40,Decider
+511551,Corrode,1,13 - 7,Team Liquid,48:39,Natus Vincere
+511551,Sunset,2,13 - 4,Team Liquid,36:42,Team Liquid
+511552,Corrode,1,12 - 14,Team Heretics,1:00:46,Gentle Mates
+511552,Ascent,2,14 - 12,Gentle Mates,55:23,Team Heretics
+511552,Bind,3,5 - 13,Team Heretics,45:40,Decider
+511553,Haven,1,2 - 13,Team Vitality,34:48,FUT Esports
+511553,Lotus,2,5 - 13,Team Vitality,41:46,Team Vitality
+511554,Ascent,1,7 - 13,FNATIC,47:44,FNATIC
+511554,Haven,2,11 - 13,FNATIC,50:43,Movistar KOI(KOI)
+511562,Sunset,1,11 - 13,GIANTX,53:30,FUT Esports
+511562,Haven,2,13 - 6,FUT Esports,40:51,GIANTX
+511562,Bind,3,13 - 5,FUT Esports,42:45,Decider
+511563,Sunset,1,3 - 13,BBL Esports,34:04,BBL Esports
+511563,Lotus,2,12 - 14,BBL Esports,56:07,Gentle Mates
+511564,Ascent,1,14 - 12,Team Liquid,1:02:42,Apeks
+511564,Corrode,2,11 - 13,Apeks,56:02,Team Liquid
+511564,Lotus,3,13 - 6,Team Liquid,41:03,Decider
+511565,Lotus,1,13 - 9,Movistar KOI(KOI),49:47,Movistar KOI(KOI)
+511565,Sunset,2,2 - 13,Karmine Corp,32:23,Karmine Corp
+511565,Haven,3,4 - 13,Karmine Corp,39:57,Decider
+511566,Ascent,1,13 - 10,Natus Vincere,50:52,FNATIC
+511566,Icebox,2,11 - 13,FNATIC,55:16,Decider
+511566,Bind,3,13 - 15,FNATIC,1:05:04,Natus Vincere
+511567,Haven,1,11 - 13,Team Heretics,55:37,Team Heretics
+511567,Ascent,2,9 - 13,Team Heretics,55:35,Team Vitality
+511568,Haven,1,6 - 13,Team Heretics,43:48,Team Heretics
+511568,Bind,2,7 - 13,Team Heretics,47:01,FUT Esports
+511569,Lotus,1,9 - 13,Apeks,47:51,Movistar KOI(KOI)
+511569,Ascent,2,13 - 4,Movistar KOI(KOI),37:38,Apeks
+511569,Haven,3,13 - 8,Movistar KOI(KOI),44:40,Decider
+511570,Corrode,1,13 - 8,Gentle Mates,38:43,Gentle Mates
+511570,Ascent,2,12 - 14,GIANTX,54:31,GIANTX
+511570,Haven,3,4 - 13,GIANTX,37:00,Decider
+511571,Sunset,1,14 - 12,Natus Vincere,1:02:25,Karmine Corp
+511571,Corrode,2,13 - 8,Natus Vincere,45:07,Natus Vincere
+511572,Lotus,1,13 - 11,Team Vitality,1:01:25,Team Vitality
+511572,Icebox,2,7 - 13,BBL Esports,45:57,BBL Esports
+511572,Bind,3,10 - 13,BBL Esports,50:28,Decider
+511573,Bind,1,14 - 12,Team Liquid,59:24,Team Liquid
+511573,Ascent,2,13 - 1,Team Liquid,33:06,FNATIC
+511575,Icebox,1,9 - 13,Natus Vincere,50:15,Movistar KOI(KOI)
+511575,Corrode,2,16 - 14,Movistar KOI(KOI),1:06:20,Natus Vincere
+511575,Ascent,3,3 - 13,Natus Vincere,34:43,Decider
+511576,Bind,1,5 - 13,FNATIC,41:24,FNATIC
+511576,Lotus,2,10 - 13,FNATIC,48:13,Apeks
+511577,Ascent,1,7 - 13,Team Heretics,51:35,GIANTX
+511577,Haven,2,3 - 13,Team Heretics,35:14,Team Heretics
+511579,Corrode,1,4 - 13,Team Vitality,35:04,Gentle Mates
+511579,Lotus,2,13 - 9,Gentle Mates,47:26,Team Vitality
+511579,Ascent,3,10 - 13,Team Vitality,47:56,Decider
+511580,Sunset,1,11 - 13,BBL Esports,55:48,BBL Esports
+511580,Ascent,2,9 - 13,BBL Esports,48:06,FUT Esports
+511581,Lotus,1,14 - 12,Team Liquid,56:21,Team Liquid
+511581,Bind,2,13 - 15,Karmine Corp,1:09:47,Karmine Corp
+511581,Sunset,3,12 - 14,Karmine Corp,1:01:49,Decider
+530924,Corrode,1,13 - 7,FNATIC,44:28,FNATIC
+530924,Ascent,2,7 - 13,BBL Esports,44:02,BBL Esports
+530924,Haven,3,9 - 13,BBL Esports,55:16,Decider
+530925,Bind,1,5 - 13,Natus Vincere,38:30,Natus Vincere
+530925,Haven,2,13 - 8,GIANTX,43:41,GIANTX
+530925,Ascent,3,13 - 6,GIANTX,39:54,Decider
+530928,Icebox,1,6 - 13,BBL Esports,45:20,BBL Esports
+530928,Ascent,2,11 - 13,BBL Esports,50:46,Team Heretics
+530929,Sunset,1,13 - 4,Team Liquid,30:22,GIANTX
+530929,Corrode,2,11 - 13,GIANTX,52:49,Team Liquid
+530929,Ascent,3,14 - 12,Team Liquid,54:05,Decider
+530926,Haven,1,12 - 14,Karmine Corp,1:04:18,Karmine Corp
+530926,Corrode,2,14 - 12,FNATIC,1:00:01,FNATIC
+530926,Bind,3,13 - 8,FNATIC,53:18,Decider
+530927,Haven,1,13 - 7,Natus Vincere,52:20,Team Vitality
+530927,Bind,2,13 - 11,Natus Vincere,57:26,Natus Vincere
+530930,Lotus,1,13 - 10,GIANTX,53:22,FNATIC
+530930,Sunset,2,13 - 10,GIANTX,49:43,GIANTX
+530931,Icebox,1,3 - 13,Natus Vincere,41:04,Natus Vincere
+530931,Haven,2,7 - 13,Natus Vincere,44:25,Team Heretics
+530932,Ascent,1,10 - 13,Team Liquid,51:22,BBL Esports
+530932,Sunset,2,13 - 10,BBL Esports,54:47,Team Liquid
+530932,Bind,3,12 - 14,Team Liquid,56:20,Decider
+530933,Icebox,1,6 - 13,Natus Vincere,43:11,Natus Vincere
+530933,Sunset,2,13 - 6,GIANTX,41:06,GIANTX
+530933,Haven,3,13 - 4,GIANTX,37:42,Decider
+530934,Ascent,1,2 - 13,GIANTX,31:37,BBL Esports
+530934,Sunset,2,8 - 13,GIANTX,45:02,GIANTX
+530934,Bind,3,6 - 13,GIANTX,40:32,BBL Esports
+538583,Corrode,1,7 - 13,Team EMEA,40:26,Decider
+530935,Bind,1,13 - 10,Team Liquid,51:30,Team Liquid
+530935,Lotus,2,13 - 9,Team Liquid,42:05,GIANTX
+530935,Sunset,3,13 - 10,Team Liquid,50:30,Team Liquid

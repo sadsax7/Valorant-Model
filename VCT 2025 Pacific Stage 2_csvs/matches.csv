@@ -1,0 +1,44 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Tue, July 15, 2025",508815,1:30 PM,BOOM Esports,0,TALON,2,0-2,TALON,Completed,Week 1,Group Stage
+"Tue, July 15, 2025",508816,3:45 PM,Nongshim RedForce,2,Team Secret,1,2-1,Nongshim RedForce,Completed,Week 1,Group Stage
+"Wed, July 16, 2025",508817,1:30 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 1,Group Stage
+"Wed, July 16, 2025",508818,4:05 PM,DRX,0,Gen.G,2,0-2,Gen.G,Completed,Week 1,Group Stage
+"Thu, July 17, 2025",508819,1:30 PM,Rex Regum Qeon,0,Global Esports,2,0-2,Global Esports,Completed,Week 1,Group Stage
+"Thu, July 17, 2025",508820,3:45 PM,ZETA DIVISION,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 1,Group Stage
+"Fri, July 18, 2025",508821,1:30 PM,DRX,2,Nongshim RedForce,1,2-1,DRX,Completed,Week 1,Group Stage
+"Fri, July 18, 2025",508822,4:40 PM,BOOM Esports,0,T1,2,0-2,T1,Completed,Week 1,Group Stage
+"Sat, July 19, 2025",508823,1:30 PM,Global Esports,1,Team Secret,2,1-2,Team Secret,Completed,Week 1,Group Stage
+"Sat, July 19, 2025",508824,4:50 PM,Paper Rex,2,DetonatioN FocusMe,0,2-0,Paper Rex,Completed,Week 1,Group Stage
+"Sun, July 20, 2025",508825,1:30 PM,TALON,2,ZETA DIVISION,0,2-0,TALON,Completed,Week 1,Group Stage
+"Sun, July 20, 2025",508826,3:30 PM,Rex Regum Qeon,2,Gen.G,1,2-1,Rex Regum Qeon,Completed,Week 1,Group Stage
+"Fri, July 25, 2025",508828,1:30 PM,Gen.G,2,Global Esports,1,2-1,Gen.G,Completed,Week 2,Group Stage
+"Fri, July 25, 2025",508829,4:20 PM,TALON,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 2,Group Stage
+"Sat, July 26, 2025",508830,1:30 PM,T1,2,ZETA DIVISION,0,2-0,T1,Completed,Week 2,Group Stage
+"Sat, July 26, 2025",508831,3:35 PM,Rex Regum Qeon,2,Nongshim RedForce,1,2-1,Rex Regum Qeon,Completed,Week 2,Group Stage
+"Sun, July 27, 2025",508832,1:30 PM,DRX,2,Team Secret,0,2-0,DRX,Completed,Week 2,Group Stage
+"Sun, July 27, 2025",508833,3:30 PM,BOOM Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 2,Group Stage
+"Fri, August 1, 2025",508834,1:30 PM,Gen.G,2,Team Secret,0,2-0,Gen.G,Completed,Week 3,Group Stage
+"Fri, August 1, 2025",508835,3:30 PM,TALON,2,T1,0,2-0,TALON,Completed,Week 3,Group Stage
+"Sat, August 2, 2025",508836,1:30 PM,BOOM Esports,0,DetonatioN FocusMe,2,0-2,DetonatioN FocusMe,Completed,Week 3,Group Stage
+"Sat, August 2, 2025",508837,3:35 PM,Rex Regum Qeon,0,DRX,2,0-2,DRX,Completed,Week 3,Group Stage
+"Sun, August 3, 2025",508838,1:30 PM,Nongshim RedForce,2,Global Esports,0,2-0,Nongshim RedForce,Completed,Week 3,Group Stage
+"Sun, August 3, 2025",508839,3:40 PM,Paper Rex,0,ZETA DIVISION,2,0-2,ZETA DIVISION,Completed,Week 3,Group Stage
+"Fri, August 8, 2025",508840,1:30 PM,Gen.G,0,Nongshim RedForce,2,0-2,Nongshim RedForce,Completed,Week 4,Group Stage
+"Fri, August 8, 2025",508841,4:00 PM,TALON,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 4,Group Stage
+"Sat, August 9, 2025",508842,1:30 PM,DRX,2,Global Esports,0,2-0,DRX,Completed,Week 4,Group Stage
+"Sat, August 9, 2025",508843,3:55 PM,BOOM Esports,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 4,Group Stage
+"Sun, August 10, 2025",508844,1:30 PM,Rex Regum Qeon,2,Team Secret,1,2-1,Rex Regum Qeon,Completed,Week 4,Group Stage
+"Sun, August 10, 2025",508845,4:35 PM,T1,2,DetonatioN FocusMe,0,2-0,T1,Completed,Week 4,Group Stage
+"Wed, August 13, 2025",530354,1:30 PM,TALON,2,Nongshim RedForce,0,2-0,TALON,Completed,Upper Round 1,Playoffs
+"Wed, August 13, 2025",530355,4:05 PM,Rex Regum Qeon,1,T1,2,1-2,T1,Completed,Upper Round 1,Playoffs
+"Thu, August 14, 2025",530356,1:30 PM,DRX,1,TALON,2,1-2,TALON,Completed,Upper Semifinals,Playoffs
+"Thu, August 14, 2025",530357,4:40 PM,Paper Rex,2,T1,0,2-0,Paper Rex,Completed,Upper Semifinals,Playoffs
+"Fri, August 15, 2025",530358,1:30 PM,Nongshim RedForce,2,DetonatioN FocusMe,0,2-0,Nongshim RedForce,Completed,Lower Round 1,Playoffs
+"Fri, August 15, 2025",530359,3:35 PM,Rex Regum Qeon,2,Gen.G,1,2-1,Rex Regum Qeon,Completed,Lower Round 1,Playoffs
+"Sat, August 16, 2025",530360,1:30 PM,T1,2,Nongshim RedForce,0,2-0,T1,Completed,Lower Round 2,Playoffs
+"Sat, August 16, 2025",530361,3:35 PM,DRX,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Lower Round 2,Playoffs
+"Sun, August 17, 2025",530362,1:30 PM,TALON,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Final,Playoffs
+"Sun, August 17, 2025",530363,3:30 PM,T1,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Lower Round 3,Playoffs
+"Sat, August 30, 2025",530514,10:30 AM,Team World,13,Glory Once Again,8,13-8,Team World,Completed,Main Event,Showmatch
+"Sat, August 30, 2025",530364,11:30 AM,TALON,2,Rex Regum Qeon,3,2-3,Rex Regum Qeon,Completed,Lower Final,Playoffs
+"Sun, August 31, 2025Yesterday",530365,11:20 AM,Paper Rex,3,Rex Regum Qeon,1,3-1,Paper Rex,Completed,Grand Final,Playoffs

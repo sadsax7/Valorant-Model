@@ -1,0 +1,26 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, June 7, 2025",490309,9:30 PM,Team Heretics,0,Paper Rex,2,0-2,Paper Rex,Completed,Round 1,Swiss Stage
+"Sat, June 7, 2025",490307,11:40 PM,Bilibili Gaming,2,Team Liquid,1,2-1,Bilibili Gaming,Completed,Round 1,Swiss Stage
+"Sun, June 8, 2025",490308,9:30 PM,Sentinels,2,Wolves Esports,0,2-0,Sentinels,Completed,Round 1,Swiss Stage
+"Mon, June 9, 2025",490306,12:15 AM,Gen.G,2,MIBR,0,2-0,Gen.G,Completed,Round 1,Swiss Stage
+"Mon, June 9, 2025",490311,9:30 PM,Bilibili Gaming,1,Sentinels,2,1-2,Sentinels,Completed,Round 2 (1-0),Swiss Stage
+"Tue, June 10, 2025",490310,1:00 AM,Paper Rex,0,Gen.G,2,0-2,Gen.G,Completed,Round 2 (1-0),Swiss Stage
+"Tue, June 10, 2025",490312,9:30 PM,Team Heretics,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Round 2 (0-1),Swiss Stage
+"Wed, June 11, 2025",490313,12:00 AM,Team Liquid,2,MIBR,0,2-0,Team Liquid,Completed,Round 2 (0-1),Swiss Stage
+"Wed, June 11, 2025",490315,9:30 PM,Bilibili Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Round 3 (1-1),Swiss Stage
+"Thu, June 12, 2025",490314,12:00 AM,Paper Rex,2,Team Liquid,1,2-1,Paper Rex,Completed,Round 3 (1-1),Swiss Stage
+"Fri, June 13, 2025",498622,9:30 PM,G2 Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Quarterfinals,Playoffs
+"Fri, June 13, 2025",498621,11:55 PM,Xi Lai Gaming,0,Sentinels,2,0-2,Sentinels,Completed,Upper Quarterfinals,Playoffs
+"Sat, June 14, 2025",498623,9:30 PM,Rex Regum Qeon,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Quarterfinals,Playoffs
+"Sun, June 15, 2025",498624,12:00 AM,FNATIC,1,Gen.G,2,1-2,Gen.G,Completed,Upper Quarterfinals,Playoffs
+"Sun, June 15, 2025",498629,9:30 PM,Xi Lai Gaming,0,G2 Esports,2,0-2,G2 Esports,Completed,Lower Round 1,Playoffs
+"Sun, June 15, 2025",498630,11:40 PM,Rex Regum Qeon,1,FNATIC,2,1-2,FNATIC,Completed,Lower Round 1,Playoffs
+"Mon, June 16, 2025",498626,9:30 PM,Wolves Esports,2,Gen.G,0,2-0,Wolves Esports,Completed,Upper Semifinals,Playoffs
+"Tue, June 17, 2025",498625,12:00 AM,Sentinels,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Semifinals,Playoffs
+"Tue, June 17, 2025",498631,9:30 PM,Gen.G,1,G2 Esports,2,1-2,G2 Esports,Completed,Lower Round 2,Playoffs
+"Wed, June 18, 2025",498632,1:05 AM,Sentinels,1,FNATIC,2,1-2,FNATIC,Completed,Lower Round 2,Playoffs
+"Fri, June 20, 2025",498627,9:30 PM,Paper Rex,2,Wolves Esports,0,2-0,Paper Rex,Completed,Upper Final,Playoffs
+"Sat, June 21, 2025",498633,12:10 AM,G2 Esports,0,FNATIC,2,0-2,FNATIC,Completed,Lower Round 3,Playoffs
+"Sat, June 21, 2025",498634,9:30 PM,Wolves Esports,1,FNATIC,3,1-3,FNATIC,Completed,Lower Final,Playoffs
+"Sun, June 22, 2025",507067,9:30 PM,Team tarik,7,Team Toast,13,7-13,Team Toast,Completed,Showmatch,
+"Sun, June 22, 2025",498628,10:45 PM,Paper Rex,3,FNATIC,1,3-1,Paper Rex,Completed,Grand Final,Playoffs

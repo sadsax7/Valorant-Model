@@ -1,0 +1,103 @@
+match_id,map_name,map_order,score,winner,duration,picked_by
+508816,Sunset,1,8 - 13,Team Secret,51:34,Nongshim RedForce
+508816,Ascent,2,13 - 10,Nongshim RedForce,54:32,Team Secret
+508816,Lotus,3,13 - 3,Nongshim RedForce,35:21,Decider
+508817,Haven,1,15 - 17,Paper Rex,1:21:18,T1
+508817,Lotus,2,12 - 14,Paper Rex,50:36,Paper Rex
+508818,Haven,1,8 - 13,Gen.G,51:12,Gen.G
+508818,Corrode,2,6 - 13,Gen.G,52:30,DRX
+508819,Corrode,1,7 - 13,Global Esports,46:06,Global Esports
+508819,Haven,2,5 - 13,Global Esports,1:13:03,Rex Regum Qeon
+508820,Haven,1,1 - 13,DetonatioN FocusMe,38:19,ZETA DIVISION
+508820,Lotus,2,13 - 1,ZETA DIVISION,32:32,DetonatioN FocusMe
+508820,Icebox,3,7 - 13,DetonatioN FocusMe,48:02,Decider
+508821,Icebox,1,13 - 5,DRX,1:02:37,DRX
+508821,Bind,2,4 - 13,Nongshim RedForce,40:26,Nongshim RedForce
+508821,Lotus,3,13 - 11,DRX,58:52,Decider
+508822,Ascent,1,9 - 13,T1,57:51,T1
+508822,Corrode,2,10 - 13,T1,52:33,BOOM Esports
+508823,Bind,1,5 - 13,Team Secret,58:16,Global Esports
+508823,Corrode,2,13 - 9,Global Esports,49:46,Team Secret
+508823,Lotus,3,11 - 13,Team Secret,1:00:20,Decider
+508824,Haven,1,13 - 7,Paper Rex,43:26,DetonatioN FocusMe
+508824,Lotus,2,13 - 7,Paper Rex,51:18,Paper Rex
+508825,Icebox,1,13 - 5,TALON,55:59,TALON
+508825,Bind,2,13 - 6,TALON,40:26,ZETA DIVISION
+508826,Ascent,1,6 - 13,Gen.G,45:39,Rex Regum Qeon
+508826,Haven,2,13 - 11,Rex Regum Qeon,55:40,Decider
+508826,Sunset,3,13 - 6,Rex Regum Qeon,52:02,Gen.G
+508828,Icebox,1,3 - 13,Global Esports,51:16,Global Esports
+508828,Haven,2,13 - 3,Gen.G,38:00,Gen.G
+508828,Corrode,3,13 - 7,Gen.G,49:30,Decider
+508829,Corrode,1,13 - 9,TALON,50:13,DetonatioN FocusMe
+508829,Icebox,2,8 - 13,DetonatioN FocusMe,49:18,Decider
+508829,Sunset,3,9 - 13,DetonatioN FocusMe,58:39,TALON
+508830,Corrode,1,13 - 8,T1,1:13:36,ZETA DIVISION
+508830,Sunset,2,13 - 6,T1,36:01,T1
+508831,Corrode,1,11 - 13,Nongshim RedForce,54:18,Nongshim RedForce
+508831,Haven,2,13 - 8,Rex Regum Qeon,44:12,Rex Regum Qeon
+508831,Icebox,3,13 - 3,Rex Regum Qeon,38:09,Decider
+508832,Corrode,1,13 - 4,DRX,38:24,Team Secret
+508832,Icebox,2,13 - 4,DRX,59:02,DRX
+508833,Bind,1,8 - 13,Paper Rex,55:27,BOOM Esports
+508833,Lotus,2,10 - 13,Paper Rex,46:58,Paper Rex
+508834,Lotus,1,13 - 3,Gen.G,55:35,Gen.G
+508834,Ascent,2,13 - 8,Gen.G,43:31,Team Secret
+508835,Corrode,1,13 - 10,TALON,58:28,TALON
+508835,Lotus,2,13 - 6,TALON,40:24,T1
+508836,Lotus,1,10 - 13,DetonatioN FocusMe,1:11:25,BOOM Esports
+508836,Corrode,2,2 - 13,DetonatioN FocusMe,34:05,DetonatioN FocusMe
+508837,Bind,1,12 - 14,DRX,1:09:59,Rex Regum Qeon
+508837,Ascent,2,7 - 13,DRX,45:36,DRX
+508838,Corrode,1,13 - 7,Nongshim RedForce,59:51,Global Esports
+508838,Bind,2,13 - 8,Nongshim RedForce,49:16,Nongshim RedForce
+508839,Lotus,1,9 - 13,ZETA DIVISION,53:05,ZETA DIVISION
+508839,Sunset,2,7 - 13,ZETA DIVISION,41:16,Paper Rex
+508840,Lotus,1,9 - 13,Nongshim RedForce,1:08:02,Gen.G
+508840,Ascent,2,12 - 14,Nongshim RedForce,59:37,Nongshim RedForce
+508841,Bind,1,11 - 13,Paper Rex,56:01,TALON
+508841,Icebox,2,14 - 16,Paper Rex,1:02:47,Paper Rex
+508842,Lotus,1,13 - 10,DRX,1:09:03,DRX
+508842,Icebox,2,13 - 10,DRX,55:13,Global Esports
+508843,Lotus,1,15 - 13,BOOM Esports,1:07:11,BOOM Esports
+508843,Corrode,2,9 - 13,ZETA DIVISION,52:28,ZETA DIVISION
+508843,Ascent,3,8 - 13,ZETA DIVISION,46:52,Decider
+508844,Ascent,1,13 - 15,Team Secret,1:19:12,Team Secret
+508844,Icebox,2,13 - 4,Rex Regum Qeon,38:34,Rex Regum Qeon
+508844,Sunset,3,13 - 3,Rex Regum Qeon,36:33,Decider
+508845,Sunset,1,13 - 6,T1,44:37,DetonatioN FocusMe
+508845,Haven,2,13 - 9,T1,47:41,T1
+530354,Lotus,1,13 - 5,TALON,1:05:20,Nongshim RedForce
+530354,Corrode,2,16 - 14,TALON,1:09:09,TALON
+530355,Bind,1,9 - 13,T1,59:11,T1
+530355,Haven,2,13 - 7,Rex Regum Qeon,44:12,Rex Regum Qeon
+530355,Sunset,3,8 - 13,T1,40:29,Decider
+530356,Bind,1,13 - 11,DRX,1:13:31,TALON
+530356,Haven,2,9 - 13,TALON,47:55,DRX
+530356,Lotus,3,7 - 13,TALON,45:31,Decider
+530357,Sunset,1,13 - 8,Paper Rex,48:42,T1
+530357,Bind,2,13 - 6,Paper Rex,41:27,Paper Rex
+530358,Lotus,1,13 - 6,Nongshim RedForce,54:16,DetonatioN FocusMe
+530358,Ascent,2,13 - 10,Nongshim RedForce,48:39,Nongshim RedForce
+530359,Haven,1,10 - 13,Gen.G,58:40,Gen.G
+530359,Sunset,2,13 - 11,Rex Regum Qeon,55:16,Rex Regum Qeon
+530359,Corrode,3,13 - 6,Rex Regum Qeon,41:22,Decider
+530360,Ascent,1,13 - 9,T1,48:51,T1
+530360,Lotus,2,13 - 6,T1,59:31,Nongshim RedForce
+530361,Icebox,1,7 - 13,Rex Regum Qeon,52:55,Rex Regum Qeon
+530361,Corrode,2,9 - 13,Rex Regum Qeon,51:15,DRX
+530362,Haven,1,11 - 13,Paper Rex,1:06:38,TALON
+530362,Bind,2,7 - 13,Paper Rex,34:07,Paper Rex
+530363,Sunset,1,13 - 11,T1,53:19,Rex Regum Qeon
+530363,Haven,2,13 - 15,Rex Regum Qeon,1:01:35,Decider
+530363,Ascent,3,7 - 13,Rex Regum Qeon,49:16,T1
+530514,Corrode,1,13 - 8,Team World,1:00:55,Decider
+530364,Bind,1,13 - 4,TALON,55:59,TALON
+530364,Haven,2,13 - 7,TALON,42:57,Rex Regum Qeon
+530364,Corrode,3,10 - 13,Rex Regum Qeon,50:39,TALON
+530364,Icebox,4,6 - 13,Rex Regum Qeon,46:30,Rex Regum Qeon
+530364,Sunset,5,12 - 14,Rex Regum Qeon,58:39,Decider
+530365,Ascent,1,13 - 7,Paper Rex,39:41,Rex Regum Qeon
+530365,Lotus,2,6 - 13,Rex Regum Qeon,42:39,Paper Rex
+530365,Haven,3,13 - 7,Paper Rex,41:43,Rex Regum Qeon
+530365,Bind,4,13 - 8,Paper Rex,1:11:07,Paper Rex

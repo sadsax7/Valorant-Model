@@ -1,0 +1,18 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Thu, February 20, 2025",448598,3:30 PM,EDward Gaming,2,Team Liquid,0,2-0,EDward Gaming,Completed,Round 1,Swiss Stage
+"Thu, February 20, 2025",448600,6:30 PM,DRX,2,Sentinels,0,2-0,DRX,Completed,Round 1,Swiss Stage
+"Fri, February 21, 2025",448599,3:30 PM,Team Vitality,2,T1,0,2-0,Team Vitality,Completed,Round 1,Swiss Stage
+"Fri, February 21, 2025",448597,5:55 PM,G2 Esports,2,Trace Esports,0,2-0,G2 Esports,Completed,Round 1,Swiss Stage
+"Sat, February 22, 2025",449000,3:30 PM,DRX,1,Team Vitality,2,1-2,Team Vitality,Completed,Round 2 (1-0),Swiss Stage
+"Sat, February 22, 2025",449001,6:55 PM,EDward Gaming,2,G2 Esports,1,2-1,EDward Gaming,Completed,Round 2 (1-0),Swiss Stage
+"Sun, February 23, 2025",449002,3:30 PM,T1,2,Trace Esports,0,2-0,T1,Completed,Round 2 (0-1),Swiss Stage
+"Sun, February 23, 2025",449003,5:25 PM,Team Liquid,2,Sentinels,1,2-1,Team Liquid,Completed,Round 2 (0-1),Swiss Stage
+"Mon, February 24, 2025",449004,3:30 PM,T1,2,DRX,0,2-0,T1,Completed,Round 3,Swiss Stage
+"Mon, February 24, 2025",449005,5:40 PM,G2 Esports,2,Team Liquid,0,2-0,G2 Esports,Completed,Round 3,Swiss Stage
+"Thu, February 27, 2025",449008,3:30 PM,EDward Gaming,2,T1,1,2-1,EDward Gaming,Completed,Upper Semifinals,Playoffs
+"Thu, February 27, 2025",449009,6:45 PM,Team Vitality,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Semifinals,Playoffs
+"Fri, February 28, 2025",449010,3:30 PM,EDward Gaming,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Final,Playoffs
+"Fri, February 28, 2025",449012,5:35 PM,T1,2,Team Vitality,1,2-1,T1,Completed,Lower Round 1,Playoffs
+"Sat, March 1, 2025",449013,3:30 PM,EDward Gaming,1,T1,3,1-3,T1,Completed,Lower Final,Playoffs
+"Sun, March 2, 2025",450589,3:30 PM,Team International,9,Team Thailand,13,9-13,Team Thailand,Completed,Main Event,Showmatch
+"Sun, March 2, 2025",449011,4:45 PM,G2 Esports,2,T1,3,2-3,T1,Completed,Grand Final,Playoffs

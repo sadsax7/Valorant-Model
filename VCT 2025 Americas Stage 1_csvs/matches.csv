@@ -1,0 +1,43 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, March 22, 2025",459517,2:30 AM,Cloud9,2,NRG,1,2-1,Cloud9,Completed,Week 1,Group Stage
+"Sat, March 22, 2025",459518,5:55 AM,KRÜ Esports,2,LOUD,1,2-1,KRÜ Esports,Completed,Week 1,Group Stage
+"Sun, March 23, 2025",459519,2:30 AM,G2 Esports,2,FURIA,0,2-0,G2 Esports,Completed,Week 1,Group Stage
+"Sun, March 23, 2025",459520,4:55 AM,MIBR,2,LEVIATÁN,0,2-0,MIBR,Completed,Week 1,Group Stage
+"Mon, March 24, 2025",459521,2:30 AM,2Game Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Week 1,Group Stage
+"Mon, March 24, 2025",459522,5:00 AM,Sentinels,2,100 Thieves,1,2-1,Sentinels,Completed,Week 1,Group Stage
+"Sat, March 29, 2025",459523,2:30 AM,NRG,2,FURIA,1,2-1,NRG,Completed,Week 2,Group Stage
+"Sat, March 29, 2025",459524,5:30 AM,Sentinels,0,KRÜ Esports,2,0-2,KRÜ Esports,Completed,Week 2,Group Stage
+"Sun, March 30, 2025",459525,2:30 AM,100 Thieves,2,Evil Geniuses,0,2-0,100 Thieves,Completed,Week 2,Group Stage
+"Sun, March 30, 2025",459526,4:45 AM,G2 Esports,2,MIBR,1,2-1,G2 Esports,Completed,Week 2,Group Stage
+"Mon, March 31, 2025",459527,2:30 AM,LOUD,0,2Game Esports,2,0-2,2Game Esports,Completed,Week 2,Group Stage
+"Mon, March 31, 2025",459528,5:20 AM,LEVIATÁN,0,Cloud9,2,0-2,Cloud9,Completed,Week 2,Group Stage
+"Sat, April 5, 2025",459529,2:30 AM,Evil Geniuses,0,Sentinels,2,0-2,Sentinels,Completed,Week 3,Group Stage
+"Sat, April 5, 2025",459530,4:40 AM,100 Thieves,2,LOUD,1,2-1,100 Thieves,Completed,Week 3,Group Stage
+"Sun, April 6, 2025",459531,2:30 AM,2Game Esports,1,KRÜ Esports,2,1-2,KRÜ Esports,Completed,Week 3,Group Stage
+"Sun, April 6, 2025",459532,5:40 AM,G2 Esports,2,NRG,0,2-0,G2 Esports,Completed,Week 3,Group Stage
+"Mon, April 7, 2025",459533,2:30 AM,FURIA,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 3,Group Stage
+"Mon, April 7, 2025",459534,4:45 AM,Cloud9,1,MIBR,2,1-2,MIBR,Completed,Week 3,Group Stage
+"Sat, April 12, 2025",459535,2:30 AM,100 Thieves,2,2Game Esports,0,2-0,100 Thieves,Completed,Week 4,Group Stage
+"Sat, April 12, 2025",459536,5:00 AM,G2 Esports,2,LEVIATÁN,1,2-1,G2 Esports,Completed,Week 4,Group Stage
+"Sun, April 13, 2025",459537,2:30 AM,FURIA,0,Cloud9,2,0-2,Cloud9,Completed,Week 4,Group Stage
+"Sun, April 13, 2025",459538,4:55 AM,Sentinels,2,LOUD,1,2-1,Sentinels,Completed,Week 4,Group Stage
+"Mon, April 14, 2025",459539,2:30 AM,KRÜ Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Week 4,Group Stage
+"Mon, April 14, 2025",459540,4:40 AM,NRG,0,MIBR,2,0-2,MIBR,Completed,Week 4,Group Stage
+"Sat, April 19, 2025",459541,2:30 AM,G2 Esports,2,Cloud9,1,2-1,G2 Esports,Completed,Week 5,Group Stage
+"Sat, April 19, 2025",459542,5:30 AM,MIBR,2,FURIA,1,2-1,MIBR,Completed,Week 5,Group Stage
+"Sun, April 20, 2025",459543,2:30 AM,Sentinels,2,2Game Esports,0,2-0,Sentinels,Completed,Week 5,Group Stage
+"Sun, April 20, 2025",459544,4:40 AM,KRÜ Esports,2,100 Thieves,0,2-0,KRÜ Esports,Completed,Week 5,Group Stage
+"Mon, April 21, 2025",459545,2:30 AM,Evil Geniuses,2,LOUD,1,2-1,Evil Geniuses,Completed,Week 5,Group Stage
+"Mon, April 21, 2025",459546,6:30 AM,LEVIATÁN,0,NRG,2,0-2,NRG,Completed,Week 5,Group Stage
+"Fri, April 25, 2025",475897,2:30 AM,MIBR,2,100 Thieves,0,2-0,MIBR,Completed,Upper Round 1,Playoffs
+"Fri, April 25, 2025",475898,4:45 AM,Sentinels,2,Cloud9,0,2-0,Sentinels,Completed,Upper Round 1,Playoffs
+"Sat, April 26, 2025",475903,2:30 AM,100 Thieves,2,NRG,0,2-0,100 Thieves,Completed,Lower Round 1,Playoffs
+"Sat, April 26, 2025",475904,4:45 AM,Cloud9,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Lower Round 1,Playoffs
+"Sun, April 27, 2025",475899,2:30 AM,KRÜ Esports,0,MIBR,2,0-2,MIBR,Completed,Upper Semifinals,Playoffs
+"Sun, April 27, 2025",475900,4:35 AM,G2 Esports,1,Sentinels,2,1-2,Sentinels,Completed,Upper Semifinals,Playoffs
+"Mon, April 28, 2025",475906,2:30 AM,KRÜ Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Lower Round 2,Playoffs
+"Mon, April 28, 2025",475905,5:10 AM,G2 Esports,2,100 Thieves,1,2-1,G2 Esports,Completed,Lower Round 2,Playoffs
+"Sat, May 3, 2025",475901,2:30 AM,MIBR,0,Sentinels,2,0-2,Sentinels,Completed,Upper Final,Playoffs
+"Sat, May 3, 2025",475907,5:20 AM,G2 Esports,2,Evil Geniuses,1,2-1,G2 Esports,Completed,Lower Round 3,Playoffs
+"Sun, May 4, 2025",475908,2:30 AM,MIBR,1,G2 Esports,3,1-3,G2 Esports,Completed,Lower Final,Playoffs
+"Mon, May 5, 2025",475902,2:30 AM,Sentinels,1,G2 Esports,3,1-3,G2 Esports,Completed,Grand Final,Playoffs

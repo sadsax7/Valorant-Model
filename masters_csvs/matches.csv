@@ -1,0 +1,505 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage,tournament_name
+"Fri, January 17, 2025",427991,3:30 AM,Evil Geniuses,0,LOUD,2,0-2,LOUD,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Fri, January 17, 2025",427992,6:15 AM,MIBR,0,100 Thieves,2,0-2,100 Thieves,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, January 18, 2025",427994,3:30 AM,2Game Esports,0,FURIA,2,0-2,FURIA,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, January 18, 2025",427993,5:35 AM,NRG,0,Cloud9,2,0-2,Cloud9,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sun, January 19, 2025",427995,3:30 AM,KRÜ Esports,0,LOUD,2,0-2,LOUD,Completed,Upper Quarterfinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sun, January 19, 2025",427996,5:55 AM,Sentinels,2,100 Thieves,1,2-1,Sentinels,Completed,Upper Quarterfinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Mon, January 20, 2025",427998,3:30 AM,LEVIATÁN,2,FURIA,0,2-0,LEVIATÁN,Completed,Upper Quarterfinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Mon, January 20, 2025",427997,5:50 AM,G2 Esports,2,Cloud9,0,2-0,G2 Esports,Completed,Upper Quarterfinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Fri, January 24, 2025",428003,3:30 AM,FURIA,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Lower Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Fri, January 24, 2025",428004,5:50 AM,Cloud9,1,MIBR,2,1-2,MIBR,Completed,Lower Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, January 25, 2025",428006,3:30 AM,KRÜ Esports,2,2Game Esports,0,2-0,KRÜ Esports,Completed,Lower Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, January 25, 2025",428005,5:30 AM,100 Thieves,1,NRG,2,1-2,NRG,Completed,Lower Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, February 1, 2025",427999,3:30 AM,LOUD,1,Sentinels,2,1-2,Sentinels,Completed,Upper Semifinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, February 1, 2025",428000,7:30 AM,G2 Esports,2,LEVIATÁN,0,2-0,G2 Esports,Completed,Upper Semifinals,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sun, February 2, 2025",428007,3:30 AM,Evil Geniuses,0,MIBR,2,0-2,MIBR,Completed,Lower Round 2,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sun, February 2, 2025",428008,6:00 AM,NRG,1,KRÜ Esports,2,1-2,KRÜ Esports,Completed,Lower Round 2,Main Event,VCT 2025 Americas Kickoff_csvs
+"Mon, February 3, 2025",428009,3:30 AM,LEVIATÁN,1,MIBR,2,1-2,MIBR,Completed,Lower Round 3,Main Event,VCT 2025 Americas Kickoff_csvs
+"Mon, February 3, 2025",428010,7:00 AM,LOUD,0,KRÜ Esports,2,0-2,KRÜ Esports,Completed,Lower Round 3,Main Event,VCT 2025 Americas Kickoff_csvs
+"Fri, February 7, 2025",428001,3:30 AM,Sentinels,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Final,Main Event,VCT 2025 Americas Kickoff_csvs
+"Fri, February 7, 2025",428011,5:50 AM,MIBR,2,KRÜ Esports,1,2-1,MIBR,Completed,Lower Round 4,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, February 8, 2025",428012,3:30 AM,Sentinels,3,MIBR,1,3-1,Sentinels,Completed,Lower Final,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sun, February 9, 2025",428002,3:30 AM,G2 Esports,3,Sentinels,2,3-2,G2 Esports,Completed,Grand Final,Main Event,VCT 2025 Americas Kickoff_csvs
+"Sat, March 22, 2025",459517,2:30 AM,Cloud9,2,NRG,1,2-1,Cloud9,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, March 22, 2025",459518,5:55 AM,KRÜ Esports,2,LOUD,1,2-1,KRÜ Esports,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, March 23, 2025",459519,2:30 AM,G2 Esports,2,FURIA,0,2-0,G2 Esports,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, March 23, 2025",459520,4:55 AM,MIBR,2,LEVIATÁN,0,2-0,MIBR,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, March 24, 2025",459521,2:30 AM,2Game Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, March 24, 2025",459522,5:00 AM,Sentinels,2,100 Thieves,1,2-1,Sentinels,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, March 29, 2025",459523,2:30 AM,NRG,2,FURIA,1,2-1,NRG,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, March 29, 2025",459524,5:30 AM,Sentinels,0,KRÜ Esports,2,0-2,KRÜ Esports,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, March 30, 2025",459525,2:30 AM,100 Thieves,2,Evil Geniuses,0,2-0,100 Thieves,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, March 30, 2025",459526,4:45 AM,G2 Esports,2,MIBR,1,2-1,G2 Esports,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, March 31, 2025",459527,2:30 AM,LOUD,0,2Game Esports,2,0-2,2Game Esports,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, March 31, 2025",459528,5:20 AM,LEVIATÁN,0,Cloud9,2,0-2,Cloud9,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 5, 2025",459529,2:30 AM,Evil Geniuses,0,Sentinels,2,0-2,Sentinels,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 5, 2025",459530,4:40 AM,100 Thieves,2,LOUD,1,2-1,100 Thieves,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 6, 2025",459531,2:30 AM,2Game Esports,1,KRÜ Esports,2,1-2,KRÜ Esports,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 6, 2025",459532,5:40 AM,G2 Esports,2,NRG,0,2-0,G2 Esports,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 7, 2025",459533,2:30 AM,FURIA,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 7, 2025",459534,4:45 AM,Cloud9,1,MIBR,2,1-2,MIBR,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 12, 2025",459535,2:30 AM,100 Thieves,2,2Game Esports,0,2-0,100 Thieves,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 12, 2025",459536,5:00 AM,G2 Esports,2,LEVIATÁN,1,2-1,G2 Esports,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 13, 2025",459537,2:30 AM,FURIA,0,Cloud9,2,0-2,Cloud9,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 13, 2025",459538,4:55 AM,Sentinels,2,LOUD,1,2-1,Sentinels,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 14, 2025",459539,2:30 AM,KRÜ Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 14, 2025",459540,4:40 AM,NRG,0,MIBR,2,0-2,MIBR,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 19, 2025",459541,2:30 AM,G2 Esports,2,Cloud9,1,2-1,G2 Esports,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sat, April 19, 2025",459542,5:30 AM,MIBR,2,FURIA,1,2-1,MIBR,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 20, 2025",459543,2:30 AM,Sentinels,2,2Game Esports,0,2-0,Sentinels,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Sun, April 20, 2025",459544,4:40 AM,KRÜ Esports,2,100 Thieves,0,2-0,KRÜ Esports,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 21, 2025",459545,2:30 AM,Evil Geniuses,2,LOUD,1,2-1,Evil Geniuses,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Mon, April 21, 2025",459546,6:30 AM,LEVIATÁN,0,NRG,2,0-2,NRG,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 1_csvs
+"Fri, April 25, 2025",475897,2:30 AM,MIBR,2,100 Thieves,0,2-0,MIBR,Completed,Upper Round 1,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Fri, April 25, 2025",475898,4:45 AM,Sentinels,2,Cloud9,0,2-0,Sentinels,Completed,Upper Round 1,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sat, April 26, 2025",475903,2:30 AM,100 Thieves,2,NRG,0,2-0,100 Thieves,Completed,Lower Round 1,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sat, April 26, 2025",475904,4:45 AM,Cloud9,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Lower Round 1,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sun, April 27, 2025",475899,2:30 AM,KRÜ Esports,0,MIBR,2,0-2,MIBR,Completed,Upper Semifinals,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sun, April 27, 2025",475900,4:35 AM,G2 Esports,1,Sentinels,2,1-2,Sentinels,Completed,Upper Semifinals,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Mon, April 28, 2025",475906,2:30 AM,KRÜ Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Lower Round 2,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Mon, April 28, 2025",475905,5:10 AM,G2 Esports,2,100 Thieves,1,2-1,G2 Esports,Completed,Lower Round 2,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sat, May 3, 2025",475901,2:30 AM,MIBR,0,Sentinels,2,0-2,Sentinels,Completed,Upper Final,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sat, May 3, 2025",475907,5:20 AM,G2 Esports,2,Evil Geniuses,1,2-1,G2 Esports,Completed,Lower Round 3,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sun, May 4, 2025",475908,2:30 AM,MIBR,1,G2 Esports,3,1-3,G2 Esports,Completed,Lower Final,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Mon, May 5, 2025",475902,2:30 AM,Sentinels,1,G2 Esports,3,1-3,G2 Esports,Completed,Grand Final,Playoffs,VCT 2025 Americas Stage 1_csvs
+"Sat, July 19, 2025",509801,2:30 AM,Cloud9,2,FURIA,0,2-0,Cloud9,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, July 19, 2025",509802,4:40 AM,LEVIATÁN,1,LOUD,2,1-2,LOUD,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, July 20, 2025",509803,2:30 AM,Evil Geniuses,2,2Game Esports,1,2-1,Evil Geniuses,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, July 20, 2025",509804,5:55 AM,MIBR,1,KRÜ Esports,2,1-2,KRÜ Esports,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, July 21, 2025",509805,2:30 AM,100 Thieves,2,NRG,0,2-0,100 Thieves,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, July 21, 2025",509806,4:30 AM,Sentinels,2,G2 Esports,1,2-1,Sentinels,Completed,Week 1,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, July 26, 2025",509807,2:30 AM,2Game Esports,0,G2 Esports,2,0-2,G2 Esports,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, July 26, 2025",509808,4:40 AM,FURIA,0,Sentinels,2,0-2,Sentinels,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, July 27, 2025",509809,2:30 AM,100 Thieves,2,KRÜ Esports,0,2-0,100 Thieves,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, July 27, 2025",509810,4:30 AM,NRG,2,LOUD,0,2-0,NRG,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, July 28, 2025",509811,2:30 AM,Cloud9,2,Evil Geniuses,0,2-0,Cloud9,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, July 28, 2025",509812,4:55 AM,MIBR,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 2,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 2, 2025",509813,2:30 AM,2Game Esports,2,FURIA,1,2-1,2Game Esports,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 2, 2025",509814,5:35 AM,LEVIATÁN,1,NRG,2,1-2,NRG,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 3, 2025",509815,2:30 AM,Sentinels,2,Cloud9,0,2-0,Sentinels,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 3, 2025",509816,4:45 AM,MIBR,2,100 Thieves,0,2-0,MIBR,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 4, 2025",509817,2:30 AM,G2 Esports,2,Evil Geniuses,1,2-1,G2 Esports,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 4, 2025",509818,5:45 AM,LOUD,1,KRÜ Esports,2,1-2,KRÜ Esports,Completed,Week 3,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 9, 2025",509819,2:30 AM,Cloud9,2,2Game Esports,0,2-0,Cloud9,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 9, 2025",509820,4:30 AM,MIBR,0,NRG,2,0-2,NRG,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 10, 2025",509821,2:30 AM,Sentinels,2,Evil Geniuses,0,2-0,Sentinels,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 10, 2025",509822,4:45 AM,LEVIATÁN,2,KRÜ Esports,1,2-1,LEVIATÁN,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 11, 2025",509823,2:30 AM,FURIA,0,G2 Esports,2,0-2,G2 Esports,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 11, 2025",509824,4:30 AM,LOUD,1,100 Thieves,2,1-2,100 Thieves,Completed,Week 4,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 16, 2025",509825,2:30 AM,KRÜ Esports,1,NRG,2,1-2,NRG,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sat, August 16, 2025",509826,5:35 AM,100 Thieves,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 17, 2025",509827,2:30 AM,FURIA,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Sun, August 17, 2025",509829,4:50 AM,2Game Esports,1,Sentinels,2,1-2,Sentinels,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 18, 2025",509830,2:30 AM,G2 Esports,2,Cloud9,0,2-0,G2 Esports,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Mon, August 18, 2025",509831,5:00 AM,MIBR,2,LOUD,0,2-0,MIBR,Completed,Week 5,Group Stage,VCT 2025 Americas Stage 2_csvs
+"Fri, August 22, 2025",530902,2:30 AM,LEVIATÁN,1,Cloud9,2,1-2,Cloud9,Completed,Upper Round 1,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Fri, August 22, 2025",530903,6:15 AM,G2 Esports,2,100 Thieves,0,2-0,G2 Esports,Completed,Upper Round 1,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sat, August 23, 2025",530906,2:30 AM,Sentinels,2,Cloud9,1,2-1,Sentinels,Completed,Upper Semifinals,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sat, August 23, 2025",530907,6:05 AM,NRG,1,G2 Esports,2,1-2,G2 Esports,Completed,Upper Semifinals,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sun, August 24, 2025",530904,2:30 AM,LEVIATÁN,2,KRÜ Esports,1,2-1,LEVIATÁN,Completed,Lower Round 1,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sun, August 24, 2025",530905,5:55 AM,100 Thieves,2,Evil Geniuses,0,2-0,100 Thieves,Completed,Lower Round 1,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Mon, August 25, 2025",530908,2:30 AM,NRG,2,LEVIATÁN,0,2-0,NRG,Completed,Lower Round 2,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Mon, August 25, 2025",530909,4:20 AM,Cloud9,2,100 Thieves,0,2-0,Cloud9,Completed,Lower Round 2,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sat, August 30, 2025",530910,2:30 AM,Sentinels,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Final,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sat, August 30, 2025",530911,5:00 AM,NRG,2,Cloud9,1,2-1,NRG,Completed,Lower Round 3,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sun, August 31, 2025Yesterday",536985,2:30 AM,Team Alpha,13,Team Omega,4,13-4,Team Alpha,Completed,Override,Showmatch,VCT 2025 Americas Stage 2_csvs
+"Sun, August 31, 2025Yesterday",530912,3:30 AM,Sentinels,1,NRG,3,1-3,NRG,Completed,Lower Final,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Mon, September 1, 2025Today",530913,2:30 AM,G2 Esports,3,NRG,0,3-0,G2 Esports,Completed,Grand Final,Playoffs,VCT 2025 Americas Stage 2_csvs
+"Sat, January 11, 2025",430838,2:30 PM,TYLOO,0,Titan Esports Club,2,0-2,Titan Esports Club,Completed,Upper Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sat, January 11, 2025",430837,5:05 PM,Xi Lai Gaming,2,Wolves Esports,0,2-0,Xi Lai Gaming,Completed,Upper Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sun, January 12, 2025",430839,2:30 PM,JDG Esports,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Upper Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sun, January 12, 2025",430840,5:55 PM,All Gamers,0,Nova Esports,2,0-2,Nova Esports,Completed,Upper Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Thu, January 16, 2025",430842,2:30 PM,FunPlus Phoenix,2,Titan Esports Club,1,2-1,FunPlus Phoenix,Completed,Upper Quarterfinals,Main Event,VCT 2025 China Kickoff_csvs
+"Thu, January 16, 2025",430841,5:50 PM,Bilibili Gaming,2,Xi Lai Gaming,1,2-1,Bilibili Gaming,Completed,Upper Quarterfinals,Main Event,VCT 2025 China Kickoff_csvs
+"Fri, January 17, 2025",430843,2:30 PM,Trace Esports,2,Dragon Ranger Gaming,0,2-0,Trace Esports,Completed,Upper Quarterfinals,Main Event,VCT 2025 China Kickoff_csvs
+"Fri, January 17, 2025",430844,4:40 PM,EDward Gaming,2,Nova Esports,0,2-0,EDward Gaming,Completed,Upper Quarterfinals,Main Event,VCT 2025 China Kickoff_csvs
+"Sat, January 18, 2025",430851,2:30 PM,Titan Esports Club,0,JDG Esports,2,0-2,JDG Esports,Completed,Lower Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sat, January 18, 2025",430853,4:50 PM,Xi Lai Gaming,2,All Gamers,1,2-1,Xi Lai Gaming,Completed,Lower Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sun, January 19, 2025",430850,2:30 PM,Dragon Ranger Gaming,2,TYLOO,0,2-0,Dragon Ranger Gaming,Completed,Lower Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Sun, January 19, 2025",430849,4:45 PM,Nova Esports,2,Wolves Esports,1,2-1,Nova Esports,Completed,Lower Round 1,Main Event,VCT 2025 China Kickoff_csvs
+"Mon, January 20, 2025",430845,2:30 PM,Bilibili Gaming,2,FunPlus Phoenix,0,2-0,Bilibili Gaming,Completed,Upper Semifinals,Main Event,VCT 2025 China Kickoff_csvs
+"Mon, January 20, 2025",430846,4:55 PM,Trace Esports,2,EDward Gaming,0,2-0,Trace Esports,Completed,Upper Semifinals,Main Event,VCT 2025 China Kickoff_csvs
+"Tue, January 21, 2025",430854,2:30 PM,Nova Esports,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Lower Round 2,Main Event,VCT 2025 China Kickoff_csvs
+"Tue, January 21, 2025",430855,4:45 PM,JDG Esports,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Lower Round 2,Main Event,VCT 2025 China Kickoff_csvs
+"Wed, January 22, 2025",430856,2:30 PM,FunPlus Phoenix,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Lower Round 3,Main Event,VCT 2025 China Kickoff_csvs
+"Wed, January 22, 2025",430857,5:35 PM,EDward Gaming,2,Xi Lai Gaming,1,2-1,EDward Gaming,Completed,Lower Round 3,Main Event,VCT 2025 China Kickoff_csvs
+"Thu, January 23, 2025",430847,2:30 PM,Bilibili Gaming,1,Trace Esports,2,1-2,Trace Esports,Completed,Upper Final,Main Event,VCT 2025 China Kickoff_csvs
+"Thu, January 23, 2025",430858,5:45 PM,Dragon Ranger Gaming,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Lower Round 4,Main Event,VCT 2025 China Kickoff_csvs
+"Fri, January 24, 2025",430860,2:30 PM,Bilibili Gaming,0,EDward Gaming,3,0-3,EDward Gaming,Completed,Lower Final,Main Event,VCT 2025 China Kickoff_csvs
+"Sat, January 25, 2025",430848,2:30 PM,Trace Esports,1,EDward Gaming,3,1-3,EDward Gaming,Completed,Grand Final,Main Event,VCT 2025 China Kickoff_csvs
+"Thu, March 13, 2025",450047,4:30 PM,Xi Lai Gaming,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Fri, March 14, 2025",450048,4:30 PM,Trace Esports,2,All Gamers,1,2-1,Trace Esports,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 15, 2025",450049,2:30 PM,Dragon Ranger Gaming,2,Nova Esports,0,2-0,Dragon Ranger Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 15, 2025",450050,4:35 PM,TYLOO,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 16, 2025",450051,2:30 PM,JDG Esports,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 16, 2025",450052,4:55 PM,FunPlus Phoenix,2,Titan Esports Club,0,2-0,FunPlus Phoenix,Completed,Week 1,Group Stage,VCT 2025 China Stage 1_csvs
+"Thu, March 20, 2025",450053,4:30 PM,Nova Esports,2,EDward Gaming,0,2-0,Nova Esports,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Fri, March 21, 2025",450054,4:30 PM,TYLOO,1,FunPlus Phoenix,2,1-2,FunPlus Phoenix,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 22, 2025",450055,2:30 PM,Xi Lai Gaming,2,All Gamers,0,2-0,Xi Lai Gaming,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 22, 2025",450056,4:50 PM,Wolves Esports,2,Trace Esports,0,2-0,Wolves Esports,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 23, 2025",450057,2:30 PM,Titan Esports Club,2,Dragon Ranger Gaming,1,2-1,Titan Esports Club,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 23, 2025",450058,5:45 PM,Bilibili Gaming,2,JDG Esports,1,2-1,Bilibili Gaming,Completed,Week 2,Group Stage,VCT 2025 China Stage 1_csvs
+"Thu, March 27, 2025",450059,4:30 PM,JDG Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Fri, March 28, 2025",450060,4:30 PM,Wolves Esports,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 29, 2025",450061,2:30 PM,TYLOO,1,Titan Esports Club,2,1-2,Titan Esports Club,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, March 29, 2025",450062,5:45 PM,Dragon Ranger Gaming,1,EDward Gaming,2,1-2,EDward Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 30, 2025",450063,2:30 PM,Nova Esports,2,FunPlus Phoenix,0,2-0,Nova Esports,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, March 30, 2025",450064,5:00 PM,All Gamers,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 1_csvs
+"Thu, April 3, 2025",450065,4:30 PM,FunPlus Phoenix,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Fri, April 4, 2025",450066,4:30 PM,Bilibili Gaming,2,Wolves Esports,1,2-1,Bilibili Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, April 5, 2025",450067,2:30 PM,All Gamers,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, April 5, 2025",450068,5:00 PM,EDward Gaming,2,Titan Esports Club,1,2-1,EDward Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, April 6, 2025",450069,2:30 PM,Nova Esports,2,TYLOO,1,2-1,Nova Esports,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, April 6, 2025",450070,5:30 PM,Trace Esports,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 1_csvs
+"Thu, April 10, 2025",450071,4:30 PM,JDG Esports,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Fri, April 11, 2025",450072,4:30 PM,Dragon Ranger Gaming,1,TYLOO,2,1-2,TYLOO,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, April 12, 2025",450073,2:30 PM,Wolves Esports,2,All Gamers,1,2-1,Wolves Esports,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Sat, April 12, 2025",450074,5:35 PM,Bilibili Gaming,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, April 13, 2025",450075,2:30 PM,Titan Esports Club,2,Nova Esports,0,2-0,Titan Esports Club,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Sun, April 13, 2025",450076,4:40 PM,EDward Gaming,2,FunPlus Phoenix,0,2-0,EDward Gaming,Completed,Week 5,Group Stage,VCT 2025 China Stage 1_csvs
+"Thu, April 17, 2025",473233,2:30 PM,Titan Esports Club,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Round 1,Playoffs,VCT 2025 China Stage 1_csvs
+"Thu, April 17, 2025",473234,5:00 PM,Xi Lai Gaming,2,Nova Esports,0,2-0,Xi Lai Gaming,Completed,Upper Round 1,Playoffs,VCT 2025 China Stage 1_csvs
+"Fri, April 18, 2025",473235,2:30 PM,Titan Esports Club,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Lower Round 1,Playoffs,VCT 2025 China Stage 1_csvs
+"Fri, April 18, 2025",473236,6:20 PM,Nova Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Lower Round 1,Playoffs,VCT 2025 China Stage 1_csvs
+"Sat, April 19, 2025",473237,2:30 PM,Bilibili Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Semifinals,Playoffs,VCT 2025 China Stage 1_csvs
+"Sat, April 19, 2025",473238,4:45 PM,EDward Gaming,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Upper Semifinals,Playoffs,VCT 2025 China Stage 1_csvs
+"Sun, April 20, 2025",473240,2:30 PM,Bilibili Gaming,2,Trace Esports,0,2-0,Bilibili Gaming,Completed,Lower Round 2,Playoffs,VCT 2025 China Stage 1_csvs
+"Sun, April 20, 2025",473239,4:40 PM,EDward Gaming,2,Dragon Ranger Gaming,1,2-1,EDward Gaming,Completed,Lower Round 2,Playoffs,VCT 2025 China Stage 1_csvs
+"Fri, May 2, 2025",473241,2:30 PM,Wolves Esports,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Upper Final,Playoffs,VCT 2025 China Stage 1_csvs
+"Fri, May 2, 2025",473242,5:05 PM,EDward Gaming,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Lower Round 3,Playoffs,VCT 2025 China Stage 1_csvs
+"Sat, May 3, 2025",473243,2:30 PM,Wolves Esports,0,Bilibili Gaming,3,0-3,Bilibili Gaming,Completed,Lower Final,Playoffs,VCT 2025 China Stage 1_csvs
+"Sun, May 4, 2025",473244,2:30 PM,Xi Lai Gaming,3,Bilibili Gaming,1,3-1,Xi Lai Gaming,Completed,Grand Final,Playoffs,VCT 2025 China Stage 1_csvs
+"Thu, July 3, 2025",506930,4:30 PM,EDward Gaming,2,Titan Esports Club,0,2-0,EDward Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, July 4, 2025",506931,4:30 PM,Bilibili Gaming,2,TYLOO,0,2-0,Bilibili Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 5, 2025",506932,2:30 PM,All Gamers,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 5, 2025",506933,5:15 PM,Wolves Esports,0,FunPlus Phoenix,2,0-2,FunPlus Phoenix,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 6, 2025",506934,2:30 PM,Dragon Ranger Gaming,2,Nova Esports,1,2-1,Dragon Ranger Gaming,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 6, 2025",506935,5:35 PM,JDG Esports,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 1,Group Stage,VCT 2025 China Stage 2_csvs
+"Wed, July 16, 2025",506936,4:30 PM,Trace Esports,0,TYLOO,2,0-2,TYLOO,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Thu, July 17, 2025",506937,4:30 PM,FunPlus Phoenix,2,Nova Esports,1,2-1,FunPlus Phoenix,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, July 18, 2025",506938,2:30 PM,All Gamers,2,Wolves Esports,0,2-0,All Gamers,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, July 18, 2025",506939,4:30 PM,JDG Esports,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 19, 2025",506940,2:30 PM,TYLOO,2,Titan Esports Club,0,2-0,TYLOO,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 19, 2025",506941,4:40 PM,Trace Esports,2,EDward Gaming,1,2-1,Trace Esports,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 20, 2025",506942,2:30 PM,Dragon Ranger Gaming,2,All Gamers,1,2-1,Dragon Ranger Gaming,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 20, 2025",506943,5:40 PM,Xi Lai Gaming,2,Wolves Esports,0,2-0,Xi Lai Gaming,Completed,Week 2,Group Stage,VCT 2025 China Stage 2_csvs
+"Wed, July 23, 2025",506945,4:30 PM,Titan Esports Club,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Thu, July 24, 2025",506946,4:30 PM,FunPlus Phoenix,2,Dragon Ranger Gaming,1,2-1,FunPlus Phoenix,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, July 25, 2025",506947,2:30 PM,Nova Esports,1,All Gamers,2,1-2,All Gamers,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, July 25, 2025",506948,6:00 PM,TYLOO,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 26, 2025",506949,2:30 PM,Titan Esports Club,1,JDG Esports,2,1-2,JDG Esports,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, July 26, 2025",506950,5:55 PM,Bilibili Gaming,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 27, 2025",506951,2:30 PM,Wolves Esports,2,Dragon Ranger Gaming,1,2-1,Wolves Esports,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, July 27, 2025",506952,6:05 PM,Xi Lai Gaming,2,FunPlus Phoenix,0,2-0,Xi Lai Gaming,Completed,Week 3,Group Stage,VCT 2025 China Stage 2_csvs
+"Thu, July 31, 2025",506953,2:30 PM,Nova Esports,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Thu, July 31, 2025",506954,4:30 PM,EDward Gaming,2,JDG Esports,1,2-1,EDward Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, August 1, 2025",506955,2:30 PM,All Gamers,2,FunPlus Phoenix,0,2-0,All Gamers,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Fri, August 1, 2025",506956,5:10 PM,Trace Esports,0,Titan Esports Club,2,0-2,Titan Esports Club,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, August 2, 2025",506957,2:30 PM,Nova Esports,2,Wolves Esports,1,2-1,Nova Esports,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, August 2, 2025",506958,5:50 PM,Dragon Ranger Gaming,2,Xi Lai Gaming,1,2-1,Dragon Ranger Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, August 3, 2025",506959,2:30 PM,TYLOO,2,JDG Esports,1,2-1,TYLOO,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Sun, August 3, 2025",506960,5:30 PM,Bilibili Gaming,2,EDward Gaming,0,2-0,Bilibili Gaming,Completed,Week 4,Group Stage,VCT 2025 China Stage 2_csvs
+"Sat, August 9, 2025",527577,2:30 PM,All Gamers,0,TYLOO,2,0-2,TYLOO,Completed,Upper Quarterfinals,Playoffs,VCT 2025 China Stage 2_csvs
+"Sat, August 9, 2025",527576,4:50 PM,EDward Gaming,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Upper Quarterfinals,Playoffs,VCT 2025 China Stage 2_csvs
+"Sun, August 10, 2025",527584,2:30 PM,All Gamers,2,FunPlus Phoenix,1,2-1,All Gamers,Completed,Lower Round 1,Playoffs,VCT 2025 China Stage 2_csvs
+"Sun, August 10, 2025",527583,5:45 PM,EDward Gaming,2,Trace Esports,1,2-1,EDward Gaming,Completed,Lower Round 1,Playoffs,VCT 2025 China Stage 2_csvs
+"Wed, August 20, 2025",527580,2:30 PM,Bilibili Gaming,2,TYLOO,1,2-1,Bilibili Gaming,Completed,Upper Semifinals,Playoffs,VCT 2025 China Stage 2_csvs
+"Wed, August 20, 2025",527579,5:50 PM,Xi Lai Gaming,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Upper Semifinals,Playoffs,VCT 2025 China Stage 2_csvs
+"Thu, August 21, 2025",527585,2:30 PM,TYLOO,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Lower Round 2,Playoffs,VCT 2025 China Stage 2_csvs
+"Thu, August 21, 2025",527586,4:40 PM,Xi Lai Gaming,2,All Gamers,1,2-1,Xi Lai Gaming,Completed,Lower Round 2,Playoffs,VCT 2025 China Stage 2_csvs
+"Fri, August 22, 2025",536176,1:30 PM,Pure Aim,10,Precise Defeat,13,10-13,Precise Defeat,Completed,All-Star Match,Showmatch,VCT 2025 China Stage 2_csvs
+"Fri, August 22, 2025",527581,2:30 PM,Dragon Ranger Gaming,2,Bilibili Gaming,1,2-1,Dragon Ranger Gaming,Completed,Upper Final,Playoffs,VCT 2025 China Stage 2_csvs
+"Fri, August 22, 2025",527587,6:10 PM,EDward Gaming,2,Xi Lai Gaming,0,2-0,EDward Gaming,Completed,Lower Round 3,Playoffs,VCT 2025 China Stage 2_csvs
+"Sat, August 23, 2025",527588,2:30 PM,Bilibili Gaming,3,EDward Gaming,1,3-1,Bilibili Gaming,Completed,Lower Final,Playoffs,VCT 2025 China Stage 2_csvs
+"Sun, August 24, 2025",527582,2:30 PM,Dragon Ranger Gaming,1,Bilibili Gaming,3,1-3,Bilibili Gaming,Completed,Grand Final,Playoffs,VCT 2025 China Stage 2_csvs
+"Wed, January 15, 2025",429381,10:30 PM,BBL Esports,2,GIANTX,1,2-1,BBL Esports,Completed,Upper Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 16, 2025",429380,2:00 AM,Karmine Corp,2,Natus Vincere,1,2-1,Karmine Corp,Completed,Upper Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 16, 2025",429379,10:30 PM,Team Liquid,2,KOI,1,2-1,Team Liquid,Completed,Upper Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 17, 2025",429382,1:40 AM,Apeks,0,Gentle Mates,2,0-2,Gentle Mates,Completed,Upper Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 17, 2025",429385,10:30 PM,FNATIC,1,BBL Esports,2,1-2,BBL Esports,Completed,Upper Quarterfinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sat, January 18, 2025",429384,2:30 AM,Team Vitality,2,Karmine Corp,1,2-1,Team Vitality,Completed,Upper Quarterfinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Wed, January 22, 2025",429383,10:30 PM,FUT Esports,2,Team Liquid,0,2-0,FUT Esports,Completed,Upper Quarterfinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 23, 2025",429386,12:40 AM,Team Heretics,2,Gentle Mates,1,2-1,Team Heretics,Completed,Upper Quarterfinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 23, 2025",429393,10:30 PM,Karmine Corp,1,GIANTX,2,1-2,GIANTX,Completed,Lower Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 24, 2025",429392,2:00 AM,FNATIC,2,Natus Vincere,1,2-1,FNATIC,Completed,Lower Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 24, 2025",429394,10:30 PM,Team Liquid,2,Apeks,1,2-1,Team Liquid,Completed,Lower Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sat, January 25, 2025",429391,1:40 AM,Gentle Mates,2,KOI,1,2-1,Gentle Mates,Completed,Lower Round 1,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Wed, January 29, 2025",429388,10:30 PM,BBL Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Upper Semifinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 30, 2025",429387,12:55 AM,FUT Esports,0,Team Vitality,2,0-2,Team Vitality,Completed,Upper Semifinals,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Thu, January 30, 2025",429395,10:30 PM,Gentle Mates,0,FNATIC,2,0-2,FNATIC,Completed,Lower Round 2,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 31, 2025",429396,12:45 AM,GIANTX,0,Team Liquid,2,0-2,Team Liquid,Completed,Lower Round 2,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, January 31, 2025",429397,10:30 PM,FUT Esports,2,FNATIC,0,2-0,FUT Esports,Completed,Lower Round 3,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sat, February 1, 2025",429398,12:45 AM,BBL Esports,1,Team Liquid,2,1-2,Team Liquid,Completed,Lower Round 3,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Fri, February 7, 2025",429389,10:30 PM,Team Vitality,2,Team Heretics,0,2-0,Team Vitality,Completed,Upper Final,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sat, February 8, 2025",429400,12:40 AM,FUT Esports,1,Team Liquid,2,1-2,Team Liquid,Completed,Lower Round 4,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sat, February 8, 2025",429401,10:30 PM,Team Heretics,0,Team Liquid,3,0-3,Team Liquid,Completed,Lower Final,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Sun, February 9, 2025",429390,10:30 PM,Team Vitality,3,Team Liquid,2,3-2,Team Vitality,Completed,Grand Final,Main Event,VCT 2025 EMEA Kickoff_csvs
+"Wed, March 26, 2025",459826,9:30 PM,Team Vitality,2,GIANTX,0,2-0,Team Vitality,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, March 26, 2025",459827,11:45 PM,BBL Esports,2,Karmine Corp,1,2-1,BBL Esports,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, March 27, 2025",459828,9:30 PM,Team Heretics,2,Apeks,1,2-1,Team Heretics,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, March 28, 2025",459829,12:45 AM,FUT Esports,2,KOI,0,2-0,FUT Esports,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, March 28, 2025",459830,9:30 PM,FNATIC,2,Natus Vincere,0,2-0,FNATIC,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Sat, March 29, 2025",459831,12:00 AM,Team Liquid,1,Gentle Mates,2,1-2,Gentle Mates,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 2, 2025",459832,8:30 PM,Team Liquid,2,BBL Esports,1,2-1,Team Liquid,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 2, 2025",459833,11:20 PM,Apeks,1,Natus Vincere,2,1-2,Natus Vincere,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 3, 2025",459834,8:30 PM,FUT Esports,2,Gentle Mates,1,2-1,FUT Esports,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 3, 2025",459835,11:55 PM,Team Heretics,2,GIANTX,1,2-1,Team Heretics,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, April 4, 2025",459836,8:30 PM,Team Vitality,1,FNATIC,2,1-2,FNATIC,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Sat, April 5, 2025",459837,12:40 AM,KOI,0,Karmine Corp,2,0-2,Karmine Corp,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 9, 2025",459839,8:30 PM,KOI,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 9, 2025",459840,10:45 PM,Natus Vincere,2,GIANTX,1,2-1,Natus Vincere,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 10, 2025",459841,8:30 PM,Team Liquid,2,FUT Esports,0,2-0,Team Liquid,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 10, 2025",459842,10:20 PM,Team Vitality,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, April 11, 2025",459843,8:30 PM,Apeks,0,FNATIC,2,0-2,FNATIC,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, April 11, 2025",459844,11:30 PM,Karmine Corp,2,Gentle Mates,0,2-0,Karmine Corp,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 16, 2025",459845,8:30 PM,Team Vitality,2,Apeks,0,2-0,Team Vitality,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 16, 2025",459846,10:50 PM,Team Liquid,2,KOI,0,2-0,Team Liquid,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 17, 2025",459847,8:30 PM,Gentle Mates,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 17, 2025",459848,10:40 PM,GIANTX,1,FNATIC,2,1-2,FNATIC,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, April 18, 2025",459849,8:30 PM,Karmine Corp,1,FUT Esports,2,1-2,FUT Esports,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Sat, April 19, 2025",459850,12:50 AM,Natus Vincere,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Wed, April 23, 2025",459852,8:30 PM,BBL Esports,2,FUT Esports,0,2-0,BBL Esports,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 24, 2025",459853,12:30 AM,GIANTX,2,Apeks,0,2-0,GIANTX,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 24, 2025",459854,8:30 PM,Gentle Mates,1,KOI,2,1-2,KOI,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, April 24, 2025",459855,11:35 PM,Team Vitality,0,Natus Vincere,2,0-2,Natus Vincere,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, May 2, 2025",459856,8:30 PM,Team Liquid,2,Karmine Corp,1,2-1,Team Liquid,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Fri, May 2, 2025",459857,11:00 PM,FNATIC,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 1_csvs
+"Thu, May 8, 2025",482503,8:30 PM,BBL Esports,2,Natus Vincere,0,2-0,BBL Esports,Completed,Upper Round 1,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Thu, May 8, 2025",482504,11:30 PM,FNATIC,2,FUT Esports,0,2-0,FNATIC,Completed,Upper Round 1,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Fri, May 9, 2025",482505,8:30 PM,Natus Vincere,2,Karmine Corp,1,2-1,Natus Vincere,Completed,Lower Round 1,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sat, May 10, 2025",482506,12:35 AM,FUT Esports,2,Team Vitality,0,2-0,FUT Esports,Completed,Lower Round 1,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sat, May 10, 2025",482507,8:30 PM,Team Heretics,2,BBL Esports,0,2-0,Team Heretics,Completed,Upper Semifinals,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sat, May 10, 2025",482508,10:55 PM,Team Liquid,1,FNATIC,2,1-2,FNATIC,Completed,Upper Semifinals,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sun, May 11, 2025",482510,8:30 PM,BBL Esports,2,FUT Esports,1,2-1,BBL Esports,Completed,Lower Round 2,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Mon, May 12, 2025",482509,12:15 AM,Team Liquid,2,Natus Vincere,1,2-1,Team Liquid,Completed,Lower Round 2,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Fri, May 16, 2025",482515,8:30 PM,Team Heretics,0,FNATIC,2,0-2,FNATIC,Completed,Upper Final,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Fri, May 16, 2025",482511,10:50 PM,Team Liquid,2,BBL Esports,1,2-1,Team Liquid,Completed,Lower Round 3,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sat, May 17, 2025",482512,9:30 PM,Team Heretics,3,Team Liquid,0,3-0,Team Heretics,Completed,Lower Final,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Sun, May 18, 2025",482513,9:30 PM,FNATIC,3,Team Heretics,0,3-0,FNATIC,Completed,Grand Final,Playoffs,VCT 2025 EMEA Stage 1_csvs
+"Wed, July 16, 2025",511543,8:30 PM,Natus Vincere,2,Apeks,1,2-1,Natus Vincere,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, July 16, 2025",511544,11:20 PM,Team Vitality,0,GIANTX,2,0-2,GIANTX,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, July 17, 2025",511545,8:30 PM,FUT Esports,2,Gentle Mates,1,2-1,FUT Esports,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, July 18, 2025",511546,12:00 AM,Team Liquid,2,KOI,1,2-1,Team Liquid,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, July 18, 2025",511547,8:30 PM,Team Heretics,2,BBL Esports,1,2-1,Team Heretics,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, July 18, 2025",511548,11:45 PM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Week 1,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, July 23, 2025",511549,8:30 PM,Apeks,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, July 24, 2025",511550,12:00 AM,GIANTX,2,BBL Esports,1,2-1,GIANTX,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, July 24, 2025",511551,8:30 PM,Team Liquid,2,Natus Vincere,0,2-0,Team Liquid,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, July 24, 2025",511552,10:35 PM,Gentle Mates,1,Team Heretics,2,1-2,Team Heretics,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, July 25, 2025",511553,8:30 PM,FUT Esports,0,Team Vitality,2,0-2,Team Vitality,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, July 25, 2025",511554,10:25 PM,KOI,0,FNATIC,2,0-2,FNATIC,Completed,Week 2,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, July 30, 2025",511562,8:30 PM,FUT Esports,2,GIANTX,1,2-1,FUT Esports,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, July 30, 2025",511563,11:40 PM,Gentle Mates,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, July 31, 2025",511564,8:30 PM,Team Liquid,2,Apeks,1,2-1,Team Liquid,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 1, 2025",511565,12:10 AM,KOI,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 1, 2025",511566,8:30 PM,Natus Vincere,1,FNATIC,2,1-2,FNATIC,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Sat, August 2, 2025",511567,12:10 AM,Team Vitality,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 3,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, August 6, 2025",511568,8:30 PM,FUT Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, August 6, 2025",511569,11:05 PM,KOI,2,Apeks,1,2-1,KOI,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 7, 2025",511570,8:30 PM,Gentle Mates,1,GIANTX,2,1-2,GIANTX,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 7, 2025",511571,11:30 PM,Natus Vincere,2,Karmine Corp,0,2-0,Natus Vincere,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 8, 2025",511572,8:30 PM,Team Vitality,1,BBL Esports,2,1-2,BBL Esports,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Sat, August 9, 2025",511573,12:10 AM,Team Liquid,2,FNATIC,0,2-0,Team Liquid,Completed,Week 4,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, August 13, 2025",511575,8:30 PM,KOI,1,Natus Vincere,2,1-2,Natus Vincere,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Wed, August 13, 2025",511576,11:50 PM,Apeks,0,FNATIC,2,0-2,FNATIC,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 14, 2025",511577,8:30 PM,GIANTX,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 14, 2025",511579,10:35 PM,Gentle Mates,1,Team Vitality,2,1-2,Team Vitality,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 15, 2025",511580,8:30 PM,FUT Esports,0,BBL Esports,2,0-2,BBL Esports,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 15, 2025",511581,11:00 PM,Team Liquid,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Week 5,Group Stage,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 21, 2025",530924,8:30 PM,FNATIC,1,BBL Esports,2,1-2,BBL Esports,Completed,Upper Round 1,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Thu, August 21, 2025",530925,11:45 PM,GIANTX,2,Natus Vincere,1,2-1,GIANTX,Completed,Upper Round 1,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 22, 2025",530928,8:30 PM,Team Heretics,0,BBL Esports,2,0-2,BBL Esports,Completed,Upper Semifinals,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 22, 2025",530929,10:50 PM,Team Liquid,2,GIANTX,1,2-1,Team Liquid,Completed,Upper Semifinals,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sat, August 23, 2025",530926,8:30 PM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Lower Round 1,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sun, August 24, 2025",530927,12:25 AM,Natus Vincere,2,Team Vitality,0,2-0,Natus Vincere,Completed,Lower Round 1,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sun, August 24, 2025",530930,8:30 PM,GIANTX,2,FNATIC,0,2-0,GIANTX,Completed,Lower Round 2,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sun, August 24, 2025",530931,10:55 PM,Team Heretics,0,Natus Vincere,2,0-2,Natus Vincere,Completed,Lower Round 2,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Fri, August 29, 2025",530932,8:30 PM,BBL Esports,1,Team Liquid,2,1-2,Team Liquid,Completed,Upper Final,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sat, August 30, 2025",530933,12:10 AM,GIANTX,2,Natus Vincere,1,2-1,GIANTX,Completed,Lower Round 3,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sat, August 30, 2025",530934,9:30 PM,BBL Esports,0,GIANTX,3,0-3,GIANTX,Completed,Lower Final,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sun, August 31, 2025Yesterday",538583,8:30 PM,Team France,7,Team EMEA,13,7-13,Team EMEA,Completed,Main Event,Showmatch,VCT 2025 EMEA Stage 2_csvs
+"Sun, August 31, 2025Yesterday",530935,9:30 PM,Team Liquid,3,GIANTX,0,3-0,Team Liquid,Completed,Grand Final,Playoffs,VCT 2025 EMEA Stage 2_csvs
+"Sat, January 18, 2025",430514,1:30 PM,BOOM Esports,1,T1,2,1-2,T1,Completed,Upper Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, January 18, 2025",430515,4:45 PM,ZETA DIVISION,0,Nongshim RedForce,2,0-2,Nongshim RedForce,Completed,Upper Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, January 19, 2025",430516,1:30 PM,Global Esports,2,Team Secret,1,2-1,Global Esports,Completed,Upper Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, January 19, 2025",430517,4:30 PM,DetonatioN FocusMe,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Upper Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Mon, January 20, 2025",430521,1:30 PM,DRX,2,Nongshim RedForce,1,2-1,DRX,Completed,Upper Quarterfinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Mon, January 20, 2025",430518,4:45 PM,Paper Rex,1,T1,2,1-2,T1,Completed,Upper Quarterfinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, January 25, 2025",430519,1:30 PM,TALON,2,Global Esports,1,2-1,TALON,Completed,Upper Quarterfinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, January 25, 2025",430520,4:30 PM,Gen.G,2,Rex Regum Qeon,1,2-1,Gen.G,Completed,Upper Quarterfinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, January 26, 2025",430526,1:30 PM,Nongshim RedForce,2,BOOM Esports,1,2-1,Nongshim RedForce,Completed,Lower Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, January 26, 2025",430529,4:30 PM,Paper Rex,2,ZETA DIVISION,0,2-0,Paper Rex,Completed,Lower Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Mon, January 27, 2025",430527,1:30 PM,Rex Regum Qeon,2,Team Secret,1,2-1,Rex Regum Qeon,Completed,Lower Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Mon, January 27, 2025",430528,4:30 PM,Global Esports,0,DetonatioN FocusMe,2,0-2,DetonatioN FocusMe,Completed,Lower Round 1,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Fri, January 31, 2025",430522,1:30 PM,T1,2,TALON,1,2-1,T1,Completed,Upper Semifinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Fri, January 31, 2025",430523,4:15 PM,Gen.G,0,DRX,2,0-2,DRX,Completed,Upper Semifinals,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, February 1, 2025",430530,1:30 PM,Nongshim RedForce,2,Rex Regum Qeon,1,2-1,Nongshim RedForce,Completed,Lower Round 2,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, February 1, 2025",430531,5:40 PM,DetonatioN FocusMe,2,Paper Rex,0,2-0,DetonatioN FocusMe,Completed,Lower Round 2,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, February 2, 2025",430532,1:30 PM,TALON,2,Nongshim RedForce,1,2-1,TALON,Completed,Lower Round 3,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, February 2, 2025",430533,4:30 PM,Gen.G,2,DetonatioN FocusMe,0,2-0,Gen.G,Completed,Lower Round 3,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Fri, February 7, 2025",430524,1:30 PM,T1,1,DRX,2,1-2,DRX,Completed,Upper Final,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Fri, February 7, 2025",430534,5:00 PM,TALON,0,Gen.G,2,0-2,Gen.G,Completed,Lower Round 4,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, February 8, 2025",430535,1:30 PM,T1,3,Gen.G,2,3-2,T1,Completed,Lower Final,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sun, February 9, 2025",430525,1:30 PM,DRX,3,T1,2,3-2,DRX,Completed,Grand Final,Main Event,VCT 2025 Pacific Kickoff_csvs
+"Sat, March 22, 2025",458805,1:30 PM,DetonatioN FocusMe,0,Global Esports,2,0-2,Global Esports,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, March 22, 2025",458806,4:10 PM,T1,2,ZETA DIVISION,1,2-1,T1,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, March 23, 2025",458807,1:30 PM,DRX,2,Paper Rex,1,2-1,DRX,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, March 23, 2025",458808,4:35 PM,TALON,2,Team Secret,1,2-1,TALON,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, March 24, 2025",458809,1:30 PM,Gen.G,0,BOOM Esports,2,0-2,BOOM Esports,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, March 24, 2025",458810,4:20 PM,Nongshim RedForce,2,Rex Regum Qeon,1,2-1,Nongshim RedForce,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, March 29, 2025",458811,1:30 PM,Team Secret,0,ZETA DIVISION,2,0-2,ZETA DIVISION,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, March 29, 2025",458812,4:05 PM,T1,2,Nongshim RedForce,0,2-0,T1,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, March 30, 2025",458813,1:30 PM,Gen.G,2,Paper Rex,1,2-1,Gen.G,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, March 30, 2025",458814,4:25 PM,DRX,2,DetonatioN FocusMe,0,2-0,DRX,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, March 31, 2025",458815,1:30 PM,TALON,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, March 31, 2025",458816,3:40 PM,BOOM Esports,2,Global Esports,0,2-0,BOOM Esports,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 5, 2025",458817,1:30 PM,Gen.G,2,DetonatioN FocusMe,0,2-0,Gen.G,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 5, 2025",458818,3:30 PM,Rex Regum Qeon,2,ZETA DIVISION,0,2-0,Rex Regum Qeon,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 6, 2025",458819,1:30 PM,Paper Rex,1,BOOM Esports,2,1-2,BOOM Esports,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 6, 2025",458820,5:15 PM,TALON,2,Nongshim RedForce,1,2-1,TALON,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 7, 2025",458821,1:30 PM,DRX,2,Global Esports,0,2-0,DRX,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 7, 2025",458822,3:30 PM,T1,2,Team Secret,1,2-1,T1,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 12, 2025",458823,1:30 PM,Nongshim RedForce,2,Team Secret,0,2-0,Nongshim RedForce,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 12, 2025",458824,3:45 PM,DRX,1,BOOM Esports,2,1-2,BOOM Esports,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 13, 2025",458825,1:30 PM,T1,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 13, 2025",458826,4:40 PM,Gen.G,2,Global Esports,0,2-0,Gen.G,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 14, 2025",458827,1:30 PM,TALON,0,ZETA DIVISION,2,0-2,ZETA DIVISION,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 14, 2025",458828,3:40 PM,DetonatioN FocusMe,1,Paper Rex,2,1-2,Paper Rex,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 19, 2025",458830,1:30 PM,Paper Rex,2,Global Esports,0,2-0,Paper Rex,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 19, 2025",458831,3:30 PM,T1,0,TALON,2,0-2,TALON,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 20, 2025",458832,1:30 PM,DRX,2,Gen.G,1,2-1,DRX,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 20, 2025",458833,5:00 PM,Nongshim RedForce,2,ZETA DIVISION,1,2-1,Nongshim RedForce,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 21, 2025",458834,1:30 PM,DetonatioN FocusMe,0,BOOM Esports,2,0-2,BOOM Esports,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Mon, April 21, 2025",458835,3:30 PM,Rex Regum Qeon,1,Team Secret,2,1-2,Team Secret,Completed,Week 5,Group Stage,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 26, 2025",473833,1:30 PM,TALON,1,Gen.G,2,1-2,Gen.G,Completed,Upper Round 1,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sat, April 26, 2025",473834,4:30 PM,DRX,2,T1,0,2-0,DRX,Completed,Upper Round 1,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 27, 2025",473837,1:30 PM,BOOM Esports,0,Gen.G,2,0-2,Gen.G,Completed,Upper Semifinals,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sun, April 27, 2025",473838,3:40 PM,Rex Regum Qeon,2,DRX,1,2-1,Rex Regum Qeon,Completed,Upper Semifinals,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sat, May 3, 2025",473835,1:30 PM,TALON,2,Nongshim RedForce,1,2-1,TALON,Completed,Lower Round 1,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sat, May 3, 2025",473836,4:55 PM,T1,1,Paper Rex,2,1-2,Paper Rex,Completed,Lower Round 1,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sun, May 4, 2025",473839,1:30 PM,DRX,2,TALON,0,2-0,DRX,Completed,Lower Round 2,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sun, May 4, 2025",473840,3:30 PM,BOOM Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Lower Round 2,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Fri, May 9, 2025",473841,1:30 PM,Gen.G,2,Rex Regum Qeon,0,2-0,Gen.G,Completed,Upper Final,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Fri, May 9, 2025",473842,3:30 PM,DRX,0,Paper Rex,2,0-2,Paper Rex,Completed,Lower Round 3,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sat, May 10, 2025",473843,1:30 PM,Rex Regum Qeon,3,Paper Rex,2,3-2,Rex Regum Qeon,Completed,Lower Final,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Sun, May 11, 2025",473844,1:30 PM,Gen.G,1,Rex Regum Qeon,3,1-3,Rex Regum Qeon,Completed,Grand Final,Playoffs,VCT 2025 Pacific Stage 1_csvs
+"Tue, July 15, 2025",508815,1:30 PM,BOOM Esports,0,TALON,2,0-2,TALON,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Tue, July 15, 2025",508816,3:45 PM,Nongshim RedForce,2,Team Secret,1,2-1,Nongshim RedForce,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Wed, July 16, 2025",508817,1:30 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Wed, July 16, 2025",508818,4:05 PM,DRX,0,Gen.G,2,0-2,Gen.G,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Thu, July 17, 2025",508819,1:30 PM,Rex Regum Qeon,0,Global Esports,2,0-2,Global Esports,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Thu, July 17, 2025",508820,3:45 PM,ZETA DIVISION,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, July 18, 2025",508821,1:30 PM,DRX,2,Nongshim RedForce,1,2-1,DRX,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, July 18, 2025",508822,4:40 PM,BOOM Esports,0,T1,2,0-2,T1,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, July 19, 2025",508823,1:30 PM,Global Esports,1,Team Secret,2,1-2,Team Secret,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, July 19, 2025",508824,4:50 PM,Paper Rex,2,DetonatioN FocusMe,0,2-0,Paper Rex,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, July 20, 2025",508825,1:30 PM,TALON,2,ZETA DIVISION,0,2-0,TALON,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, July 20, 2025",508826,3:30 PM,Rex Regum Qeon,2,Gen.G,1,2-1,Rex Regum Qeon,Completed,Week 1,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, July 25, 2025",508828,1:30 PM,Gen.G,2,Global Esports,1,2-1,Gen.G,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, July 25, 2025",508829,4:20 PM,TALON,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, July 26, 2025",508830,1:30 PM,T1,2,ZETA DIVISION,0,2-0,T1,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, July 26, 2025",508831,3:35 PM,Rex Regum Qeon,2,Nongshim RedForce,1,2-1,Rex Regum Qeon,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, July 27, 2025",508832,1:30 PM,DRX,2,Team Secret,0,2-0,DRX,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, July 27, 2025",508833,3:30 PM,BOOM Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 2,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 1, 2025",508834,1:30 PM,Gen.G,2,Team Secret,0,2-0,Gen.G,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 1, 2025",508835,3:30 PM,TALON,2,T1,0,2-0,TALON,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 2, 2025",508836,1:30 PM,BOOM Esports,0,DetonatioN FocusMe,2,0-2,DetonatioN FocusMe,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 2, 2025",508837,3:35 PM,Rex Regum Qeon,0,DRX,2,0-2,DRX,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 3, 2025",508838,1:30 PM,Nongshim RedForce,2,Global Esports,0,2-0,Nongshim RedForce,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 3, 2025",508839,3:40 PM,Paper Rex,0,ZETA DIVISION,2,0-2,ZETA DIVISION,Completed,Week 3,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 8, 2025",508840,1:30 PM,Gen.G,0,Nongshim RedForce,2,0-2,Nongshim RedForce,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 8, 2025",508841,4:00 PM,TALON,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 9, 2025",508842,1:30 PM,DRX,2,Global Esports,0,2-0,DRX,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 9, 2025",508843,3:55 PM,BOOM Esports,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 10, 2025",508844,1:30 PM,Rex Regum Qeon,2,Team Secret,1,2-1,Rex Regum Qeon,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 10, 2025",508845,4:35 PM,T1,2,DetonatioN FocusMe,0,2-0,T1,Completed,Week 4,Group Stage,VCT 2025 Pacific Stage 2_csvs
+"Wed, August 13, 2025",530354,1:30 PM,TALON,2,Nongshim RedForce,0,2-0,TALON,Completed,Upper Round 1,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Wed, August 13, 2025",530355,4:05 PM,Rex Regum Qeon,1,T1,2,1-2,T1,Completed,Upper Round 1,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Thu, August 14, 2025",530356,1:30 PM,DRX,1,TALON,2,1-2,TALON,Completed,Upper Semifinals,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Thu, August 14, 2025",530357,4:40 PM,Paper Rex,2,T1,0,2-0,Paper Rex,Completed,Upper Semifinals,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 15, 2025",530358,1:30 PM,Nongshim RedForce,2,DetonatioN FocusMe,0,2-0,Nongshim RedForce,Completed,Lower Round 1,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Fri, August 15, 2025",530359,3:35 PM,Rex Regum Qeon,2,Gen.G,1,2-1,Rex Regum Qeon,Completed,Lower Round 1,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 16, 2025",530360,1:30 PM,T1,2,Nongshim RedForce,0,2-0,T1,Completed,Lower Round 2,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 16, 2025",530361,3:35 PM,DRX,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Lower Round 2,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 17, 2025",530362,1:30 PM,TALON,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Final,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 17, 2025",530363,3:30 PM,T1,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Lower Round 3,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 30, 2025",530514,10:30 AM,Team World,13,Glory Once Again,8,13-8,Team World,Completed,Main Event,Showmatch,VCT 2025 Pacific Stage 2_csvs
+"Sat, August 30, 2025",530364,11:30 AM,TALON,2,Rex Regum Qeon,3,2-3,Rex Regum Qeon,Completed,Lower Final,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Sun, August 31, 2025Yesterday",530365,11:20 AM,Paper Rex,3,Rex Regum Qeon,1,3-1,Paper Rex,Completed,Grand Final,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Fri, September 12, 2025",542195,6:30 PM,Paper Rex,2,Xi Lai Gaming,0,2-0,Paper Rex,Completed,Opening (A),Group Stage,Valorant Champions 2025_csvs
+"Fri, September 12, 2025",542196,8:55 PM,GIANTX,2,Sentinels,1,2-1,GIANTX,Completed,Opening (A),Group Stage,Valorant Champions 2025_csvs
+"Sat, September 13, 2025",542207,6:30 PM,NRG,2,EDward Gaming,0,2-0,NRG,Completed,Opening (C),Group Stage,Valorant Champions 2025_csvs
+"Sat, September 13, 2025",542205,9:25 PM,Team Liquid,0,DRX,2,0-2,DRX,Completed,Opening (C),Group Stage,Valorant Champions 2025_csvs
+"Sun, September 14, 2025",542212,6:30 PM,Dragon Ranger Gaming,0,T1,2,0-2,T1,Completed,Opening (D),Group Stage,Valorant Champions 2025_csvs
+"Sun, September 14, 2025",542211,9:50 PM,G2 Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Opening (D),Group Stage,Valorant Champions 2025_csvs
+"Mon, September 15, 2025",542200,6:30 PM,Bilibili Gaming,0,MIBR,2,0-2,MIBR,Completed,Opening (B),Group Stage,Valorant Champions 2025_csvs
+"Mon, September 15, 2025",542201,8:40 PM,Rex Regum Qeon,0,FNATIC,2,0-2,FNATIC,Completed,Opening (B),Group Stage,Valorant Champions 2025_csvs
+"Wed, September 17, 2025",542197,6:30 PM,Paper Rex,2,GIANTX,1,2-1,Paper Rex,Completed,Winner's (A),Group Stage,Valorant Champions 2025_csvs
+"Wed, September 17, 2025",542208,9:40 PM,DRX,1,NRG,2,1-2,NRG,Completed,Winner's (C),Group Stage,Valorant Champions 2025_csvs
+"Thu, September 18, 2025",542213,6:30 PM,Team Heretics,2,T1,0,2-0,Team Heretics,Completed,Winner's (D),Group Stage,Valorant Champions 2025_csvs
+"Thu, September 18, 2025",542202,8:55 PM,MIBR,1,FNATIC,2,1-2,FNATIC,Completed,Winner's (B),Group Stage,Valorant Champions 2025_csvs
+"Fri, September 19, 2025",542209,6:30 PM,Team Liquid,2,EDward Gaming,1,2-1,Team Liquid,Completed,Elimination (C),Group Stage,Valorant Champions 2025_csvs
+"Fri, September 19, 2025",542198,10:00 PM,Xi Lai Gaming,2,Sentinels,1,2-1,Xi Lai Gaming,Completed,Elimination (A),Group Stage,Valorant Champions 2025_csvs
+"Sat, September 20, 2025",542203,6:30 PM,Bilibili Gaming,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Elimination (B),Group Stage,Valorant Champions 2025_csvs
+"Sat, September 20, 2025",542214,9:30 PM,G2 Esports,2,Dragon Ranger Gaming,0,2-0,G2 Esports,Completed,Elimination (D),Group Stage,Valorant Champions 2025_csvs
+"Sun, September 21, 2025",542210,6:30 PM,DRX,2,Team Liquid,0,2-0,DRX,Completed,Decider (C),Group Stage,Valorant Champions 2025_csvs
+"Sun, September 21, 2025",542199,8:50 PM,GIANTX,2,Xi Lai Gaming,0,2-0,GIANTX,Completed,Decider (A),Group Stage,Valorant Champions 2025_csvs
+"Mon, September 22, 2025",542215,6:30 PM,T1,0,G2 Esports,2,0-2,G2 Esports,Completed,Decider (D),Group Stage,Valorant Champions 2025_csvs
+"Mon, September 22, 2025",542204,8:45 PM,MIBR,2,Rex Regum Qeon,0,2-0,MIBR,Completed,Decider (B),Group Stage,Valorant Champions 2025_csvs
+"Thu, September 25, 2025",542265,6:30 PM,Paper Rex,2,G2 Esports,1,2-1,Paper Rex,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2025_csvs
+"Thu, September 25, 2025",542264,10:20 PM,FNATIC,2,DRX,1,2-1,FNATIC,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2025_csvs
+"Fri, September 26, 2025",542266,6:30 PM,Team Heretics,0,MIBR,2,0-2,MIBR,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2025_csvs
+"Fri, September 26, 2025",542267,9:05 PM,NRG,2,GIANTX,0,2-0,NRG,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2025_csvs
+"Sat, September 27, 2025",542273,6:30 PM,DRX,2,G2 Esports,1,2-1,DRX,Completed,Lower Round 1,Playoffs,Valorant Champions 2025_csvs
+"Sat, September 27, 2025",542274,9:50 PM,Team Heretics,2,GIANTX,1,2-1,Team Heretics,Completed,Lower Round 1,Playoffs,Valorant Champions 2025_csvs
+"Sun, September 28, 2025",542268,6:30 PM,FNATIC,2,Paper Rex,1,2-1,FNATIC,Completed,Upper Semifinals,Playoffs,Valorant Champions 2025_csvs
+"Sun, September 28, 2025",542269,9:50 PM,MIBR,1,NRG,2,1-2,NRG,Completed,Upper Semifinals,Playoffs,Valorant Champions 2025_csvs
+"Mon, September 29, 2025",542277,6:30 PM,Paper Rex,2,Team Heretics,1,2-1,Paper Rex,Completed,Lower Round 2,Playoffs,Valorant Champions 2025_csvs
+"Mon, September 29, 2025",542276,9:50 PM,MIBR,1,DRX,2,1-2,DRX,Completed,Lower Round 2,Playoffs,Valorant Champions 2025_csvs
+"Fri, October 3, 2025",542270,4:30 PM,FNATIC,0,NRG,2,0-2,NRG,Completed,Upper Final,Playoffs,Valorant Champions 2025_csvs
+"Fri, October 3, 2025",542278,7:05 PM,DRX,2,Paper Rex,0,2-0,DRX,Completed,Lower Round 3,Playoffs,Valorant Champions 2025_csvs
+"Sat, October 4, 2025Yesterday",542279,4:30 PM,FNATIC,3,DRX,1,3-1,FNATIC,Completed,Lower Final,Playoffs,Valorant Champions 2025_csvs
+"Sun, October 5, 2025Today",542272,4:30 PM,NRG,3,FNATIC,2,3-2,NRG,Completed,Grand Final,Playoffs,Valorant Champions 2025_csvs
+"Thu, February 20, 2025",448598,3:30 PM,EDward Gaming,2,Team Liquid,0,2-0,EDward Gaming,Completed,Round 1,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Thu, February 20, 2025",448600,6:30 PM,DRX,2,Sentinels,0,2-0,DRX,Completed,Round 1,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Fri, February 21, 2025",448599,3:30 PM,Team Vitality,2,T1,0,2-0,Team Vitality,Completed,Round 1,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Fri, February 21, 2025",448597,5:55 PM,G2 Esports,2,Trace Esports,0,2-0,G2 Esports,Completed,Round 1,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Sat, February 22, 2025",449000,3:30 PM,DRX,1,Team Vitality,2,1-2,Team Vitality,Completed,Round 2 (1-0),Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Sat, February 22, 2025",449001,6:55 PM,EDward Gaming,2,G2 Esports,1,2-1,EDward Gaming,Completed,Round 2 (1-0),Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Sun, February 23, 2025",449002,3:30 PM,T1,2,Trace Esports,0,2-0,T1,Completed,Round 2 (0-1),Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Sun, February 23, 2025",449003,5:25 PM,Team Liquid,2,Sentinels,1,2-1,Team Liquid,Completed,Round 2 (0-1),Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Mon, February 24, 2025",449004,3:30 PM,T1,2,DRX,0,2-0,T1,Completed,Round 3,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Mon, February 24, 2025",449005,5:40 PM,G2 Esports,2,Team Liquid,0,2-0,G2 Esports,Completed,Round 3,Swiss Stage,Valorant Masters Bangkok 2025_csvs
+"Thu, February 27, 2025",449008,3:30 PM,EDward Gaming,2,T1,1,2-1,EDward Gaming,Completed,Upper Semifinals,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Thu, February 27, 2025",449009,6:45 PM,Team Vitality,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Semifinals,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Fri, February 28, 2025",449010,3:30 PM,EDward Gaming,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Final,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Fri, February 28, 2025",449012,5:35 PM,T1,2,Team Vitality,1,2-1,T1,Completed,Lower Round 1,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Sat, March 1, 2025",449013,3:30 PM,EDward Gaming,1,T1,3,1-3,T1,Completed,Lower Final,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Sun, March 2, 2025",450589,3:30 PM,Team International,9,Team Thailand,13,9-13,Team Thailand,Completed,Main Event,Showmatch,Valorant Masters Bangkok 2025_csvs
+"Sun, March 2, 2025",449011,4:45 PM,G2 Esports,2,T1,3,2-3,T1,Completed,Grand Final,Playoffs,Valorant Masters Bangkok 2025_csvs
+"Sat, June 7, 2025",490309,9:30 PM,Team Heretics,0,Paper Rex,2,0-2,Paper Rex,Completed,Round 1,Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Sat, June 7, 2025",490307,11:40 PM,Bilibili Gaming,2,Team Liquid,1,2-1,Bilibili Gaming,Completed,Round 1,Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Sun, June 8, 2025",490308,9:30 PM,Sentinels,2,Wolves Esports,0,2-0,Sentinels,Completed,Round 1,Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Mon, June 9, 2025",490306,12:15 AM,Gen.G,2,MIBR,0,2-0,Gen.G,Completed,Round 1,Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Mon, June 9, 2025",490311,9:30 PM,Bilibili Gaming,1,Sentinels,2,1-2,Sentinels,Completed,Round 2 (1-0),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Tue, June 10, 2025",490310,1:00 AM,Paper Rex,0,Gen.G,2,0-2,Gen.G,Completed,Round 2 (1-0),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Tue, June 10, 2025",490312,9:30 PM,Team Heretics,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Round 2 (0-1),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Wed, June 11, 2025",490313,12:00 AM,Team Liquid,2,MIBR,0,2-0,Team Liquid,Completed,Round 2 (0-1),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Wed, June 11, 2025",490315,9:30 PM,Bilibili Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Round 3 (1-1),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Thu, June 12, 2025",490314,12:00 AM,Paper Rex,2,Team Liquid,1,2-1,Paper Rex,Completed,Round 3 (1-1),Swiss Stage,Valorant Masters Toronto 2025_csvs
+"Fri, June 13, 2025",498622,9:30 PM,G2 Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Quarterfinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Fri, June 13, 2025",498621,11:55 PM,Xi Lai Gaming,0,Sentinels,2,0-2,Sentinels,Completed,Upper Quarterfinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sat, June 14, 2025",498623,9:30 PM,Rex Regum Qeon,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Quarterfinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sun, June 15, 2025",498624,12:00 AM,FNATIC,1,Gen.G,2,1-2,Gen.G,Completed,Upper Quarterfinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sun, June 15, 2025",498629,9:30 PM,Xi Lai Gaming,0,G2 Esports,2,0-2,G2 Esports,Completed,Lower Round 1,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sun, June 15, 2025",498630,11:40 PM,Rex Regum Qeon,1,FNATIC,2,1-2,FNATIC,Completed,Lower Round 1,Playoffs,Valorant Masters Toronto 2025_csvs
+"Mon, June 16, 2025",498626,9:30 PM,Wolves Esports,2,Gen.G,0,2-0,Wolves Esports,Completed,Upper Semifinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Tue, June 17, 2025",498625,12:00 AM,Sentinels,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Semifinals,Playoffs,Valorant Masters Toronto 2025_csvs
+"Tue, June 17, 2025",498631,9:30 PM,Gen.G,1,G2 Esports,2,1-2,G2 Esports,Completed,Lower Round 2,Playoffs,Valorant Masters Toronto 2025_csvs
+"Wed, June 18, 2025",498632,1:05 AM,Sentinels,1,FNATIC,2,1-2,FNATIC,Completed,Lower Round 2,Playoffs,Valorant Masters Toronto 2025_csvs
+"Fri, June 20, 2025",498627,9:30 PM,Paper Rex,2,Wolves Esports,0,2-0,Paper Rex,Completed,Upper Final,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sat, June 21, 2025",498633,12:10 AM,G2 Esports,0,FNATIC,2,0-2,FNATIC,Completed,Lower Round 3,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sat, June 21, 2025",498634,9:30 PM,Wolves Esports,1,FNATIC,3,1-3,FNATIC,Completed,Lower Final,Playoffs,Valorant Masters Toronto 2025_csvs
+"Sun, June 22, 2025",507067,9:30 PM,Team tarik,7,Team Toast,13,7-13,Team Toast,Completed,Showmatch,,Valorant Masters Toronto 2025_csvs
+"Sun, June 22, 2025",498628,10:45 PM,Paper Rex,3,FNATIC,1,3-1,Paper Rex,Completed,Grand Final,Playoffs,Valorant Masters Toronto 2025_csvs

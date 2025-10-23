@@ -1,0 +1,1561 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,yay,881,Evil Geniuses,overall,"Chamber, Phoenix",1.00,209,35,33,9,+2,57%,142,29%,8,6,+2,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,NaturE,4927,Evil Geniuses,overall,"Viper, Vyse",0.97,198,33,34,9,-1,71%,132,24%,5,2,+3,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,icy,8402,Evil Geniuses,overall,"Raze, Jett",0.95,193,34,35,7,-1,65%,135,20%,4,8,-4,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,supamen,826,Evil Geniuses,overall,"Omen, Astra",0.93,162,30,31,14,-1,69%,95,25%,3,4,-1,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,Derrek,1533,Evil Geniuses,overall,"Skye, Sova",0.81,161,25,34,23,-9,73%,109,31%,3,6,-3,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,dgzin,8873,LOUD,overall,"Raze, Jett",1.26,245,41,30,8,+11,69%,165,25%,13,6,+7,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,cauanzin,6193,LOUD,overall,"Tejo, Sova",1.22,260,41,35,11,+6,65%,172,33%,5,8,-3,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,v1nny,1586,LOUD,overall,"Breach, Kayo",1.19,191,33,29,27,+4,76%,134,30%,2,3,-1,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,pANcada,683,LOUD,overall,Astra,0.98,159,28,29,19,-1,82%,107,37%,2,2,0,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,tuyz,2408,LOUD,overall,Cypher,0.71,129,24,34,15,-10,65%,85,29%,4,4,0,,
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,yay,881,Evil Geniuses,map,Chamber,1.06,180,18,15,1,+3,54%,112,22%,5,3,+2,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,icy,8402,Evil Geniuses,map,Raze,0.99,204,18,18,6,0,69%,146,19%,1,3,-2,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,NaturE,4927,Evil Geniuses,map,Viper,0.89,197,17,17,4,0,69%,127,22%,4,1,+3,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,supamen,826,Evil Geniuses,map,Omen,0.86,154,15,17,8,-2,73%,94,13%,2,1,+1,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,Derrek,1533,Evil Geniuses,map,Skye,0.63,140,12,19,13,-7,69%,89,32%,1,5,-4,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,dgzin,8873,LOUD,map,Raze,1.63,299,28,14,2,+14,69%,185,21%,7,3,+4,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,cauanzin,6193,LOUD,map,Tejo,1.15,239,19,18,9,+1,62%,161,30%,1,6,-5,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,pANcada,683,LOUD,map,Astra,1.00,129,10,13,12,-3,77%,93,29%,1,1,0,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,v1nny,1586,LOUD,map,Breach,0.94,131,13,16,12,-3,69%,93,33%,1,2,-1,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,tuyz,2408,LOUD,map,Cypher,0.82,164,16,19,8,-3,73%,104,33%,3,1,+2,Split,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,NaturE,4927,Evil Geniuses,map,Vyse,1.06,198,16,17,5,-1,74%,138,26%,1,1,0,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,supamen,826,Evil Geniuses,map,Astra,1.01,169,15,14,6,+1,65%,97,48%,1,3,-2,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,Derrek,1533,Evil Geniuses,map,Sova,1.00,182,13,15,10,-2,78%,131,30%,2,1,+1,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,yay,881,Evil Geniuses,map,Phoenix,0.92,237,17,18,8,-1,61%,175,35%,3,3,0,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,icy,8402,Evil Geniuses,map,Jett,0.89,182,16,17,1,-1,61%,122,22%,3,5,-2,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,v1nny,1586,LOUD,map,Kayo,1.46,251,20,13,15,+7,83%,180,29%,1,1,0,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,cauanzin,6193,LOUD,map,Sova,1.31,281,22,17,2,+5,70%,184,36%,4,2,+2,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,pANcada,683,LOUD,map,Astra,0.95,189,18,16,7,+2,87%,123,44%,1,1,0,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,dgzin,8873,LOUD,map,Jett,0.84,190,13,16,6,-3,70%,141,32%,6,3,+3,Pearl,LOUD
+427991,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 17:00:00,Evil Geniuses,LOUD,0 - 2,tuyz,2408,LOUD,map,Cypher,0.58,94,8,15,7,-7,57%,63,23%,1,3,-2,Pearl,LOUD
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,aspas,8480,MIBR,overall,Raze,1.16,232,30,29,6,+1,72%,166,24%,4,5,-1,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,nzr,725,MIBR,overall,"Breach, Skye",0.87,167,21,28,8,-7,54%,111,31%,2,4,-2,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,xenom,20240,MIBR,overall,"Omen, Brimstone",0.73,197,25,34,16,-9,67%,121,28%,3,4,-1,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,artzin,5957,MIBR,overall,"Tejo, Deadlock",0.57,135,17,33,8,-16,56%,100,31%,1,8,-7,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,cortezia,5395,MIBR,overall,"Killjoy, Cypher",0.55,113,17,30,3,-13,46%,79,38%,1,7,-6,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Cryocells,4147,100 Thieves,overall,"Clove, Brimstone",1.46,275,38,22,9,+16,87%,193,21%,6,2,+4,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Asuna,601,100 Thieves,overall,"Neon, Raze",1.41,305,41,24,11,+17,82%,187,25%,14,4,+10,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,eeiu,796,100 Thieves,overall,Fade,1.29,193,30,19,14,+11,77%,132,43%,3,0,+3,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Boostio,604,100 Thieves,overall,"Breach, Gekko",1.02,158,24,20,18,+4,85%,101,33%,0,2,-2,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,zander,8082,100 Thieves,overall,"Omen, Viper",0.87,159,21,25,13,-4,79%,100,23%,5,3,+2,,
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,nzr,725,MIBR,map,Breach,1.20,214,13,13,5,0,59%,130,46%,0,0,0,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,aspas,8480,MIBR,map,Raze,0.77,156,7,13,3,-6,59%,116,24%,1,3,-2,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,xenom,20240,MIBR,map,Omen,0.71,225,13,16,6,-3,59%,139,22%,1,3,-2,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,artzin,5957,MIBR,map,Tejo,0.34,94,4,15,2,-11,41%,80,18%,0,4,-4,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,cortezia,5395,MIBR,map,Killjoy,0.33,56,3,13,1,-10,35%,45,25%,0,5,-5,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Asuna,601,100 Thieves,map,Neon,1.70,367,23,10,6,+13,88%,220,28%,6,0,+6,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,eeiu,796,100 Thieves,map,Fade,1.36,187,11,6,8,+5,82%,135,36%,3,0,+3,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Cryocells,4147,100 Thieves,map,Clove,1.25,262,16,10,3,+6,82%,181,18%,4,2,+2,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Boostio,604,100 Thieves,map,Breach,1.22,145,10,6,12,+4,94%,92,45%,0,0,0,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,zander,8082,100 Thieves,map,Omen,1.10,157,10,8,8,+2,82%,83,25%,2,0,+2,Lotus,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,aspas,8480,MIBR,map,Raze,1.46,307,23,16,3,+7,82%,206,24%,3,2,+1,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,xenom,20240,MIBR,map,Brimstone,0.75,169,12,18,10,-6,73%,106,36%,2,1,+1,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,artzin,5957,MIBR,map,Deadlock,0.75,175,13,18,6,-5,68%,115,42%,1,4,-3,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,cortezia,5395,MIBR,map,Cypher,0.72,169,14,17,2,-3,55%,105,44%,1,2,-1,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,nzr,725,MIBR,map,Skye,0.62,119,8,15,3,-7,50%,97,19%,2,4,-2,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Cryocells,4147,100 Thieves,map,Brimstone,1.63,287,22,12,6,+10,91%,202,25%,2,0,+2,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,eeiu,796,100 Thieves,map,Fade,1.24,199,19,13,6,+6,73%,129,49%,0,0,0,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Asuna,601,100 Thieves,map,Raze,1.19,243,18,14,5,+4,77%,161,21%,8,4,+4,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,Boostio,604,100 Thieves,map,Gekko,0.87,170,14,14,6,0,77%,107,27%,0,2,-2,Bind,100 Thieves
+427992,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-16 19:45:00,MIBR,100 Thieves,0 - 2,zander,8082,100 Thieves,map,Viper,0.68,161,11,17,5,-6,77%,114,22%,3,3,0,Bind,100 Thieves
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,gobera,14950,2Game Esports,overall,Vyse,1.21,264,35,30,10,+5,74%,179,32%,4,3,+1,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,lz,6195,2Game Esports,overall,Omen,0.98,200,26,30,13,-4,66%,134,48%,5,5,0,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,silentzz,11921,2Game Esports,overall,"Yoru, Raze",0.86,209,27,34,6,-7,71%,140,39%,11,6,+5,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,pryze,662,2Game Esports,overall,Breach,0.58,105,13,28,13,-15,66%,66,20%,0,0,0,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Zap,3169,2Game Esports,overall,Tejo,0.55,145,18,30,6,-12,71%,103,19%,0,4,-4,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,penny,7716,FURIA,overall,"Jett, Raze",1.37,266,37,22,8,+15,82%,166,24%,7,4,+3,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,bdog,844,FURIA,overall,Breach,1.28,213,28,21,21,+7,79%,126,35%,2,0,+2,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,jakee,8742,FURIA,overall,"Clove, Omen",1.16,221,29,25,18,+4,82%,142,25%,1,4,-3,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,stellar,733,FURIA,overall,Tejo,1.08,205,29,24,11,+5,76%,143,19%,4,6,-2,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Add3r,4931,FURIA,overall,"Cypher, Vyse",0.89,195,28,28,3,0,66%,126,33%,4,6,-2,,
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,gobera,14950,2Game Esports,map,Vyse,1.62,338,23,14,6,+9,85%,222,29%,4,0,+4,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,silentzz,11921,2Game Esports,map,Yoru,0.93,213,16,16,3,0,75%,130,48%,5,3,+2,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,lz,6195,2Game Esports,map,Omen,0.88,181,12,14,9,-2,65%,127,42%,2,2,0,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,pryze,662,2Game Esports,map,Breach,0.72,122,8,14,9,-6,85%,78,19%,0,0,0,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Zap,3169,2Game Esports,map,Tejo,0.55,133,9,15,4,-6,65%,88,15%,0,4,-4,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,bdog,844,FURIA,map,Breach,1.33,244,16,13,9,+3,75%,153,34%,2,0,+2,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Add3r,4931,FURIA,map,Cypher,1.18,235,18,14,0,+4,75%,148,34%,1,2,-1,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,stellar,733,FURIA,map,Tejo,1.13,193,14,12,5,+2,70%,143,16%,3,4,-1,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,penny,7716,FURIA,map,Jett,0.85,192,15,14,1,+1,75%,110,24%,3,2,+1,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,jakee,8742,FURIA,map,Clove,0.77,162,10,16,10,-6,75%,111,26%,0,3,-3,Haven,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,lz,6195,2Game Esports,map,Omen,1.08,219,14,16,4,-2,67%,141,56%,3,3,0,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,silentzz,11921,2Game Esports,map,Raze,0.79,204,11,18,3,-7,67%,151,32%,6,3,+3,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,gobera,14950,2Game Esports,map,Vyse,0.76,189,12,16,4,-4,61%,132,39%,0,3,-3,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Zap,3169,2Game Esports,map,Tejo,0.55,156,9,15,2,-6,78%,118,24%,0,0,0,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,pryze,662,2Game Esports,map,Breach,0.43,87,5,14,4,-9,44%,52,22%,0,0,0,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,penny,7716,FURIA,map,Raze,1.95,340,22,8,7,+14,89%,228,25%,4,2,+2,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,jakee,8742,FURIA,map,Omen,1.59,280,19,9,8,+10,89%,176,24%,1,1,0,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,bdog,844,FURIA,map,Breach,1.22,181,12,8,12,+4,83%,95,37%,0,0,0,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,stellar,733,FURIA,map,Tejo,1.02,216,15,12,6,+3,83%,144,22%,1,2,-1,Lotus,FURIA
+427994,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 17:00:00,2Game Esports,FURIA,0 - 2,Add3r,4931,FURIA,map,Vyse,0.56,154,10,14,3,-4,56%,102,31%,3,4,-1,Lotus,FURIA
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,s0m,4164,NRG,overall,"Brimstone, Viper",1.35,277,49,35,22,+14,82%,167,26%,9,4,+5,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mada,5132,NRG,overall,Raze,1.06,235,41,39,9,+2,67%,153,24%,10,12,-2,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Ethan,11225,NRG,overall,"Breach, Omen",1.05,183,30,28,23,+2,73%,118,29%,1,2,-1,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Verno,21668,NRG,overall,"Sova, Fade",0.92,174,31,31,8,0,80%,113,35%,5,2,+3,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,FiNESSE,817,NRG,overall,"Killjoy, Vyse",0.76,162,27,37,12,-10,71%,115,27%,0,3,-3,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Xeppaa,7871,Cloud9,overall,"Clove, Tejo",1.21,296,54,42,11,+12,78%,179,17%,8,5,+3,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mitch,612,Cloud9,overall,"Tejo, Breach",1.03,185,30,31,20,-1,71%,119,18%,5,5,0,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,neT,6582,Cloud9,overall,"Killjoy, Deadlock",0.90,161,30,32,9,-2,78%,116,27%,3,4,-1,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,OXY,18796,Cloud9,overall,Raze,0.82,207,33,42,16,-9,73%,135,17%,5,10,-5,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,v1c,17433,Cloud9,overall,"Brimstone, Omen",0.79,137,23,32,17,-9,73%,92,27%,3,2,+1,,
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,s0m,4164,NRG,map,Brimstone,1.72,324,30,15,14,+15,81%,195,39%,6,2,+4,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mada,5132,NRG,map,Raze,1.24,274,26,19,2,+7,77%,173,30%,6,6,0,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Ethan,11225,NRG,map,Breach,0.91,133,10,13,14,-3,77%,84,20%,0,0,0,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Verno,21668,NRG,map,Sova,0.83,156,14,16,3,-2,81%,102,25%,1,1,0,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,FiNESSE,817,NRG,map,Killjoy,0.51,129,11,20,2,-9,62%,106,25%,0,3,-3,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Xeppaa,7871,Cloud9,map,Clove,1.13,305,28,25,6,+3,73%,185,18%,4,4,0,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,OXY,18796,Cloud9,map,Raze,0.98,200,17,20,11,-3,77%,136,14%,2,4,-2,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,v1c,17433,Cloud9,map,Brimstone,0.91,141,13,15,8,-2,81%,94,31%,2,1,+1,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,neT,6582,Cloud9,map,Killjoy,0.80,120,12,15,4,-3,81%,94,28%,0,1,-1,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mitch,612,Cloud9,map,Tejo,0.75,150,13,17,4,-4,58%,103,15%,5,4,+1,Fracture,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Ethan,11225,NRG,map,Omen,1.21,233,20,15,9,+5,70%,156,37%,1,2,-1,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,FiNESSE,817,NRG,map,Vyse,1.05,195,16,17,10,-1,83%,124,28%,0,0,0,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Verno,21668,NRG,map,Fade,1.02,191,17,15,5,+2,78%,125,47%,4,1,+3,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,s0m,4164,NRG,map,Viper,0.94,229,19,20,8,-1,83%,134,11%,3,2,+1,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mada,5132,NRG,map,Raze,0.86,195,15,20,7,-5,57%,131,17%,4,6,-2,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,mitch,612,Cloud9,map,Breach,1.35,220,17,14,16,+3,87%,138,21%,0,1,-1,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,Xeppaa,7871,Cloud9,map,Tejo,1.30,287,26,17,5,+9,83%,171,16%,4,1,+3,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,neT,6582,Cloud9,map,Deadlock,1.01,202,18,17,5,+1,74%,142,27%,3,3,0,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,v1c,17433,Cloud9,map,Omen,0.65,133,10,17,9,-7,65%,91,23%,1,1,0,Lotus,Cloud9
+427993,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Round 1",2025-01-17 19:05:00,NRG,Cloud9,0 - 2,OXY,18796,Cloud9,map,Raze,0.64,214,16,22,5,-6,70%,134,21%,3,6,-3,Lotus,Cloud9
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,keznit,2462,KRÜ Esports,overall,"Jett, Raze",1.16,222,37,28,6,+9,74%,141,25%,8,8,0,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Shyy,24007,KRÜ Esports,overall,Cypher,1.15,197,31,28,9,+3,74%,125,37%,3,1,+2,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Melser,1311,KRÜ Esports,overall,Omen,0.78,142,19,28,12,-9,65%,92,33%,4,3,+1,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,adverso,3826,KRÜ Esports,overall,"Sova, Viper",0.68,131,20,33,6,-13,63%,97,27%,3,2,+1,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Mazino,7603,KRÜ Esports,overall,"Breach, Skye",0.65,168,25,35,10,-10,60%,117,30%,4,7,-3,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,dgzin,8873,LOUD,overall,"Jett, Raze",1.25,232,37,23,6,+14,74%,145,20%,7,6,+1,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,pANcada,683,LOUD,overall,"Omen, Astra",1.08,187,29,24,5,+5,74%,119,46%,4,4,0,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,v1nny,1586,LOUD,overall,Breach,1.03,178,29,27,15,+2,79%,122,37%,2,4,-2,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,tuyz,2408,LOUD,overall,Cypher,1.00,191,26,29,15,-3,70%,133,26%,3,5,-2,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,cauanzin,6193,LOUD,overall,"Sova, Tejo",0.99,208,31,29,8,+2,70%,130,28%,5,3,+2,,
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Shyy,24007,KRÜ Esports,map,Cypher,1.09,183,13,15,4,-2,70%,112,41%,1,1,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Melser,1311,KRÜ Esports,map,Omen,0.84,145,9,14,8,-5,55%,97,40%,2,2,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,keznit,2462,KRÜ Esports,map,Jett,0.83,173,13,15,1,-2,60%,101,44%,6,6,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,adverso,3826,KRÜ Esports,map,Sova,0.62,109,9,16,2,-7,50%,77,40%,0,0,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Mazino,7603,KRÜ Esports,map,Breach,0.39,114,7,18,4,-11,50%,70,21%,0,2,-2,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,dgzin,8873,LOUD,map,Jett,1.47,229,19,7,3,+12,85%,138,11%,4,2,+2,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,pANcada,683,LOUD,map,Omen,1.23,194,14,9,3,+5,80%,129,50%,1,1,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,cauanzin,6193,LOUD,map,Sova,1.22,254,19,12,3,+7,75%,160,44%,4,2,+2,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,tuyz,2408,LOUD,map,Cypher,1.01,204,14,12,6,+2,75%,135,26%,1,1,0,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,v1nny,1586,LOUD,map,Breach,0.94,163,12,11,7,+1,85%,114,48%,1,3,-2,Haven,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,keznit,2462,KRÜ Esports,map,Raze,1.44,270,24,13,5,+11,87%,177,20%,2,2,0,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Shyy,24007,KRÜ Esports,map,Cypher,1.21,210,18,13,5,+5,78%,137,34%,2,0,+2,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Mazino,7603,KRÜ Esports,map,Skye,0.88,222,18,17,6,+1,70%,158,34%,4,5,-1,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,Melser,1311,KRÜ Esports,map,Omen,0.72,138,10,14,4,-4,74%,88,28%,2,1,+1,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,adverso,3826,KRÜ Esports,map,Viper,0.72,152,11,17,4,-6,74%,116,22%,3,2,+1,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,v1nny,1586,LOUD,map,Breach,1.12,192,17,16,8,+1,74%,128,29%,1,1,0,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,dgzin,8873,LOUD,map,Raze,1.05,234,18,16,3,+2,65%,151,26%,3,4,-1,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,tuyz,2408,LOUD,map,Cypher,1.00,177,12,17,9,-5,65%,131,26%,2,4,-2,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,pANcada,683,LOUD,map,Astra,0.95,179,15,15,2,0,70%,110,43%,3,3,0,Split,LOUD
+427995,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 17:00:00,KRÜ Esports,LOUD,0 - 2,cauanzin,6193,LOUD,map,Tejo,0.78,161,12,17,5,-5,65%,104,14%,1,1,0,Split,LOUD
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,overall,Tejo,1.34,225,51,36,15,+15,80%,143,27%,3,0,+3,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,N4RRATE,36245,Sentinels,overall,"Breach, Gekko, Fade",1.09,212,45,46,30,-1,79%,149,26%,5,1,+4,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,overall,"Yoru, Raze",1.04,217,48,44,14,+4,80%,144,15%,14,14,0,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,bang,3880,Sentinels,overall,"Omen, Viper, Astra",0.97,188,42,42,18,0,79%,129,32%,5,6,-1,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,overall,"Viper, Brimstone, Vyse",0.87,164,32,41,20,-9,74%,105,27%,5,8,-3,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,overall,"Sage, Brimstone, Jett",1.25,247,53,42,18,+11,80%,160,37%,10,7,+3,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,overall,"Tejo, Fade",0.93,195,42,44,26,-2,75%,132,41%,2,5,-3,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,overall,"Raze, Kayo",0.92,225,47,49,13,-2,70%,142,17%,9,11,-2,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zander,8082,100 Thieves,overall,"Astra, Viper",0.90,158,32,37,22,-5,72%,99,20%,3,5,-2,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,overall,"Breach, Gekko, Killjoy",0.71,159,34,46,16,-12,64%,103,20%,5,4,+1,,
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,N4RRATE,36245,Sentinels,map,Breach,1.04,184,12,14,12,-2,76%,119,22%,1,1,0,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Tejo,0.98,242,13,15,5,-2,65%,148,21%,1,0,+1,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Viper,0.75,192,11,14,3,-3,59%,125,26%,1,3,-2,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Yoru,0.71,196,11,15,3,-4,76%,130,11%,2,4,-2,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,bang,3880,Sentinels,map,Omen,0.44,160,8,16,3,-8,71%,126,32%,2,2,0,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Sage,2.13,338,24,8,4,+16,94%,233,46%,2,0,+2,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Tejo,1.26,272,17,13,6,+4,82%,200,38%,2,1,+1,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,1.00,223,13,13,3,0,71%,147,12%,2,5,-3,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Breach,0.93,177,12,11,6,+1,82%,108,23%,3,0,+3,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zander,8082,100 Thieves,map,Astra,0.85,140,8,10,5,-2,76%,89,24%,1,1,0,Split,100 Thieves
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Tejo,1.41,197,16,11,7,+5,82%,137,32%,1,0,+1,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Raze,1.27,229,20,13,4,+7,86%,151,17%,4,4,0,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,bang,3880,Sentinels,map,Viper,1.18,229,19,13,5,+6,77%,151,34%,2,3,-1,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Brimstone,0.99,155,11,13,9,-2,73%,90,26%,3,2,+1,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,N4RRATE,36245,Sentinels,map,Gekko,0.95,222,16,17,8,-1,73%,150,22%,3,0,+3,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,1.07,269,21,18,3,+3,73%,170,20%,6,4,+2,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Brimstone,0.88,191,14,18,9,-4,73%,125,26%,3,3,0,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,0.85,137,12,15,9,-3,68%,92,50%,0,1,-1,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Gekko,0.72,151,10,16,8,-6,59%,100,15%,0,2,-2,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zander,8082,100 Thieves,map,Viper,0.70,129,9,15,5,-6,64%,84,16%,0,3,-3,Bind,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Tejo,1.56,237,22,10,3,+12,91%,146,25%,1,0,+1,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,N4RRATE,36245,Sentinels,map,Fade,1.28,231,17,15,10,+2,86%,172,31%,1,0,+1,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,bang,3880,Sentinels,map,Astra,1.18,175,15,13,10,+2,86%,109,30%,1,1,0,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Yoru,1.07,227,17,16,7,+1,77%,147,17%,8,6,+2,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Vyse,0.85,144,10,14,8,-4,86%,105,30%,1,3,-2,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,zander,8082,100 Thieves,map,Astra,1.14,206,15,12,12,+3,77%,123,19%,2,1,+1,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Jett,0.95,212,15,16,5,-1,77%,140,36%,5,4,+1,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,0.76,177,13,16,11,-3,77%,119,38%,0,3,-3,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Kayo,0.72,184,13,18,7,-5,68%,110,19%,1,2,-1,Pearl,Sentinels
+427996,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-18 19:25:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Killjoy,0.53,149,12,19,2,-7,55%,101,24%,2,2,0,Pearl,Sentinels
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,kiNgg,8549,LEVIATÁN,overall,Omen,1.43,250,37,23,15,+14,83%,147,41%,5,4,+1,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,C0M,619,LEVIATÁN,overall,"Sova, Viper",1.34,276,41,27,9,+14,80%,193,26%,3,3,0,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,nataNk,5004,LEVIATÁN,overall,"Breach, Skye",1.28,203,27,20,22,+7,80%,127,27%,4,4,0,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,tex,1818,LEVIATÁN,overall,Cypher,0.86,162,24,25,4,-1,70%,104,31%,4,4,0,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Demon1,26171,LEVIATÁN,overall,"Jett, Raze",0.80,163,22,26,5,-4,68%,112,22%,5,4,+1,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Khalil,1711,FURIA,overall,Omen,0.98,188,28,29,9,-1,78%,121,43%,3,3,0,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,havoc,8706,FURIA,overall,"Jett, Raze",0.97,237,29,33,11,-4,78%,159,26%,9,5,+4,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,mwzera,939,FURIA,overall,"Sova, Skye",0.92,188,25,28,10,-3,68%,119,12%,4,3,+1,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,raafa,25743,FURIA,overall,"Breach, Sage",0.66,123,17,29,9,-12,58%,90,16%,0,2,-2,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,heat,8673,FURIA,overall,"Cypher, Viper",0.63,156,22,32,2,-10,50%,106,37%,3,8,-5,,
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,C0M,619,LEVIATÁN,map,Sova,1.66,330,27,14,3,+13,90%,221,29%,2,1,+1,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,kiNgg,8549,LEVIATÁN,map,Omen,1.17,222,17,14,8,+3,76%,122,38%,2,2,0,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,nataNk,5004,LEVIATÁN,map,Breach,1.12,192,13,12,14,+1,81%,113,23%,2,2,0,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,tex,1818,LEVIATÁN,map,Cypher,0.72,152,11,14,3,-3,71%,93,22%,2,3,-1,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Demon1,26171,LEVIATÁN,map,Jett,0.59,162,11,17,2,-6,57%,112,26%,4,1,+3,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Khalil,1711,FURIA,map,Omen,1.28,215,18,12,4,+6,86%,137,42%,1,0,+1,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,mwzera,939,FURIA,map,Sova,1.06,220,16,15,6,+1,71%,138,13%,1,2,-1,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,havoc,8706,FURIA,map,Jett,0.89,211,14,19,7,-5,86%,139,27%,5,3,+2,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,raafa,25743,FURIA,map,Breach,0.74,150,11,16,5,-5,57%,111,23%,0,2,-2,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,heat,8673,FURIA,map,Cypher,0.58,151,12,17,1,-5,52%,105,41%,2,5,-3,Haven,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,kiNgg,8549,LEVIATÁN,map,Omen,1.72,278,20,9,7,+11,89%,173,43%,3,2,+1,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,nataNk,5004,LEVIATÁN,map,Skye,1.45,213,14,8,8,+6,79%,142,31%,2,2,0,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Demon1,26171,LEVIATÁN,map,Raze,1.03,164,11,9,3,+2,79%,111,17%,1,3,-2,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,tex,1818,LEVIATÁN,map,Cypher,1.01,172,13,11,1,+2,68%,116,40%,2,1,+1,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,C0M,619,LEVIATÁN,map,Viper,0.98,222,14,13,6,+1,68%,161,23%,1,2,-1,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,havoc,8706,FURIA,map,Raze,1.05,262,15,14,4,+1,68%,181,26%,4,2,+2,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,mwzera,939,FURIA,map,Skye,0.77,155,9,13,4,-4,63%,98,12%,3,1,+2,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,heat,8673,FURIA,map,Viper,0.68,161,10,15,1,-5,47%,108,32%,1,3,-2,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,Khalil,1711,FURIA,map,Omen,0.64,160,10,17,5,-7,68%,103,46%,2,3,-1,Split,LEVIATÁN
+427998,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 17:00:00,LEVIATÁN,FURIA,2 - 0,raafa,25743,FURIA,map,Sage,0.58,95,6,13,4,-7,58%,66,11%,0,0,0,Split,LEVIATÁN
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,leaf,7873,G2 Esports,overall,"Viper, Chamber",1.56,284,44,23,7,+21,75%,187,31%,7,2,+5,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,JonahP,4581,G2 Esports,overall,Breach,1.37,203,30,20,27,+10,88%,132,37%,3,1,+2,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,trent,15500,G2 Esports,overall,"Tejo, Sova",1.18,192,31,19,5,+12,75%,140,39%,3,5,-2,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,jawgemo,3993,G2 Esports,overall,Yoru,1.12,213,29,26,17,+3,78%,142,21%,11,4,+7,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,valyn,3885,G2 Esports,overall,"Omen, Astra",1.08,193,25,25,21,0,85%,120,17%,2,2,0,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,Xeppaa,7871,Cloud9,overall,"Tejo, Sova",1.09,203,27,28,13,-1,70%,144,23%,1,2,-1,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,neT,6582,Cloud9,overall,"Deadlock, Astra",0.74,179,25,32,4,-7,53%,116,43%,2,7,-5,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,OXY,18796,Cloud9,overall,"Raze, Jett",0.73,189,28,34,3,-6,55%,132,24%,5,11,-6,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,v1c,17433,Cloud9,overall,Omen,0.66,137,16,32,17,-16,60%,92,14%,3,3,0,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,mitch,612,Cloud9,overall,"Breach, Kayo",0.63,143,17,33,18,-16,60%,86,24%,3,3,0,,
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,leaf,7873,G2 Esports,map,Viper,1.64,296,22,11,4,+11,89%,209,33%,2,0,+2,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,1.37,248,16,11,8,+5,89%,151,20%,7,1,+6,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,valyn,3885,G2 Esports,map,Omen,1.24,230,15,11,12,+4,95%,142,16%,2,1,+1,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,JonahP,4581,G2 Esports,map,Breach,1.19,160,12,9,10,+3,84%,114,48%,0,0,0,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,trent,15500,G2 Esports,map,Tejo,0.91,174,14,11,2,+3,74%,120,29%,2,4,-2,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,Xeppaa,7871,Cloud9,map,Tejo,1.23,238,15,15,5,0,74%,174,22%,1,2,-1,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,v1c,17433,Cloud9,map,Omen,0.87,167,10,16,11,-6,58%,111,12%,2,2,0,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,neT,6582,Cloud9,map,Deadlock,0.74,186,12,16,1,-4,53%,124,39%,0,1,-1,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,mitch,612,Cloud9,map,Breach,0.54,112,7,15,6,-8,63%,67,20%,2,1,+1,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,OXY,18796,Cloud9,map,Raze,0.42,141,9,17,1,-8,53%,94,36%,1,7,-6,Lotus,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,JonahP,4581,G2 Esports,map,Breach,1.53,246,18,11,17,+7,90%,148,30%,3,1,+2,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,leaf,7873,G2 Esports,map,Chamber,1.49,271,22,12,3,+10,62%,168,28%,5,2,+3,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,trent,15500,G2 Esports,map,Sova,1.43,210,17,8,3,+9,76%,157,50%,1,1,0,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,valyn,3885,G2 Esports,map,Astra,0.93,155,10,14,9,-4,76%,99,19%,0,1,-1,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,0.89,177,13,15,9,-2,67%,135,22%,4,3,+1,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,OXY,18796,Cloud9,map,Jett,1.00,237,19,17,2,+2,57%,166,20%,4,4,0,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,Xeppaa,7871,Cloud9,map,Sova,0.96,168,12,13,8,-1,67%,117,24%,0,0,0,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,neT,6582,Cloud9,map,Astra,0.74,171,13,16,3,-3,52%,108,48%,2,6,-4,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,mitch,612,Cloud9,map,Kayo,0.70,173,10,18,12,-8,57%,104,27%,1,2,-1,Abyss,G2 Esports
+427997,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Quarterfinals",2025-01-19 19:20:00,G2 Esports,Cloud9,2 - 0,v1c,17433,Cloud9,map,Omen,0.46,107,6,16,6,-10,62%,76,18%,1,1,0,Abyss,G2 Esports
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Khalil,1711,FURIA,overall,"Omen, Brimstone",1.22,235,34,29,12,+5,80%,154,36%,4,0,+4,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,heat,8673,FURIA,overall,Cypher,0.95,189,27,27,5,0,73%,126,46%,4,2,+2,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,mwzera,939,FURIA,overall,"Sova, Breach",0.83,145,19,27,13,-8,65%,104,27%,3,4,-1,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,havoc,8706,FURIA,overall,"Jett, Raze",0.76,204,28,33,7,-5,63%,134,22%,5,8,-3,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,raafa,25743,FURIA,overall,"Kayo, Sage",0.53,150,18,34,11,-16,53%,98,26%,2,8,-6,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,overall,"Vyse, Breach",1.24,184,29,21,13,+8,73%,125,26%,0,2,-2,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,icy,8402,Evil Geniuses,overall,"Jett, Raze",1.21,276,38,30,9,+8,75%,177,24%,8,8,0,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,yay,881,Evil Geniuses,overall,"Astra, Killjoy",1.20,202,28,23,12,+5,80%,133,26%,8,0,+8,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,overall,"Sova, Tejo",1.09,205,31,27,11,+4,80%,132,36%,1,6,-5,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,overall,"Omen, Brimstone",0.99,182,24,25,18,-1,80%,126,46%,5,2,+3,,
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,heat,8673,FURIA,map,Cypher,1.17,222,16,12,1,+4,75%,144,59%,4,0,+4,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Khalil,1711,FURIA,map,Omen,1.02,206,15,15,6,0,75%,124,35%,3,0,+3,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,mwzera,939,FURIA,map,Sova,0.90,149,9,13,7,-4,65%,128,34%,0,1,-1,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,havoc,8706,FURIA,map,Jett,0.60,177,13,17,2,-4,55%,106,26%,3,4,-1,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,raafa,25743,FURIA,map,Kayo,0.40,126,6,18,8,-12,50%,91,30%,1,4,-3,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,map,Sova,1.47,260,20,12,4,+8,90%,166,37%,1,3,-2,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,icy,8402,Evil Geniuses,map,Jett,1.26,281,19,13,6,+6,70%,175,21%,4,6,-2,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,yay,881,Evil Geniuses,map,Astra,1.23,188,14,10,4,+4,80%,115,36%,3,0,+3,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,map,Vyse,1.06,153,11,10,5,+1,70%,112,32%,0,2,-2,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,map,Omen,0.76,159,11,14,5,-3,80%,100,46%,1,0,+1,Abyss,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Khalil,1711,FURIA,map,Brimstone,1.41,264,19,14,6,+5,85%,184,37%,1,0,+1,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,havoc,8706,FURIA,map,Raze,0.92,230,15,16,5,-1,70%,163,20%,2,4,-2,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,mwzera,939,FURIA,map,Breach,0.76,141,10,14,6,-4,65%,80,19%,3,3,0,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,heat,8673,FURIA,map,Cypher,0.73,156,11,15,4,-4,70%,108,33%,0,2,-2,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,raafa,25743,FURIA,map,Sage,0.66,174,12,16,3,-4,55%,105,24%,1,4,-3,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,map,Breach,1.42,215,18,11,8,+7,75%,139,22%,0,0,0,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,map,Brimstone,1.21,204,13,11,13,+2,80%,151,47%,4,2,+2,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,yay,881,Evil Geniuses,map,Killjoy,1.16,216,14,13,8,+1,80%,150,21%,5,0,+5,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,icy,8402,Evil Geniuses,map,Raze,1.16,270,19,17,3,+2,80%,180,26%,4,2,+2,Fracture,Evil Geniuses
+428003,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 17:00:00,FURIA,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,map,Tejo,0.71,149,11,15,7,-4,70%,97,36%,0,3,-3,Fracture,Evil Geniuses
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,v1c,17433,Cloud9,overall,"Omen, Astra",1.32,223,53,37,26,+16,78%,147,28%,4,2,+2,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,OXY,18796,Cloud9,overall,"Raze, Jett, Yoru",1.04,254,57,51,11,+6,67%,163,28%,15,12,+3,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,neT,6582,Cloud9,overall,"Deadlock, Astra, Cypher",0.85,181,40,46,22,-6,70%,116,50%,8,4,+4,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,mitch,612,Cloud9,overall,"Breach, Kayo, Tejo",0.74,162,32,47,33,-15,68%,102,19%,4,10,-6,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,Xeppaa,7871,Cloud9,overall,"Tejo, Sova, Fade",0.68,121,26,45,17,-19,67%,87,28%,2,1,+1,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,aspas,8480,MIBR,overall,"Raze, Jett",1.27,246,57,40,10,+17,75%,166,21%,11,13,-2,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,xenom,20240,MIBR,overall,"Omen, Astra",1.17,175,43,35,27,+8,75%,115,30%,1,1,0,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,nzr,725,MIBR,overall,"Fade, Sova",1.12,196,41,38,24,+3,75%,138,25%,3,3,0,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,artzin,5957,MIBR,overall,"Viper, Kayo",1.03,213,45,47,28,-2,70%,127,20%,8,10,-2,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,cortezia,5395,MIBR,overall,"Vyse, Cypher, Killjoy",0.74,154,35,48,11,-13,71%,111,40%,6,6,0,,
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,v1c,17433,Cloud9,map,Omen,1.68,243,21,8,10,+13,90%,170,44%,1,0,+1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,OXY,18796,Cloud9,map,Raze,1.44,329,24,15,4,+9,80%,206,29%,8,4,+4,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,mitch,612,Cloud9,map,Breach,1.17,192,12,12,17,0,80%,117,16%,3,2,+1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,neT,6582,Cloud9,map,Deadlock,0.94,157,11,12,11,-1,80%,106,32%,1,0,+1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,Xeppaa,7871,Cloud9,map,Tejo,0.72,127,9,12,5,-3,75%,92,18%,1,0,+1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,aspas,8480,MIBR,map,Raze,0.96,218,15,16,3,-1,65%,165,27%,1,4,-3,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,artzin,5957,MIBR,map,Viper,0.96,229,15,16,6,-1,55%,135,25%,4,7,-3,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,nzr,725,MIBR,map,Fade,0.93,188,13,14,6,-1,70%,125,21%,0,1,-1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,xenom,20240,MIBR,map,Omen,0.81,132,9,14,6,-5,60%,80,24%,0,0,0,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,cortezia,5395,MIBR,map,Vyse,0.46,113,7,17,7,-10,55%,85,36%,1,2,-1,Lotus,Cloud9
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,OXY,18796,Cloud9,map,Jett,1.12,288,23,19,2,+4,65%,177,27%,6,4,+2,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,v1c,17433,Cloud9,map,Omen,0.97,172,14,16,8,-2,70%,119,18%,1,1,0,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,Xeppaa,7871,Cloud9,map,Sova,0.86,153,12,17,8,-5,74%,104,43%,1,0,+1,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,neT,6582,Cloud9,map,Astra,0.63,159,14,19,8,-5,61%,92,80%,1,3,-2,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,mitch,612,Cloud9,map,Kayo,0.50,136,9,18,13,-9,57%,82,16%,0,5,-5,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,aspas,8480,MIBR,map,Jett,1.67,280,25,10,2,+15,87%,180,19%,5,2,+3,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,xenom,20240,MIBR,map,Astra,1.34,206,19,12,11,+7,83%,133,47%,1,0,+1,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,cortezia,5395,MIBR,map,Cypher,0.98,229,19,19,3,0,87%,160,51%,4,3,+1,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,artzin,5957,MIBR,map,Kayo,0.82,153,11,16,13,-5,78%,99,17%,1,2,-1,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,nzr,725,MIBR,map,Sova,0.82,137,10,15,9,-5,70%,103,29%,2,2,0,Abyss,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,v1c,17433,Cloud9,map,Astra,1.35,255,18,13,8,+5,75%,158,23%,2,1,+1,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,neT,6582,Cloud9,map,Cypher,1.00,228,15,15,3,0,70%,154,47%,6,1,+5,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,mitch,612,Cloud9,map,Tejo,0.59,158,11,17,3,-6,70%,108,27%,1,3,-2,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,OXY,18796,Cloud9,map,Yoru,0.53,145,10,17,5,-7,55%,103,30%,1,4,-3,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,Xeppaa,7871,Cloud9,map,Fade,0.45,84,5,16,4,-11,50%,61,21%,0,1,-1,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,nzr,725,MIBR,map,Sova,1.65,262,18,9,9,+9,85%,191,26%,1,0,+1,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,xenom,20240,MIBR,map,Astra,1.34,186,15,9,10,+6,80%,129,19%,0,1,-1,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,artzin,5957,MIBR,map,Kayo,1.32,258,19,15,9,+4,75%,150,19%,3,1,+2,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,aspas,8480,MIBR,map,Jett,1.11,241,17,14,5,+3,70%,151,18%,5,7,-2,Pearl,MIBR
+428004,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-23 19:20:00,Cloud9,MIBR,1 - 2,cortezia,5395,MIBR,map,Killjoy,0.73,119,9,12,1,-3,70%,80,23%,1,1,0,Pearl,MIBR
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,keznit,2462,KRÜ Esports,overall,"Jett, Raze",1.50,295,33,16,7,+17,84%,186,23%,6,3,+3,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Melser,1311,KRÜ Esports,overall,"Astra, Omen",1.46,241,28,14,9,+14,87%,158,42%,4,3,+1,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Mazino,7603,KRÜ Esports,overall,"Kayo, Skye",1.24,217,23,18,22,+5,84%,143,24%,2,3,-1,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,adverso,3826,KRÜ Esports,overall,"Sova, Viper",1.11,201,22,18,13,+4,77%,123,32%,2,4,-2,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Shyy,24007,KRÜ Esports,overall,"Viper, Cypher",1.06,193,23,19,8,+4,81%,132,24%,3,1,+2,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,gobera,14950,2Game Esports,overall,"Jett, Omen",1.09,216,23,24,10,-1,77%,130,32%,3,1,+2,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,pryze,662,2Game Esports,overall,"Sova, Viper",0.85,195,19,24,8,-5,77%,133,24%,2,1,+1,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,silentzz,11921,2Game Esports,overall,Yoru,0.61,169,17,28,5,-11,58%,100,41%,4,5,-1,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,lz,6195,2Game Esports,overall,"Astra, Tejo",0.59,143,16,27,5,-11,55%,99,39%,3,7,-4,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Zap,3169,2Game Esports,overall,"Omen, Breach",0.47,112,10,27,11,-17,52%,81,18%,2,3,-1,,
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,keznit,2462,KRÜ Esports,map,Jett,1.58,328,18,8,4,+10,88%,209,27%,5,2,+3,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Melser,1311,KRÜ Esports,map,Astra,1.41,264,16,8,4,+8,88%,158,44%,3,2,+1,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Mazino,7603,KRÜ Esports,map,Kayo,1.25,202,11,8,10,+3,88%,119,18%,1,1,0,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Shyy,24007,KRÜ Esports,map,Viper,1.09,196,12,9,2,+3,75%,130,35%,2,0,+2,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,adverso,3826,KRÜ Esports,map,Sova,1.00,145,8,7,6,+1,75%,96,29%,0,0,0,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,gobera,14950,2Game Esports,map,Jett,1.27,241,13,12,3,+1,69%,143,34%,2,0,+2,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,pryze,662,2Game Esports,map,Sova,0.62,133,6,12,4,-6,63%,97,19%,1,1,0,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,lz,6195,2Game Esports,map,Astra,0.58,152,9,14,2,-5,56%,96,37%,0,6,-6,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,silentzz,11921,2Game Esports,map,Yoru,0.44,127,7,14,2,-7,56%,78,58%,0,2,-2,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Zap,3169,2Game Esports,map,Omen,0.39,86,5,13,1,-8,44%,59,27%,2,2,0,Abyss,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Melser,1311,KRÜ Esports,map,Omen,1.52,217,12,6,5,+6,87%,158,39%,1,1,0,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,keznit,2462,KRÜ Esports,map,Raze,1.42,262,15,8,3,+7,80%,162,21%,1,1,0,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Mazino,7603,KRÜ Esports,map,Skye,1.22,231,12,10,12,+2,80%,169,30%,1,2,-1,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,adverso,3826,KRÜ Esports,map,Viper,1.22,257,14,11,7,+3,80%,152,34%,2,4,-2,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Shyy,24007,KRÜ Esports,map,Cypher,1.03,190,11,10,6,+1,87%,134,16%,1,1,0,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,pryze,662,2Game Esports,map,Viper,1.10,256,13,12,4,+1,93%,172,27%,1,0,+1,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,gobera,14950,2Game Esports,map,Omen,0.89,190,10,12,7,-2,87%,116,29%,1,1,0,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,silentzz,11921,2Game Esports,map,Yoru,0.79,210,10,14,3,-4,60%,124,37%,4,3,+1,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,lz,6195,2Game Esports,map,Tejo,0.61,133,7,13,3,-6,53%,102,41%,3,1,+2,Split,KRÜ Esports
+428006,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 17:00:00,KRÜ Esports,2Game Esports,2 - 0,Zap,3169,2Game Esports,map,Breach,0.55,138,5,14,10,-9,60%,105,14%,0,1,-1,Split,KRÜ Esports
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,eeiu,796,100 Thieves,overall,Fade,1.11,204,57,44,15,+13,81%,125,39%,5,3,+2,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Asuna,601,100 Thieves,overall,"Neon, Kayo, Raze",0.93,196,44,49,23,-5,66%,136,25%,10,12,-2,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,zander,8082,100 Thieves,overall,"Omen, Astra, Viper",0.90,193,47,51,21,-4,71%,117,30%,10,9,+1,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Cryocells,4147,100 Thieves,overall,"Clove, Jett, Brimstone",0.89,194,47,51,14,-4,79%,127,29%,7,4,+3,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Boostio,604,100 Thieves,overall,"Breach, Vyse, Gekko",0.49,104,23,53,22,-30,64%,63,20%,4,6,-2,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,mada,5132,NRG,overall,"Raze, Jett",1.46,300,73,47,14,+26,81%,184,17%,17,15,+2,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Verno,21668,NRG,overall,"Vyse, Fade",1.13,208,56,43,18,+13,81%,134,35%,4,3,+1,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,s0m,4164,NRG,overall,"Omen, Astra, Brimstone",1.12,196,47,43,34,+4,83%,117,20%,7,5,+2,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,FiNESSE,817,NRG,overall,"Breach, Viper",1.10,169,39,38,31,+1,77%,112,14%,4,4,0,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Ethan,11225,NRG,overall,"Tejo, Kayo",0.77,145,33,47,24,-14,69%,100,26%,2,9,-7,,
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,eeiu,796,100 Thieves,map,Fade,1.51,232,26,12,7,+14,96%,143,31%,2,0,+2,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,zander,8082,100 Thieves,map,Omen,1.03,193,17,16,8,+1,69%,112,22%,4,3,+1,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Asuna,601,100 Thieves,map,Neon,1.03,230,20,18,6,+2,69%,162,33%,3,7,-4,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Cryocells,4147,100 Thieves,map,Clove,0.99,229,19,20,9,-1,85%,156,28%,4,2,+2,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Boostio,604,100 Thieves,map,Breach,0.46,60,4,17,11,-13,69%,38,9%,0,1,-1,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,mada,5132,NRG,map,Raze,1.23,253,20,18,9,+2,77%,169,11%,7,7,0,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Verno,21668,NRG,map,Vyse,1.22,244,24,15,2,+9,85%,154,40%,2,1,+1,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,FiNESSE,817,NRG,map,Breach,1.11,194,15,17,10,-2,77%,129,17%,2,1,+1,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,s0m,4164,NRG,map,Omen,0.87,156,15,19,10,-4,69%,93,29%,1,1,0,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Ethan,11225,NRG,map,Tejo,0.59,105,9,17,4,-8,46%,82,24%,1,3,-2,Lotus,100 Thieves
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,eeiu,796,100 Thieves,map,Fade,0.99,198,16,15,5,+1,73%,122,51%,1,2,-1,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Asuna,601,100 Thieves,map,Kayo,0.88,156,12,14,10,-2,64%,102,29%,2,2,0,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Cryocells,4147,100 Thieves,map,Jett,0.77,185,15,15,1,0,68%,112,16%,1,2,-1,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Boostio,604,100 Thieves,map,Vyse,0.66,162,12,18,5,-6,68%,101,20%,3,2,+1,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,zander,8082,100 Thieves,map,Astra,0.44,147,11,20,8,-9,64%,91,32%,1,6,-5,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,mada,5132,NRG,map,Jett,1.66,326,26,15,4,+11,86%,211,26%,6,2,+4,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,s0m,4164,NRG,map,Astra,1.47,258,19,12,8,+7,91%,160,19%,6,1,+5,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,FiNESSE,817,NRG,map,Breach,1.17,158,13,10,13,+3,77%,99,20%,0,1,-1,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Ethan,11225,NRG,map,Tejo,0.85,172,13,15,5,-2,91%,111,29%,1,4,-3,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Verno,21668,NRG,map,Vyse,0.84,123,11,14,6,-3,82%,85,23%,1,0,+1,Pearl,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,zander,8082,100 Thieves,map,Viper,1.20,240,19,15,5,+4,82%,148,39%,5,0,+5,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Cryocells,4147,100 Thieves,map,Brimstone,0.89,167,13,16,4,-3,82%,107,50%,2,0,+2,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Asuna,601,100 Thieves,map,Raze,0.85,202,12,17,7,-5,64%,138,15%,5,3,+2,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,eeiu,796,100 Thieves,map,Fade,0.75,183,15,17,3,-2,73%,107,42%,2,1,+1,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Boostio,604,100 Thieves,map,Gekko,0.35,90,7,18,6,-11,55%,53,38%,1,3,-2,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,mada,5132,NRG,map,Raze,1.54,321,27,14,1,+13,82%,175,14%,4,6,-2,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Verno,21668,NRG,map,Fade,1.32,258,21,14,10,+7,77%,161,39%,1,2,-1,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,s0m,4164,NRG,map,Brimstone,1.08,174,13,12,16,+1,91%,103,15%,0,3,-3,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,FiNESSE,817,NRG,map,Viper,1.03,155,11,11,8,0,77%,103,8%,2,2,0,Bind,NRG
+428005,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 1",2025-01-24 19:00:00,100 Thieves,NRG,1 - 2,Ethan,11225,NRG,map,Kayo,0.91,158,11,15,15,-4,73%,109,24%,0,2,-2,Bind,NRG
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,dgzin,8873,LOUD,overall,"Raze, Jett",1.27,253,61,44,10,+17,74%,161,28%,14,5,+9,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,pANcada,683,LOUD,overall,"Omen, Astra",1.08,204,53,46,28,+7,70%,132,37%,7,4,+3,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,cauanzin,6193,LOUD,overall,"Fade, Sova, Skye",0.93,215,49,53,22,-4,66%,138,23%,13,10,+3,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,tuyz,2408,LOUD,overall,Cypher,0.82,133,35,42,7,-7,73%,85,34%,4,5,-1,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,v1nny,1586,LOUD,overall,"Breach, Kayo",0.68,126,31,50,19,-19,67%,91,41%,2,6,-4,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,zekken,4004,Sentinels,overall,Yoru,1.21,253,61,47,21,+14,81%,161,24%,15,12,+3,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,johnqt,1265,Sentinels,overall,Tejo,1.04,183,45,43,16,+2,73%,127,26%,4,4,0,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,Zellsis,729,Sentinels,overall,"Vyse, Viper",1.02,191,45,46,21,-1,70%,118,17%,5,11,-6,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,bang,3880,Sentinels,overall,"Omen, Astra",1.00,186,48,46,17,+2,74%,117,30%,5,7,-2,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,N4RRATE,36245,Sentinels,overall,"Breach, Fade",0.89,150,36,47,29,-11,71%,102,14%,1,6,-5,,
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,pANcada,683,LOUD,map,Omen,1.31,226,20,14,12,+6,75%,140,37%,5,0,+5,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,dgzin,8873,LOUD,map,Raze,1.18,231,19,14,7,+5,79%,150,29%,3,3,0,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,cauanzin,6193,LOUD,map,Fade,1.17,257,21,17,9,+4,75%,162,27%,4,1,+3,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,tuyz,2408,LOUD,map,Cypher,0.98,157,14,12,1,+2,71%,98,30%,2,1,+1,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,v1nny,1586,LOUD,map,Breach,0.64,133,10,17,5,-7,75%,93,35%,2,3,-1,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,zekken,4004,Sentinels,map,Yoru,1.07,230,20,16,4,+4,75%,145,25%,3,6,-3,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Breach,1.03,175,14,17,10,-3,75%,128,19%,0,1,-1,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Vyse,1.01,205,15,18,11,-3,75%,133,17%,3,3,0,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,bang,3880,Sentinels,map,Omen,0.86,184,16,19,6,-3,67%,117,29%,2,3,-1,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Tejo,0.77,116,9,14,5,-5,63%,84,22%,0,3,-3,Lotus,LOUD
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,dgzin,8873,LOUD,map,Jett,1.05,218,19,16,0,+3,67%,134,29%,7,1,+6,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,cauanzin,6193,LOUD,map,Sova,1.00,194,15,17,7,-2,63%,132,20%,3,2,+1,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,pANcada,683,LOUD,map,Astra,0.95,167,15,14,10,+1,67%,120,32%,1,4,-3,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,v1nny,1586,LOUD,map,Kayo,0.81,143,12,18,12,-6,63%,98,46%,0,3,-3,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,tuyz,2408,LOUD,map,Cypher,0.79,126,12,15,4,-3,75%,78,48%,2,1,+1,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,zekken,4004,Sentinels,map,Yoru,1.35,277,23,17,11,+6,83%,176,20%,5,2,+3,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Tejo,1.24,197,18,14,6,+4,79%,136,29%,2,1,+1,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Vyse,0.95,162,12,13,8,-1,67%,101,16%,1,5,-4,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Fade,0.94,160,13,15,10,-2,67%,106,15%,1,2,-1,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,bang,3880,Sentinels,map,Astra,0.91,159,14,14,6,0,79%,108,34%,2,3,-1,Pearl,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,dgzin,8873,LOUD,map,Raze,1.59,311,23,14,3,+9,77%,202,25%,4,1,+3,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,pANcada,683,LOUD,map,Astra,0.95,220,18,18,6,0,68%,138,41%,1,0,+1,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,tuyz,2408,LOUD,map,Cypher,0.67,116,9,15,2,-6,73%,78,29%,0,3,-3,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,v1nny,1586,LOUD,map,Breach,0.59,103,9,15,2,-6,64%,81,43%,0,0,0,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,cauanzin,6193,LOUD,map,Skye,0.59,195,13,19,6,-6,59%,119,22%,6,7,-1,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,bang,3880,Sentinels,map,Omen,1.27,216,18,13,5,+5,77%,128,28%,1,1,0,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,zekken,4004,Sentinels,map,Yoru,1.21,252,18,14,6,+4,86%,161,26%,7,4,+3,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Tejo,1.12,237,18,15,5,+3,77%,164,26%,2,0,+2,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Viper,1.10,205,18,15,2,+3,68%,120,18%,1,3,-2,Split,Sentinels
+427999,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 17:00:00,LOUD,Sentinels,1 - 2,N4RRATE,36245,Sentinels,map,Breach,0.68,115,9,15,9,-6,73%,69,6%,0,3,-3,Split,Sentinels
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,leaf,7873,G2 Esports,overall,"Chamber, Vyse",1.53,298,44,24,9,+20,80%,196,26%,8,2,+6,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,trent,15500,G2 Esports,overall,"Sova, Tejo",1.53,237,37,21,12,+16,90%,166,32%,3,3,0,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,JonahP,4581,G2 Esports,overall,"Vyse, Breach",1.01,206,30,30,25,0,83%,135,24%,2,2,0,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,jawgemo,3993,G2 Esports,overall,"Yoru, Raze",0.88,217,29,34,13,-5,73%,137,9%,9,5,+4,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,valyn,3885,G2 Esports,overall,"Astra, Brimstone",0.78,153,21,29,17,-8,70%,112,21%,3,3,0,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,kiNgg,8549,LEVIATÁN,overall,"Astra, Breach",1.04,227,31,33,19,-2,78%,146,27%,4,3,+1,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,tex,1818,LEVIATÁN,overall,"Vyse, Killjoy",1.02,215,32,31,2,+1,63%,143,42%,1,7,-6,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,nataNk,5004,LEVIATÁN,overall,"Fade, Raze",0.99,227,32,31,9,+1,68%,144,26%,8,8,0,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,C0M,619,LEVIATÁN,overall,"Tejo, Sova",0.74,154,23,32,8,-9,63%,107,23%,1,1,0,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,Demon1,26171,LEVIATÁN,overall,"Yoru, Brimstone",0.67,155,20,35,21,-15,65%,115,31%,1,6,-5,,
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,trent,15500,G2 Esports,map,Sova,1.69,255,18,7,8,+11,94%,178,28%,0,1,-1,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,leaf,7873,G2 Esports,map,Chamber,1.44,279,20,9,1,+11,83%,166,32%,6,2,+4,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,JonahP,4581,G2 Esports,map,Vyse,1.05,212,14,12,8,+2,83%,155,28%,0,0,0,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,valyn,3885,G2 Esports,map,Astra,0.99,162,12,11,6,+1,83%,111,27%,1,1,0,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,0.86,184,10,14,7,-4,72%,125,12%,5,2,+3,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,tex,1818,LEVIATÁN,map,Vyse,1.27,232,16,12,0,+4,61%,154,46%,1,4,-3,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,kiNgg,8549,LEVIATÁN,map,Astra,1.03,252,15,17,6,-2,78%,155,31%,3,1,+2,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,nataNk,5004,LEVIATÁN,map,Fade,0.94,201,13,14,5,-1,61%,115,28%,1,3,-2,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,Demon1,26171,LEVIATÁN,map,Yoru,0.36,83,5,15,3,-10,44%,67,30%,1,4,-3,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,C0M,619,LEVIATÁN,map,Tejo,0.30,78,4,16,3,-12,50%,55,13%,0,0,0,Pearl,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,leaf,7873,G2 Esports,map,Vyse,1.60,317,24,15,8,+9,77%,221,24%,2,0,+2,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,trent,15500,G2 Esports,map,Tejo,1.39,218,19,14,4,+5,86%,156,36%,3,2,+1,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,JonahP,4581,G2 Esports,map,Breach,0.99,200,16,18,17,-2,82%,119,22%,2,2,0,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,jawgemo,3993,G2 Esports,map,Raze,0.90,249,19,20,6,-1,73%,147,7%,4,3,+1,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,valyn,3885,G2 Esports,map,Brimstone,0.61,143,9,18,11,-9,59%,113,18%,2,2,0,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,C0M,619,LEVIATÁN,map,Sova,1.10,230,19,16,5,+3,73%,150,28%,1,1,0,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,kiNgg,8549,LEVIATÁN,map,Breach,1.05,201,16,16,13,0,77%,138,23%,1,2,-1,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,nataNk,5004,LEVIATÁN,map,Raze,1.04,253,19,17,4,+2,73%,167,24%,7,5,+2,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,Demon1,26171,LEVIATÁN,map,Brimstone,0.92,227,15,20,18,-5,82%,155,31%,0,2,-2,Fracture,G2 Esports
+428000,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Semifinals",2025-01-31 21:00:00,G2 Esports,LEVIATÁN,2 - 0,tex,1818,LEVIATÁN,map,Killjoy,0.81,198,16,19,2,-3,64%,134,39%,0,3,-3,Fracture,G2 Esports
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,supamen,826,Evil Geniuses,overall,Omen,1.14,227,34,31,5,+3,62%,156,38%,3,4,-1,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,yay,881,Evil Geniuses,overall,"Astra, Chamber",0.69,171,22,33,4,-11,49%,110,37%,4,7,-3,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,Derrek,1533,Evil Geniuses,overall,"Sova, Skye",0.66,159,22,33,10,-11,64%,107,40%,1,0,+1,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,icy,8402,Evil Geniuses,overall,"Jett, Raze",0.65,181,23,34,4,-11,56%,112,20%,6,9,-3,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,NaturE,4927,Evil Geniuses,overall,"Vyse, Viper",0.64,134,15,31,14,-16,62%,90,24%,0,5,-5,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,aspas,8480,MIBR,overall,Jett,1.36,257,38,22,7,+16,90%,160,14%,10,3,+7,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,xenom,20240,MIBR,overall,Astra,1.30,204,27,23,26,+4,90%,131,26%,2,2,0,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,cortezia,5395,MIBR,overall,"Cypher, Viper",1.16,247,35,25,7,+10,79%,160,42%,6,3,+3,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,nzr,725,MIBR,overall,"Sova, Skye",1.15,196,26,21,15,+5,79%,139,24%,3,1,+2,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,artzin,5957,MIBR,overall,"Kayo, Raze",1.13,254,36,27,11,+9,85%,146,15%,4,5,-1,,
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,supamen,826,Evil Geniuses,map,Omen,1.53,289,25,16,5,+9,74%,188,44%,2,2,0,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,Derrek,1533,Evil Geniuses,map,Sova,0.84,194,15,18,6,-3,65%,137,42%,1,0,+1,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,NaturE,4927,Evil Geniuses,map,Vyse,0.76,147,9,17,12,-8,70%,99,30%,0,3,-3,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,yay,881,Evil Geniuses,map,Astra,0.68,155,12,18,4,-6,52%,110,32%,2,3,-1,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,icy,8402,Evil Geniuses,map,Jett,0.54,146,12,19,0,-7,48%,84,26%,3,7,-4,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,aspas,8480,MIBR,map,Jett,1.42,299,25,14,3,+11,87%,180,18%,8,3,+5,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,xenom,20240,MIBR,map,Astra,1.25,231,17,17,18,0,87%,144,26%,1,1,0,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,cortezia,5395,MIBR,map,Cypher,1.19,216,19,13,2,+6,70%,142,46%,3,1,+2,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,artzin,5957,MIBR,map,Kayo,0.94,191,16,17,9,-1,83%,123,16%,2,2,0,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,nzr,725,MIBR,map,Sova,0.72,135,11,14,6,-3,74%,104,30%,1,1,0,Abyss,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,icy,8402,Evil Geniuses,map,Raze,0.81,216,11,15,4,-4,69%,151,16%,3,2,+1,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,yay,881,Evil Geniuses,map,Chamber,0.71,186,10,15,0,-5,44%,111,47%,2,4,-2,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,supamen,826,Evil Geniuses,map,Omen,0.57,165,9,15,0,-6,44%,110,29%,1,2,-1,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,NaturE,4927,Evil Geniuses,map,Viper,0.46,120,6,14,2,-8,50%,77,15%,0,2,-2,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,Derrek,1533,Evil Geniuses,map,Skye,0.41,124,7,15,4,-8,63%,63,36%,0,0,0,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,nzr,725,MIBR,map,Skye,1.76,257,15,7,9,+8,88%,188,21%,2,0,+2,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,artzin,5957,MIBR,map,Raze,1.39,317,20,10,2,+10,88%,178,13%,2,3,-1,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,xenom,20240,MIBR,map,Astra,1.35,177,10,6,8,+4,94%,112,28%,1,1,0,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,aspas,8480,MIBR,map,Jett,1.28,215,13,8,4,+5,94%,132,4%,2,0,+2,Split,MIBR
+428007,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 17:00:00,Evil Geniuses,MIBR,0 - 2,cortezia,5395,MIBR,map,Viper,1.11,278,16,12,5,+4,94%,186,38%,3,2,+1,Split,MIBR
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,mada,5132,NRG,overall,"Yoru, Neon, Raze",1.29,283,64,44,12,+20,73%,177,28%,10,12,-2,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Ethan,11225,NRG,overall,"Omen, Breach, Kayo",1.23,234,51,46,34,+5,73%,153,26%,5,4,+1,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,s0m,4164,NRG,overall,"Harbor, Omen, Brimstone",0.91,193,42,47,25,-5,78%,128,27%,3,5,-2,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Verno,21668,NRG,overall,"Sova, Fade",0.74,135,29,46,16,-17,69%,94,27%,2,7,-5,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,FiNESSE,817,NRG,overall,"Vyse, Cypher, Viper",0.47,110,20,51,16,-31,55%,75,17%,5,11,-6,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Melser,1311,KRÜ Esports,overall,"Astra, Omen, Brimstone",1.18,188,48,34,21,+14,80%,122,33%,6,3,+3,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,adverso,3826,KRÜ Esports,overall,"Sova, Viper",1.09,208,48,40,20,+8,73%,135,16%,7,3,+4,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Shyy,24007,KRÜ Esports,overall,"Viper, Cypher, Vyse",1.07,205,48,42,11,+6,72%,129,29%,7,3,+4,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,keznit,2462,KRÜ Esports,overall,"Jett, Raze",1.01,207,45,43,12,+2,73%,138,28%,11,9,+2,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Mazino,7603,KRÜ Esports,overall,"Kayo, Breach, Skye",0.94,195,45,47,28,-2,72%,126,28%,8,7,+1,,
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Ethan,11225,NRG,map,Omen,1.42,278,21,15,11,+6,81%,173,27%,3,2,+1,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,mada,5132,NRG,map,Yoru,1.33,300,20,15,8,+5,81%,197,27%,3,3,0,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,s0m,4164,NRG,map,Harbor,1.02,239,18,17,7,+1,86%,161,37%,1,3,-2,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Verno,21668,NRG,map,Sova,0.63,138,9,16,7,-7,67%,104,38%,0,3,-3,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,FiNESSE,817,NRG,map,Vyse,0.33,75,4,17,7,-13,62%,58,17%,1,2,-1,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Mazino,7603,KRÜ Esports,map,Kayo,1.47,266,20,13,14,+7,86%,166,25%,4,0,+4,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Melser,1311,KRÜ Esports,map,Astra,1.42,231,19,13,5,+6,71%,156,45%,3,0,+3,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,keznit,2462,KRÜ Esports,map,Jett,1.13,235,19,14,1,+5,71%,151,39%,3,4,-1,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,adverso,3826,KRÜ Esports,map,Sova,0.96,185,14,14,5,0,67%,122,13%,1,1,0,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Viper,0.46,122,8,18,2,-10,48%,90,23%,2,3,-1,Abyss,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,mada,5132,NRG,map,Neon,1.64,354,30,14,2,+16,78%,210,25%,4,4,0,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Ethan,11225,NRG,map,Breach,1.63,315,24,16,11,+8,74%,203,32%,2,1,+1,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Verno,21668,NRG,map,Sova,0.84,129,10,15,4,-5,70%,93,15%,1,2,-1,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,s0m,4164,NRG,map,Omen,0.74,121,10,15,8,-5,65%,83,41%,1,2,-1,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,FiNESSE,817,NRG,map,Cypher,0.44,89,5,17,6,-12,48%,63,11%,1,5,-4,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Melser,1311,KRÜ Esports,map,Omen,1.24,207,19,12,10,+7,83%,133,29%,3,1,+2,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Mazino,7603,KRÜ Esports,map,Breach,0.96,229,18,18,9,0,74%,146,28%,3,4,-1,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Cypher,0.92,172,15,16,5,-1,83%,110,23%,2,0,+2,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,adverso,3826,KRÜ Esports,map,Sova,0.77,159,13,16,5,-3,74%,110,17%,2,0,+2,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,keznit,2462,KRÜ Esports,map,Jett,0.77,159,12,17,3,-5,70%,115,34%,4,4,0,Haven,NRG
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,s0m,4164,NRG,map,Brimstone,0.99,219,14,15,10,-1,85%,144,15%,1,0,+1,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,mada,5132,NRG,map,Raze,0.83,195,14,15,2,-1,60%,120,36%,3,5,-2,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Verno,21668,NRG,map,Fade,0.75,138,10,15,5,-5,70%,84,36%,1,2,-1,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,FiNESSE,817,NRG,map,Viper,0.64,166,11,17,3,-6,55%,106,23%,3,4,-1,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Ethan,11225,NRG,map,Kayo,0.57,110,6,15,12,-9,65%,76,13%,0,1,-1,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Vyse,1.89,322,25,8,4,+17,85%,192,36%,3,0,+3,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,adverso,3826,KRÜ Esports,map,Viper,1.59,279,21,10,10,+11,80%,177,17%,4,2,+2,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,keznit,2462,KRÜ Esports,map,Raze,1.15,226,14,12,8,+2,80%,151,16%,4,1,+3,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Melser,1311,KRÜ Esports,map,Brimstone,0.87,125,10,9,6,+1,85%,76,22%,0,2,-2,Bind,KRÜ Esports
+428008,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 2",2025-02-01 19:30:00,NRG,KRÜ Esports,1 - 2,Mazino,7603,KRÜ Esports,map,Skye,0.35,91,7,16,5,-9,55%,60,35%,1,3,-2,Bind,KRÜ Esports
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,tex,1818,LEVIATÁN,overall,"Killjoy, Vyse, Cypher",1.14,184,48,39,8,+9,74%,123,36%,4,5,-1,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,Demon1,26171,LEVIATÁN,overall,"Raze, Jett",1.09,250,61,50,18,+11,75%,165,26%,6,13,-7,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nataNk,5004,LEVIATÁN,overall,"Fade, Phoenix, Skye",0.95,197,45,46,25,-1,79%,139,24%,7,9,-2,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,kiNgg,8549,LEVIATÁN,overall,"Omen, Astra",0.92,186,44,48,23,-4,81%,129,30%,5,6,-1,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,C0M,619,LEVIATÁN,overall,"Viper, Sova",0.82,170,39,47,21,-8,76%,111,17%,5,7,-2,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,aspas,8480,MIBR,overall,"Raze, Jett",1.14,222,51,45,9,+6,75%,143,18%,15,5,+10,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,artzin,5957,MIBR,overall,"Breach, Kayo, Raze",1.08,230,51,53,23,-2,72%,162,12%,12,11,+1,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,cortezia,5395,MIBR,overall,"Cypher, Killjoy, Viper",1.01,225,53,49,17,+4,69%,144,32%,9,3,+6,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,xenom,20240,MIBR,overall,"Omen, Astra",0.99,164,44,42,19,+2,74%,106,35%,3,8,-5,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nzr,725,MIBR,overall,"Fade, Sova, Skye",0.82,138,31,48,24,-17,66%,101,26%,1,0,+1,,
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,kiNgg,8549,LEVIATÁN,map,Omen,1.31,241,17,12,8,+5,85%,173,33%,1,2,-1,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,tex,1818,LEVIATÁN,map,Killjoy,1.26,197,16,9,1,+7,85%,126,41%,1,2,-1,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,Demon1,26171,LEVIATÁN,map,Raze,1.18,245,18,12,6,+6,75%,171,37%,1,3,-2,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nataNk,5004,LEVIATÁN,map,Fade,1.14,192,13,8,5,+5,90%,138,24%,1,3,-2,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,C0M,619,LEVIATÁN,map,Viper,1.11,195,14,11,3,+3,80%,134,22%,3,2,+1,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,aspas,8480,MIBR,map,Raze,1.24,260,16,15,2,+1,65%,176,18%,7,1,+6,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,cortezia,5395,MIBR,map,Cypher,0.85,222,15,16,0,-1,55%,144,36%,2,1,+1,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nzr,725,MIBR,map,Fade,0.52,107,8,16,0,-8,40%,78,16%,0,0,0,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,xenom,20240,MIBR,map,Omen,0.51,103,7,15,4,-8,60%,64,18%,1,3,-2,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,artzin,5957,MIBR,map,Breach,0.47,109,6,16,5,-10,45%,85,24%,2,2,0,Lotus,LEVIATÁN
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,Demon1,26171,LEVIATÁN,map,Jett,1.28,300,23,16,8,+7,77%,196,26%,4,5,-1,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,tex,1818,LEVIATÁN,map,Vyse,1.12,188,15,14,5,+1,73%,122,33%,1,2,-1,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,kiNgg,8549,LEVIATÁN,map,Astra,0.75,142,11,16,6,-5,82%,101,31%,1,1,0,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nataNk,5004,LEVIATÁN,map,Phoenix,0.71,180,12,19,11,-7,77%,120,17%,2,2,0,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,C0M,619,LEVIATÁN,map,Sova,0.64,146,12,17,6,-5,68%,100,27%,2,2,0,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,artzin,5957,MIBR,map,Kayo,1.29,269,19,16,12,+3,91%,181,13%,2,3,-1,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nzr,725,MIBR,map,Sova,1.22,179,14,13,11,+1,82%,129,36%,1,0,+1,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,aspas,8480,MIBR,map,Jett,1.14,205,16,13,4,+3,77%,139,21%,4,2,+2,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,xenom,20240,MIBR,map,Astra,1.04,198,17,15,2,+2,73%,126,48%,2,4,-2,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,cortezia,5395,MIBR,map,Killjoy,0.93,210,16,16,3,0,68%,138,43%,3,1,+2,Pearl,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,tex,1818,LEVIATÁN,map,Cypher,1.06,167,17,16,2,+1,65%,122,34%,2,1,+1,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nataNk,5004,LEVIATÁN,map,Skye,1.02,219,20,19,9,+1,73%,156,30%,4,4,0,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,Demon1,26171,LEVIATÁN,map,Raze,0.87,206,20,22,4,-2,73%,134,16%,1,5,-4,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,kiNgg,8549,LEVIATÁN,map,Omen,0.77,176,16,20,9,-4,77%,120,25%,3,3,0,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,C0M,619,LEVIATÁN,map,Viper,0.74,170,13,19,12,-6,81%,103,10%,0,3,-3,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,artzin,5957,MIBR,map,Raze,1.38,313,26,21,6,+5,77%,205,10%,8,6,+2,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,xenom,20240,MIBR,map,Astra,1.31,192,20,12,13,+8,85%,122,33%,0,1,-1,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,cortezia,5395,MIBR,map,Viper,1.18,242,22,17,14,+5,81%,149,21%,4,1,+3,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,aspas,8480,MIBR,map,Jett,1.07,201,19,17,3,+2,81%,122,16%,4,2,+2,Split,MIBR
+428009,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 17:00:00,LEVIATÁN,MIBR,1 - 2,nzr,725,MIBR,map,Skye,0.71,129,9,19,13,-10,73%,95,24%,0,0,0,Split,MIBR
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,pANcada,683,LOUD,overall,"Brimstone, Omen",1.19,219,32,32,11,0,74%,159,38%,4,1,+3,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,tuyz,2408,LOUD,overall,"Deadlock, Cypher",1.06,195,28,29,13,-1,71%,124,35%,6,3,+3,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,dgzin,8873,LOUD,overall,"Raze, Jett",0.92,219,36,33,1,+3,57%,150,30%,8,7,+1,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,v1nny,1586,LOUD,overall,"Kayo, Breach",0.71,134,18,29,18,-11,67%,94,28%,1,3,-2,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,cauanzin,6193,LOUD,overall,"Skye, Sova",0.56,161,21,36,8,-15,60%,107,32%,3,6,-3,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Melser,1311,KRÜ Esports,overall,"Brimstone, Omen",1.45,283,45,25,14,+20,86%,168,28%,5,1,+4,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Shyy,24007,KRÜ Esports,overall,"Vyse, Cypher",1.22,196,29,25,11,+4,79%,140,27%,2,2,0,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Mazino,7603,KRÜ Esports,overall,"Skye, Breach",1.04,199,32,28,17,+4,81%,133,31%,3,5,-2,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,adverso,3826,KRÜ Esports,overall,"Viper, Sova",1.00,202,26,28,18,-2,74%,129,12%,4,5,-1,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,keznit,2462,KRÜ Esports,overall,"Raze, Jett",0.96,188,27,29,8,-2,71%,130,18%,6,9,-3,,
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,pANcada,683,LOUD,map,Brimstone,1.31,248,15,15,7,0,83%,192,38%,1,0,+1,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,tuyz,2408,LOUD,map,Deadlock,1.16,204,13,14,5,-1,72%,132,37%,3,1,+2,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,v1nny,1586,LOUD,map,Kayo,0.58,113,5,13,12,-8,67%,87,33%,0,3,-3,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,cauanzin,6193,LOUD,map,Skye,0.52,167,9,16,6,-7,67%,105,28%,2,2,0,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,dgzin,8873,LOUD,map,Raze,0.51,186,13,18,0,-5,50%,110,34%,2,4,-2,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Melser,1311,KRÜ Esports,map,Brimstone,2.04,345,26,8,8,+18,100%,222,25%,3,0,+3,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,adverso,3826,KRÜ Esports,map,Viper,1.37,252,16,11,8,+5,89%,164,12%,1,0,+1,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,keznit,2462,KRÜ Esports,map,Raze,1.07,201,12,12,7,0,78%,144,13%,3,3,0,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Shyy,24007,KRÜ Esports,map,Vyse,0.96,167,11,11,5,0,78%,112,27%,1,2,-1,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Mazino,7603,KRÜ Esports,map,Skye,0.84,179,11,13,10,-2,94%,108,17%,2,3,-1,Bind,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,dgzin,8873,LOUD,map,Jett,1.23,252,23,15,1,+8,63%,179,28%,6,3,+3,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,pANcada,683,LOUD,map,Omen,1.10,189,17,17,4,0,67%,135,38%,3,1,+2,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,tuyz,2408,LOUD,map,Cypher,0.99,185,15,15,8,0,71%,118,34%,3,2,+1,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,v1nny,1586,LOUD,map,Breach,0.80,155,13,16,6,-3,67%,99,26%,1,0,+1,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,cauanzin,6193,LOUD,map,Sova,0.59,155,12,20,2,-8,54%,108,36%,1,4,-3,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Shyy,24007,KRÜ Esports,map,Cypher,1.41,225,18,14,6,+4,79%,160,28%,1,0,+1,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Mazino,7603,KRÜ Esports,map,Breach,1.19,219,21,15,7,+6,71%,151,41%,1,2,-1,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,Melser,1311,KRÜ Esports,map,Omen,1.00,220,19,17,6,+2,75%,127,31%,2,1,+1,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,keznit,2462,KRÜ Esports,map,Jett,0.88,175,15,17,1,-2,67%,119,23%,3,6,-3,Haven,KRÜ Esports
+428010,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 3",2025-02-02 20:30:00,LOUD,KRÜ Esports,0 - 2,adverso,3826,KRÜ Esports,map,Sova,0.72,152,10,17,10,-7,63%,102,12%,3,5,-2,Haven,KRÜ Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,Zellsis,729,Sentinels,overall,"Kayo, Vyse",1.00,209,29,32,10,-3,70%,139,31%,4,4,0,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,bang,3880,Sentinels,overall,Astra,0.95,179,25,27,14,-2,73%,119,30%,2,6,-4,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,zekken,4004,Sentinels,overall,"Jett, Yoru",0.79,193,26,33,7,-7,65%,121,23%,8,4,+4,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,N4RRATE,36245,Sentinels,overall,"Omen, Fade",0.78,186,25,33,14,-8,68%,127,31%,2,8,-6,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,johnqt,1265,Sentinels,overall,"Sova, Tejo",0.68,136,18,29,8,-11,63%,93,29%,1,1,0,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,overall,Yoru,1.20,255,36,29,16,+7,70%,160,18%,9,3,+6,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,JonahP,4581,G2 Esports,overall,"Breach, Vyse",1.18,183,26,20,20,+6,75%,125,21%,4,2,+2,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,trent,15500,G2 Esports,overall,Sova,1.17,215,31,23,9,+8,68%,141,22%,2,3,-1,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,valyn,3885,G2 Esports,overall,Astra,1.04,198,30,24,11,+6,65%,121,22%,2,4,-2,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,leaf,7873,G2 Esports,overall,Chamber,1.04,212,30,28,8,+2,70%,135,23%,6,5,+1,,
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,Zellsis,729,Sentinels,map,Kayo,1.31,268,20,16,6,+4,70%,163,34%,2,0,+2,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,bang,3880,Sentinels,map,Astra,0.84,167,11,13,5,-2,75%,122,28%,1,4,-3,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,zekken,4004,Sentinels,map,Jett,0.73,167,11,14,2,-3,60%,111,16%,4,3,+1,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,johnqt,1265,Sentinels,map,Sova,0.66,132,9,14,4,-5,65%,90,32%,0,0,0,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,N4RRATE,36245,Sentinels,map,Omen,0.29,104,6,18,7,-12,50%,70,39%,1,5,-4,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Chamber,1.54,294,21,12,5,+9,80%,186,28%,4,1,+3,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Sova,1.23,211,15,10,6,+5,70%,137,19%,1,1,0,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.17,170,13,9,9,+4,70%,103,21%,2,1,+1,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.99,216,15,15,3,0,60%,133,23%,5,3,+2,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Astra,0.78,137,10,12,5,-2,60%,98,26%,0,2,-2,Abyss,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,N4RRATE,36245,Sentinels,map,Fade,1.27,268,19,15,7,+4,85%,185,28%,1,3,-2,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,bang,3880,Sentinels,map,Astra,1.05,191,14,14,9,0,70%,116,33%,1,2,-1,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,zekken,4004,Sentinels,map,Yoru,0.84,219,15,19,5,-4,70%,131,30%,4,1,+3,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,johnqt,1265,Sentinels,map,Tejo,0.70,140,9,15,4,-6,60%,96,27%,1,1,0,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,Zellsis,729,Sentinels,map,Vyse,0.69,149,9,16,4,-7,70%,115,26%,2,4,-2,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.41,293,21,14,13,+7,80%,186,15%,4,0,+4,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Astra,1.31,259,20,12,6,+8,70%,143,19%,2,2,0,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Vyse,1.18,195,13,11,11,+2,80%,148,20%,2,1,+1,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Sova,1.11,218,16,13,3,+3,65%,145,26%,1,2,-1,Pearl,G2 Esports
+428001,VCT 2025: Americas Kickoff,"Main Event: 
+						Upper Final",2025-02-06 17:00:00,Sentinels,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Chamber,0.53,129,9,16,3,-7,60%,84,11%,2,4,-2,Pearl,G2 Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,aspas,8480,MIBR,overall,"Raze, Jett",1.86,347,82,36,7,+46,88%,218,26%,14,4,+10,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,cortezia,5395,MIBR,overall,"Viper, Cypher",0.96,202,45,42,15,+3,77%,132,35%,7,5,+2,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,xenom,20240,MIBR,overall,"Brimstone, Astra",0.87,156,36,43,32,-7,77%,96,33%,4,5,-1,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,nzr,725,MIBR,overall,"Skye, Sova",0.85,141,32,42,27,-10,70%,95,23%,0,2,-2,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,artzin,5957,MIBR,overall,"Yoru, Kayo, Raze",0.74,187,43,52,18,-9,71%,120,21%,12,13,-1,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Shyy,24007,KRÜ Esports,overall,"Vyse, Viper, Cypher",1.40,257,57,40,17,+17,80%,171,25%,4,2,+2,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Melser,1311,KRÜ Esports,overall,"Brimstone, Astra, Omen",0.97,185,42,47,32,-5,76%,109,32%,5,6,-1,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,adverso,3826,KRÜ Esports,overall,"Viper, Sova",0.87,182,41,50,20,-9,68%,122,19%,3,10,-7,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,keznit,2462,KRÜ Esports,overall,"Raze, Jett",0.80,182,41,51,7,-10,68%,118,15%,12,10,+2,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Mazino,7603,KRÜ Esports,overall,"Skye, Kayo",0.75,146,34,50,33,-16,68%,92,25%,5,9,-4,,
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,aspas,8480,MIBR,map,Raze,1.76,331,24,13,4,+11,90%,210,31%,4,2,+2,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,cortezia,5395,MIBR,map,Viper,1.06,221,15,14,6,+1,71%,144,37%,2,1,+1,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,artzin,5957,MIBR,map,Yoru,0.76,189,13,18,7,-5,76%,123,20%,4,3,+1,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,xenom,20240,MIBR,map,Brimstone,0.68,140,10,16,6,-6,62%,88,35%,0,4,-4,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,nzr,725,MIBR,map,Skye,0.39,110,7,18,9,-11,52%,76,17%,0,1,-1,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Shyy,24007,KRÜ Esports,map,Vyse,1.89,321,23,9,7,+14,86%,217,28%,2,0,+2,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Melser,1311,KRÜ Esports,map,Brimstone,1.17,239,18,15,15,+3,86%,132,29%,2,1,+1,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,keznit,2462,KRÜ Esports,map,Raze,1.06,231,16,16,4,0,86%,153,18%,6,3,+3,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,adverso,3826,KRÜ Esports,map,Viper,0.80,141,10,14,9,-4,71%,86,23%,1,3,-2,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Mazino,7603,KRÜ Esports,map,Skye,0.71,143,12,15,10,-3,62%,85,34%,0,3,-3,Bind,KRÜ Esports
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,aspas,8480,MIBR,map,Jett,2.02,370,29,9,2,+20,90%,238,20%,3,1,+2,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,cortezia,5395,MIBR,map,Cypher,1.32,240,19,11,4,+8,76%,163,50%,3,3,0,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,xenom,20240,MIBR,map,Astra,0.86,148,11,13,11,-2,81%,89,33%,1,0,+1,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,nzr,725,MIBR,map,Sova,0.83,137,10,12,4,-2,71%,84,29%,0,1,-1,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,artzin,5957,MIBR,map,Kayo,0.69,178,13,17,7,-4,71%,116,28%,4,5,-1,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Shyy,24007,KRÜ Esports,map,Viper,1.14,248,16,17,8,-1,76%,152,15%,1,1,0,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,adverso,3826,KRÜ Esports,map,Sova,0.93,190,13,15,9,-2,71%,127,20%,0,2,-2,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Melser,1311,KRÜ Esports,map,Astra,0.90,173,12,16,7,-4,67%,105,38%,3,2,+1,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Mazino,7603,KRÜ Esports,map,Kayo,0.85,151,12,17,15,-5,76%,76,26%,3,1,+2,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,keznit,2462,KRÜ Esports,map,Jett,0.48,103,9,17,2,-8,52%,59,18%,3,5,-2,Abyss,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,aspas,8480,MIBR,map,Jett,1.80,340,29,14,1,+15,83%,208,30%,7,1,+6,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,nzr,725,MIBR,map,Skye,1.27,175,15,12,14,+3,83%,121,24%,0,0,0,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,xenom,20240,MIBR,map,Astra,1.04,179,15,14,15,+1,88%,109,32%,3,1,+2,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,artzin,5957,MIBR,map,Raze,0.77,193,17,17,4,0,67%,120,18%,4,5,-1,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,cortezia,5395,MIBR,map,Viper,0.54,144,11,17,5,-6,83%,93,19%,2,1,+1,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Shyy,24007,KRÜ Esports,map,Cypher,1.21,201,18,14,2,+4,79%,147,33%,1,1,0,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,adverso,3826,KRÜ Esports,map,Viper,0.88,214,18,21,2,-3,63%,150,17%,2,5,-3,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Melser,1311,KRÜ Esports,map,Omen,0.87,144,12,16,10,-4,75%,93,31%,0,3,-3,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,keznit,2462,KRÜ Esports,map,Raze,0.86,212,16,18,1,-2,67%,138,11%,3,2,+1,Split,MIBR
+428011,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Round 4",2025-02-06 19:20:00,MIBR,KRÜ Esports,2 - 1,Mazino,7603,KRÜ Esports,map,Skye,0.68,143,10,18,8,-8,67%,111,19%,2,5,-3,Split,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,Zellsis,729,Sentinels,overall,"Vyse, Kayo, Viper",1.21,252,85,69,43,+16,71%,162,28%,10,4,+6,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,N4RRATE,36245,Sentinels,overall,"Fade, Omen, Breach",1.13,212,67,61,38,+6,78%,123,21%,3,6,-3,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,zekken,4004,Sentinels,overall,"Raze, Jett, Yoru",1.11,239,82,70,26,+12,70%,158,25%,22,21,+1,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,johnqt,1265,Sentinels,overall,"Viper, Sova, Tejo",1.07,169,59,59,34,0,78%,117,23%,8,7,+1,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,bang,3880,Sentinels,overall,"Omen, Astra",1.06,191,61,65,54,-4,80%,126,37%,9,8,+1,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,xenom,20240,MIBR,overall,"Omen, Astra",1.11,205,72,63,35,+9,76%,138,31%,8,4,+4,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,aspas,8480,MIBR,overall,Jett,0.94,202,74,69,9,+5,69%,139,31%,19,15,+4,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,nzr,725,MIBR,overall,"Breach, Sova, Skye",0.89,195,65,73,24,-8,70%,130,31%,5,3,+2,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,cortezia,5395,MIBR,overall,"Cypher, Killjoy, Viper",0.78,169,60,73,14,-13,59%,123,28%,2,6,-4,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,artzin,5957,MIBR,overall,"Raze, Kayo",0.65,152,51,76,24,-25,61%,109,22%,12,24,-12,,
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,N4RRATE,36245,Sentinels,map,Fade,1.64,270,19,9,5,+10,75%,174,26%,1,1,0,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,Zellsis,729,Sentinels,map,Vyse,1.52,313,24,12,5,+12,70%,209,33%,3,1,+2,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,johnqt,1265,Sentinels,map,Viper,1.10,140,10,10,10,0,70%,89,27%,1,0,+1,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,bang,3880,Sentinels,map,Omen,1.02,186,13,13,6,0,70%,102,35%,4,2,+2,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,zekken,4004,Sentinels,map,Raze,0.79,178,10,14,5,-4,75%,138,23%,3,4,-1,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,xenom,20240,MIBR,map,Omen,1.02,203,14,13,4,+1,75%,127,39%,2,1,+1,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,nzr,725,MIBR,map,Breach,1.00,148,11,14,7,-3,80%,98,33%,0,0,0,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,aspas,8480,MIBR,map,Jett,0.83,233,15,16,5,-1,65%,170,37%,5,5,0,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,artzin,5957,MIBR,map,Raze,0.64,144,10,16,2,-6,55%,99,29%,1,5,-4,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,cortezia,5395,MIBR,map,Cypher,0.46,119,8,17,2,-9,50%,75,44%,0,1,-1,Lotus,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,Zellsis,729,Sentinels,map,Kayo,1.42,280,18,13,17,+5,78%,158,24%,1,1,0,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,bang,3880,Sentinels,map,Astra,1.40,224,13,9,14,+4,83%,149,38%,3,0,+3,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,zekken,4004,Sentinels,map,Jett,1.28,234,17,11,4,+6,78%,181,33%,4,4,0,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,johnqt,1265,Sentinels,map,Sova,1.24,178,11,9,10,+2,94%,125,30%,3,1,+2,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,N4RRATE,36245,Sentinels,map,Omen,1.16,229,14,13,13,+1,89%,148,22%,1,0,+1,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,xenom,20240,MIBR,map,Astra,1.08,244,15,15,3,0,67%,174,35%,2,2,0,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,nzr,725,MIBR,map,Sova,0.94,194,12,12,4,0,61%,124,37%,0,1,-1,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,aspas,8480,MIBR,map,Jett,0.71,191,11,16,2,-5,67%,111,33%,3,3,0,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,cortezia,5395,MIBR,map,Cypher,0.68,173,12,15,4,-3,50%,102,32%,0,3,-3,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,artzin,5957,MIBR,map,Kayo,0.25,83,3,15,5,-12,50%,60,21%,1,3,-2,Abyss,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,johnqt,1265,Sentinels,map,Tejo,1.06,184,27,28,8,-1,73%,126,25%,2,5,-3,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,bang,3880,Sentinels,map,Astra,1.03,201,24,30,25,-6,85%,142,38%,2,3,-1,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,Zellsis,729,Sentinels,map,Vyse,1.00,224,31,32,10,-1,70%,153,33%,5,1,+4,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,zekken,4004,Sentinels,map,Yoru,0.96,233,32,31,10,+1,63%,144,24%,9,9,0,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,N4RRATE,36245,Sentinels,map,Fade,0.84,148,19,29,13,-10,73%,93,15%,0,4,-4,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,xenom,20240,MIBR,map,Astra,1.32,228,33,23,22,+10,83%,145,27%,4,1,+3,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,aspas,8480,MIBR,map,Jett,1.31,250,37,22,2,+15,78%,157,26%,9,2,+7,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,cortezia,5395,MIBR,map,Killjoy,1.01,210,29,27,6,+2,68%,154,27%,1,2,-1,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,artzin,5957,MIBR,map,Kayo,0.81,210,28,30,11,-2,65%,131,23%,7,12,-5,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,nzr,725,MIBR,map,Sova,0.66,166,23,31,7,-8,68%,123,29%,1,1,0,Pearl,MIBR
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,zekken,4004,Sentinels,map,Yoru,1.56,310,23,14,7,+9,75%,184,24%,6,4,+2,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,N4RRATE,36245,Sentinels,map,Breach,1.19,200,15,10,7,+5,80%,109,26%,1,1,0,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,Zellsis,729,Sentinels,map,Viper,1.13,191,12,12,11,0,70%,137,19%,1,1,0,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,johnqt,1265,Sentinels,map,Tejo,0.93,175,11,12,6,-1,80%,121,13%,2,1,+1,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,bang,3880,Sentinels,map,Omen,0.86,152,11,13,9,-2,75%,95,36%,0,3,-3,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,nzr,725,MIBR,map,Skye,1.19,272,19,16,6,+3,75%,180,30%,4,1,+3,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,xenom,20240,MIBR,map,Astra,0.83,143,10,12,6,-2,70%,101,24%,0,0,0,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,artzin,5957,MIBR,map,Raze,0.72,172,10,15,6,-5,70%,119,17%,3,4,-1,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,cortezia,5395,MIBR,map,Viper,0.71,174,11,14,2,-3,60%,129,23%,1,0,+1,Split,Sentinels
+428012,VCT 2025: Americas Kickoff,"Main Event: 
+						Lower Final",2025-02-07 17:00:00,Sentinels,MIBR,3 - 1,aspas,8480,MIBR,map,Jett,0.53,132,11,15,0,-4,60%,95,33%,2,5,-3,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,overall,"Tejo, Sova",1.22,221,80,63,21,+17,72%,153,25%,13,5,+8,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,overall,"Astra, Brimstone",1.10,195,69,63,40,+6,71%,129,20%,7,7,0,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,overall,"Viper, Chamber, Vyse",0.97,189,68,71,20,-3,67%,126,26%,13,10,+3,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,overall,"Breach, Vyse",0.89,157,58,68,41,-10,74%,93,21%,3,8,-5,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,overall,"Yoru, Raze",0.85,205,73,80,20,-7,70%,125,21%,14,21,-7,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,overall,"Tejo, Sova",1.14,199,69,64,27,+5,71%,143,32%,8,6,+2,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,overall,"Omen, Astra, Brimstone",0.99,195,66,72,49,-6,75%,126,39%,10,7,+3,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,overall,"Breach, Fade, Omen, Iso",0.98,197,71,71,29,0,73%,127,27%,16,7,+9,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,overall,"Yoru, Jett",0.95,197,74,70,13,+4,66%,130,28%,12,17,-5,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,overall,"Viper, Vyse, Kayo, Cypher",0.89,183,63,73,35,-10,67%,119,22%,5,13,-8,,
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,map,Astra,0.90,207,12,15,3,-3,65%,146,21%,2,2,0,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.71,200,11,17,5,-6,76%,127,15%,2,2,0,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,map,Viper,0.71,174,9,16,4,-7,71%,130,14%,1,1,0,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,map,Tejo,0.64,155,10,15,2,-5,53%,102,30%,1,3,-2,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,map,Breach,0.54,147,8,15,4,-7,59%,98,17%,0,3,-3,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,map,Tejo,1.54,208,14,7,6,+7,82%,137,47%,0,0,0,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,map,Breach,1.41,240,16,9,8,+7,88%,153,25%,2,2,0,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,map,Viper,1.21,268,18,11,2,+7,88%,174,24%,3,1,+2,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,map,Yoru,1.20,252,17,12,3,+5,88%,176,43%,3,2,+1,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,map,Omen,1.19,221,13,11,10,+2,88%,137,32%,3,1,+2,Split,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,map,Astra,1.19,191,13,11,9,+2,67%,139,26%,2,0,+2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,map,Chamber,1.14,183,14,12,4,+2,76%,117,33%,5,3,+2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,map,Vyse,1.12,223,18,14,9,+4,81%,119,23%,1,3,-2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.11,228,18,14,3,+4,76%,139,28%,2,4,-2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,map,Sova,1.04,173,12,12,7,0,71%,124,19%,1,0,+1,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,map,Vyse,1.05,169,13,14,4,-1,67%,115,17%,0,2,-2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,map,Astra,1.00,182,12,14,10,-2,71%,129,31%,2,2,0,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,map,Yoru,1.00,220,16,16,3,0,62%,135,22%,2,4,-2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,map,Tejo,0.68,160,11,16,5,-5,67%,101,31%,3,1,+2,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,map,Fade,0.67,150,11,15,7,-4,71%,87,14%,3,2,+1,Pearl,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,map,Sova,1.18,246,17,15,6,+2,73%,168,26%,3,0,+3,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,map,Chamber,1.09,216,17,17,2,0,64%,147,33%,3,2,+1,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,map,Breach,0.72,105,8,15,8,-7,73%,65,23%,1,1,0,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,map,Astra,0.69,115,8,14,8,-6,59%,74,21%,1,4,-3,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.56,170,14,19,2,-5,50%,116,26%,2,5,-3,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,map,Tejo,1.57,263,20,11,3,+9,82%,191,23%,4,1,+3,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,map,Astra,1.08,223,16,14,12,+2,82%,124,42%,1,2,-1,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,map,Omen,1.01,162,14,13,3,+1,73%,113,33%,2,0,+2,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,map,Kayo,0.94,161,12,15,18,-3,73%,86,18%,1,2,-1,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,map,Jett,0.91,190,16,13,2,+3,59%,133,31%,4,5,-1,Abyss,Sentinels
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,map,Tejo,1.64,264,18,7,1,+11,89%,170,31%,4,1,+3,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,map,Brimstone,1.39,237,17,9,10,+8,89%,147,18%,2,0,+2,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,map,Raze,1.21,263,17,11,6,+6,83%,150,15%,6,4,+2,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,map,Vyse,1.00,178,12,9,7,+3,67%,119,30%,0,1,-1,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,map,Breach,0.97,121,9,9,8,0,83%,70,20%,0,0,0,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,map,Tejo,0.90,163,9,14,6,-5,56%,120,31%,0,2,-2,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,map,Yoru,0.88,160,10,13,2,-3,61%,113,25%,2,3,-1,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,map,Vyse,0.85,194,11,15,5,-4,56%,161,24%,0,5,-5,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,map,Breach,0.74,151,9,15,4,-6,61%,103,30%,2,1,+1,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,map,Brimstone,0.52,122,6,16,7,-10,56%,78,31%,2,1,+1,Fracture,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,trent,15500,G2 Esports,map,Tejo,1.51,265,23,14,5,+9,74%,191,21%,4,1,+3,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,valyn,3885,G2 Esports,map,Astra,1.35,227,19,14,10,+5,78%,147,17%,0,1,-1,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,JonahP,4581,G2 Esports,map,Breach,1.04,189,15,15,12,0,74%,111,21%,1,1,0,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,leaf,7873,G2 Esports,map,Vyse,0.89,193,16,17,3,-1,61%,118,25%,4,3,+1,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.71,162,13,19,4,-6,70%,101,25%,2,6,-4,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,bang,3880,Sentinels,map,Omen,1.12,228,19,17,10,+2,78%,153,51%,2,1,+1,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,N4RRATE,36245,Sentinels,map,Iso,1.09,281,21,19,7,+2,74%,177,33%,7,2,+5,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,johnqt,1265,Sentinels,map,Sova,1.04,201,15,16,7,-1,70%,159,36%,1,2,-1,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,zekken,4004,Sentinels,map,Yoru,0.83,161,15,16,3,-1,65%,101,22%,1,3,-2,Haven,G2 Esports
+428002,VCT 2025: Americas Kickoff,"Main Event: 
+						Grand Final",2025-02-08 17:00:00,G2 Esports,Sentinels,3 - 2,Zellsis,729,Sentinels,map,Cypher,0.51,124,9,18,6,-9,57%,80,26%,1,3,-2,Haven,G2 Esports

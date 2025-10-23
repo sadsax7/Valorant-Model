@@ -1,0 +1,1201 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,CHICHOO,15559,EDward Gaming,overall,"Viper, Vyse",1.43,266,54,35,15,+19,74%,172,35%,3,4,-1,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,ZmjjKK,3520,EDward Gaming,overall,"Jett, Yoru",1.09,265,48,43,11,+5,72%,167,26%,14,7,+7,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nobody,3017,EDward Gaming,overall,Tejo,0.94,195,36,39,11,-3,74%,148,36%,5,8,-3,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,S1Mon,13768,EDward Gaming,overall,"Breach, Fade",0.88,161,30,34,18,-4,64%,108,32%,2,2,0,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Smoggy,4742,EDward Gaming,overall,"Omen, Astra",0.87,166,29,37,21,-8,70%,97,33%,6,2,+4,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamo,14681,Team Liquid,overall,Yoru,1.27,253,48,39,7,+9,66%,170,27%,9,6,+3,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Keiko,11494,Team Liquid,overall,"Raze, Astra",1.08,206,41,40,12,+1,74%,150,28%,3,4,-1,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nAts,457,Team Liquid,overall,"Viper, Chamber",0.98,190,38,38,11,0,68%,131,18%,4,10,-6,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamyk,1475,Team Liquid,overall,"Astra, Sova",0.88,173,31,38,21,-7,74%,122,33%,4,4,0,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,paTiTek,309,Team Liquid,overall,"Fade, Vyse",0.67,176,30,42,16,-12,58%,106,25%,3,6,-3,,
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,CHICHOO,15559,EDward Gaming,map,Viper,1.41,287,36,25,8,+11,71%,181,38%,2,3,-1,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,ZmjjKK,3520,EDward Gaming,map,Jett,1.18,277,33,27,3,+6,74%,166,23%,8,4,+4,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nobody,3017,EDward Gaming,map,Tejo,0.94,219,25,27,6,-2,76%,162,35%,4,7,-3,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,S1Mon,13768,EDward Gaming,map,Breach,0.75,140,16,23,12,-7,62%,102,29%,0,2,-2,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Smoggy,4742,EDward Gaming,map,Omen,0.65,132,15,27,17,-12,68%,77,29%,3,1,+2,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamo,14681,Team Liquid,map,Yoru,1.39,284,34,25,5,+9,68%,181,26%,7,2,+5,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Raze,1.19,266,31,26,6,+5,76%,185,29%,3,4,-1,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamyk,1475,Team Liquid,map,Astra,1.00,184,23,23,13,0,76%,126,33%,3,2,+1,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Viper,0.97,205,25,26,11,-1,71%,136,16%,2,5,-3,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,paTiTek,309,Team Liquid,map,Fade,0.63,136,16,25,13,-9,59%,91,25%,2,4,-2,Split,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,CHICHOO,15559,EDward Gaming,map,Vyse,1.46,244,18,10,7,+8,79%,157,31%,1,1,0,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Smoggy,4742,EDward Gaming,map,Astra,1.26,199,14,10,4,+4,74%,134,37%,3,1,+2,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,S1Mon,13768,EDward Gaming,map,Fade,1.10,181,14,11,6,+3,68%,118,37%,2,0,+2,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nobody,3017,EDward Gaming,map,Tejo,0.96,170,11,12,5,-1,68%,123,37%,1,1,0,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,ZmjjKK,3520,EDward Gaming,map,Yoru,0.91,253,15,16,8,-1,68%,170,30%,6,3,+3,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamo,14681,Team Liquid,map,Yoru,1.06,222,14,14,2,0,63%,152,28%,2,4,-2,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Chamber,1.00,175,13,12,0,+1,63%,123,24%,2,5,-3,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Astra,0.88,146,10,14,6,-4,68%,89,26%,0,0,0,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,paTiTek,309,Team Liquid,map,Vyse,0.73,215,14,17,3,-3,58%,133,25%,1,2,-1,Pearl,EDward Gaming
+448598,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 05:00:00,EDward Gaming,Team Liquid,2 - 0,kamyk,1475,Team Liquid,map,Sova,0.67,161,8,15,8,-7,68%,114,32%,1,2,-1,Pearl,EDward Gaming
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Flashback,35013,DRX,overall,Cypher,1.38,203,34,19,7,+15,85%,147,28%,2,2,0,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,BeYN,4678,DRX,overall,Breach,1.31,202,27,19,20,+8,87%,132,20%,1,2,-1,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,free1ng,1916,DRX,overall,Tejo,1.30,256,35,23,12,+12,85%,160,38%,6,2,+4,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,MaKo,4462,DRX,overall,Omen,0.96,164,20,22,21,-2,77%,106,23%,4,5,-1,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,HYUNMIN,28400,DRX,overall,Yoru,0.92,208,31,30,4,+1,69%,133,48%,9,6,+3,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,bang,3880,Sentinels,overall,"Omen, Astra",0.97,186,29,29,13,0,64%,129,33%,4,5,-1,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,N4RRATE,36245,Sentinels,overall,"Fade, Breach",0.86,161,20,28,19,-8,72%,122,25%,4,1,+3,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,johnqt,1265,Sentinels,overall,"Viper, Tejo",0.78,160,24,32,8,-8,79%,107,15%,3,5,-2,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,zekken,4004,Sentinels,overall,"Raze, Jett",0.77,176,23,29,3,-6,69%,122,26%,5,7,-2,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Zellsis,729,Sentinels,overall,Vyse,0.67,138,17,29,11,-12,62%,95,14%,1,4,-3,,
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,free1ng,1916,DRX,map,Tejo,1.90,310,18,5,7,+13,88%,204,38%,3,1,+2,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,BeYN,4678,DRX,map,Breach,1.57,214,12,5,9,+7,94%,131,19%,1,0,+1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,MaKo,4462,DRX,map,Omen,1.25,210,12,7,10,+5,94%,137,26%,2,3,-1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Flashback,35013,DRX,map,Cypher,1.13,125,8,5,4,+3,88%,102,33%,0,1,-1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,HYUNMIN,28400,DRX,map,Yoru,1.11,199,13,10,2,+3,75%,129,57%,3,2,+1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,zekken,4004,Sentinels,map,Raze,0.71,180,9,13,2,-4,63%,121,18%,2,3,-1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Zellsis,729,Sentinels,map,Vyse,0.58,103,5,11,4,-6,56%,70,13%,1,1,0,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,bang,3880,Sentinels,map,Omen,0.51,119,7,12,4,-5,44%,84,38%,1,2,-1,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,N4RRATE,36245,Sentinels,map,Fade,0.46,116,5,13,3,-8,50%,81,27%,2,0,+2,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,johnqt,1265,Sentinels,map,Viper,0.40,105,6,14,1,-8,63%,67,11%,1,3,-2,Lotus,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Flashback,35013,DRX,map,Cypher,1.55,281,26,14,3,+12,83%,178,26%,2,1,+1,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,BeYN,4678,DRX,map,Breach,1.13,189,15,14,11,+1,83%,133,20%,0,2,-2,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,free1ng,1916,DRX,map,Tejo,0.88,201,17,18,5,-1,83%,130,39%,3,1,+2,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,HYUNMIN,28400,DRX,map,Yoru,0.80,216,18,20,2,-2,65%,137,43%,6,4,+2,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,MaKo,4462,DRX,map,Omen,0.75,118,8,15,11,-7,65%,85,21%,2,2,0,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,bang,3880,Sentinels,map,Astra,1.28,252,22,17,9,+5,78%,161,32%,3,3,0,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,N4RRATE,36245,Sentinels,map,Breach,1.13,206,15,15,16,0,87%,150,25%,2,1,+1,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,johnqt,1265,Sentinels,map,Tejo,1.05,214,18,18,7,0,91%,134,17%,2,2,0,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,zekken,4004,Sentinels,map,Jett,0.81,172,14,16,1,-2,74%,123,34%,3,4,-1,Haven,DRX
+448600,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-20 08:00:00,DRX,Sentinels,2 - 0,Zellsis,729,Sentinels,map,Vyse,0.73,172,12,18,7,-6,65%,113,15%,0,3,-3,Haven,DRX
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,trexx,2168,Team Vitality,overall,"Vyse, Brimstone",1.33,256,40,26,20,+14,84%,156,18%,3,3,0,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Less,8447,Team Vitality,overall,"Brimstone, Viper",1.31,246,42,28,15,+14,73%,153,36%,4,6,-2,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Derke,5022,Team Vitality,overall,Raze,1.26,259,42,30,9,+12,73%,157,19%,10,9,+1,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Kicks,11134,Team Vitality,overall,"Breach, Skye",1.14,195,32,26,19,+6,80%,123,33%,1,4,-3,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Sayf,312,Team Vitality,overall,Tejo,0.68,117,19,27,7,-8,71%,85,26%,2,3,-1,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,BuZz,804,T1,overall,Raze,0.95,236,33,37,13,-4,69%,152,13%,9,4,+5,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Meteor,13039,T1,overall,Vyse,0.94,206,32,38,10,-6,67%,148,32%,6,7,-1,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,iZu,29833,T1,overall,"Tejo, Fade",0.90,174,26,33,8,-7,67%,115,29%,2,3,-1,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,stax,485,T1,overall,"Breach, Kayo",0.88,153,26,32,11,-6,64%,99,37%,4,0,+4,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,carpe,31207,T1,overall,Brimstone,0.63,141,20,35,17,-15,67%,92,27%,4,6,-2,,
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Less,8447,Team Vitality,map,Brimstone,1.46,273,23,14,11,+9,78%,177,30%,1,3,-2,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Derke,5022,Team Vitality,map,Raze,1.27,269,22,14,4,+8,70%,162,24%,5,6,-1,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Sayf,312,Team Vitality,map,Tejo,0.98,166,15,13,1,+2,78%,109,39%,2,0,+2,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,trexx,2168,Team Vitality,map,Vyse,0.93,162,12,13,9,-1,78%,107,14%,2,2,0,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Kicks,11134,Team Vitality,map,Breach,0.92,152,13,14,9,-1,83%,100,35%,0,2,-2,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,BuZz,804,T1,map,Raze,1.00,224,16,18,8,-2,65%,146,9%,5,2,+3,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,carpe,31207,T1,map,Brimstone,0.97,193,14,16,11,-2,74%,126,22%,4,4,0,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Meteor,13039,T1,map,Vyse,0.89,201,17,21,2,-4,70%,142,32%,3,2,+1,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,iZu,29833,T1,map,Tejo,0.84,161,12,16,3,-4,70%,109,18%,1,2,-1,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,stax,485,T1,map,Breach,0.75,102,9,14,4,-5,57%,71,30%,0,0,0,Fracture,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,trexx,2168,Team Vitality,map,Brimstone,1.75,350,28,13,11,+15,91%,208,21%,1,1,0,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Kicks,11134,Team Vitality,map,Skye,1.38,238,19,12,10,+7,77%,146,32%,1,2,-1,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Derke,5022,Team Vitality,map,Raze,1.26,248,20,16,5,+4,77%,152,16%,5,3,+2,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Less,8447,Team Vitality,map,Viper,1.15,219,19,14,4,+5,68%,129,48%,3,3,0,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Sayf,312,Team Vitality,map,Tejo,0.37,67,4,14,6,-10,64%,61,12%,0,3,-3,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,stax,485,T1,map,Kayo,1.02,203,17,18,7,-1,73%,128,41%,4,0,+4,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,Meteor,13039,T1,map,Vyse,1.00,211,15,17,8,-2,64%,155,33%,3,5,-2,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,iZu,29833,T1,map,Fade,0.96,186,14,17,5,-3,64%,121,44%,1,1,0,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,BuZz,804,T1,map,Raze,0.91,248,17,19,5,-2,73%,159,16%,4,2,+2,Bind,Team Vitality
+448599,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 05:00:00,Team Vitality,T1,2 - 0,carpe,31207,T1,map,Brimstone,0.27,88,6,19,6,-13,59%,57,44%,0,2,-2,Bind,Team Vitality
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,trent,15500,G2 Esports,overall,"Tejo, Sova",1.52,247,35,17,12,+18,76%,177,31%,4,5,-1,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,leaf,7873,G2 Esports,overall,"Viper, Chamber",1.45,249,37,17,4,+20,86%,174,29%,3,1,+2,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,valyn,3885,G2 Esports,overall,"Omen, Astra",1.18,179,23,18,17,+5,81%,105,16%,6,3,+3,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,JonahP,4581,G2 Esports,overall,Breach,1.09,177,21,22,28,-1,81%,116,13%,0,1,-1,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,jawgemo,3993,G2 Esports,overall,Yoru,0.97,203,26,26,9,0,70%,135,21%,7,7,0,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Biank,3021,Trace Esports,overall,"Fade, Sova",0.86,158,20,26,6,-6,65%,112,13%,4,2,+2,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,overall,"Omen, Astra",0.82,170,22,28,11,-6,68%,118,38%,1,2,-1,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,heybay,4712,Trace Esports,overall,"Viper, Kayo",0.75,134,16,28,13,-12,65%,93,21%,4,5,-1,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,FengF,4770,Trace Esports,overall,"Raze, Omen",0.66,173,20,31,4,-11,54%,122,22%,4,7,-3,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Kai,37494,Trace Esports,overall,"Vyse, Jett",0.65,161,22,33,5,-11,57%,108,30%,4,4,0,,
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,trent,15500,G2 Esports,map,Tejo,1.52,296,23,12,4,+11,67%,206,30%,3,4,-1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,leaf,7873,G2 Esports,map,Viper,1.35,263,21,13,3,+8,86%,178,28%,0,1,-1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,valyn,3885,G2 Esports,map,Omen,1.09,178,13,11,8,+2,81%,106,15%,3,3,0,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,JonahP,4581,G2 Esports,map,Breach,0.76,139,9,14,15,-5,76%,101,11%,0,0,0,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,0.72,179,13,17,3,-4,62%,113,21%,3,4,-1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Biank,3021,Trace Esports,map,Fade,1.15,184,14,13,6,+1,67%,123,11%,4,1,+3,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Viper,0.95,171,12,15,8,-3,71%,115,25%,2,3,-1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,map,Omen,0.91,172,13,14,6,-1,67%,128,38%,0,1,-1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,0.82,206,14,18,1,-4,62%,137,21%,4,3,+1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Vyse,0.77,191,14,19,5,-5,52%,122,32%,2,1,+1,Lotus,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,leaf,7873,G2 Esports,map,Chamber,1.57,234,16,4,1,+12,88%,167,31%,3,0,+3,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,trent,15500,G2 Esports,map,Sova,1.51,197,12,5,8,+7,88%,140,33%,1,1,0,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,JonahP,4581,G2 Esports,map,Breach,1.51,215,12,8,13,+4,88%,137,17%,0,1,-1,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,valyn,3885,G2 Esports,map,Astra,1.30,180,10,7,9,+3,81%,102,18%,3,0,+3,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,1.30,226,13,9,6,+4,81%,164,22%,4,3,+1,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,map,Astra,0.71,168,9,14,5,-5,69%,105,37%,1,1,0,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Jett,0.50,130,8,14,0,-6,63%,89,26%,2,3,-1,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,Biank,3021,Trace Esports,map,Sova,0.49,131,6,13,0,-7,63%,97,17%,0,1,-1,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Kayo,0.48,97,4,13,5,-9,56%,65,13%,2,2,0,Abyss,G2 Esports
+448597,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 1",2025-02-21 07:25:00,G2 Esports,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Omen,0.46,139,6,13,3,-7,44%,103,24%,0,4,-4,Abyss,G2 Esports
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,HYUNMIN,28400,DRX,overall,Yoru,1.07,252,59,55,15,+4,74%,160,30%,12,10,+2,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,free1ng,1916,DRX,overall,Tejo,1.04,207,49,47,20,+2,75%,142,29%,6,7,-1,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,BeYN,4678,DRX,overall,"Breach, Sova",1.02,176,43,46,28,-3,77%,113,29%,7,2,+5,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,MaKo,4462,DRX,overall,"Brimstone, Omen",0.98,195,47,50,33,-3,75%,138,26%,4,7,-3,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Flashback,35013,DRX,overall,Cypher,0.84,171,42,52,11,-10,65%,120,29%,8,6,+2,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Derke,5022,Team Vitality,overall,"Raze, Jett",1.45,315,78,54,10,+24,75%,205,23%,19,11,+8,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,trexx,2168,Team Vitality,overall,"Brimstone, Sova, Fade",1.08,199,43,45,34,-2,74%,135,20%,4,4,0,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Kicks,11134,Team Vitality,overall,"Skye, Breach",1.01,185,46,45,22,+1,71%,119,25%,2,3,-1,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Less,8447,Team Vitality,overall,"Viper, Astra",0.97,193,50,49,20,+1,68%,130,26%,2,9,-7,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Sayf,312,Team Vitality,overall,"Tejo, Omen",0.74,143,33,47,24,-14,67%,91,17%,5,10,-5,,
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,HYUNMIN,28400,DRX,map,Yoru,1.38,328,23,18,7,+5,81%,202,27%,4,2,+2,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,BeYN,4678,DRX,map,Breach,1.05,169,13,14,8,-1,81%,115,29%,2,0,+2,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,free1ng,1916,DRX,map,Tejo,0.79,170,11,16,6,-5,71%,116,16%,2,2,0,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,MaKo,4462,DRX,map,Brimstone,0.68,136,9,17,11,-8,76%,100,26%,1,1,0,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Flashback,35013,DRX,map,Cypher,0.58,159,11,18,1,-7,33%,116,24%,2,5,-3,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,trexx,2168,Team Vitality,map,Brimstone,1.40,255,17,12,13,+5,90%,169,19%,1,0,+1,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Kicks,11134,Team Vitality,map,Skye,1.27,223,17,12,8,+5,67%,133,22%,2,1,+1,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Derke,5022,Team Vitality,map,Raze,1.27,286,21,17,3,+4,71%,189,20%,4,4,0,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Less,8447,Team Vitality,map,Viper,0.98,201,17,14,6,+3,62%,128,18%,0,2,-2,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Sayf,312,Team Vitality,map,Tejo,0.80,136,11,12,5,-1,71%,76,8%,3,4,-1,Bind,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,MaKo,4462,DRX,map,Omen,1.39,291,25,16,11,+9,83%,192,25%,2,2,0,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,BeYN,4678,DRX,map,Sova,1.22,188,17,14,10,+3,83%,107,26%,1,1,0,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,free1ng,1916,DRX,map,Tejo,0.94,186,14,17,8,-3,75%,127,44%,1,2,-1,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Flashback,35013,DRX,map,Cypher,0.92,190,17,18,3,-1,75%,131,28%,5,1,+4,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,HYUNMIN,28400,DRX,map,Yoru,0.82,178,15,18,2,-3,75%,110,33%,6,3,+3,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Derke,5022,Team Vitality,map,Jett,1.69,359,32,17,3,+15,71%,223,34%,7,6,+1,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,trexx,2168,Team Vitality,map,Sova,1.18,216,17,16,6,+1,75%,150,27%,2,2,0,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Less,8447,Team Vitality,map,Astra,0.84,156,13,18,11,-5,67%,113,38%,0,3,-3,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Kicks,11134,Team Vitality,map,Breach,0.64,153,14,18,5,-4,67%,96,33%,0,1,-1,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Sayf,312,Team Vitality,map,Tejo,0.40,106,7,19,8,-12,46%,80,19%,0,3,-3,Abyss,DRX
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,free1ng,1916,DRX,map,Tejo,1.37,265,24,14,6,+10,79%,179,27%,3,3,0,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,HYUNMIN,28400,DRX,map,Yoru,1.05,250,21,19,6,+2,67%,173,31%,2,5,-3,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Flashback,35013,DRX,map,Cypher,0.98,163,14,16,7,-2,83%,114,33%,1,0,+1,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,MaKo,4462,DRX,map,Omen,0.84,159,13,17,11,-4,67%,117,27%,1,4,-3,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,BeYN,4678,DRX,map,Breach,0.79,170,13,18,10,-5,67%,116,31%,4,1,+3,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Derke,5022,Team Vitality,map,Raze,1.36,300,25,20,4,+5,83%,200,18%,8,1,+7,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Kicks,11134,Team Vitality,map,Breach,1.14,179,15,15,9,0,79%,129,23%,0,1,-1,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Less,8447,Team Vitality,map,Viper,1.10,223,20,17,3,+3,75%,149,24%,2,4,-2,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,Sayf,312,Team Vitality,map,Omen,1.03,186,15,16,11,-1,83%,116,22%,2,3,-1,Split,Team Vitality
+449000,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 05:00:00,DRX,Team Vitality,1 - 2,trexx,2168,Team Vitality,map,Fade,0.70,127,9,17,15,-8,58%,92,15%,1,2,-1,Split,Team Vitality
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,CHICHOO,15559,EDward Gaming,overall,"Vyse, Cypher",1.30,235,63,42,18,+21,71%,157,21%,6,6,0,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,Smoggy,4742,EDward Gaming,overall,"Astra, Brimstone",1.22,211,53,45,42,+8,78%,141,25%,9,0,+9,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,ZmjjKK,3520,EDward Gaming,overall,"Yoru, Raze, Neon",1.10,259,63,54,22,+9,78%,161,20%,17,14,+3,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,nobody,3017,EDward Gaming,overall,Tejo,1.07,206,48,42,16,+6,69%,118,29%,7,5,+2,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,S1Mon,13768,EDward Gaming,overall,"Fade, Kayo, Breach",0.95,175,43,47,33,-4,75%,110,32%,4,4,0,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,trent,15500,G2 Esports,overall,"Sova, Tejo",1.11,206,50,49,24,+1,68%,140,23%,4,9,-5,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,valyn,3885,G2 Esports,overall,"Astra, Brimstone",0.95,175,44,53,34,-9,75%,119,23%,3,7,-4,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,jawgemo,3993,G2 Esports,overall,"Yoru, Raze",0.90,198,53,55,12,-2,65%,130,24%,8,12,-4,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,JonahP,4581,G2 Esports,overall,"Vyse, Skye, Breach",0.83,181,43,56,29,-13,74%,114,23%,8,8,0,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,leaf,7873,G2 Esports,overall,"Chamber, Viper, Vyse",0.75,160,40,57,14,-17,65%,116,25%,6,7,-1,,
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,CHICHOO,15559,EDward Gaming,map,Vyse,1.30,269,33,22,8,+11,62%,172,18%,1,5,-4,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,Smoggy,4742,EDward Gaming,map,Astra,1.16,203,24,23,20,+1,76%,135,28%,5,0,+5,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,ZmjjKK,3520,EDward Gaming,map,Yoru,1.04,243,28,26,10,+2,71%,155,27%,6,9,-3,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,nobody,3017,EDward Gaming,map,Tejo,0.78,127,15,21,5,-6,62%,83,35%,1,4,-3,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,S1Mon,13768,EDward Gaming,map,Fade,0.73,149,17,24,4,-7,62%,92,31%,2,1,+1,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,trent,15500,G2 Esports,map,Sova,1.19,227,26,21,10,+5,74%,147,21%,2,2,0,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,valyn,3885,G2 Esports,map,Astra,1.19,215,26,22,12,+4,74%,145,27%,3,3,0,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,jawgemo,3993,G2 Esports,map,Yoru,1.08,220,26,24,9,+2,76%,153,28%,5,3,+2,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,leaf,7873,G2 Esports,map,Chamber,0.79,184,21,26,6,-5,65%,128,27%,4,3,+1,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,JonahP,4581,G2 Esports,map,Vyse,0.76,146,17,24,9,-7,74%,88,19%,5,4,+1,Pearl,G2 Esports
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,Smoggy,4742,EDward Gaming,map,Brimstone,1.38,241,18,13,11,+5,76%,159,23%,4,0,+4,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,nobody,3017,EDward Gaming,map,Tejo,1.17,203,16,12,4,+4,67%,123,23%,2,1,+1,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,S1Mon,13768,EDward Gaming,map,Kayo,1.09,195,14,14,13,0,81%,128,29%,1,2,-1,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,ZmjjKK,3520,EDward Gaming,map,Raze,1.03,234,17,16,7,+1,81%,158,14%,3,3,0,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,CHICHOO,15559,EDward Gaming,map,Vyse,1.02,167,12,12,4,0,71%,125,32%,4,1,+3,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,JonahP,4581,G2 Esports,map,Skye,1.11,256,17,17,13,0,86%,173,24%,2,2,0,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,jawgemo,3993,G2 Esports,map,Raze,1.01,217,19,14,1,+5,57%,124,16%,2,3,-1,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,trent,15500,G2 Esports,map,Tejo,0.94,148,11,14,6,-3,62%,102,21%,2,4,-2,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,leaf,7873,G2 Esports,map,Viper,0.92,179,12,15,5,-3,71%,129,21%,1,2,-1,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,valyn,3885,G2 Esports,map,Brimstone,0.60,134,8,17,15,-9,81%,77,8%,0,3,-3,Bind,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,CHICHOO,15559,EDward Gaming,map,Cypher,1.63,269,18,8,6,+10,88%,167,19%,1,0,+1,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,nobody,3017,EDward Gaming,map,Tejo,1.51,289,17,9,7,+8,88%,181,29%,4,0,+4,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,ZmjjKK,3520,EDward Gaming,map,Neon,1.31,299,18,12,5,+6,88%,178,19%,8,2,+6,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,S1Mon,13768,EDward Gaming,map,Breach,1.24,180,12,9,16,+3,94%,123,39%,1,1,0,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,Smoggy,4742,EDward Gaming,map,Brimstone,1.15,188,11,9,11,+2,82%,130,21%,0,0,0,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,trent,15500,G2 Esports,map,Tejo,1.17,243,13,14,8,-1,65%,172,26%,0,3,-3,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,valyn,3885,G2 Esports,map,Brimstone,0.91,176,10,14,7,-4,71%,119,31%,0,1,-1,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,JonahP,4581,G2 Esports,map,Breach,0.61,142,9,15,7,-6,59%,93,29%,1,2,-1,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,leaf,7873,G2 Esports,map,Vyse,0.47,116,7,16,3,-9,59%,75,32%,1,2,-1,Fracture,EDward Gaming
+449001,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (1-0)",2025-02-22 08:25:00,EDward Gaming,G2 Esports,2 - 1,jawgemo,3993,G2 Esports,map,Raze,0.40,156,8,17,2,-9,53%,92,26%,1,6,-5,Fracture,EDward Gaming
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,iZu,29833,T1,overall,Cypher,1.55,243,38,14,3,+24,86%,158,43%,5,1,+4,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,BuZz,804,T1,overall,"Raze, Yoru",1.42,287,40,23,7,+17,84%,181,24%,6,5,+1,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Meteor,13039,T1,overall,Iso,1.26,248,33,22,8,+11,76%,179,43%,8,4,+4,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,stax,485,T1,overall,Sova,1.12,192,25,19,8,+6,78%,127,28%,2,2,0,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Sylvan,4056,T1,overall,Omen,0.78,143,17,23,22,-6,81%,94,29%,1,3,-2,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Kai,37494,Trace Esports,overall,"Vyse, Jett",1.18,241,32,29,4,+3,68%,150,31%,6,5,+1,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Biank,3021,Trace Esports,overall,"Fade, Sova",0.83,176,21,31,12,-10,54%,120,26%,1,4,-3,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,overall,Omen,0.66,142,18,32,12,-14,65%,93,31%,3,3,0,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,heybay,4712,Trace Esports,overall,"Viper, Breach",0.64,135,15,29,9,-14,54%,86,33%,1,2,-1,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,FengF,4770,Trace Esports,overall,"Raze, Cypher",0.44,130,15,32,8,-17,59%,87,20%,4,8,-4,,
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,iZu,29833,T1,map,Cypher,1.86,300,20,6,1,+14,94%,209,43%,3,0,+3,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,BuZz,804,T1,map,Raze,1.49,294,17,9,3,+8,88%,188,29%,3,1,+2,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,stax,485,T1,map,Sova,1.42,254,16,8,2,+8,88%,166,29%,2,0,+2,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Meteor,13039,T1,map,Iso,1.12,198,12,8,4,+4,75%,138,48%,3,2,+1,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Sylvan,4056,T1,map,Omen,1.00,151,9,8,8,+1,88%,117,30%,0,2,-2,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Vyse,0.87,209,12,15,2,-3,63%,115,35%,2,2,0,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Biank,3021,Trace Esports,map,Fade,0.77,161,8,14,8,-6,56%,103,22%,0,2,-2,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,0.52,152,8,15,3,-7,63%,100,12%,1,5,-4,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,map,Omen,0.44,117,6,15,5,-9,69%,76,24%,1,2,-1,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Viper,0.38,127,5,15,2,-10,38%,89,21%,1,0,+1,Lotus,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Meteor,13039,T1,map,Iso,1.36,297,21,14,4,+7,76%,211,40%,5,2,+3,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,BuZz,804,T1,map,Yoru,1.36,279,23,14,4,+9,81%,176,19%,3,4,-1,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,iZu,29833,T1,map,Cypher,1.31,185,18,8,2,+10,81%,119,42%,2,1,+1,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,stax,485,T1,map,Sova,0.89,129,9,11,6,-2,71%,98,26%,0,2,-2,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Sylvan,4056,T1,map,Omen,0.62,134,8,15,14,-7,76%,77,29%,1,1,0,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Jett,1.43,273,20,14,2,+6,71%,176,30%,4,3,+1,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,Biank,3021,Trace Esports,map,Sova,0.87,191,13,17,4,-4,52%,132,30%,1,2,-1,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Breach,0.84,142,10,14,7,-4,67%,83,45%,0,2,-2,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,LuoK1ng,3045,Trace Esports,map,Omen,0.83,166,12,17,7,-5,62%,105,36%,2,1,+1,Haven,T1
+449002,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 05:00:00,T1,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Cypher,0.38,107,7,17,5,-10,57%,78,28%,3,3,0,Haven,T1
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,nAts,457,Team Liquid,overall,"Cypher, Viper",1.43,305,66,40,13,+26,75%,174,26%,6,6,0,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Keiko,11494,Team Liquid,overall,"Omen, Brimstone",1.23,212,54,40,27,+14,80%,143,36%,7,6,+1,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,paTiTek,309,Team Liquid,overall,"Breach, Kayo, Skye",0.88,152,32,43,36,-11,83%,109,26%,4,4,0,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamyk,1475,Team Liquid,overall,"Tejo, Sova, Gekko",0.87,177,39,44,13,-5,72%,108,28%,4,2,+2,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamo,14681,Team Liquid,overall,"Yoru, Jett, Raze",0.82,190,41,46,12,-5,69%,124,27%,11,14,-3,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,N4RRATE,36245,Sentinels,overall,"Fade, Omen, Skye",1.16,230,55,49,21,+6,78%,165,28%,9,3,+6,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,zekken,4004,Sentinels,overall,"Raze, Jett",1.01,210,49,44,8,+5,69%,143,32%,11,17,-6,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,bang,3880,Sentinels,overall,"Omen, Astra, Viper",0.91,186,38,45,20,-7,70%,104,30%,7,6,+1,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,johnqt,1265,Sentinels,overall,"Viper, Tejo",0.85,160,37,45,18,-8,72%,105,21%,1,1,0,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Zellsis,729,Sentinels,overall,"Vyse, Kayo, Brimstone",0.84,175,34,52,29,-18,75%,118,21%,4,5,-1,,
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,nAts,457,Team Liquid,map,Cypher,1.50,293,22,14,2,+8,80%,197,39%,1,1,0,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Keiko,11494,Team Liquid,map,Omen,1.06,192,14,14,8,0,65%,141,59%,3,4,-1,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,paTiTek,309,Team Liquid,map,Breach,0.70,151,11,15,6,-4,65%,92,21%,0,3,-3,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamyk,1475,Team Liquid,map,Tejo,0.57,136,9,15,4,-6,50%,81,42%,2,1,+1,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamo,14681,Team Liquid,map,Yoru,0.24,97,6,17,4,-11,45%,69,17%,1,4,-3,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,bang,3880,Sentinels,map,Omen,1.43,231,17,11,7,+6,80%,143,31%,2,1,+1,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,zekken,4004,Sentinels,map,Raze,1.41,255,18,11,5,+7,75%,172,30%,4,3,+1,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,N4RRATE,36245,Sentinels,map,Fade,1.20,239,17,13,6,+4,80%,157,27%,4,1,+3,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Viper,1.15,200,15,12,5,+3,75%,123,17%,1,1,0,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Vyse,0.61,110,8,15,3,-7,60%,70,35%,2,1,+1,Lotus,Sentinels
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Keiko,11494,Team Liquid,map,Omen,1.31,247,29,20,14,+9,90%,150,32%,3,1,+2,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,paTiTek,309,Team Liquid,map,Kayo,1.11,208,18,20,19,-2,90%,145,29%,3,0,+3,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,nAts,457,Team Liquid,map,Cypher,0.96,168,19,18,6,+1,60%,106,19%,2,5,-3,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamyk,1475,Team Liquid,map,Sova,0.95,166,18,20,5,-2,73%,107,26%,1,0,+1,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamo,14681,Team Liquid,map,Jett,0.93,217,22,23,4,-1,80%,136,36%,7,8,-1,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,N4RRATE,36245,Sentinels,map,Omen,1.47,319,33,23,12,+10,87%,205,31%,5,1,+4,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,zekken,4004,Sentinels,map,Jett,1.02,218,25,20,2,+5,77%,139,35%,5,9,-4,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Kayo,0.94,201,17,24,19,-7,83%,145,18%,1,3,-2,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Tejo,0.78,160,16,20,10,-4,77%,106,25%,0,0,0,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,bang,3880,Sentinels,map,Astra,0.53,103,10,21,11,-11,67%,62,31%,3,3,0,Abyss,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,nAts,457,Team Liquid,map,Viper,2.33,455,25,8,5,+17,100%,289,25%,3,0,+3,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamo,14681,Team Liquid,map,Raze,1.42,257,13,6,4,+7,79%,175,24%,3,2,+1,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Keiko,11494,Team Liquid,map,Brimstone,1.28,198,11,6,5,+5,79%,131,22%,1,1,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,kamyk,1475,Team Liquid,map,Gekko,1.12,229,12,9,4,+3,100%,148,24%,1,1,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,paTiTek,309,Team Liquid,map,Skye,0.65,96,3,8,11,-5,93%,55,23%,1,1,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,bang,3880,Sentinels,map,Viper,0.97,225,11,13,2,-2,64%,139,27%,2,2,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Brimstone,0.94,213,9,13,7,-4,79%,127,21%,1,1,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Tejo,0.55,120,6,13,3,-7,57%,74,20%,0,0,0,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,N4RRATE,36245,Sentinels,map,Skye,0.45,132,5,13,3,-8,57%,90,19%,0,1,-1,Bind,Team Liquid
+449003,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 2 (0-1)",2025-02-23 06:55:00,Team Liquid,Sentinels,2 - 1,zekken,4004,Sentinels,map,Raze,0.38,158,6,13,1,-7,43%,111,28%,2,5,-3,Bind,Team Liquid
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,iZu,29833,T1,overall,"Tejo, Yoru",1.34,240,36,21,5,+15,78%,144,28%,3,2,+1,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Meteor,13039,T1,overall,"Vyse, Killjoy",1.24,262,42,26,4,+16,76%,172,30%,10,6,+4,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Sylvan,4056,T1,overall,"Brimstone, Astra",1.08,178,25,21,36,+4,83%,98,27%,4,2,+2,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BuZz,804,T1,overall,"Raze, Neon",1.04,216,30,27,14,+3,78%,141,13%,9,2,+7,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,stax,485,T1,overall,"Breach, Sova",1.00,163,22,24,21,-2,83%,113,30%,1,2,-1,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,free1ng,1916,DRX,overall,Tejo,1.00,230,33,31,6,+2,71%,143,23%,6,7,-1,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BeYN,4678,DRX,overall,"Breach, Fade",0.98,174,25,27,17,-2,71%,111,26%,1,6,-5,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Flashback,35013,DRX,overall,"Cypher, Vyse",0.90,173,25,30,8,-5,68%,117,19%,3,3,0,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,MaKo,4462,DRX,overall,"Brimstone, Astra",0.76,150,18,31,18,-13,68%,97,19%,0,4,-4,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,HYUNMIN,28400,DRX,overall,Yoru,0.58,135,18,36,14,-18,68%,91,25%,4,7,-3,,
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Meteor,13039,T1,map,Vyse,1.50,315,28,15,3,+13,83%,211,29%,6,2,+4,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,iZu,29833,T1,map,Tejo,1.04,169,16,12,3,+4,75%,116,30%,1,0,+1,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BuZz,804,T1,map,Raze,0.93,235,19,17,5,+2,79%,141,9%,9,1,+8,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Sylvan,4056,T1,map,Brimstone,0.91,127,10,13,26,-3,83%,70,17%,2,1,+1,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,stax,485,T1,map,Breach,0.71,129,9,16,15,-7,79%,94,22%,1,1,0,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,free1ng,1916,DRX,map,Tejo,1.26,250,22,15,3,+7,75%,150,23%,3,4,-1,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BeYN,4678,DRX,map,Breach,1.24,195,17,13,12,+4,75%,116,31%,0,3,-3,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Flashback,35013,DRX,map,Cypher,0.90,166,14,16,2,-2,67%,125,21%,2,3,-1,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,MaKo,4462,DRX,map,Brimstone,0.74,137,9,18,10,-9,67%,87,18%,0,4,-4,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,HYUNMIN,28400,DRX,map,Yoru,0.73,136,11,20,11,-9,79%,87,27%,0,5,-5,Fracture,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,iZu,29833,T1,map,Yoru,1.77,310,20,9,2,+11,82%,183,27%,2,2,0,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,stax,485,T1,map,Sova,1.41,197,13,8,6,+5,88%,141,42%,0,1,-1,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Sylvan,4056,T1,map,Astra,1.32,229,15,8,10,+7,82%,137,37%,2,1,+1,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BuZz,804,T1,map,Neon,1.19,197,11,10,9,+1,76%,142,19%,0,1,-1,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Meteor,13039,T1,map,Killjoy,0.86,208,14,11,1,+3,65%,118,30%,4,4,0,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,Flashback,35013,DRX,map,Vyse,0.89,179,11,14,6,-3,71%,106,16%,1,0,+1,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,MaKo,4462,DRX,map,Astra,0.80,162,9,13,8,-4,71%,112,21%,0,0,0,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,free1ng,1916,DRX,map,Tejo,0.63,209,11,16,3,-5,65%,133,21%,3,3,0,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,BeYN,4678,DRX,map,Fade,0.60,152,8,14,5,-6,65%,104,18%,1,3,-2,Pearl,T1
+449004,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 05:00:00,T1,DRX,2 - 0,HYUNMIN,28400,DRX,map,Yoru,0.36,134,7,16,3,-9,53%,97,21%,4,2,+2,Pearl,T1
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,valyn,3885,G2 Esports,overall,"Astra, Omen",1.38,211,32,20,13,+12,71%,137,21%,3,1,+2,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,JonahP,4581,G2 Esports,overall,Breach,1.18,225,29,26,20,+3,84%,143,20%,4,1,+3,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,trent,15500,G2 Esports,overall,Tejo,1.09,189,24,24,13,0,79%,112,26%,3,3,0,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,leaf,7873,G2 Esports,overall,"Vyse, Viper",1.02,196,29,25,6,+4,68%,122,20%,3,6,-3,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,jawgemo,3993,G2 Esports,overall,Yoru,0.98,222,28,28,10,0,63%,144,13%,4,10,-6,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,nAts,457,Team Liquid,overall,Cypher,1.16,254,37,29,5,+8,71%,156,38%,4,2,+2,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamo,14681,Team Liquid,overall,"Jett, Neon",0.89,214,28,30,4,-2,61%,144,26%,8,7,+1,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,Keiko,11494,Team Liquid,overall,Omen,0.88,172,22,27,13,-5,76%,111,23%,5,2,+3,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamyk,1475,Team Liquid,overall,Tejo,0.80,193,25,30,4,-5,79%,130,33%,1,3,-2,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,paTiTek,309,Team Liquid,overall,Breach,0.55,101,11,27,15,-16,63%,68,21%,3,3,0,,
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,JonahP,4581,G2 Esports,map,Breach,1.53,244,16,12,9,+4,83%,159,18%,2,0,+2,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,valyn,3885,G2 Esports,map,Astra,1.23,180,12,11,9,+1,61%,119,18%,0,0,0,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,1.20,237,15,12,5,+3,61%,156,11%,1,5,-4,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,trent,15500,G2 Esports,map,Tejo,1.18,208,12,11,8,+1,72%,123,39%,2,3,-1,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,leaf,7873,G2 Esports,map,Vyse,0.69,134,8,13,3,-5,61%,93,21%,1,4,-3,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamyk,1475,Team Liquid,map,Tejo,1.17,260,16,12,2,+4,72%,191,38%,1,1,0,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Cypher,1.05,257,17,14,5,+3,72%,146,36%,3,0,+3,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Omen,0.89,177,11,12,6,-1,78%,112,23%,3,1,+2,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamo,14681,Team Liquid,map,Jett,0.66,165,11,13,1,-2,56%,105,23%,3,3,0,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,paTiTek,309,Team Liquid,map,Breach,0.44,85,4,13,7,-9,67%,58,16%,2,1,+1,Haven,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,valyn,3885,G2 Esports,map,Omen,1.52,242,20,9,4,+11,80%,153,23%,3,1,+2,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,leaf,7873,G2 Esports,map,Viper,1.32,257,21,12,3,+9,75%,149,20%,2,2,0,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,trent,15500,G2 Esports,map,Tejo,1.01,170,12,13,5,-1,85%,102,15%,1,0,+1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,JonahP,4581,G2 Esports,map,Breach,0.87,206,13,14,11,-1,85%,128,23%,2,1,+1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,jawgemo,3993,G2 Esports,map,Yoru,0.78,207,13,16,5,-3,65%,134,15%,3,5,-2,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Cypher,1.26,250,20,15,0,+5,70%,165,39%,1,2,-1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamo,14681,Team Liquid,map,Neon,1.09,263,17,17,3,0,65%,178,28%,5,4,+1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Omen,0.88,166,11,15,7,-4,75%,110,23%,2,1,+1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,paTiTek,309,Team Liquid,map,Breach,0.65,117,7,14,8,-7,60%,76,24%,1,2,-1,Lotus,G2 Esports
+449005,Valorant Masters Bangkok 2025,"Swiss Stage: 
+						Round 3",2025-02-24 07:10:00,G2 Esports,Team Liquid,2 - 0,kamyk,1475,Team Liquid,map,Tejo,0.46,126,9,18,2,-9,85%,76,23%,0,2,-2,Lotus,G2 Esports
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,CHICHOO,15559,EDward Gaming,overall,"Viper, Vyse",1.66,322,72,43,28,+29,87%,217,29%,8,1,+7,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,nobody,3017,EDward Gaming,overall,Tejo,1.00,182,44,41,9,+3,78%,128,34%,6,4,+2,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,ZmjjKK,3520,EDward Gaming,overall,"Jett, Raze, Yoru",0.96,227,49,47,13,+2,73%,133,21%,15,17,-2,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Smoggy,4742,EDward Gaming,overall,"Omen, Brimstone, Astra",0.92,171,38,41,29,-3,79%,108,28%,2,6,-4,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,S1Mon,13768,EDward Gaming,overall,"Breach, Kayo, Fade",0.81,153,37,43,30,-6,83%,105,35%,0,4,-4,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,BuZz,804,T1,overall,"Raze, Neon",1.08,215,48,48,13,0,65%,145,23%,7,8,-1,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Sylvan,4056,T1,overall,"Omen, Brimstone, Astra",1.06,236,52,52,22,0,65%,150,35%,6,2,+4,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,iZu,29833,T1,overall,"Yoru, Fade",1.05,190,43,41,12,+2,71%,120,30%,12,9,+3,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,stax,485,T1,overall,"Fade, Kayo, Sova",0.83,152,33,47,31,-14,60%,107,27%,1,6,-5,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Meteor,13039,T1,overall,"Viper, Vyse, Killjoy",0.75,181,39,52,14,-13,68%,120,32%,6,6,0,,
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,CHICHOO,15559,EDward Gaming,map,Viper,1.86,326,22,10,8,+12,100%,232,28%,2,1,+1,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,ZmjjKK,3520,EDward Gaming,map,Jett,1.48,322,24,13,3,+11,80%,189,20%,7,5,+2,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Smoggy,4742,EDward Gaming,map,Omen,1.16,226,16,11,10,+5,85%,153,32%,0,1,-1,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,nobody,3017,EDward Gaming,map,Tejo,1.00,151,13,11,1,+2,70%,104,40%,2,0,+2,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,S1Mon,13768,EDward Gaming,map,Breach,0.79,134,11,12,8,-1,85%,89,28%,0,2,-2,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,stax,485,T1,map,Fade,1.02,183,13,15,6,-2,45%,134,35%,0,2,-2,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Sylvan,4056,T1,map,Omen,0.94,221,15,18,7,-3,55%,140,32%,1,1,0,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,BuZz,804,T1,map,Raze,0.93,174,12,16,2,-4,65%,126,27%,3,1,+2,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,iZu,29833,T1,map,Yoru,0.53,158,10,18,6,-8,65%,104,31%,3,6,-3,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Meteor,13039,T1,map,Viper,0.34,136,7,19,5,-12,60%,92,18%,2,1,+1,Split,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,CHICHOO,15559,EDward Gaming,map,Vyse,1.21,283,18,17,10,+1,74%,194,33%,4,0,+4,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,ZmjjKK,3520,EDward Gaming,map,Raze,1.14,244,16,14,3,+2,79%,153,20%,5,3,+2,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Smoggy,4742,EDward Gaming,map,Brimstone,0.89,159,11,13,8,-2,84%,97,21%,0,1,-1,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,nobody,3017,EDward Gaming,map,Tejo,0.66,156,10,14,3,-4,79%,112,42%,2,3,-1,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,S1Mon,13768,EDward Gaming,map,Kayo,0.55,101,7,14,13,-7,79%,63,24%,0,1,-1,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,BuZz,804,T1,map,Raze,1.50,264,19,12,2,+7,63%,178,26%,2,4,-2,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,iZu,29833,T1,map,Fade,1.43,218,16,8,3,+8,84%,132,28%,2,1,+1,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Meteor,13039,T1,map,Vyse,1.11,243,17,14,4,+3,79%,155,49%,2,4,-2,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Sylvan,4056,T1,map,Brimstone,1.04,215,12,14,10,-2,63%,139,39%,2,0,+2,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,stax,485,T1,map,Kayo,0.77,128,8,14,15,-6,74%,90,35%,0,2,-2,Bind,T1
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,CHICHOO,15559,EDward Gaming,map,Vyse,1.85,357,32,16,10,+16,88%,221,28%,2,0,+2,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,nobody,3017,EDward Gaming,map,Tejo,1.28,239,21,16,5,+5,83%,160,28%,2,1,+1,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,S1Mon,13768,EDward Gaming,map,Fade,1.04,224,19,17,9,+2,83%,152,43%,0,1,-1,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Smoggy,4742,EDward Gaming,map,Astra,0.75,129,11,17,11,-6,71%,79,30%,2,4,-2,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,ZmjjKK,3520,EDward Gaming,map,Yoru,0.39,114,9,20,7,-11,63%,70,28%,3,9,-6,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,iZu,29833,T1,map,Yoru,1.17,195,17,15,3,+2,67%,125,32%,7,2,+5,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Sylvan,4056,T1,map,Astra,1.17,272,25,20,5,+5,75%,168,35%,3,1,+2,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,BuZz,804,T1,map,Neon,0.88,208,17,20,9,-3,67%,135,20%,2,3,-1,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,Meteor,13039,T1,map,Killjoy,0.80,165,15,19,5,-4,67%,116,30%,2,1,+1,Pearl,EDward Gaming
+449008,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 05:00:00,EDward Gaming,T1,2 - 1,stax,485,T1,map,Sova,0.72,146,12,18,10,-6,63%,97,12%,1,2,-1,Pearl,EDward Gaming
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Kicks,11134,Team Vitality,overall,"Skye, Omen",1.07,214,38,36,18,+2,72%,140,27%,5,8,-3,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Less,8447,Team Vitality,overall,Viper,0.95,199,34,37,17,-3,70%,122,24%,4,5,-1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Derke,5022,Team Vitality,overall,Raze,0.92,233,38,39,10,-1,66%,153,20%,9,11,-2,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trexx,2168,Team Vitality,overall,"Brimstone, Fade",0.89,171,29,35,20,-6,68%,116,19%,2,3,-1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Sayf,312,Team Vitality,overall,"Tejo, Vyse",0.85,195,34,38,11,-4,76%,114,28%,1,2,-1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,leaf,7873,G2 Esports,overall,"Vyse, Viper",1.53,304,52,35,28,+17,84%,194,23%,8,3,+5,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trent,15500,G2 Esports,overall,Tejo,1.33,237,43,34,17,+9,78%,159,23%,4,3,+1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,JonahP,4581,G2 Esports,overall,Breach,1.05,186,35,34,25,+1,78%,123,32%,4,3,+1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,overall,Yoru,0.80,170,30,37,11,-7,66%,115,20%,9,10,-1,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,valyn,3885,G2 Esports,overall,"Brimstone, Omen",0.80,135,24,33,21,-9,70%,88,18%,4,2,+2,,
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Derke,5022,Team Vitality,map,Raze,1.14,257,24,21,7,+3,75%,168,20%,6,6,0,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Kicks,11134,Team Vitality,map,Skye,0.93,195,20,21,13,-1,75%,125,28%,1,3,-2,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trexx,2168,Team Vitality,map,Brimstone,0.87,196,18,21,12,-3,71%,136,19%,2,1,+1,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Less,8447,Team Vitality,map,Viper,0.85,193,20,23,9,-3,64%,122,24%,1,5,-4,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Sayf,312,Team Vitality,map,Tejo,0.79,164,16,21,7,-5,79%,100,23%,1,2,-1,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Vyse,1.54,297,28,19,19,+9,82%,193,22%,3,1,+2,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Tejo,1.25,248,25,21,6,+4,79%,169,30%,3,2,+1,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Brimstone,1.11,173,17,18,16,-1,82%,108,25%,3,2,+1,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Breach,0.98,171,18,19,15,-1,82%,115,33%,2,2,0,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.87,195,19,21,3,-2,68%,120,20%,6,4,+2,Bind,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Kicks,11134,Team Vitality,map,Omen,1.24,233,18,15,5,+3,68%,158,26%,4,5,-1,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Less,8447,Team Vitality,map,Viper,1.09,205,14,14,8,0,77%,122,24%,3,0,+3,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Sayf,312,Team Vitality,map,Vyse,0.92,225,18,17,4,+1,73%,131,36%,0,0,0,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trexx,2168,Team Vitality,map,Fade,0.92,145,11,14,8,-3,64%,91,18%,0,2,-2,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,Derke,5022,Team Vitality,map,Raze,0.65,208,14,18,3,-4,55%,133,19%,3,5,-2,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Viper,1.52,311,24,16,9,+8,86%,194,23%,5,2,+3,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Tejo,1.43,226,18,13,11,+5,77%,147,17%,1,1,0,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.14,201,17,15,10,+2,73%,134,31%,2,1,+1,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.71,145,11,16,8,-5,64%,109,21%,3,6,-3,Lotus,G2 Esports
+449009,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Semifinals",2025-02-27 08:15:00,Team Vitality,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Omen,0.41,97,7,15,5,-8,55%,61,11%,1,0,+1,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,Smoggy,4742,EDward Gaming,overall,"Clove, Omen",1.04,203,29,32,13,-3,68%,147,37%,4,3,+1,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,CHICHOO,15559,EDward Gaming,overall,"Omen, Viper",0.90,196,29,32,10,-3,66%,140,33%,2,2,0,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,nobody,3017,EDward Gaming,overall,"Fade, Tejo",0.88,168,23,29,8,-6,68%,114,28%,5,3,+2,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,ZmjjKK,3520,EDward Gaming,overall,"Neon, Jett",0.83,211,31,34,2,-3,56%,135,25%,5,13,-8,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,S1Mon,13768,EDward Gaming,overall,Breach,0.70,122,16,31,15,-15,66%,81,35%,1,3,-2,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,overall,Tejo,1.22,218,30,23,10,+7,76%,154,20%,2,2,0,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,overall,Breach,1.22,235,33,29,20,+4,83%,148,21%,7,2,+5,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,overall,Yoru,1.20,251,37,27,18,+10,78%,155,21%,7,5,+2,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,overall,Omen,1.10,182,27,25,22,+2,80%,124,33%,3,4,-1,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,overall,Viper,1.07,196,30,24,8,+6,71%,144,29%,5,4,+1,,
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,Smoggy,4742,EDward Gaming,map,Clove,1.36,275,20,17,6,+3,76%,187,45%,2,1,+1,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,nobody,3017,EDward Gaming,map,Fade,1.13,206,14,13,4,+1,76%,139,33%,3,1,+2,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,CHICHOO,15559,EDward Gaming,map,Omen,0.88,193,15,17,8,-2,76%,147,44%,2,2,0,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,ZmjjKK,3520,EDward Gaming,map,Neon,0.72,188,15,16,0,-1,57%,125,27%,2,8,-6,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,S1Mon,13768,EDward Gaming,map,Breach,0.52,102,6,17,9,-11,67%,73,33%,0,0,0,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.41,277,20,16,13,+4,90%,174,22%,4,0,+4,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Tejo,1.26,231,17,12,8,+5,81%,152,18%,1,1,0,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Omen,1.12,182,13,13,12,0,76%,132,28%,2,2,0,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Viper,0.94,165,13,13,4,0,67%,115,21%,1,3,-2,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,0.93,214,16,16,10,0,67%,135,15%,4,3,+1,Lotus,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,0.94,234,16,18,2,-2,55%,146,23%,3,5,-2,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,CHICHOO,15559,EDward Gaming,map,Viper,0.92,199,14,15,2,-1,55%,133,23%,0,0,0,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,S1Mon,13768,EDward Gaming,map,Breach,0.88,142,10,14,6,-4,65%,89,38%,1,3,-2,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,Smoggy,4742,EDward Gaming,map,Omen,0.70,130,9,15,7,-6,60%,106,28%,2,2,0,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,nobody,3017,EDward Gaming,map,Tejo,0.62,130,9,16,4,-7,60%,87,21%,2,2,0,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,jawgemo,3993,G2 Esports,map,Yoru,1.48,287,21,11,8,+10,90%,176,26%,3,2,+1,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,leaf,7873,G2 Esports,map,Viper,1.22,227,17,11,4,+6,75%,175,40%,4,1,+3,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,trent,15500,G2 Esports,map,Tejo,1.18,205,13,11,2,+2,70%,156,23%,1,1,0,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,valyn,3885,G2 Esports,map,Omen,1.08,182,14,12,10,+2,85%,116,39%,1,2,-1,Split,G2 Esports
+449010,Valorant Masters Bangkok 2025,"Playoffs: 
+						Upper Final",2025-02-28 05:00:00,EDward Gaming,G2 Esports,0 - 2,JonahP,4581,G2 Esports,map,Breach,1.03,193,13,13,7,0,75%,120,19%,3,2,+1,Split,G2 Esports
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,BuZz,804,T1,overall,"Raze, Yoru",1.20,270,57,42,14,+15,70%,168,13%,15,6,+9,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,iZu,29833,T1,overall,"Cypher, Yoru",1.16,213,49,34,14,+15,69%,119,29%,6,10,-4,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Meteor,13039,T1,overall,"Iso, Viper",1.14,233,51,43,15,+8,79%,146,35%,10,4,+6,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sylvan,4056,T1,overall,Omen,1.08,176,38,34,37,+4,84%,113,29%,3,2,+1,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,stax,485,T1,overall,"Sova, Fade",1.05,158,35,30,17,+5,80%,116,34%,2,3,-1,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,trexx,2168,Team Vitality,overall,"Fade, Sova",1.09,207,41,44,24,-3,66%,132,18%,3,1,+2,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Derke,5022,Team Vitality,overall,"Raze, Yoru",1.01,215,46,47,9,-1,64%,143,24%,8,14,-6,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Less,8447,Team Vitality,overall,"Viper, Cypher",0.94,167,37,45,17,-8,61%,115,33%,4,6,-2,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sayf,312,Team Vitality,overall,"Vyse, Jett, Omen",0.72,170,33,48,14,-15,64%,110,20%,7,5,+2,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Kicks,11134,Team Vitality,overall,"Omen, Breach",0.61,123,26,46,23,-20,72%,85,23%,3,10,-7,,
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Meteor,13039,T1,map,Iso,1.07,235,21,20,5,+1,77%,147,38%,4,3,+1,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,stax,485,T1,map,Sova,1.05,155,14,15,11,-1,77%,119,36%,0,2,-2,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,BuZz,804,T1,map,Raze,0.97,242,21,21,5,0,62%,171,12%,4,2,+2,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sylvan,4056,T1,map,Omen,0.79,168,14,20,14,-6,81%,109,28%,2,1,+1,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,iZu,29833,T1,map,Cypher,0.70,145,15,19,4,-4,58%,84,27%,2,6,-4,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Less,8447,Team Vitality,map,Viper,1.46,267,23,16,12,+7,85%,166,36%,1,1,0,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Derke,5022,Team Vitality,map,Raze,1.26,261,24,17,5,+7,69%,159,25%,5,5,0,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,trexx,2168,Team Vitality,map,Fade,1.23,220,20,17,15,+3,77%,136,12%,3,1,+2,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Kicks,11134,Team Vitality,map,Omen,0.93,175,15,17,12,-2,81%,111,31%,2,3,-1,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sayf,312,Team Vitality,map,Vyse,0.73,158,13,18,8,-5,69%,105,18%,3,2,+1,Lotus,Team Vitality
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,iZu,29833,T1,map,Cypher,1.50,244,17,8,4,+9,71%,141,39%,1,3,-2,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,BuZz,804,T1,map,Yoru,1.27,231,14,9,4,+5,76%,149,15%,5,1,+4,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,stax,485,T1,map,Sova,1.22,182,11,7,3,+4,82%,138,33%,2,0,+2,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Meteor,13039,T1,map,Iso,1.15,201,14,11,3,+3,71%,120,41%,3,1,+2,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sylvan,4056,T1,map,Omen,1.10,147,9,7,11,+2,82%,101,32%,0,1,-1,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,trexx,2168,Team Vitality,map,Sova,1.15,221,11,12,4,-1,65%,144,37%,0,0,0,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sayf,312,Team Vitality,map,Jett,0.94,227,13,14,0,-1,59%,157,20%,2,1,+1,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Derke,5022,Team Vitality,map,Yoru,0.88,175,9,13,3,-4,59%,124,22%,3,5,-2,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Kicks,11134,Team Vitality,map,Omen,0.40,102,6,13,5,-7,65%,65,20%,0,3,-3,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Less,8447,Team Vitality,map,Cypher,0.26,58,3,13,2,-10,41%,44,23%,1,2,-1,Haven,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,iZu,29833,T1,map,Yoru,1.51,249,17,7,6,+10,83%,149,24%,3,1,+2,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sylvan,4056,T1,map,Omen,1.48,213,15,7,12,+8,89%,128,28%,1,0,+1,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,BuZz,804,T1,map,Raze,1.47,337,22,12,5,+10,78%,181,13%,6,3,+3,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Meteor,13039,T1,map,Viper,1.25,264,16,12,7,+4,89%,170,29%,3,0,+3,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,stax,485,T1,map,Fade,0.91,137,10,8,3,+2,83%,91,30%,0,1,-1,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,trexx,2168,Team Vitality,map,Fade,0.84,181,10,15,5,-5,50%,114,16%,0,0,0,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Less,8447,Team Vitality,map,Viper,0.83,176,11,16,3,-5,44%,106,32%,2,3,-1,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Derke,5022,Team Vitality,map,Raze,0.77,209,13,17,1,-4,61%,136,24%,0,4,-4,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Sayf,312,Team Vitality,map,Omen,0.50,124,7,16,6,-9,61%,72,27%,2,2,0,Split,T1
+449012,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Round 1",2025-02-28 07:05:00,T1,Team Vitality,2 - 1,Kicks,11134,Team Vitality,map,Breach,0.35,93,5,16,6,-11,67%,67,14%,1,4,-3,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Smoggy,4742,EDward Gaming,overall,"Brimstone, Omen",0.99,198,54,64,47,-10,73%,129,35%,9,9,0,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,ZmjjKK,3520,EDward Gaming,overall,"Raze, Jett, Neon",0.99,225,69,71,11,-2,68%,154,24%,15,19,-4,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,CHICHOO,15559,EDward Gaming,overall,"Vyse, Cypher, Viper",0.89,176,53,61,16,-8,61%,115,28%,5,9,-4,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,nobody,3017,EDward Gaming,overall,Tejo,0.80,158,44,65,27,-21,65%,116,25%,4,7,-3,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,S1Mon,13768,EDward Gaming,overall,"Kayo, Breach",0.75,143,43,70,37,-27,64%,95,23%,2,5,-3,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,iZu,29833,T1,overall,"Fade, Cypher, Tejo, Yoru",1.34,221,71,46,12,+25,83%,149,30%,10,4,+6,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,BuZz,804,T1,overall,"Raze, Yoru",1.20,268,78,58,24,+20,75%,165,17%,13,12,+1,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,stax,485,T1,overall,"Kayo, Sova, Breach, Fade",1.15,195,61,46,31,+15,77%,128,34%,4,4,0,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Meteor,13039,T1,overall,"Vyse, Iso, Viper",1.10,260,75,60,22,+15,76%,163,34%,17,10,+7,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Sylvan,4056,T1,overall,"Brimstone, Omen",1.04,176,46,53,80,-7,76%,111,23%,5,5,0,,
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,S1Mon,13768,EDward Gaming,map,Kayo,0.87,172,11,15,8,-4,53%,100,30%,1,0,+1,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,ZmjjKK,3520,EDward Gaming,map,Raze,0.72,195,11,17,5,-6,65%,133,12%,0,2,-2,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,nobody,3017,EDward Gaming,map,Tejo,0.66,119,6,14,5,-8,65%,93,17%,1,1,0,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,CHICHOO,15559,EDward Gaming,map,Vyse,0.59,127,7,15,2,-8,41%,85,22%,2,4,-2,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Smoggy,4742,EDward Gaming,map,Brimstone,0.48,111,5,15,6,-10,53%,82,29%,2,4,-2,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,stax,485,T1,map,Kayo,1.59,228,17,6,9,+11,94%,136,28%,1,0,+1,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Meteor,13039,T1,map,Vyse,1.58,379,24,10,6,+14,82%,241,32%,5,1,+4,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,BuZz,804,T1,map,Raze,1.46,281,17,7,5,+10,88%,173,14%,4,3,+1,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,iZu,29833,T1,map,Fade,1.26,173,12,8,3,+4,88%,102,24%,1,1,0,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Sylvan,4056,T1,map,Brimstone,1.07,150,6,9,22,-3,76%,105,26%,0,1,-1,Bind,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,1.45,320,27,18,1,+9,61%,205,39%,6,5,+1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,CHICHOO,15559,EDward Gaming,map,Cypher,1.33,254,21,14,5,+7,70%,159,35%,2,2,0,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Smoggy,4742,EDward Gaming,map,Omen,0.81,141,9,16,15,-7,74%,92,30%,1,1,0,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,S1Mon,13768,EDward Gaming,map,Breach,0.78,163,12,20,8,-8,74%,111,24%,1,2,-1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,nobody,3017,EDward Gaming,map,Tejo,0.58,131,10,19,6,-9,65%,102,32%,1,2,-1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,BuZz,804,T1,map,Yoru,1.45,330,25,16,10,+9,70%,203,19%,2,3,-1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,iZu,29833,T1,map,Cypher,1.37,241,21,13,5,+8,87%,164,30%,2,0,+2,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Meteor,13039,T1,map,Iso,0.93,219,17,17,2,0,74%,139,46%,6,5,+1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Sylvan,4056,T1,map,Omen,0.84,147,11,16,17,-5,70%,98,26%,2,2,0,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,stax,485,T1,map,Sova,0.71,166,13,17,3,-4,74%,117,40%,0,1,-1,Haven,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,nobody,3017,EDward Gaming,map,Tejo,1.16,236,20,19,12,+1,73%,153,25%,2,2,0,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,ZmjjKK,3520,EDward Gaming,map,Neon,1.09,252,24,21,4,+3,85%,166,24%,8,5,+3,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Smoggy,4742,EDward Gaming,map,Brimstone,1.09,217,19,20,19,-1,77%,140,25%,3,3,0,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,S1Mon,13768,EDward Gaming,map,Breach,0.92,171,16,20,17,-4,81%,109,26%,0,1,-1,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,CHICHOO,15559,EDward Gaming,map,Cypher,0.83,166,16,18,9,-2,69%,103,24%,1,1,0,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,stax,485,T1,map,Breach,1.19,206,19,15,12,+4,69%,136,30%,1,2,-1,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,iZu,29833,T1,map,Tejo,1.11,188,19,16,2,+3,81%,132,33%,2,2,0,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Sylvan,4056,T1,map,Brimstone,1.11,205,18,19,25,-1,77%,122,24%,1,1,0,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Meteor,13039,T1,map,Vyse,0.94,240,21,22,5,-1,69%,161,29%,4,3,+1,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,BuZz,804,T1,map,Raze,0.91,252,21,23,5,-2,65%,153,20%,4,6,-2,Fracture,EDward Gaming
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Smoggy,4742,EDward Gaming,map,Omen,1.55,324,21,13,7,+8,83%,206,54%,3,1,+2,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,nobody,3017,EDward Gaming,map,Tejo,0.72,145,8,13,4,-5,56%,101,24%,0,2,-2,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,CHICHOO,15559,EDward Gaming,map,Viper,0.69,158,9,14,0,-5,56%,105,29%,0,2,-2,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,0.51,132,7,15,1,-8,56%,89,19%,1,7,-6,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,S1Mon,13768,EDward Gaming,map,Breach,0.37,67,4,15,4,-11,39%,47,5%,0,2,-2,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,iZu,29833,T1,map,Yoru,1.69,280,19,9,2,+10,78%,201,30%,5,1,+4,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,stax,485,T1,map,Fade,1.24,178,12,8,7,+4,78%,124,48%,2,1,+1,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Sylvan,4056,T1,map,Omen,1.19,201,11,9,16,+2,83%,119,18%,2,1,+1,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,Meteor,13039,T1,map,Viper,1.08,200,13,11,9,+2,83%,122,34%,2,1,+1,Split,T1
+449013,Valorant Masters Bangkok 2025,"Playoffs: 
+						Lower Final",2025-03-01 05:00:00,EDward Gaming,T1,1 - 3,BuZz,804,T1,map,Raze,1.03,210,15,12,4,+3,83%,126,13%,3,0,+3,Split,T1
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,TenZ,9,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,KOHAL,29260,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,Doenmo,9783,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,johnqt,1265,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,karsajINTL,,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,SuperBusS,4375,Team Thailand,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,MintAuka,18133,Team Thailand,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,cgrs,24679,Team Thailand,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,primmie,25255,Team Thailand,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,heart busTHAi,,Team Thailand,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,TenZ,9,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,KOHAL,29260,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,Doenmo,9783,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,johnqt,1265,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,karsajINTL,,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,SuperBusS,4375,Team Thailand,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,MintAuka,18133,Team Thailand,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,cgrs,24679,Team Thailand,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,primmie,25255,Team Thailand,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+450589,Valorant Masters Bangkok 2025,"Showmatch: 
+						Main Event",2025-03-02 05:00:00,Team International,Team Thailand,0 - 1,heart busTHAi,,Team Thailand,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Thailand
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,overall,Yoru,1.19,243,103,89,44,+14,78%,160,28%,12,20,-8,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,overall,"Tejo, Sova",1.17,224,92,79,40,+13,75%,145,29%,14,9,+5,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,overall,"Omen, Astra",1.14,210,94,82,51,+12,77%,138,25%,10,10,0,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,overall,"Viper, Vyse, Chamber",0.93,190,79,86,31,-7,75%,119,21%,13,15,-2,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,overall,"Breach, Vyse",0.88,162,74,87,42,-13,75%,105,28%,7,11,-4,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,overall,"Sova, Tejo, Fade",1.00,184,82,84,35,-2,75%,132,29%,6,3,+3,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,overall,"Iso, Reyna, Viper, Killjoy",1.00,219,94,96,30,-2,65%,153,31%,18,13,+5,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,overall,"Omen, Astra",0.99,191,82,84,65,-2,77%,111,24%,12,4,+8,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,overall,"Cypher, Fade, Yoru",0.91,190,78,87,42,-9,74%,122,27%,10,11,-1,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,overall,"Raze, Yoru, Jett, Neon",0.88,205,84,96,22,-12,69%,128,19%,19,25,-6,,
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,map,Tejo,1.55,296,17,11,10,+6,72%,213,18%,3,1,+2,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,map,Viper,1.55,279,21,10,2,+11,89%,159,19%,3,1,+2,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,map,Yoru,1.16,236,16,12,7,+4,72%,133,24%,1,3,-2,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,map,Omen,0.91,167,10,11,8,-1,78%,122,28%,1,3,-2,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,map,Breach,0.87,123,9,10,4,-1,83%,82,69%,2,0,+2,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,map,Cypher,1.07,209,14,13,2,+1,67%,139,48%,1,1,0,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,map,Raze,0.99,241,13,14,3,-1,67%,162,17%,3,4,-1,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,map,Iso,0.71,184,11,16,3,-5,44%,120,31%,2,3,-1,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,map,Omen,0.68,159,8,15,9,-7,78%,99,26%,2,1,+1,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,map,Sova,0.54,116,8,15,2,-7,56%,82,50%,0,1,-1,Lotus,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,map,Tejo,1.33,245,20,14,5,+6,82%,161,38%,0,1,-1,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,map,Astra,1.09,203,16,16,3,0,77%,137,27%,3,1,+2,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,map,Yoru,0.94,205,13,18,11,-5,73%,137,27%,3,5,-2,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,map,Breach,0.91,174,15,18,10,-3,82%,109,29%,1,3,-2,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,map,Vyse,0.85,170,12,15,9,-3,77%,127,42%,1,4,-3,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,map,Omen,1.20,235,18,13,12,+5,77%,134,30%,5,2,+3,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,map,Yoru,1.18,226,19,14,5,+5,68%,134,25%,3,3,0,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,map,Iso,1.09,200,16,15,5,+1,64%,160,29%,2,0,+2,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,map,Cypher,0.98,210,14,17,15,-3,77%,142,32%,2,2,0,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,map,Sova,0.89,199,14,17,13,-3,77%,144,20%,2,1,+1,Haven,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,map,Sova,1.38,245,20,16,9,+4,83%,159,38%,2,0,+2,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,map,Yoru,1.24,232,19,16,8,+3,83%,137,20%,3,2,+1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,map,Astra,1.11,198,17,15,14,+2,79%,127,19%,2,3,-1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,map,Chamber,1.07,179,15,16,5,-1,71%,119,17%,2,3,-1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,map,Breach,0.81,154,13,16,11,-3,75%,97,25%,0,6,-6,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,map,Tejo,1.12,214,18,15,6,+3,83%,138,23%,2,1,+1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,map,Fade,0.92,169,15,16,8,-1,83%,116,28%,1,0,+1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,map,Omen,0.88,175,15,18,19,-3,88%,103,29%,2,0,+2,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,map,Jett,0.72,199,16,21,4,-5,75%,135,18%,6,5,+1,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,map,Reyna,0.66,149,12,19,7,-7,67%,96,37%,3,3,0,Abyss,G2 Esports
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,map,Omen,1.35,270,26,20,13,+6,75%,166,26%,3,1,+2,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,map,Yoru,1.27,265,26,21,7,+5,71%,189,35%,2,8,-6,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,map,Tejo,0.81,159,16,20,5,-4,68%,112,26%,4,3,+1,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,map,Viper,0.80,188,17,22,11,-5,82%,121,15%,2,1,+1,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,map,Breach,0.80,162,16,22,8,-6,71%,99,20%,2,2,0,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,map,Viper,1.38,308,30,23,9,+7,71%,202,30%,5,1,+4,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,map,Fade,1.19,199,20,17,9,+3,75%,144,44%,1,0,+1,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,map,Omen,1.19,228,25,17,7,+8,75%,124,18%,1,1,0,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,map,Yoru,0.92,217,20,21,13,-1,82%,131,20%,5,5,0,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,map,Raze,0.41,108,10,23,3,-13,64%,71,13%,3,6,-3,Split,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,jawgemo,3993,G2 Esports,map,Yoru,1.29,275,29,22,11,+7,87%,184,29%,3,2,+1,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,valyn,3885,G2 Esports,map,Astra,1.14,212,25,20,13,+5,77%,131,27%,1,2,-1,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,trent,15500,G2 Esports,map,Sova,1.02,176,19,18,11,+1,73%,114,33%,5,4,+1,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,JonahP,4581,G2 Esports,map,Vyse,0.98,198,21,21,9,0,70%,126,26%,2,0,+2,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,leaf,7873,G2 Esports,map,Chamber,0.61,134,14,23,4,-9,63%,87,22%,5,6,-1,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,BuZz,804,T1,map,Neon,1.16,250,26,24,7,+2,70%,149,19%,4,7,-3,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,stax,485,T1,map,Sova,1.09,194,22,20,5,+2,77%,139,24%,1,0,+1,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Meteor,13039,T1,map,Killjoy,1.01,255,25,23,6,+2,70%,168,31%,6,6,0,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,Sylvan,4056,T1,map,Astra,0.94,159,16,21,18,-5,70%,98,21%,2,0,+2,Pearl,T1
+449011,Valorant Masters Bangkok 2025,"Playoffs: 
+						Grand Final",2025-03-02 06:15:00,G2 Esports,T1,2 - 3,iZu,29833,T1,map,Yoru,0.75,143,15,20,4,-5,60%,92,18%,1,3,-2,Pearl,T1

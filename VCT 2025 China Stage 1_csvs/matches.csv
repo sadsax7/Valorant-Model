@@ -1,0 +1,43 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Thu, March 13, 2025",450047,4:30 PM,Xi Lai Gaming,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Week 1,Group Stage
+"Fri, March 14, 2025",450048,4:30 PM,Trace Esports,2,All Gamers,1,2-1,Trace Esports,Completed,Week 1,Group Stage
+"Sat, March 15, 2025",450049,2:30 PM,Dragon Ranger Gaming,2,Nova Esports,0,2-0,Dragon Ranger Gaming,Completed,Week 1,Group Stage
+"Sat, March 15, 2025",450050,4:35 PM,TYLOO,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Week 1,Group Stage
+"Sun, March 16, 2025",450051,2:30 PM,JDG Esports,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Week 1,Group Stage
+"Sun, March 16, 2025",450052,4:55 PM,FunPlus Phoenix,2,Titan Esports Club,0,2-0,FunPlus Phoenix,Completed,Week 1,Group Stage
+"Thu, March 20, 2025",450053,4:30 PM,Nova Esports,2,EDward Gaming,0,2-0,Nova Esports,Completed,Week 2,Group Stage
+"Fri, March 21, 2025",450054,4:30 PM,TYLOO,1,FunPlus Phoenix,2,1-2,FunPlus Phoenix,Completed,Week 2,Group Stage
+"Sat, March 22, 2025",450055,2:30 PM,Xi Lai Gaming,2,All Gamers,0,2-0,Xi Lai Gaming,Completed,Week 2,Group Stage
+"Sat, March 22, 2025",450056,4:50 PM,Wolves Esports,2,Trace Esports,0,2-0,Wolves Esports,Completed,Week 2,Group Stage
+"Sun, March 23, 2025",450057,2:30 PM,Titan Esports Club,2,Dragon Ranger Gaming,1,2-1,Titan Esports Club,Completed,Week 2,Group Stage
+"Sun, March 23, 2025",450058,5:45 PM,Bilibili Gaming,2,JDG Esports,1,2-1,Bilibili Gaming,Completed,Week 2,Group Stage
+"Thu, March 27, 2025",450059,4:30 PM,JDG Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 3,Group Stage
+"Fri, March 28, 2025",450060,4:30 PM,Wolves Esports,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Week 3,Group Stage
+"Sat, March 29, 2025",450061,2:30 PM,TYLOO,1,Titan Esports Club,2,1-2,Titan Esports Club,Completed,Week 3,Group Stage
+"Sat, March 29, 2025",450062,5:45 PM,Dragon Ranger Gaming,1,EDward Gaming,2,1-2,EDward Gaming,Completed,Week 3,Group Stage
+"Sun, March 30, 2025",450063,2:30 PM,Nova Esports,2,FunPlus Phoenix,0,2-0,Nova Esports,Completed,Week 3,Group Stage
+"Sun, March 30, 2025",450064,5:00 PM,All Gamers,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Week 3,Group Stage
+"Thu, April 3, 2025",450065,4:30 PM,FunPlus Phoenix,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Week 4,Group Stage
+"Fri, April 4, 2025",450066,4:30 PM,Bilibili Gaming,2,Wolves Esports,1,2-1,Bilibili Gaming,Completed,Week 4,Group Stage
+"Sat, April 5, 2025",450067,2:30 PM,All Gamers,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 4,Group Stage
+"Sat, April 5, 2025",450068,5:00 PM,EDward Gaming,2,Titan Esports Club,1,2-1,EDward Gaming,Completed,Week 4,Group Stage
+"Sun, April 6, 2025",450069,2:30 PM,Nova Esports,2,TYLOO,1,2-1,Nova Esports,Completed,Week 4,Group Stage
+"Sun, April 6, 2025",450070,5:30 PM,Trace Esports,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Week 4,Group Stage
+"Thu, April 10, 2025",450071,4:30 PM,JDG Esports,1,Xi Lai Gaming,2,1-2,Xi Lai Gaming,Completed,Week 5,Group Stage
+"Fri, April 11, 2025",450072,4:30 PM,Dragon Ranger Gaming,1,TYLOO,2,1-2,TYLOO,Completed,Week 5,Group Stage
+"Sat, April 12, 2025",450073,2:30 PM,Wolves Esports,2,All Gamers,1,2-1,Wolves Esports,Completed,Week 5,Group Stage
+"Sat, April 12, 2025",450074,5:35 PM,Bilibili Gaming,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 5,Group Stage
+"Sun, April 13, 2025",450075,2:30 PM,Titan Esports Club,2,Nova Esports,0,2-0,Titan Esports Club,Completed,Week 5,Group Stage
+"Sun, April 13, 2025",450076,4:40 PM,EDward Gaming,2,FunPlus Phoenix,0,2-0,EDward Gaming,Completed,Week 5,Group Stage
+"Thu, April 17, 2025",473233,2:30 PM,Titan Esports Club,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Round 1,Playoffs
+"Thu, April 17, 2025",473234,5:00 PM,Xi Lai Gaming,2,Nova Esports,0,2-0,Xi Lai Gaming,Completed,Upper Round 1,Playoffs
+"Fri, April 18, 2025",473235,2:30 PM,Titan Esports Club,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Lower Round 1,Playoffs
+"Fri, April 18, 2025",473236,6:20 PM,Nova Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Lower Round 1,Playoffs
+"Sat, April 19, 2025",473237,2:30 PM,Bilibili Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Upper Semifinals,Playoffs
+"Sat, April 19, 2025",473238,4:45 PM,EDward Gaming,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Upper Semifinals,Playoffs
+"Sun, April 20, 2025",473240,2:30 PM,Bilibili Gaming,2,Trace Esports,0,2-0,Bilibili Gaming,Completed,Lower Round 2,Playoffs
+"Sun, April 20, 2025",473239,4:40 PM,EDward Gaming,2,Dragon Ranger Gaming,1,2-1,EDward Gaming,Completed,Lower Round 2,Playoffs
+"Fri, May 2, 2025",473241,2:30 PM,Wolves Esports,0,Xi Lai Gaming,2,0-2,Xi Lai Gaming,Completed,Upper Final,Playoffs
+"Fri, May 2, 2025",473242,5:05 PM,EDward Gaming,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Lower Round 3,Playoffs
+"Sat, May 3, 2025",473243,2:30 PM,Wolves Esports,0,Bilibili Gaming,3,0-3,Bilibili Gaming,Completed,Lower Final,Playoffs
+"Sun, May 4, 2025",473244,2:30 PM,Xi Lai Gaming,3,Bilibili Gaming,1,3-1,Xi Lai Gaming,Completed,Grand Final,Playoffs
