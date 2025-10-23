@@ -35,7 +35,7 @@ def build_elo_features(
     elo1_before = np.zeros(len(df), dtype=float)
     elo2_before = np.zeros(len(df), dtype=float)
 
-    # Iterate sequentially; assume df ya está ordenado cronológicamente
+    # Iterar Secuencialmente; asume df ya está ordenado cronológicamente
     for i, row in df.iterrows():
         t1 = str(row[team1_col])
         t2 = str(row[team2_col])
