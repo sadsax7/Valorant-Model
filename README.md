@@ -7,9 +7,9 @@ Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpet
 - `scripts/`
   - `merge_tournaments_to_masters.py`: une CSVs por torneo en `masters_csvs/` agregando `tournament_name` y unificando columnas.
   - `join_matches_by_match_id.py`: hace join por `match_id` entre `matches.csv`, `detailed_matches_overview.csv`, `detailed_matches_player_stats.csv` y `detailed_matches_maps.csv`, produciendo `masters_csvs/matches_joined.csv` con columnas `ov_*` y dos columnas JSON (`players_json`, `maps_json`).
-- `masters_csvs/`: CSVs maestros consolidados (salida de los scripts de `scripts/`).
-- `VCT 2025 ... _csvs/`, `Valorant ... _csvs/`: dumps crudos por torneo (entrada).
-- `mvp_model/`: MVP del modelo (entrenamiento, predicción, utilidades Elo y artifacts).
+- `tournaments/` (recomendado): carpeta donde viven todas las carpetas crudas `*_csvs/` de torneos.
+- `masters_csvs/`: CSVs maestros consolidados (salida de los scripts, se mantienen en la raíz del repo).
+  - `mvp_model/`: MVP del modelo (entrenamiento, predicción, utilidades Elo y artifacts).
   - `train_mvp.py`, `predict_mvp.py`, `utils/elo.py`, `artifacts/`, `README.md`.
 - `.venv/` (Windows) o `.venv_cli/` (Linux/WSL, opcional): entornos virtuales.
 - `.gitignore`: ignora caches, entornos, artefactos y temporales.
@@ -31,11 +31,15 @@ Desde la raíz del repo (este folder):
 1. Generar maestros
 ```bash
 python scripts/merge_tournaments_to_masters.py
+# recomendado: si cambiaste la ubicación de los dumps
+# python scripts/merge_tournaments_to_masters.py --data-root /ruta/a/mis/tournaments --output-dir /ruta/a/masters_csvs
 ```
 
 2. Generar join de partidos
 ```bash
 python scripts/join_matches_by_match_id.py
+# recomendado: especificar ubicación de masters distinta
+# python scripts/join_matches_by_match_id.py --masters-dir /ruta/a/mis/masters_csvs
 ```
 
 3. Entrenar modelo y generar métricas/artefactos
@@ -117,7 +121,7 @@ python -m mvp_model.print_test_all \
 - Ejecuta los scripts desde la raíz o desde `scripts/` indistintamente: detectan la raíz del proyecto.
 - Codificación CSV: se usa `utf-8-sig` para tolerar BOM.
 - `.gitignore` ya ignora `mvp_model/artifacts/` y temporales `.tmp_*.csv`.
-  - Si no quieres subir los dumps crudos, puedes ignorar `*_csvs/` manteniendo `masters_csvs/` (ver bloque opcional comentado en `.gitignore`).
+  - Si no quieres subir los dumps crudos, puedes ignorar `*_csvs/` manteniendo `masters_csvs/` (ver bloque comentado en `.gitignore`).
 - En Windows y WSL, los entornos virtuales no son intercambiables (Windows usa `Scripts/`, Linux `bin/`). Crea un entorno por sistema si alternas.
 - Si tu Python en Linux no tiene `venv` (error `ensurepip is not available`), instala el paquete de sistema (p. ej. `apt install python3.12-venv`) y recrea el venv.
 

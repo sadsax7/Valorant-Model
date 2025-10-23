@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import csv
+import argparse
 from pathlib import Path
 from typing import List, Dict, Optional
 
@@ -35,7 +36,41 @@ def _detect_project_root() -> str:
 
 
 ROOT = _detect_project_root()
-OUTPUT_DIR = os.path.join(ROOT, "masters_csvs")
+
+def _detect_data_root(root: str, override: Optional[str] = None) -> str:
+    """Detect where the raw tournament folders live.
+
+    Preference order (unless overridden):
+      1) ./tournaments
+      2) ./datasets
+      3) ./ (repo root)
+    """
+    if override:
+        return override
+    tournaments_dir = Path(root) / "tournaments"
+    if tournaments_dir.exists() and tournaments_dir.is_dir():
+        return str(tournaments_dir)
+    datasets_dir = Path(root) / "datasets"
+    if datasets_dir.exists() and datasets_dir.is_dir():
+        return str(datasets_dir)
+    return root
+
+
+def parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Merge tournament CSVs into masters_csvs")
+    p.add_argument("--data-root", default=None, help="Folder containing *_csvs (default: ./datasets or ./)")
+    p.add_argument(
+        "--output-dir",
+        default=None,
+        help="Output folder for masters_csvs (default: <data-root>/masters_csvs)",
+    )
+    return p.parse_args()
+
+
+ARGS = parse_args()
+DATA_ROOT = _detect_data_root(ROOT, ARGS.data_root)
+# By default, keep masters_csvs at repo root as requested
+OUTPUT_DIR = ARGS.output_dir or os.path.join(ROOT, "masters_csvs")
 
 def list_tournament_dirs(root: str, out_dir_name: str) -> List[str]:
     items: List[str] = []
@@ -71,7 +106,7 @@ def consolidate_one(base_name: str, tournaments: List[str]) -> Dict[str, int]:
     skipped_files = 0
 
     for tname in tournaments:
-        in_path = os.path.join(ROOT, tname, f"{base_name}.csv")
+        in_path = os.path.join(DATA_ROOT, tname, f"{base_name}.csv")
         if not os.path.exists(in_path):
             skipped_files += 1
             continue
@@ -121,11 +156,11 @@ def consolidate_one(base_name: str, tournaments: List[str]) -> Dict[str, int]:
 
 def main():
     out_dir_name = os.path.basename(OUTPUT_DIR)
-    tournaments = list_tournament_dirs(ROOT, out_dir_name)
+    tournaments = list_tournament_dirs(DATA_ROOT, out_dir_name)
     # Mantener solo directorios que tienen al menos un CSV esperado
     tournaments = [
         t for t in tournaments
-        if any(os.path.exists(os.path.join(ROOT, t, f"{bn}.csv")) for bn in BASE_NAMES)
+        if any(os.path.exists(os.path.join(DATA_ROOT, t, f"{bn}.csv")) for bn in BASE_NAMES)
     ]
 
     if not tournaments:

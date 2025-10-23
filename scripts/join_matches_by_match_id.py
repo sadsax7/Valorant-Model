@@ -2,6 +2,7 @@
 import os
 import csv
 import json
+import argparse
 from pathlib import Path
 from typing import List, Dict, Any
 
@@ -23,7 +24,28 @@ def _detect_project_root() -> str:
 
 
 ROOT = _detect_project_root()
-IN_DIR = os.path.join(ROOT, "masters_csvs")
+
+def _detect_masters_dir(root: str, override: str | None = None) -> str:
+    if override:
+        return override
+    datasets_masters = Path(root) / "datasets" / "masters_csvs"
+    if datasets_masters.exists():
+        return str(datasets_masters)
+    return os.path.join(root, "masters_csvs")
+
+
+def parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Join masters CSVs by match_id into matches_joined.csv")
+    p.add_argument(
+        "--masters-dir",
+        default=None,
+        help="Directory containing masters CSVs (default: ./datasets/masters_csvs or ./masters_csvs)",
+    )
+    return p.parse_args()
+
+
+ARGS = parse_args()
+IN_DIR = _detect_masters_dir(ROOT, ARGS.masters_dir)
 OUT_PATH = os.path.join(IN_DIR, "matches_joined.csv")
 OUT_TMP = os.path.join(IN_DIR, ".tmp_matches_joined.csv")
 
