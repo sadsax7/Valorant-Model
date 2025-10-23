@@ -1,5 +1,5 @@
 # Data Valorant – Consolidación de CSVs y MVP de Modelo
-**Autoria del Proyecto: Alejandro Arango Mejía y Thomas Rivera Fernandez.**
+**Autoría del Proyecto: Alejandro Arango Mejía y Thomas Rivera Fernandez.**
 
 Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y, opcionalmente, entrenar un MVP de modelo de predicción de resultados de partidos (basado en Elo y un clasificador sencillo).
 
@@ -136,4 +136,3 @@ Para más detalles del modelo, ver `mvp_model/README.md`.
 ## Contactos:
 - **aarangom1@eafit.edu.co**
 - **triveraf@eafit.edu.co**
--
