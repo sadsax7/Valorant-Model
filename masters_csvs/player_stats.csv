@@ -1,4 +1,779 @@
 player,player_name,team,player_id,agents,agents_count,rounds,rating,acs,kd_ratio,kast,adr,kpr,apr,fkpr,fdpr,hs_percent,cl_percent,clutches,k_max,kills,deaths,assists,first_kills,first_deaths,tournament_name
+mwzera,mwzera,FUR,939,['Jett'],1,90,1.24,237.0,1.21,71%,156.1,0.82,0.19,0.18,0.17,25%,8%,1/12,24,74,61,17,16,15,Champions Tour 2024 Americas Kickoff_csvs
+aspas,aspas,LEV,8480,"['Raze', 'Reyna', 'Jett']",3,186,1.21,242.1,1.23,73%,162.5,0.85,0.2,0.15,0.13,28%,25%,7/28,31,158,128,37,27,25,Champions Tour 2024 Americas Kickoff_csvs
+Less,Less,LOUD,8447,['Viper'],1,271,1.2,213.3,1.25,76%,142.9,0.76,0.25,0.08,0.07,31%,12%,5/43,24,205,164,69,22,19,Champions Tour 2024 Americas Kickoff_csvs
+keznit,keznit,KRÜ,2462,"['Jett', 'Chamber']",2,110,1.14,251.2,1.25,68%,165.8,0.91,0.14,0.23,0.1,35%,0%,0/14,31,100,80,15,25,11,Champions Tour 2024 Americas Kickoff_csvs
+zekken,zekken,SEN,4004,"['Raze', 'Jett']",2,432,1.14,249.0,1.21,72%,161.8,0.86,0.2,0.22,0.16,25%,9%,2/22,31,373,307,86,93,70,Champions Tour 2024 Americas Kickoff_csvs
+supamen,supamen,EG,826,"['Omen', 'Viper']",2,110,1.12,190.6,1.0,72%,124.6,0.65,0.31,0.11,0.08,33%,21%,4/19,22,72,72,34,12,9,Champions Tour 2024 Americas Kickoff_csvs
+Victor,Victor,NRG,261,"['Cypher', 'Killjoy', 'Raze']",3,157,1.11,211.0,1.24,74%,140.3,0.76,0.19,0.11,0.11,25%,20%,3/15,22,120,97,30,17,17,Champions Tour 2024 Americas Kickoff_csvs
+tuyz,tuyz,LOUD,2408,"['Omen', 'Brimstone', 'Harbor']",3,271,1.1,190.8,1.11,75%,127.8,0.68,0.47,0.05,0.04,31%,21%,11/52,19,183,165,128,14,10,Champions Tour 2024 Americas Kickoff_csvs
+Derrek,Derrek,EG,1533,"['Fade', 'Gekko', 'Sova']",3,110,1.1,219.0,1.11,69%,140.2,0.76,0.17,0.12,0.05,37%,18%,4/22,22,84,76,19,13,5,Champions Tour 2024 Americas Kickoff_csvs
+TenZ,TenZ,SEN,9,"['Omen', 'Yoru', 'Kayo']",3,432,1.1,212.9,1.11,76%,139.8,0.75,0.42,0.13,0.09,26%,8%,3/38,30,323,290,180,54,39,Champions Tour 2024 Americas Kickoff_csvs
+Shyy,Shyy,KRÜ,24007,"['Killjoy', 'Viper']",2,110,1.09,190.4,1.1,69%,140.1,0.69,0.22,0.05,0.06,23%,54%,7/13,19,76,69,24,6,7,Champions Tour 2024 Americas Kickoff_csvs
+leaf,leaf,G2,7873,"['Jett', 'Raze', 'Yoru']",3,300,1.08,237.3,1.16,69%,155.0,0.81,0.19,0.2,0.21,28%,20%,2/10,26,244,211,56,59,63,Champions Tour 2024 Americas Kickoff_csvs
+vanity,vanity,C9,7870,"['Skye', 'Viper', 'Gekko', 'Sova']",4,162,1.07,198.6,1.03,76%,132.2,0.69,0.34,0.06,0.08,22%,23%,5/22,23,112,109,55,10,13,Champions Tour 2024 Americas Kickoff_csvs
+Demon1,Demon1,NRG,26171,"['Jett', 'Omen']",2,157,1.06,215.3,1.08,71%,145.6,0.76,0.15,0.2,0.17,33%,7%,1/14,24,119,110,24,32,26,Champions Tour 2024 Americas Kickoff_csvs
+Zellsis,Zellsis,SEN,729,"['Viper', 'Kayo', 'Killjoy', 'Brimstone']",4,432,1.06,195.1,1.05,77%,123.9,0.68,0.41,0.08,0.07,17%,16%,9/58,19,292,277,179,36,32,Champions Tour 2024 Americas Kickoff_csvs
+trent,trent,G2,15500,['Viper'],1,300,1.05,197.0,1.0,74%,136.7,0.67,0.29,0.07,0.09,29%,20%,8/41,22,200,200,87,22,26,Champions Tour 2024 Americas Kickoff_csvs
+RgLMeister,RgLMeister,MIBR,5351,"['Brimstone', 'Astra', 'Omen', 'Viper']",4,274,1.05,187.8,1.05,77%,129.3,0.68,0.4,0.04,0.05,30%,16%,6/37,23,185,176,109,10,14,Champions Tour 2024 Americas Kickoff_csvs
+johnqt,johnqt,SEN,1265,"['Cypher', 'Killjoy', 'Viper']",3,432,1.04,187.5,1.1,75%,123.0,0.66,0.27,0.06,0.06,26%,21%,13/62,19,284,258,116,27,27,Champions Tour 2024 Americas Kickoff_csvs
+Sacy,Sacy,SEN,659,"['Skye', 'Sova', 'Fade', 'Gekko']",4,432,1.04,200.2,0.99,74%,134.9,0.66,0.45,0.07,0.06,26%,21%,9/42,24,285,288,194,29,25,Champions Tour 2024 Americas Kickoff_csvs
+kiNgg,kiNgg,LEV,8549,"['Viper', 'Breach', 'Kayo']",3,186,1.04,207.4,1.05,73%,136.2,0.73,0.3,0.03,0.07,31%,15%,4/27,22,136,129,55,6,13,Champions Tour 2024 Americas Kickoff_csvs
+Cryocells,Cryocells,100T,4147,"['Brimstone', 'Astra', 'Jett', 'Chamber']",4,120,1.03,206.3,1.13,70%,137.3,0.78,0.17,0.11,0.12,25%,40%,4/10,21,94,83,20,13,14,Champions Tour 2024 Americas Kickoff_csvs
+Apoth,Apoth,EG,5188,"['Cypher', 'Killjoy']",2,110,1.03,217.0,1.08,61%,153.7,0.77,0.2,0.07,0.19,33%,13%,1/8,21,85,79,22,8,21,Champions Tour 2024 Americas Kickoff_csvs
+Xeppaa,Xeppaa,C9,7871,"['Raze', 'Skye', 'Fade', 'Kayo']",4,162,1.03,211.1,0.98,80%,134.0,0.72,0.44,0.08,0.12,23%,15%,2/13,20,116,118,71,13,19,Champions Tour 2024 Americas Kickoff_csvs
+jzz,jzz,MIBR,13093,"['Raze', 'Skye', 'Sova']",3,274,1.02,216.3,1.07,75%,144.3,0.77,0.21,0.15,0.14,30%,5%,1/19,28,212,198,58,42,37,Champions Tour 2024 Americas Kickoff_csvs
+frz,frz,MIBR,651,"['Viper', 'Killjoy', 'Cypher']",3,274,1.02,192.2,1.09,67%,126.1,0.69,0.17,0.08,0.1,29%,26%,10/39,22,190,174,46,21,28,Champions Tour 2024 Americas Kickoff_csvs
+Ethan,Ethan,NRG,11225,"['Kayo', 'Skye']",2,157,1.01,210.7,1.0,78%,135.3,0.69,0.48,0.06,0.08,21%,23%,3/13,27,108,108,76,9,12,Champions Tour 2024 Americas Kickoff_csvs
+cauanzin,cauanzin,LOUD,6193,"['Breach', 'Sova']",2,271,1.01,195.5,1.03,74%,120.7,0.71,0.32,0.14,0.08,30%,0%,0/17,20,193,188,88,38,22,Champions Tour 2024 Americas Kickoff_csvs
+JonahP,JonahP,G2,4581,"['Sova', 'Kayo', 'Breach']",3,300,1.0,178.6,0.98,75%,121.0,0.65,0.34,0.04,0.09,29%,24%,6/25,23,195,199,103,13,27,Champions Tour 2024 Americas Kickoff_csvs
+wippie,wippie,C9,4373,"['Viper', 'Killjoy']",2,162,0.99,179.0,0.98,73%,119.7,0.6,0.22,0.07,0.07,21%,7%,2/27,23,98,100,36,11,11,Champions Tour 2024 Americas Kickoff_csvs
+neT,neT,G2,6582,"['Killjoy', 'Cypher']",2,300,0.97,198.5,1.0,68%,131.1,0.7,0.18,0.07,0.06,39%,8%,4/52,25,209,208,54,21,18,Champions Tour 2024 Americas Kickoff_csvs
+artzin,artzin,MIBR,5957,"['Jett', 'Raze']",2,274,0.97,216.3,1.0,72%,138.8,0.74,0.16,0.14,0.15,25%,27%,6/22,28,202,203,44,38,40,Champions Tour 2024 Americas Kickoff_csvs
+crashies,crashies,NRG,4,"['Sova', 'Viper', 'Breach']",3,157,0.97,167.9,1.0,74%,110.3,0.6,0.31,0.06,0.07,25%,10%,2/21,22,94,94,49,9,11,Champions Tour 2024 Americas Kickoff_csvs
+C0M,C0M,LEV,619,"['Skye', 'Sova']",2,186,0.97,187.6,0.89,71%,120.9,0.63,0.45,0.08,0.1,21%,9%,2/22,24,117,131,84,15,19,Champions Tour 2024 Americas Kickoff_csvs
+Boostio,Boostio,100T,604,"['Gekko', 'Killjoy', 'Omen']",3,120,0.97,201.8,0.93,72%,141.2,0.71,0.25,0.13,0.13,28%,10%,1/10,22,85,91,30,16,16,Champions Tour 2024 Americas Kickoff_csvs
+Klaus,Klaus,KRÜ,2610,"['Sova', 'Fade', 'Skye']",3,110,0.96,182.8,0.83,71%,126.0,0.59,0.35,0.11,0.05,22%,13%,2/16,17,65,78,38,12,5,Champions Tour 2024 Americas Kickoff_csvs
+jakee,jakee,C9,8742,"['Brimstone', 'Astra', 'Omen']",3,162,0.96,170.7,0.88,74%,113.4,0.6,0.39,0.04,0.06,28%,14%,2/14,20,98,111,63,7,9,Champions Tour 2024 Americas Kickoff_csvs
+valyn,valyn,G2,3885,"['Brimstone', 'Omen', 'Harbor']",3,300,0.95,180.8,0.9,76%,114.2,0.63,0.37,0.1,0.07,22%,11%,4/38,24,189,209,111,29,22,Champions Tour 2024 Americas Kickoff_csvs
+jawgemo,jawgemo,EG,3993,"['Raze', 'Deadlock', 'Jett']",3,110,0.94,206.0,0.92,64%,138.7,0.7,0.26,0.15,0.15,21%,0%,0/2,21,77,84,29,16,17,Champions Tour 2024 Americas Kickoff_csvs
+kon4n,kon4n,FUR,1671,"['Sova', 'Skye']",2,90,0.93,170.0,0.84,76%,113.7,0.57,0.32,0.07,0.02,18%,7%,1/15,14,51,61,29,6,2,Champions Tour 2024 Americas Kickoff_csvs
+Khalil,Khalil,FUR,1711,"['Cypher', 'Killjoy', 'Viper']",3,90,0.93,170.5,0.84,64%,119.5,0.6,0.18,0.03,0.06,27%,10%,1/10,15,54,64,16,3,5,Champions Tour 2024 Americas Kickoff_csvs
+OXY,OXY,C9,18796,"['Yoru', 'Raze', 'Jett']",3,162,0.93,227.9,0.96,67%,147.9,0.79,0.16,0.23,0.19,33%,7%,1/14,24,128,134,26,38,31,Champions Tour 2024 Americas Kickoff_csvs
+Quick,Quick,LOUD,1575,"['Raze', 'Phoenix', 'Jett']",3,271,0.93,203.0,0.99,67%,135.7,0.73,0.19,0.18,0.15,28%,7%,1/14,24,198,199,52,48,42,Champions Tour 2024 Americas Kickoff_csvs
+Marved,Marved,NRG,263,"['Viper', 'Omen']",2,157,0.92,193.0,0.88,75%,123.0,0.66,0.4,0.06,0.1,27%,8%,1/12,22,104,118,63,9,15,Champions Tour 2024 Americas Kickoff_csvs
+eeiu,eeiu,100T,796,"['Fade', 'Sova']",2,120,0.91,170.0,0.89,71%,110.9,0.62,0.29,0.03,0.04,25%,4%,1/23,17,74,83,35,3,5,Champions Tour 2024 Americas Kickoff_csvs
+bang,bang,100T,3880,['Viper'],1,120,0.91,192.5,0.92,71%,124.2,0.65,0.26,0.09,0.09,29%,21%,4/19,19,78,85,31,11,11,Champions Tour 2024 Americas Kickoff_csvs
+liazzi,liazzi,FUR,2567,"['Viper', 'Omen', 'Astra']",3,90,0.89,167.0,0.83,70%,106.4,0.56,0.33,0.06,0.07,35%,8%,1/12,19,50,60,30,5,6,Champions Tour 2024 Americas Kickoff_csvs
+saadhak,saadhak,LOUD,727,"['Skye', 'Kayo', 'Killjoy', 'Sova']",4,271,0.88,186.9,0.82,75%,122.0,0.61,0.39,0.08,0.12,17%,5%,1/22,19,166,203,107,23,32,Champions Tour 2024 Americas Kickoff_csvs
+mta,mta,KRÜ,36169,['Kayo'],1,110,0.86,179.4,0.76,67%,111.7,0.58,0.46,0.11,0.13,39%,0%,0/6,14,64,84,51,12,14,Champions Tour 2024 Americas Kickoff_csvs
+mazin,mazin,MIBR,8872,"['Skye', 'Viper', 'Kayo']",3,274,0.83,161.6,0.79,66%,109.1,0.54,0.38,0.07,0.09,29%,14%,5/35,19,147,187,103,19,25,Champions Tour 2024 Americas Kickoff_csvs
+Asuna,Asuna,100T,601,"['Raze', 'Gekko']",2,120,0.81,189.5,0.76,71%,117.0,0.6,0.27,0.11,0.15,17%,22%,2/9,18,72,95,32,13,18,Champions Tour 2024 Americas Kickoff_csvs
+Mazino,Mazino,LEV,7603,"['Harbor', 'Omen', 'Astra', 'Kayo']",4,186,0.81,163.6,0.78,67%,112.8,0.56,0.35,0.06,0.12,26%,28%,5/18,18,105,135,65,11,23,Champions Tour 2024 Americas Kickoff_csvs
+NaturE,NaturE,EG,4927,"['Breach', 'Kayo']",2,110,0.78,148.4,0.66,72%,94.0,0.5,0.41,0.06,0.02,27%,13%,2/15,18,55,83,45,7,2,Champions Tour 2024 Americas Kickoff_csvs
+tex,tex,LEV,1818,"['Gekko', 'Cypher', 'Killjoy', 'Raze']",4,186,0.75,167.0,0.73,70%,115.5,0.58,0.25,0.11,0.15,27%,0%,0/18,19,107,147,47,20,28,Champions Tour 2024 Americas Kickoff_csvs
+havoc,havoc,FUR,8706,"['Kayo', 'Raze']",2,90,0.69,171.3,0.72,56%,111.6,0.56,0.29,0.13,0.22,27%,0%,0/2,20,50,69,26,12,20,Champions Tour 2024 Americas Kickoff_csvs
+Melser,Melser,KRÜ,1311,"['Viper', 'Omen', 'Astra']",3,110,0.64,137.4,0.67,66%,87.3,0.49,0.28,0.05,0.12,30%,6%,1/16,13,54,81,31,5,13,Champions Tour 2024 Americas Kickoff_csvs
+aspas,aspas,LEV,8480,"['Jett', 'Phoenix', 'Raze']",3,544,1.31,260.3,1.51,75%,175.1,0.95,0.17,0.16,0.11,31%,11%,8/73,47,519,344,91,89,58,Champions Tour 2024 Americas Stage 1_csvs
+OXY,OXY,C9,18796,"['Jett', 'Raze']",2,383,1.24,291.1,1.26,75%,185.6,1.01,0.22,0.24,0.17,29%,18%,3/17,35,387,307,86,93,66,Champions Tour 2024 Americas Stage 1_csvs
+Cryocells,Cryocells,100T,4147,"['Jett', 'Astra', 'Brimstone', 'Gekko']",4,457,1.24,243.0,1.35,77%,161.1,0.88,0.27,0.14,0.06,24%,12%,5/42,33,402,298,123,65,29,Champions Tour 2024 Americas Stage 1_csvs
+eeiu,eeiu,100T,796,"['Sova', 'Fade']",2,457,1.17,195.4,1.26,78%,133.8,0.72,0.31,0.06,0.04,32%,12%,10/86,24,328,261,140,27,18,Champions Tour 2024 Americas Stage 1_csvs
+bang,bang,100T,3880,"['Viper', 'Omen']",2,457,1.15,210.1,1.24,78%,132.1,0.74,0.32,0.1,0.09,33%,7%,3/41,21,338,273,144,47,41,Champions Tour 2024 Americas Stage 1_csvs
+heat,heat,KRÜ,8673,"['Fade', 'Kayo', 'Gekko', 'Skye']",4,420,1.15,211.5,1.18,76%,139.7,0.78,0.38,0.07,0.09,36%,19%,10/52,26,327,278,160,28,37,Champions Tour 2024 Americas Stage 1_csvs
+TenZ,TenZ,SEN,9,"['Kayo', 'Omen', 'Gekko']",3,289,1.14,224.2,1.11,76%,138.9,0.75,0.52,0.12,0.08,26%,22%,4/18,28,217,196,149,34,24,Champions Tour 2024 Americas Stage 1_csvs
+valyn,valyn,G2,3885,"['Omen', 'Brimstone', 'Harbor', 'Astra']",4,584,1.14,212.2,1.15,76%,136.3,0.77,0.34,0.11,0.09,27%,20%,14/70,26,450,392,198,65,50,Champions Tour 2024 Americas Stage 1_csvs
+Less,Less,LOUD,8447,"['Cypher', 'Viper']",2,261,1.13,205.2,1.16,72%,140.3,0.73,0.21,0.06,0.07,28%,12%,6/52,25,190,164,56,16,17,Champions Tour 2024 Americas Stage 1_csvs
+keznit,keznit,KRÜ,2462,"['Raze', 'Reyna', 'Jett']",3,420,1.11,251.2,1.2,70%,167.8,0.87,0.19,0.2,0.17,29%,10%,3/30,27,366,306,80,83,71,Champions Tour 2024 Americas Stage 1_csvs
+kiNgg,kiNgg,LEV,8549,"['Viper', 'Omen']",2,544,1.1,205.1,1.14,76%,136.6,0.73,0.38,0.1,0.07,30%,14%,8/57,30,396,348,205,54,37,Champions Tour 2024 Americas Stage 1_csvs
+trent,trent,G2,15500,"['Fade', 'Sova', 'Viper', 'Gekko']",4,584,1.08,195.5,1.05,72%,131.5,0.68,0.32,0.08,0.08,28%,20%,15/75,29,395,376,189,47,46,Champions Tour 2024 Americas Stage 1_csvs
+leaf,leaf,G2,7873,"['Killjoy', 'Viper', 'Cypher']",3,584,1.08,221.8,1.15,72%,147.8,0.78,0.2,0.11,0.1,24%,19%,12/62,28,458,400,119,63,59,Champions Tour 2024 Americas Stage 1_csvs
+Asuna,Asuna,100T,601,"['Gekko', 'Raze', 'Kayo']",3,457,1.07,230.1,1.13,74%,145.4,0.78,0.35,0.14,0.15,20%,15%,4/26,25,357,315,161,66,69,Champions Tour 2024 Americas Stage 1_csvs
+johnqt,johnqt,SEN,1265,"['Viper', 'Cypher']",2,289,1.07,187.5,1.12,76%,124.9,0.67,0.31,0.06,0.07,27%,19%,9/47,29,194,173,91,16,19,Champions Tour 2024 Americas Stage 1_csvs
+runi,runi,C9,16003,"['Sova', 'Viper']",2,383,1.05,187.7,1.08,73%,133.8,0.69,0.27,0.08,0.06,35%,18%,10/55,21,263,244,102,29,23,Champions Tour 2024 Americas Stage 1_csvs
+NaturE,NaturE,EG,4927,"['Viper', 'Killjoy', 'Breach', 'Yoru', 'Skye', 'Kayo']",6,280,1.04,199.7,0.98,69%,132.5,0.69,0.37,0.05,0.06,32%,12%,6/49,24,192,195,104,15,18,Champions Tour 2024 Americas Stage 1_csvs
+Shyy,Shyy,KRÜ,24007,"['Killjoy', 'Cypher', 'Viper']",3,420,1.04,189.4,1.09,73%,130.5,0.68,0.2,0.06,0.06,26%,13%,8/63,22,286,262,86,27,24,Champions Tour 2024 Americas Stage 1_csvs
+zekken,zekken,SEN,4004,"['Jett', 'Raze']",2,289,1.03,243.4,1.1,72%,154.0,0.81,0.16,0.23,0.15,23%,19%,3/16,23,234,213,47,67,44,Champions Tour 2024 Americas Stage 1_csvs
+nzr,nzr,FUR,725,"['Skye', 'Kayo', 'Sova', 'Fade']",4,224,1.02,191.6,0.94,67%,125.7,0.68,0.28,0.03,0.03,26%,11%,5/45,23,153,163,62,6,6,Champions Tour 2024 Americas Stage 1_csvs
+Zellsis,Zellsis,SEN,729,"['Killjoy', 'Viper', 'Brimstone', 'Kayo']",4,289,1.02,184.0,0.99,72%,128.8,0.63,0.26,0.07,0.09,21%,18%,6/34,23,182,183,75,20,25,Champions Tour 2024 Americas Stage 1_csvs
+Ethan,Ethan,NRG,11225,"['Yoru', 'Kayo', 'Omen', 'Breach', 'Skye']",5,260,1.01,191.1,0.96,72%,122.0,0.65,0.43,0.07,0.1,21%,17%,4/24,19,168,175,112,17,25,Champions Tour 2024 Americas Stage 1_csvs
+Melser,Melser,KRÜ,1311,"['Omen', 'Viper']",2,420,1.0,174.0,1.0,71%,119.9,0.63,0.28,0.08,0.08,32%,15%,7/46,22,263,263,119,33,34,Champions Tour 2024 Americas Stage 1_csvs
+Mazino,Mazino,LEV,7603,"['Harbor', 'Breach', 'Kayo', 'Omen', 'Brimstone']",5,544,1.0,209.5,1.02,74%,134.2,0.73,0.4,0.07,0.1,29%,15%,7/46,26,395,389,216,37,56,Champions Tour 2024 Americas Stage 1_csvs
+crashies,crashies,NRG,4,"['Sova', 'Gekko', 'Skye']",3,260,1.0,182.3,1.03,72%,118.8,0.68,0.27,0.04,0.06,35%,21%,10/48,24,176,171,69,11,16,Champions Tour 2024 Americas Stage 1_csvs
+Derrek,Derrek,EG,1533,"['Fade', 'Sova', 'Skye', 'Gekko']",4,280,0.99,183.2,0.95,68%,124.6,0.66,0.27,0.05,0.04,33%,20%,8/40,26,184,194,76,13,12,Champions Tour 2024 Americas Stage 1_csvs
+tuyz,tuyz,LOUD,2408,"['Viper', 'Omen', 'Brimstone', 'Harbor']",4,261,0.99,166.3,0.91,70%,110.9,0.6,0.35,0.06,0.07,33%,13%,5/39,17,157,172,92,15,17,Champions Tour 2024 Americas Stage 1_csvs
+Xeppaa,Xeppaa,C9,7871,"['Sage', 'Skye', 'Kayo', 'Gekko']",4,383,0.99,190.3,0.93,77%,124.1,0.65,0.48,0.07,0.07,27%,21%,6/28,26,248,268,183,28,27,Champions Tour 2024 Americas Stage 1_csvs
+cauanzin,cauanzin,LOUD,6193,"['Sova', 'Breach', 'Kayo', 'Fade', 'Skye']",5,261,0.98,201.8,0.95,74%,129.9,0.69,0.32,0.1,0.08,27%,18%,3/17,21,179,189,84,26,20,Champions Tour 2024 Americas Stage 1_csvs
+moose,moose,C9,7458,"['Killjoy', 'Cypher']",2,383,0.98,176.5,1.04,72%,120.3,0.63,0.19,0.07,0.06,24%,14%,9/65,21,243,233,71,25,23,Champions Tour 2024 Americas Stage 1_csvs
+JonahP,JonahP,G2,4581,"['Viper', 'Kayo', 'Breach', 'Skye']",4,584,0.96,183.6,0.89,74%,118.9,0.61,0.45,0.05,0.09,27%,10%,7/67,20,356,401,262,32,51,Champions Tour 2024 Americas Stage 1_csvs
+Victor,Victor,NRG,261,"['Cypher', 'Raze', 'Brimstone', 'Killjoy']",4,260,0.96,212.9,1.01,67%,139.4,0.75,0.17,0.12,0.09,27%,0%,0/19,30,195,193,44,31,24,Champions Tour 2024 Americas Stage 1_csvs
+Marved,Marved,NRG,263,"['Viper', 'Omen', 'Cypher']",3,260,0.94,189.6,0.93,67%,125.3,0.65,0.24,0.08,0.11,28%,27%,9/33,21,170,182,63,22,28,Champions Tour 2024 Americas Stage 1_csvs
+jawgemo,jawgemo,EG,3993,"['Raze', 'Jett']",2,280,0.93,217.4,0.94,63%,146.2,0.73,0.15,0.16,0.14,20%,14%,3/21,29,205,218,41,46,40,Champions Tour 2024 Americas Stage 1_csvs
+frz,frz,MIBR,651,"['Killjoy', 'Cypher', 'Viper']",3,200,0.93,186.1,0.84,65%,126.4,0.65,0.21,0.08,0.14,26%,14%,6/42,25,130,155,42,16,27,Champions Tour 2024 Americas Stage 1_csvs
+tex,tex,LEV,1818,"['Killjoy', 'Cypher', 'Sage', 'Gekko']",4,544,0.93,184.8,0.97,71%,122.4,0.65,0.17,0.11,0.12,35%,12%,6/49,25,352,363,95,59,63,Champions Tour 2024 Americas Stage 1_csvs
+Demon1,Demon1,NRG,26171,"['Jett', 'Raze', 'Brimstone']",3,260,0.92,204.4,0.91,71%,139.6,0.7,0.2,0.16,0.17,36%,12%,3/26,21,182,199,52,42,44,Champions Tour 2024 Americas Stage 1_csvs
+Sacy,Sacy,SEN,659,"['Gekko', 'Skye', 'Fade']",3,289,0.91,161.9,0.9,71%,111.0,0.58,0.3,0.06,0.07,32%,12%,4/33,22,168,187,86,18,21,Champions Tour 2024 Americas Stage 1_csvs
+supamen,supamen,EG,826,"['Omen', 'Viper']",2,280,0.89,184.2,0.87,69%,122.5,0.64,0.29,0.11,0.11,37%,7%,2/30,23,180,208,82,31,32,Champions Tour 2024 Americas Stage 1_csvs
+saadhak,saadhak,LOUD,727,"['Kayo', 'Sova', 'Breach', 'Killjoy', 'Deadlock']",5,261,0.89,193.2,0.84,67%,130.9,0.62,0.34,0.09,0.13,26%,13%,3/23,23,163,194,88,23,34,Champions Tour 2024 Americas Stage 1_csvs
+icy,icy,G2,8402,"['Raze', 'Gekko', 'Yoru', 'Jett']",4,584,0.88,187.0,0.89,68%,125.3,0.66,0.19,0.14,0.15,26%,15%,7/47,26,385,434,110,81,90,Champions Tour 2024 Americas Stage 1_csvs
+artzin,artzin,MIBR,5957,"['Jett', 'Raze', 'Sage']",3,200,0.88,204.2,0.82,62%,137.0,0.7,0.19,0.14,0.18,26%,11%,2/18,20,139,170,37,27,35,Champions Tour 2024 Americas Stage 1_csvs
+jzz,jzz,MIBR,13093,"['Sova', 'Skye', 'Raze', 'Gekko']",4,200,0.87,196.2,0.83,66%,135.7,0.68,0.2,0.14,0.11,32%,19%,5/27,19,136,164,40,28,22,Champions Tour 2024 Americas Stage 1_csvs
+C0M,C0M,LEV,619,"['Sova', 'Viper', 'Fade', 'Cypher', 'Skye']",5,544,0.86,160.8,0.8,71%,109.2,0.54,0.29,0.09,0.07,22%,15%,8/53,22,293,368,158,49,40,Champions Tour 2024 Americas Stage 1_csvs
+Klaus,Klaus,KRÜ,2610,"['Viper', 'Gekko', 'Sova', 'Breach', 'Cypher']",5,420,0.85,177.7,0.82,73%,116.7,0.59,0.29,0.11,0.08,25%,15%,4/27,18,249,302,121,48,34,Champions Tour 2024 Americas Stage 1_csvs
+Apoth,Apoth,EG,5188,"['Cypher', 'Harbor', 'Astra', 'Brimstone', 'Killjoy']",5,280,0.85,174.5,0.84,61%,119.0,0.6,0.21,0.11,0.15,37%,17%,5/30,22,168,201,58,31,42,Champions Tour 2024 Americas Stage 1_csvs
+Khalil,Khalil,FUR,1711,"['Omen', 'Killjoy', 'Cypher', 'Brimstone']",4,224,0.85,164.4,0.77,69%,112.4,0.57,0.25,0.04,0.09,29%,21%,8/39,17,127,164,56,9,20,Champions Tour 2024 Americas Stage 1_csvs
+vanity,vanity,C9,7870,"['Viper', 'Omen', 'Brimstone']",3,383,0.83,163.9,0.79,73%,107.3,0.57,0.38,0.08,0.1,22%,15%,6/40,20,217,275,144,30,39,Champions Tour 2024 Americas Stage 1_csvs
+RgLMeister,RgLMeister,MIBR,5351,"['Harbor', 'Omen', 'Brimstone', 'Astra', 'Viper']",5,200,0.81,156.2,0.73,64%,105.6,0.57,0.28,0.06,0.04,27%,19%,5/27,21,114,157,56,12,8,Champions Tour 2024 Americas Stage 1_csvs
+Boostio,Boostio,100T,604,"['Killjoy', 'Gekko', 'Cypher']",3,457,0.8,169.5,0.87,70%,110.7,0.61,0.21,0.09,0.12,24%,26%,6/23,22,278,318,94,39,56,Champions Tour 2024 Americas Stage 1_csvs
+mwzera,mwzera,FUR,939,"['Raze', 'Omen', 'Jett', 'Yoru', 'Reyna']",5,224,0.78,191.5,0.77,63%,125.1,0.66,0.21,0.1,0.17,20%,0%,0/17,23,148,191,46,22,39,Champions Tour 2024 Americas Stage 1_csvs
+Quick,Quick,LOUD,1575,"['Jett', 'Phoenix', 'Raze']",3,261,0.77,172.8,0.79,61%,111.9,0.6,0.11,0.15,0.2,23%,6%,1/17,19,156,198,28,40,53,Champions Tour 2024 Americas Stage 1_csvs
+havoc,havoc,FUR,8706,"['Killjoy', 'Gekko', 'Kayo', 'Raze', 'Jett', 'Cypher']",6,224,0.73,178.3,0.72,59%,124.4,0.61,0.17,0.13,0.22,39%,23%,5/22,20,136,188,37,28,49,Champions Tour 2024 Americas Stage 1_csvs
+kon4n,kon4n,FUR,1671,"['Viper', 'Kayo']",2,224,0.7,154.4,0.69,64%,102.2,0.53,0.25,0.07,0.13,27%,13%,4/32,14,118,172,55,16,29,Champions Tour 2024 Americas Stage 1_csvs
+mazin,mazin,MIBR,8872,"['Viper', 'Kayo', 'Skye', 'Gekko']",4,200,0.62,127.6,0.55,61%,83.9,0.42,0.35,0.04,0.09,26%,10%,3/31,12,84,154,70,7,18,Champions Tour 2024 Americas Stage 1_csvs
+aspas,aspas,LEV,8480,"['Jett', 'Raze', 'Neon']",3,479,1.32,269.0,1.52,77%,169.8,0.94,0.2,0.22,0.11,27%,13%,6/45,27,451,297,95,105,55,Champions Tour 2024 Americas Stage 2_csvs
+kiNgg,kiNgg,LEV,8549,"['Omen', 'Viper']",2,479,1.18,209.8,1.31,81%,134.0,0.76,0.4,0.1,0.07,28%,17%,8/48,23,362,276,190,49,33,Champions Tour 2024 Americas Stage 2_csvs
+Mazino,Mazino,LEV,7603,"['Kayo', 'Harbor', 'Brimstone', 'Breach', 'Deadlock']",5,479,1.17,228.6,1.23,79%,150.9,0.82,0.45,0.09,0.07,28%,6%,2/31,34,395,322,217,41,33,Champions Tour 2024 Americas Stage 2_csvs
+zekken,zekken,SEN,4004,"['Raze', 'Jett']",2,217,1.16,273.7,1.15,71%,178.4,0.9,0.25,0.24,0.18,27%,9%,1/11,28,195,169,55,53,39,Champions Tour 2024 Americas Stage 2_csvs
+eeiu,eeiu,100T,796,"['Sova', 'Fade']",2,411,1.15,200.5,1.17,77%,135.7,0.71,0.35,0.05,0.02,31%,16%,13/82,26,292,250,143,19,10,Champions Tour 2024 Americas Stage 2_csvs
+Khalil,Khalil,FUR,1711,"['Viper', 'Omen', 'Brimstone']",3,241,1.14,206.7,1.16,75%,138.1,0.77,0.31,0.07,0.06,32%,14%,4/28,31,186,160,74,18,15,Champions Tour 2024 Americas Stage 2_csvs
+s0m,s0m,NRG,4164,"['Clove', 'Omen', 'Brimstone', 'Viper']",4,215,1.12,224.7,1.13,78%,143.6,0.77,0.45,0.09,0.07,27%,19%,6/32,24,166,147,97,20,16,Champions Tour 2024 Americas Stage 2_csvs
+Derrek,Derrek,EG,1533,"['Fade', 'Sova', 'Gekko']",3,242,1.11,199.3,1.08,76%,135.3,0.74,0.34,0.06,0.03,37%,7%,3/41,23,179,166,82,15,8,Champions Tour 2024 Americas Stage 2_csvs
+TenZ,TenZ,SEN,9,"['Omen', 'Gekko']",2,217,1.1,204.2,1.08,74%,132.8,0.71,0.37,0.09,0.11,26%,7%,1/14,23,155,144,80,20,23,Champions Tour 2024 Americas Stage 2_csvs
+Ethan,Ethan,NRG,11225,"['Breach', 'Kayo', 'Yoru', 'Sage']",4,215,1.08,222.5,1.08,79%,136.2,0.76,0.43,0.12,0.06,22%,11%,3/27,25,164,152,92,25,13,Champions Tour 2024 Americas Stage 2_csvs
+JonahP,JonahP,G2,4581,"['Kayo', 'Viper', 'Breach', 'Skye']",4,388,1.08,205.7,1.07,71%,129.3,0.73,0.39,0.09,0.08,24%,23%,9/39,27,285,266,153,36,30,Champions Tour 2024 Americas Stage 2_csvs
+leaf,leaf,G2,7873,"['Killjoy', 'Viper']",2,388,1.07,219.1,1.06,69%,148.4,0.76,0.26,0.11,0.09,19%,22%,10/46,25,295,279,102,43,35,Champions Tour 2024 Americas Stage 2_csvs
+nzr,nzr,FUR,725,"['Sova', 'Breach', 'Gekko', 'Skye']",4,241,1.06,198.4,1.02,73%,140.3,0.69,0.31,0.03,0.04,27%,17%,7/41,24,167,164,75,8,9,Champions Tour 2024 Americas Stage 2_csvs
+supamen,supamen,EG,826,"['Omen', 'Clove']",2,242,1.06,214.6,1.08,73%,136.3,0.79,0.27,0.09,0.15,45%,21%,6/29,23,192,177,65,22,37,Champions Tour 2024 Americas Stage 2_csvs
+pANcada,pANcada,LOUD,683,"['Omen', 'Viper', 'Brimstone']",3,299,1.06,192.1,1.06,71%,128.9,0.69,0.34,0.07,0.08,37%,19%,9/48,28,207,195,102,21,23,Champions Tour 2024 Americas Stage 2_csvs
+tex,tex,LEV,1818,"['Killjoy', 'Gekko', 'Cypher']",3,479,1.05,204.6,1.17,74%,135.7,0.75,0.21,0.09,0.1,32%,16%,7/44,23,359,307,101,45,46,Champions Tour 2024 Americas Stage 2_csvs
+Cryocells,Cryocells,100T,4147,"['Jett', 'Brimstone', 'Astra', 'Omen', 'Iso']",5,411,1.04,223.8,1.13,71%,138.7,0.82,0.2,0.15,0.12,26%,21%,6/29,27,336,298,83,62,48,Champions Tour 2024 Americas Stage 2_csvs
+artzin,artzin,MIBR,5957,"['Yoru', 'Gekko', 'Killjoy', 'Viper', 'Cypher']",5,225,1.04,212.7,1.05,67%,141.7,0.76,0.25,0.12,0.09,27%,13%,3/23,24,171,163,56,27,20,Champions Tour 2024 Americas Stage 2_csvs
+valyn,valyn,G2,3885,"['Omen', 'Harbor', 'Brimstone', 'Astra']",4,388,1.04,202.4,1.01,79%,123.0,0.7,0.39,0.1,0.09,22%,24%,9/37,23,273,270,150,39,34,Champions Tour 2024 Americas Stage 2_csvs
+C0M,C0M,LEV,619,"['Sova', 'Fade']",2,479,1.04,180.0,1.04,79%,125.1,0.62,0.36,0.08,0.07,20%,16%,8/50,28,298,286,171,38,34,Champions Tour 2024 Americas Stage 2_csvs
+Shyy,Shyy,KRÜ,24007,"['Killjoy', 'Viper', 'Cypher']",3,492,1.04,202.1,1.06,69%,142.1,0.74,0.23,0.06,0.08,29%,18%,12/65,27,362,342,113,28,41,Champions Tour 2024 Americas Stage 2_csvs
+jawgemo,jawgemo,EG,3993,"['Iso', 'Neon', 'Raze', 'Sage', 'Jett']",5,242,1.03,243.4,1.01,71%,159.9,0.81,0.26,0.18,0.15,24%,10%,1/10,23,196,195,63,44,36,Champions Tour 2024 Americas Stage 2_csvs
+cauanzin,cauanzin,LOUD,6193,"['Fade', 'Breach', 'Kayo', 'Sova', 'Skye']",5,299,1.03,220.0,1.05,71%,144.2,0.77,0.26,0.12,0.09,29%,13%,2/16,24,229,219,79,37,28,Champions Tour 2024 Americas Stage 2_csvs
+Zellsis,Zellsis,SEN,729,"['Cypher', 'Breach', 'Viper', 'Brimstone']",4,217,1.03,179.8,1.1,75%,114.3,0.65,0.36,0.02,0.06,21%,15%,5/33,21,140,127,79,5,13,Champions Tour 2024 Americas Stage 2_csvs
+keznit,keznit,KRÜ,2462,"['Raze', 'Jett', 'Neon', 'Reyna']",4,492,1.03,233.0,1.05,70%,155.2,0.79,0.21,0.19,0.17,23%,13%,4/32,29,390,370,105,92,82,Champions Tour 2024 Americas Stage 2_csvs
+bang,bang,100T,3880,"['Viper', 'Omen']",2,411,1.02,202.2,1.04,73%,127.4,0.7,0.36,0.1,0.12,33%,13%,7/54,31,289,278,147,40,50,Champions Tour 2024 Americas Stage 2_csvs
+Less,Less,LOUD,8447,"['Cypher', 'Killjoy', 'Omen']",3,299,1.02,191.1,1.03,65%,130.0,0.71,0.21,0.09,0.07,30%,5%,2/44,21,211,205,64,28,22,Champions Tour 2024 Americas Stage 2_csvs
+trent,trent,G2,15500,"['Sova', 'Fade', 'Gekko']",3,388,1.01,186.1,0.95,74%,126.0,0.64,0.39,0.07,0.09,23%,17%,10/60,22,250,262,152,29,35,Champions Tour 2024 Americas Stage 2_csvs
+heat,heat,KRÜ,8673,"['Fade', 'Skye', 'Kayo', 'Breach', 'Gekko']",5,492,1.01,185.7,0.97,73%,122.4,0.69,0.37,0.07,0.1,30%,12%,8/68,26,341,350,182,36,50,Champions Tour 2024 Americas Stage 2_csvs
+Asuna,Asuna,100T,601,"['Gekko', 'Kayo', 'Raze', 'Yoru']",4,411,1.01,205.6,0.96,76%,132.5,0.7,0.43,0.13,0.12,19%,15%,4/26,23,286,297,176,54,50,Champions Tour 2024 Americas Stage 2_csvs
+Melser,Melser,KRÜ,1311,"['Omen', 'Viper']",2,492,1.0,185.3,0.97,74%,121.5,0.66,0.35,0.08,0.1,33%,18%,14/77,23,323,334,174,40,50,Champions Tour 2024 Americas Stage 2_csvs
+mwzera,mwzera,FUR,939,"['Jett', 'Neon', 'Raze']",3,241,0.98,236.4,0.99,74%,152.8,0.82,0.23,0.18,0.15,18%,7%,1/15,29,197,198,56,44,36,Champions Tour 2024 Americas Stage 2_csvs
+OXY,OXY,C9,18796,"['Jett', 'Reyna', 'Raze']",3,277,0.97,232.7,0.99,69%,152.1,0.82,0.16,0.18,0.19,27%,17%,2/12,33,226,228,45,50,53,Champions Tour 2024 Americas Stage 2_csvs
+havoc,havoc,FUR,8706,"['Killjoy', 'Viper', 'Cypher']",3,241,0.96,198.3,0.96,65%,138.8,0.7,0.19,0.12,0.14,36%,16%,5/32,23,168,175,45,28,33,Champions Tour 2024 Americas Stage 2_csvs
+Sacy,Sacy,SEN,659,"['Fade', 'Gekko', 'Skye', 'Sova']",4,217,0.96,170.4,0.93,74%,119.9,0.59,0.34,0.06,0.12,29%,5%,1/21,19,127,136,74,12,27,Champions Tour 2024 Americas Stage 2_csvs
+johnqt,johnqt,SEN,1265,"['Deadlock', 'Cypher', 'Killjoy']",3,217,0.95,172.4,0.96,71%,113.5,0.62,0.2,0.05,0.06,29%,11%,3/27,19,134,140,44,11,14,Champions Tour 2024 Americas Stage 2_csvs
+icy,icy,G2,8402,"['Neon', 'Gekko', 'Raze', 'Jett', 'Yoru']",5,388,0.94,194.2,0.97,71%,131.2,0.7,0.2,0.12,0.15,23%,10%,3/30,23,272,280,79,47,58,Champions Tour 2024 Americas Stage 2_csvs
+rich,rich,MIBR,11105,"['Sova', 'Fade', 'Gekko', 'Skye']",4,183,0.94,192.3,0.91,72%,130.3,0.68,0.25,0.08,0.07,31%,12%,3/26,22,124,137,45,14,13,Champions Tour 2024 Americas Stage 2_csvs
+moose,moose,C9,7458,"['Killjoy', 'Cypher']",2,277,0.93,165.9,0.92,65%,115.1,0.6,0.12,0.09,0.06,25%,17%,8/48,18,166,181,32,25,18,Champions Tour 2024 Americas Stage 2_csvs
+mazin,mazin,MIBR,8872,"['Omen', 'Viper', 'Brimstone']",3,225,0.92,168.5,0.86,65%,110.3,0.58,0.3,0.07,0.04,31%,19%,9/47,20,130,152,67,16,9,Champions Tour 2024 Americas Stage 2_csvs
+ShahZaM,ShahZaM,MIBR,46,['Sova'],1,42,0.91,172.5,0.79,74%,124.2,0.55,0.33,0.07,0.1,24%,17%,1/6,12,23,29,14,3,4,Champions Tour 2024 Americas Stage 2_csvs
+crashies,crashies,NRG,4,"['Gekko', 'Sova', 'Fade', 'Skye', 'Breach']",5,215,0.91,171.4,0.92,75%,113.4,0.59,0.33,0.04,0.06,24%,12%,4/33,19,126,137,70,9,13,Champions Tour 2024 Americas Stage 2_csvs
+Xeppaa,Xeppaa,C9,7871,"['Kayo', 'Gekko', 'Skye', 'Breach']",4,277,0.9,175.4,0.78,73%,120.3,0.56,0.39,0.05,0.09,26%,24%,5/21,18,156,200,109,14,25,Champions Tour 2024 Americas Stage 2_csvs
+tuyz,tuyz,LOUD,2408,"['Gekko', 'Omen', 'Jett', 'Harbor', 'Raze']",5,299,0.89,175.5,0.9,70%,117.3,0.64,0.23,0.08,0.13,27%,6%,2/34,22,190,210,70,25,38,Champions Tour 2024 Americas Stage 2_csvs
+Victor,Victor,NRG,261,"['Neon', 'Clove', 'Raze', 'Jett']",4,215,0.88,214.7,0.98,67%,139.6,0.75,0.17,0.2,0.24,25%,17%,1/6,23,161,165,37,43,51,Champions Tour 2024 Americas Stage 2_csvs
+liazzi,liazzi,MIBR,2567,"['Killjoy', 'Kayo', 'Breach', 'Gekko', 'Raze', 'Deadlock']",6,225,0.88,172.1,0.87,70%,115.0,0.61,0.25,0.05,0.07,32%,12%,3/26,19,138,158,57,12,16,Champions Tour 2024 Americas Stage 2_csvs
+vanity,vanity,C9,7870,"['Omen', 'Viper']",2,277,0.87,177.4,0.84,66%,118.5,0.62,0.31,0.1,0.13,21%,10%,4/39,21,173,205,85,27,36,Champions Tour 2024 Americas Stage 2_csvs
+saadhak,saadhak,LOUD,727,"['Neon', 'Gekko', 'Kayo', 'Breach']",4,299,0.86,192.8,0.8,69%,126.8,0.61,0.37,0.1,0.15,22%,23%,5/22,20,183,229,110,31,46,Champions Tour 2024 Americas Stage 2_csvs
+NaturE,NaturE,EG,4927,"['Breach', 'Killjoy', 'Skye', 'Kayo']",4,242,0.86,163.5,0.78,72%,107.4,0.57,0.36,0.06,0.06,32%,14%,5/37,19,137,175,86,15,15,Champions Tour 2024 Americas Stage 2_csvs
+Boostio,Boostio,100T,604,"['Killjoy', 'Gekko', 'Breach', 'Cypher']",4,411,0.86,187.7,0.84,70%,131.5,0.63,0.28,0.08,0.11,24%,13%,5/39,21,260,309,117,34,45,Champions Tour 2024 Americas Stage 2_csvs
+runi,runi,C9,16003,"['Sova', 'Breach', 'Viper', 'Clove']",4,277,0.85,162.0,0.78,70%,107.7,0.55,0.3,0.05,0.05,32%,9%,4/43,22,151,194,83,13,15,Champions Tour 2024 Americas Stage 2_csvs
+Palla,Palla,MIBR,15681,"['Jett', 'Raze']",2,183,0.83,221.1,0.85,63%,142.3,0.73,0.15,0.22,0.2,27%,18%,2/11,18,134,157,27,41,37,Champions Tour 2024 Americas Stage 2_csvs
+mta,mta,KRÜ,36169,"['Cypher', 'Sova', 'Viper']",3,445,0.82,162.9,0.78,67%,111.8,0.57,0.22,0.07,0.08,33%,7%,3/44,22,255,327,100,30,34,Champions Tour 2024 Americas Stage 2_csvs
+FiNESSE,FiNESSE,NRG,817,"['Cypher', 'Deadlock', 'Viper', 'Killjoy']",4,215,0.76,158.1,0.71,64%,105.5,0.54,0.28,0.08,0.04,19%,12%,3/25,18,116,163,60,17,9,Champions Tour 2024 Americas Stage 2_csvs
+Apoth,Apoth,EG,5188,"['Cypher', 'Harbor', 'Brimstone']",3,242,0.73,150.6,0.68,62%,102.4,0.5,0.26,0.07,0.14,32%,16%,4/25,18,121,179,63,17,33,Champions Tour 2024 Americas Stage 2_csvs
+xand,xand,FUR,681,"['Sage', 'Gekko', 'Fade', 'Kayo']",4,241,0.69,139.4,0.65,70%,94.7,0.49,0.34,0.07,0.13,29%,8%,2/25,18,119,183,83,18,32,Champions Tour 2024 Americas Stage 2_csvs
+Klaus,Klaus,KRÜ,2610,"['Viper', 'Cypher']",2,47,0.66,127.0,0.59,64%,92.6,0.43,0.23,0.09,0.13,27%,0%,0/3,12,20,34,11,4,6,Champions Tour 2024 Americas Stage 2_csvs
+Pa1nt,Pa1nt,MIBR,23407,"['Iso', 'Jett']",2,42,0.53,140.5,0.54,64%,101.3,0.45,0.29,0.1,0.21,24%,0%,0/1,11,19,35,12,4,9,Champions Tour 2024 Americas Stage 2_csvs
+FengF,FengF,TE,4770,"['Sova', 'Raze', 'Cypher']",3,336,,253.2,1.18,,,0.84,0.29,,,,0%,,40,283,240,98,0,0,Champions Tour 2024 China Kickoff_csvs
+Biank,Biank,BLG,3021,"['Sova', 'Fade', 'Skye']",3,202,,191.4,0.88,,,0.62,0.3,,,,0%,,19,126,143,61,0,0,Champions Tour 2024 China Kickoff_csvs
+Nicc,Nicc,DRG,11524,"['Breach', 'Kayo', 'Gekko', 'Skye']",4,151,,195.9,1.04,,,0.71,0.44,,,,0%,,21,107,103,67,0,0,Champions Tour 2024 China Kickoff_csvs
+TvirusLuke,TvirusLuke,DRG,7841,"['Neon', 'Jett', 'Raze']",3,151,,205.9,0.79,,,0.66,0.2,,,,0%,,21,99,126,30,0,0,Champions Tour 2024 China Kickoff_csvs
+vo0kashu,vo0kashu,DRG,3741,"['Cypher', 'Killjoy']",2,151,,248.9,1.18,,,0.87,0.28,,,,0%,,27,132,112,42,0,0,Champions Tour 2024 China Kickoff_csvs
+Dingwei,Dingwei,DRG,42513,"['Sova', 'Skye', 'Viper']",3,151,,160.1,0.77,,,0.54,0.3,,,,0%,,18,82,107,45,0,0,Champions Tour 2024 China Kickoff_csvs
+nizhaoTZH,nizhaoTZH,DRG,4880,"['Omen', 'Viper', 'Brimstone']",3,151,,192.1,1.06,,,0.72,0.38,,,,0%,,22,108,102,57,0,0,Champions Tour 2024 China Kickoff_csvs
+sword9,sword9,AG,3049,"['Sova', 'Kayo']",2,86,,161.0,0.75,,,0.53,0.31,,,,0%,,13,46,61,27,0,0,Champions Tour 2024 China Kickoff_csvs
+bunt,bunt,AG,25949,"['Omen', 'Viper']",2,86,,240.5,1.17,,,0.87,0.34,,,,0%,,28,75,64,29,0,0,Champions Tour 2024 China Kickoff_csvs
+monk,monk,AG,14431,"['Breach', 'Killjoy', 'Harbor']",3,86,,189.3,0.83,,,0.66,0.19,,,,0%,,18,57,69,16,0,0,Champions Tour 2024 China Kickoff_csvs
+deLb,deLb,AG,10821,"['Raze', 'Reyna']",2,86,,188.5,0.83,,,0.64,0.17,,,,0%,,19,55,66,15,0,0,Champions Tour 2024 China Kickoff_csvs
+Spitfires,Spitfires,AG,4881,"['Cypher', 'Jett', 'Killjoy']",3,86,,176.5,0.84,,,0.66,0.16,,,,0%,,21,57,68,14,0,0,Champions Tour 2024 China Kickoff_csvs
+whzy,whzy,BLG,4885,"['Jett', 'Raze']",2,202,,244.8,1.15,,,0.85,0.19,,,,0%,,25,172,149,38,0,0,Champions Tour 2024 China Kickoff_csvs
+Knight,Knight,BLG,4774,"['Kayo', 'Killjoy', 'Breach', 'Cypher']",4,202,,223.2,1.15,,,0.78,0.36,,,,0%,,24,157,136,72,0,0,Champions Tour 2024 China Kickoff_csvs
+Abo,Abo,TEC,5011,"['Raze', 'Jett']",2,297,,197.2,0.92,,,0.69,0.15,,,,0%,,28,206,225,45,0,0,Champions Tour 2024 China Kickoff_csvs
+yosemite,yosemite,BLG,6022,"['Killjoy', 'Viper', 'Cypher']",3,202,,222.3,1.2,,,0.77,0.3,,,,0%,,28,156,130,60,0,0,Champions Tour 2024 China Kickoff_csvs
+B3ar,B3ar,BLG,25329,"['Omen', 'Harbor', 'Brimstone']",3,202,,132.4,0.74,,,0.47,0.44,,,,0%,,14,95,129,88,0,0,Champions Tour 2024 China Kickoff_csvs
+pl1xx,pl1xx,WOL,871,"['Kayo', 'Viper', 'Yoru', 'Phoenix']",4,157,,216.0,1.04,,,0.75,0.35,,,,0%,,21,117,112,55,0,0,Champions Tour 2024 China Kickoff_csvs
+Spring,Spring,WOL,14125,"['Jett', 'Omen', 'Raze']",3,157,,201.0,1.05,,,0.71,0.21,,,,0%,,26,111,106,33,0,0,Champions Tour 2024 China Kickoff_csvs
+balua,balua,WOL,14441,"['Omen', 'Killjoy', 'Skye', 'Viper']",4,157,,189.1,0.99,,,0.66,0.38,,,,0%,,17,103,104,60,0,0,Champions Tour 2024 China Kickoff_csvs
+coldfish,coldfish,WOL,3020,"['Sova', 'Viper']",2,157,,183.4,1.12,,,0.69,0.22,,,,0%,,21,109,97,34,0,0,Champions Tour 2024 China Kickoff_csvs
+Yuicaw,Yuicaw,WOL,11218,"['Cypher', 'Raze']",2,157,,211.0,1.01,,,0.72,0.3,,,,0%,,19,113,112,47,0,0,Champions Tour 2024 China Kickoff_csvs
+Haodong,Haodong,EDG,4720,"['Cypher', 'Omen', 'Viper']",3,211,,151.7,0.79,,,0.53,0.35,,,,0%,,20,111,140,74,0,0,Champions Tour 2024 China Kickoff_csvs
+ZmjjKK,ZmjjKK,EDG,3520,"['Kayo', 'Jett', 'Raze']",3,211,,267.8,1.15,,,0.9,0.22,,,,0%,,30,189,164,47,0,0,Champions Tour 2024 China Kickoff_csvs
+nobody,nobody,EDG,3017,"['Sova', 'Skye']",2,211,,213.2,1.09,,,0.75,0.25,,,,0%,,27,159,146,53,0,0,Champions Tour 2024 China Kickoff_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Brimstone', 'Viper', 'Cypher', 'Killjoy']",4,211,,211.9,1.11,,,0.76,0.23,,,,0%,,24,161,145,49,0,0,Champions Tour 2024 China Kickoff_csvs
+kawaii,kawaii,TEC,4778,"['Omen', 'Brimstone', 'Viper', 'Astra']",4,297,,193.7,0.98,,,0.7,0.38,,,,0%,,30,207,211,113,0,0,Champions Tour 2024 China Kickoff_csvs
+LockM,LockM,TEC,25339,"['Viper', 'Sova']",2,297,,181.6,0.86,,,0.62,0.27,,,,0%,,25,184,215,80,0,0,Champions Tour 2024 China Kickoff_csvs
+Flex1n,Flex1n,TE,4705,"['Omen', 'Viper']",2,336,,205.1,1.03,,,0.71,0.39,,,,0%,,27,240,232,130,0,0,Champions Tour 2024 China Kickoff_csvs
+Autumn,Autumn,FPX,872,"['Raze', 'Phoenix', 'Jett', 'Yoru']",4,250,,215.5,1.09,,,0.74,0.18,,,,0%,,25,186,170,45,0,0,Champions Tour 2024 China Kickoff_csvs
+YOU,YOU,TE,4710,"['Killjoy', 'Sova', 'Skye', 'Fade']",4,336,,189.5,1.03,,,0.67,0.32,,,,0%,,24,224,218,108,0,0,Champions Tour 2024 China Kickoff_csvs
+heybay,heybay,TE,4712,"['Kayo', 'Breach', 'Brimstone', 'Viper']",4,336,,190.1,1.02,,,0.66,0.44,,,,0%,,20,221,217,148,0,0,Champions Tour 2024 China Kickoff_csvs
+Kai,Kai,TE,37494,"['Jett', 'Cypher', 'Killjoy']",3,336,,221.7,1.26,,,0.82,0.15,,,,0%,,31,277,220,52,0,0,Champions Tour 2024 China Kickoff_csvs
+LuoK1ng,LuoK1ng,TYL,3045,['Omen'],1,81,,208.5,1.02,,,0.75,0.3,,,,0%,,23,61,60,24,0,0,Champions Tour 2024 China Kickoff_csvs
+Ninebody,Ninebody,TYL,3547,"['Phoenix', 'Raze']",2,81,,232.3,1.03,,,0.78,0.38,,,,0%,,22,63,61,31,0,0,Champions Tour 2024 China Kickoff_csvs
+ICEKING,ICEKING,TYL,4771,"['Cypher', 'Kayo', 'Viper']",3,81,,208.5,0.89,,,0.69,0.31,,,,0%,,23,56,63,25,0,0,Champions Tour 2024 China Kickoff_csvs
+AAK,AAK,TYL,4773,"['Jett', 'Cypher']",2,81,,173.0,0.83,,,0.67,0.19,,,,0%,,19,54,65,15,0,0,Champions Tour 2024 China Kickoff_csvs
+zjc,zjc,TYL,7135,"['Sova', 'Gekko', 'Skye']",3,81,,152.5,0.62,,,0.51,0.26,,,,0%,,13,41,66,21,0,0,Champions Tour 2024 China Kickoff_csvs
+AAAAY,AAAAY,FPX,19530,"['Gekko', 'Sova', 'Fade', 'Breach']",4,250,,216.6,1.16,,,0.8,0.2,,,,0%,,26,201,174,51,0,0,Champions Tour 2024 China Kickoff_csvs
+BerLIN,BerLIN,FPX,7857,"['Omen', 'Harbor', 'Astra']",3,250,,185.8,1.0,,,0.66,0.34,,,,0%,,26,165,165,84,0,0,Champions Tour 2024 China Kickoff_csvs
+Lysoar,Lysoar,FPX,37489,"['Viper', 'Cypher']",2,250,,169.4,0.92,,,0.59,0.25,,,,0%,,20,147,159,63,0,0,Champions Tour 2024 China Kickoff_csvs
+Life,Life,FPX,3028,"['Chamber', 'Yoru', 'Jett', 'Reyna']",4,250,,235.5,1.14,,,0.84,0.17,,,,0%,,28,209,184,43,0,0,Champions Tour 2024 China Kickoff_csvs
+Rb,Rb,TEC,488,"['Fade', 'Cypher', 'Killjoy', 'Raze']",4,297,,233.9,1.2,,,0.84,0.24,,,,0%,,29,250,209,70,0,0,Champions Tour 2024 China Kickoff_csvs
+PangH,PangH,NOVA,4727,"['Killjoy', 'Jett', 'Raze']",3,124,,156.3,0.69,,,0.54,0.13,,,,0%,,25,67,97,16,0,0,Champions Tour 2024 China Kickoff_csvs
+o0o0o,o0o0o,NOVA,4402,"['Raze', 'Breach', 'Viper']",3,124,,186.7,0.87,,,0.69,0.27,,,,0%,,23,86,99,34,0,0,Champions Tour 2024 China Kickoff_csvs
+OBONE,OBONE,NOVA,36670,['Omen'],1,124,,162.8,0.75,,,0.56,0.34,,,,0%,,18,70,93,42,0,0,Champions Tour 2024 China Kickoff_csvs
+CB,CB,NOVA,39697,"['Breach', 'Fade', 'Sova', 'Skye']",4,124,,173.7,0.73,,,0.56,0.38,,,,0%,,17,69,94,47,0,0,Champions Tour 2024 China Kickoff_csvs
+GuanG,GuanG,NOVA,41054,"['Jett', 'Neon', 'Killjoy']",3,124,,243.3,1.03,,,0.82,0.22,,,,0%,,29,102,99,27,0,0,Champions Tour 2024 China Kickoff_csvs
+stew,stew,JDG,16924,"['Raze', 'Jett']",2,163,,265.9,1.32,,,0.93,0.18,,,,0%,,35,152,115,30,0,0,Champions Tour 2024 China Kickoff_csvs
+Viva,Viva,JDG,36415,"['Viper', 'Sova']",2,163,,214.1,1.21,,,0.75,0.23,,,,0%,,22,122,101,38,0,0,Champions Tour 2024 China Kickoff_csvs
+jkuro,jkuro,JDG,3519,"['Fade', 'Skye', 'Viper', 'Cypher']",4,163,,180.6,0.87,,,0.64,0.23,,,,0%,,21,104,120,38,0,0,Champions Tour 2024 China Kickoff_csvs
+YiHao,YiHao,JDG,4320,"['Astra', 'Brimstone', 'Harbor', 'Omen']",4,163,,155.9,0.82,,,0.56,0.35,,,,0%,,22,91,111,57,0,0,Champions Tour 2024 China Kickoff_csvs
+MarT1n,MarT1n,JDG,36668,"['Killjoy', 'Viper']",2,163,,199.1,0.93,,,0.67,0.13,,,,0%,,22,109,117,22,0,0,Champions Tour 2024 China Kickoff_csvs
+QiuYe,QiuYe,TEC,19531,"['Killjoy', 'Skye', 'Harbor', 'Kayo']",4,297,,166.4,0.74,,,0.57,0.3,,,,0%,,23,170,229,90,0,0,Champions Tour 2024 China Kickoff_csvs
+Smoggy,Smoggy,EDG,4742,"['Raze', 'Breach', 'Kayo']",3,211,,188.2,0.99,,,0.66,0.46,,,,0%,,20,139,140,97,0,0,Champions Tour 2024 China Kickoff_csvs
+whzy,whzy,BLG,4885,"['Yoru', 'Jett', 'Raze']",3,304,,246.8,1.14,,,0.86,0.21,,,,0%,,24,261,228,63,0,0,Champions Tour 2024 China Stage 1_csvs
+CB,CB,NOVA,39697,"['Fade', 'Sova', 'Skye', 'Gekko']",4,337,,205.7,0.96,,,0.69,0.31,,,,0%,,24,232,242,104,0,0,Champions Tour 2024 China Stage 1_csvs
+nobody,nobody,EDG,3017,"['Sova', 'Skye', 'Gekko', 'Sage']",4,538,,202.8,1.1,,,0.74,0.28,,,,0%,,28,396,359,149,0,0,Champions Tour 2024 China Stage 1_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Killjoy', 'Brimstone', 'Viper', 'Cypher', 'Reyna']",5,538,,193.3,1.12,,,0.72,0.24,,,,0%,,26,387,347,130,0,0,Champions Tour 2024 China Stage 1_csvs
+Smoggy,Smoggy,EDG,4742,"['Jett', 'Raze', 'Omen', 'Brimstone', 'Viper']",5,538,,202.0,1.2,,,0.74,0.36,,,,0%,,24,398,333,191,0,0,Champions Tour 2024 China Stage 1_csvs
+stew,stew,JDG,16924,"['Jett', 'Raze']",2,267,,206.0,0.98,,,0.72,0.21,,,,0%,,22,191,195,55,0,0,Champions Tour 2024 China Stage 1_csvs
+Viva,Viva,JDG,36415,"['Sova', 'Skye', 'Jett', 'Viper']",4,267,,216.5,1.16,,,0.75,0.28,,,,0%,,23,201,173,76,0,0,Champions Tour 2024 China Stage 1_csvs
+YHchen,YHchen,JDG,10486,"['Kayo', 'Gekko', 'Skye', 'Cypher', 'Harbor', 'Fade']",6,267,,180.8,0.88,,,0.62,0.36,,,,0%,,19,165,188,97,0,0,Champions Tour 2024 China Stage 1_csvs
+YiHao,YiHao,JDG,4320,"['Omen', 'Brimstone']",2,124,,159.7,0.84,,,0.55,0.47,,,,0%,,16,68,81,58,0,0,Champions Tour 2024 China Stage 1_csvs
+MarT1n,MarT1n,JDG,36668,"['Killjoy', 'Viper']",2,267,,194.7,0.94,,,0.66,0.24,,,,0%,,21,176,187,64,0,0,Champions Tour 2024 China Stage 1_csvs
+SWERL,SWERL,NOVA,1209,"['Raze', 'Jett', 'Killjoy', 'Omen']",4,337,,241.7,1.09,,,0.82,0.24,,,,0%,,28,277,253,81,0,0,Champions Tour 2024 China Stage 1_csvs
+o0o0o,o0o0o,NOVA,4402,"['Viper', 'Breach', 'Kayo']",3,337,,159.3,0.74,,,0.54,0.34,,,,0%,,19,183,246,113,0,0,Champions Tour 2024 China Stage 1_csvs
+OBONE,OBONE,NOVA,36670,"['Omen', 'Viper', 'Astra']",3,264,,168.8,0.86,,,0.61,0.32,,,,0%,,20,160,185,85,0,0,Champions Tour 2024 China Stage 1_csvs
+GuanG,GuanG,NOVA,41054,"['Killjoy', 'Neon', 'Gekko', 'Cypher', 'Chamber', 'Jett', 'Sage']",7,337,,187.3,1.0,,,0.69,0.16,,,,0%,,30,233,234,55,0,0,Champions Tour 2024 China Stage 1_csvs
+Haodong,Haodong,EDG,4720,"['Omen', 'Cypher', 'Gekko', 'Kayo', 'Breach']",5,538,,158.2,0.83,,,0.56,0.36,,,,0%,,20,299,359,193,0,0,Champions Tour 2024 China Stage 1_csvs
+FengF,FengF,TE,4770,"['Raze', 'Sova', 'Cypher']",3,391,,243.5,1.16,,,0.83,0.19,,,,0%,,24,323,278,76,0,0,Champions Tour 2024 China Stage 1_csvs
+LuoK1ng,LuoK1ng,TE,3045,"['Omen', 'Viper']",2,391,,193.8,0.93,,,0.67,0.38,,,,0%,,21,261,280,148,0,0,Champions Tour 2024 China Stage 1_csvs
+YOU,YOU,TE,4710,"['Fade', 'Killjoy', 'Skye', 'Sova']",4,391,,184.2,0.97,,,0.65,0.3,,,,0%,,21,254,262,119,0,0,Champions Tour 2024 China Stage 1_csvs
+heybay,heybay,TE,4712,"['Viper', 'Kayo', 'Yoru', 'Brimstone', 'Breach']",5,391,,186.0,0.9,,,0.64,0.38,,,,0%,,22,250,279,148,0,0,Champions Tour 2024 China Stage 1_csvs
+Kai,Kai,TE,37494,"['Killjoy', 'Jett', 'Cypher', 'Gekko']",4,391,,207.5,1.12,,,0.76,0.21,,,,0%,,25,299,268,81,0,0,Champions Tour 2024 China Stage 1_csvs
+AAAAY,AAAAY,FPX,19530,"['Fade', 'Gekko', 'Astra', 'Sova']",4,412,,197.1,1.12,,,0.74,0.23,,,,0%,,23,305,272,95,0,0,Champions Tour 2024 China Stage 1_csvs
+BerLIN,BerLIN,FPX,7857,"['Omen', 'Astra', 'Sova', 'Kayo', 'Harbor']",5,412,,184.9,0.89,,,0.61,0.39,,,,0%,,27,252,283,162,0,0,Champions Tour 2024 China Stage 1_csvs
+Lysoar,Lysoar,FPX,37489,"['Killjoy', 'Omen', 'Viper', 'Brimstone', 'Cypher']",5,412,,214.9,1.35,,,0.81,0.29,,,,0%,,29,332,246,118,0,0,Champions Tour 2024 China Stage 1_csvs
+Autumn,Autumn,FPX,872,"['Viper', 'Yoru', 'Jett', 'Kayo', 'Harbor']",5,412,,214.2,1.18,,,0.76,0.32,,,,0%,,21,315,267,132,0,0,Champions Tour 2024 China Stage 1_csvs
+Life,Life,FPX,3028,"['Yoru', 'Raze', 'Jett', 'Reyna', 'Clove']",5,412,,246.3,1.11,,,0.84,0.25,,,,0%,,28,345,311,105,0,0,Champions Tour 2024 China Stage 1_csvs
+jkuro,jkuro,JDG,3519,"['Yoru', 'Harbor', 'Brimstone', 'Omen']",4,143,,218.6,1.2,,,0.84,0.3,,,,0%,,24,120,100,43,0,0,Champions Tour 2024 China Stage 1_csvs
+Levius,Levius,BLG,40845,"['Fade', 'Skye', 'Killjoy', 'Sova']",4,142,,149.9,0.75,,,0.54,0.24,,,,0%,,18,76,102,34,0,0,Champions Tour 2024 China Stage 1_csvs
+ZmjjKK,ZmjjKK,EDG,3520,"['Kayo', 'Raze', 'Jett']",3,538,,282.7,1.35,,,0.98,0.24,,,,0%,,30,529,391,127,0,0,Champions Tour 2024 China Stage 1_csvs
+Spitfires,Spitfires,AG,4881,"['Raze', 'Cypher']",2,313,,215.4,0.99,,,0.75,0.15,,,,0%,,27,235,238,48,0,0,Champions Tour 2024 China Stage 1_csvs
+Biank,Biank,BLG,3021,"['Gekko', 'Sova', 'Fade', 'Skye', 'Omen', 'Brimstone', 'Harbor']",7,304,,173.0,0.86,,,0.59,0.41,,,,0%,,27,178,208,124,0,0,Champions Tour 2024 China Stage 1_csvs
+Yuicaw,Yuicaw,WOL,11218,"['Cypher', 'Yoru', 'Gekko', 'Jett']",4,302,,213.4,1.02,,,0.76,0.19,,,,0%,,30,231,227,58,0,0,Champions Tour 2024 China Stage 1_csvs
+Knight,Knight,BLG,4774,"['Cypher', 'Killjoy', 'Omen', 'Gekko', 'Breach', 'Harbor', 'Reyna']",7,304,,197.3,1.05,,,0.7,0.22,,,,0%,,22,213,203,68,0,0,Champions Tour 2024 China Stage 1_csvs
+yosemite,yosemite,BLG,6022,"['Viper', 'Cypher']",2,304,,209.7,1.08,,,0.73,0.27,,,,0%,,25,223,207,82,0,0,Champions Tour 2024 China Stage 1_csvs
+B3ar,B3ar,BLG,25329,"['Brimstone', 'Harbor', 'Omen', 'Viper']",4,162,,137.6,0.72,,,0.48,0.4,,,,0%,,12,77,107,64,0,0,Champions Tour 2024 China Stage 1_csvs
+Eren,Eren,TYL,14444,"['Viper', 'Reyna', 'Sova', 'Killjoy', 'Yoru']",5,255,,200.4,0.95,,,0.68,0.24,,,,0%,,23,174,184,60,0,0,Champions Tour 2024 China Stage 1_csvs
+ICEKING,ICEKING,TYL,4771,"['Skye', 'Killjoy', 'Fade', 'Breach', 'Kayo', 'Astra']",6,255,,158.5,0.75,,,0.55,0.4,,,,0%,,17,141,188,101,0,0,Champions Tour 2024 China Stage 1_csvs
+AAK,AAK,TYL,4773,"['Raze', 'Jett']",2,255,,228.8,1.12,,,0.8,0.18,,,,0%,,24,205,183,45,0,0,Champions Tour 2024 China Stage 1_csvs
+Flex1n,Flex1n,TYL,4705,"['Brimstone', 'Viper', 'Omen']",3,255,,192.9,1.04,,,0.66,0.42,,,,0%,,22,168,161,106,0,0,Champions Tour 2024 China Stage 1_csvs
+zjc,zjc,TYL,7135,"['Cypher', 'Gekko', 'Killjoy', 'Sova']",4,255,,220.6,1.18,,,0.78,0.23,,,,0%,,20,199,168,58,0,0,Champions Tour 2024 China Stage 1_csvs
+pl1xx,pl1xx,WOL,871,"['Skye', 'Fade', 'Kayo', 'Cypher', 'Sova', 'Omen']",6,302,,154.3,0.74,,,0.54,0.37,,,,0%,,20,163,221,112,0,0,Champions Tour 2024 China Stage 1_csvs
+Spring,Spring,WOL,14125,"['Raze', 'Jett']",2,302,,205.8,0.99,,,0.74,0.14,,,,0%,,25,222,224,42,0,0,Champions Tour 2024 China Stage 1_csvs
+balua,balua,WOL,14441,"['Omen', 'Viper', 'Killjoy', 'Cypher']",4,302,,197.6,0.91,,,0.7,0.34,,,,0%,,31,211,233,103,0,0,Champions Tour 2024 China Stage 1_csvs
+coldfish,coldfish,WOL,3020,"['Viper', 'Sova', 'Cypher']",3,302,,188.9,0.88,,,0.61,0.33,,,,0%,,24,183,209,101,0,0,Champions Tour 2024 China Stage 1_csvs
+Rb,Rb,TEC,488,"['Raze', 'Cypher', 'Yoru', 'Kayo', 'Gekko', 'Breach', 'Viper']",7,260,,219.1,1.08,,,0.77,0.28,,,,0%,,33,201,186,73,0,0,Champions Tour 2024 China Stage 1_csvs
+deLb,deLb,AG,10821,"['Killjoy', 'Cypher', 'Yoru', 'Viper']",4,313,,222.1,1.15,,,0.79,0.2,,,,0%,,27,247,214,64,0,0,Champions Tour 2024 China Stage 1_csvs
+AC,AC,TEC,14445,"['Omen', 'Viper', 'Killjoy']",3,260,,193.6,1.0,,,0.7,0.29,,,,0%,,22,182,182,76,0,0,Champions Tour 2024 China Stage 1_csvs
+Abo,Abo,TEC,5011,"['Viper', 'Raze', 'Jett', 'Gekko']",4,260,,201.2,0.83,,,0.68,0.22,,,,0%,,20,177,212,56,0,0,Champions Tour 2024 China Stage 1_csvs
+kawaii,kawaii,TEC,4778,"['Cypher', 'Brimstone', 'Killjoy', 'Reyna']",4,260,,175.4,0.84,,,0.61,0.22,,,,0%,,24,158,187,56,0,0,Champions Tour 2024 China Stage 1_csvs
+LockM,LockM,TEC,25339,"['Skye', 'Fade', 'Sova']",3,260,,158.5,0.76,,,0.56,0.28,,,,0%,,19,146,192,73,0,0,Champions Tour 2024 China Stage 1_csvs
+Nicc,Nicc,DRG,11524,"['Sova', 'Breach', 'Kayo', 'Skye']",4,549,,186.7,1.03,,,0.68,0.39,,,,0%,,21,372,362,212,0,0,Champions Tour 2024 China Stage 1_csvs
+TvirusLuke,TvirusLuke,DRG,7841,"['Jett', 'Yoru', 'Raze']",3,549,,212.9,0.87,,,0.7,0.2,,,,0%,,25,386,442,109,0,0,Champions Tour 2024 China Stage 1_csvs
+vo0kashu,vo0kashu,DRG,3741,"['Killjoy', 'Cypher']",2,549,,231.6,1.19,,,0.85,0.2,,,,0%,,30,467,392,111,0,0,Champions Tour 2024 China Stage 1_csvs
+Shion7,Shion7,DRG,41774,"['Harbor', 'Sova', 'Omen', 'Viper']",4,549,,183.7,0.85,,,0.63,0.32,,,,0%,,24,347,408,178,0,0,Champions Tour 2024 China Stage 1_csvs
+nizhaoTZH,nizhaoTZH,DRG,4880,"['Viper', 'Omen', 'Brimstone']",3,549,,179.9,0.95,,,0.64,0.32,,,,0%,,21,351,371,176,0,0,Champions Tour 2024 China Stage 1_csvs
+sword9,sword9,AG,3049,"['Kayo', 'Sova', 'Fade', 'Gekko', 'Breach']",5,313,,159.9,0.74,,,0.53,0.4,,,,0%,,17,167,226,126,0,0,Champions Tour 2024 China Stage 1_csvs
+bunt,bunt,AG,25949,"['Viper', 'Omen', 'Brimstone', 'Astra']",4,313,,189.9,1.02,,,0.69,0.33,,,,0%,,24,217,212,103,0,0,Champions Tour 2024 China Stage 1_csvs
+monk,monk,AG,14431,"['Harbor', 'Breach', 'Viper', 'Skye']",4,313,,185.8,0.89,,,0.65,0.34,,,,0%,,24,203,227,106,0,0,Champions Tour 2024 China Stage 1_csvs
+PangH,PangH,NOVA,4727,['Omen'],1,73,,180.0,0.72,,,0.56,0.34,,,,0%,,18,41,57,25,0,0,Champions Tour 2024 China Stage 1_csvs
+Abo,Abo,TEC,5011,"['Jett', 'Viper', 'Fade', 'Chamber', 'Cypher']",5,269,,212.5,1.07,,141.5,0.77,0.19,0.16,0.17,,0%,,28,208,194,52,42,46,Champions Tour 2024 China Stage 2_csvs
+Autumn,Autumn,FPX,872,"['Cypher', 'Viper', 'Yoru', 'Kayo', 'Clove']",5,599,,201.6,1.02,,135.1,0.72,0.25,0.1,0.06,,0%,,28,430,420,149,59,36,Champions Tour 2024 China Stage 2_csvs
+vo0kashu,vo0kashu,DRG,3741,"['Cypher', 'Omen', 'Sova']",3,193,,252.0,1.33,,162.8,0.93,0.27,0.15,0.06,,0%,,30,180,135,52,28,12,Champions Tour 2024 China Stage 2_csvs
+Shion7,Shion7,DRG,41774,"['Sova', 'Killjoy']",2,193,,181.9,0.8,,126.8,0.62,0.17,0.07,0.12,,0%,,19,119,148,32,13,24,Champions Tour 2024 China Stage 2_csvs
+nizhaoTZH,nizhaoTZH,DRG,4880,"['Omen', 'Viper']",2,193,,155.3,0.78,,103.0,0.54,0.47,0.04,0.08,,0%,,20,105,135,91,8,15,Champions Tour 2024 China Stage 2_csvs
+o0o0o,o0o0o,NOVA,4402,"['Kayo', 'Viper', 'Breach']",3,230,,158.8,0.73,,106.9,0.54,0.46,0.06,0.09,,0%,,20,124,169,105,14,21,Champions Tour 2024 China Stage 2_csvs
+Ezeir,Ezeir,NOVA,46460,"['Omen', 'Astra', 'Viper']",3,230,,184.0,0.93,,118.1,0.64,0.35,0.05,0.09,,0%,,21,147,158,81,12,20,Champions Tour 2024 China Stage 2_csvs
+CB,CB,NOVA,39697,"['Sova', 'Fade', 'Phoenix', 'Skye', 'Gekko']",5,230,,187.3,0.95,,130.4,0.66,0.32,0.07,0.12,,0%,,26,151,159,74,16,27,Champions Tour 2024 China Stage 2_csvs
+GuanG,GuanG,NOVA,41054,"['Cypher', 'Killjoy', 'Chamber', 'Sage', 'Gekko']",5,230,,209.0,1.1,,146.3,0.78,0.23,0.13,0.08,,0%,,28,179,162,52,30,18,Champions Tour 2024 China Stage 2_csvs
+SWERL,SWERL,NOVA,1209,"['Jett', 'Raze']",2,230,,222.6,0.97,,143.5,0.77,0.16,0.13,0.19,,0%,,22,176,182,36,30,44,Champions Tour 2024 China Stage 2_csvs
+AAAAY,AAAAY,FPX,19530,"['Breach', 'Gekko', 'Sova', 'Kayo', 'Fade']",5,599,,192.1,1.03,,130.1,0.7,0.32,0.06,0.06,,0%,,23,417,404,192,33,34,Champions Tour 2024 China Stage 2_csvs
+BerLIN,BerLIN,FPX,7857,"['Kayo', 'Astra', 'Viper', 'Omen', 'Sova']",5,599,,186.7,0.89,,124.8,0.63,0.39,0.08,0.11,,0%,,19,375,421,236,50,66,Champions Tour 2024 China Stage 2_csvs
+Lysoar,Lysoar,FPX,37489,"['Omen', 'Killjoy', 'Cypher', 'Brimstone']",4,599,,196.6,1.03,,129.3,0.68,0.37,0.05,0.05,,0%,,25,408,398,220,32,30,Champions Tour 2024 China Stage 2_csvs
+Life,Life,FPX,3028,"['Jett', 'Raze', 'Yoru']",3,599,,217.7,1.0,,136.3,0.75,0.14,0.22,0.22,,0%,,26,450,449,82,129,130,Champions Tour 2024 China Stage 2_csvs
+Nicc,Nicc,DRG,11524,"['Kayo', 'Fade', 'Breach']",3,193,,172.1,0.84,,116.2,0.59,0.49,0.04,0.11,,0%,,18,114,136,94,7,21,Champions Tour 2024 China Stage 2_csvs
+FengF,FengF,TE,4770,"['Killjoy', 'Raze']",2,493,,217.4,1.09,,150.5,0.77,0.18,0.14,0.12,,0%,,30,382,350,91,69,61,Champions Tour 2024 China Stage 2_csvs
+heybay,heybay,TE,4712,"['Breach', 'Viper', 'Brimstone', 'Kayo', 'Deadlock']",5,493,,166.2,0.83,,108.5,0.58,0.43,0.06,0.06,,0%,,25,288,345,214,30,28,Champions Tour 2024 China Stage 2_csvs
+Kai,Kai,TE,37494,"['Jett', 'Killjoy', 'Cypher', 'Yoru']",4,493,,220.1,1.12,,142.4,0.81,0.19,0.15,0.13,,0%,,28,399,355,94,75,62,Champions Tour 2024 China Stage 2_csvs
+LuoK1ng,LuoK1ng,TE,3045,"['Omen', 'Viper', 'Brimstone']",3,493,,179.3,0.91,,113.3,0.64,0.38,0.06,0.07,,0%,,22,316,348,185,29,34,Champions Tour 2024 China Stage 2_csvs
+Biank,Biank,TE,3021,"['Sova', 'Fade', 'Skye', 'Kayo']",4,493,,198.8,0.93,,125.9,0.68,0.31,0.1,0.12,,0%,,22,333,359,155,48,57,Champions Tour 2024 China Stage 2_csvs
+Haodong,Haodong,EDG,4720,"['Cypher', 'Fade', 'Kayo']",3,66,,123.3,0.53,,82.1,0.39,0.38,0.06,0.12,,0%,,11,26,49,25,4,8,Champions Tour 2024 China Stage 2_csvs
+ZmjjKK,ZmjjKK,EDG,3520,"['Raze', 'Jett', 'Neon', 'Omen', 'Yoru']",5,394,,259.4,1.25,,162.8,0.91,0.22,0.21,0.19,,0%,,30,359,288,88,82,74,Champions Tour 2024 China Stage 2_csvs
+nobody,nobody,EDG,3017,"['Skye', 'Sova', 'Gekko', 'Fade']",4,394,,203.2,0.99,,136.3,0.7,0.32,0.1,0.11,,0%,,21,274,278,128,38,42,Champions Tour 2024 China Stage 2_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Viper', 'Brimstone', 'Killjoy', 'Omen', 'Cypher']",5,394,,203.6,1.16,,131.6,0.75,0.28,0.05,0.06,,0%,,21,295,254,110,19,23,Champions Tour 2024 China Stage 2_csvs
+Smoggy,Smoggy,EDG,4742,"['Omen', 'Raze', 'Viper', 'Chamber', 'Clove', 'Jett', 'Brimstone']",7,394,,201.1,1.09,,135.2,0.71,0.31,0.08,0.11,,0%,,21,279,257,122,33,42,Champions Tour 2024 China Stage 2_csvs
+Eren,Eren,TYL,14444,"['Viper', 'Neon', 'Killjoy', 'Gekko', 'Cypher']",5,209,,194.8,0.96,,132.4,0.72,0.19,0.06,0.1,,0%,,21,150,157,40,13,21,Champions Tour 2024 China Stage 2_csvs
+S1Mon,S1Mon,EDG,13768,"['Breach', 'Fade', 'Kayo', 'Gekko']",4,328,,173.4,1.0,,115.6,0.64,0.41,0.04,0.05,,0%,,20,210,211,135,13,16,Champions Tour 2024 China Stage 2_csvs
+TvirusLuke,TvirusLuke,DRG,7841,"['Jett', 'Neon']",2,193,,225.6,0.9,,146.7,0.73,0.26,0.2,0.14,,0%,,24,140,156,50,38,27,Champions Tour 2024 China Stage 2_csvs
+SiuFatBB,SiuFatBB,WOL,7849,"['Breach', 'Gekko', 'Viper', 'Sova']",4,197,,160.9,0.98,,107.4,0.58,0.35,0.04,0.04,,0%,,18,114,116,68,7,8,Champions Tour 2024 China Stage 2_csvs
+kawaii,kawaii,TEC,4778,"['Killjoy', 'Cypher']",2,92,,172.8,0.86,,121.4,0.61,0.17,0.07,0.07,,0%,,18,56,65,16,6,6,Champions Tour 2024 China Stage 2_csvs
+sword9,sword9,AG,3049,"['Gekko', 'Sova', 'Fade']",3,263,,185.8,0.92,,119.9,0.64,0.26,0.06,0.11,,0%,,18,169,184,68,15,29,Champions Tour 2024 China Stage 2_csvs
+LockM,LockM,TEC,25339,"['Sova', 'Fade', 'Breach', 'Viper', 'Brimstone']",5,269,,163.2,0.83,,110.8,0.56,0.32,0.04,0.06,,0%,,20,150,180,86,10,16,Champions Tour 2024 China Stage 2_csvs
+Rb,Rb,TEC,488,"['Kayo', 'Raze', 'Neon', 'Harbor', 'Killjoy']",5,269,,227.7,0.99,,147.3,0.78,0.23,0.13,0.18,,0%,,30,211,214,63,35,49,Champions Tour 2024 China Stage 2_csvs
+AC,AC,TEC,14445,"['Viper', 'Omen', 'Brimstone']",3,269,,210.2,1.08,,133.4,0.74,0.43,0.06,0.07,,0%,,21,199,185,117,16,19,Champions Tour 2024 China Stage 2_csvs
+stew,stew,JDG,16924,"['Jett', 'Raze', 'Neon']",3,267,,230.5,1.36,,151.8,0.85,0.13,0.16,0.15,,0%,,27,226,166,34,42,41,Champions Tour 2024 China Stage 2_csvs
+Viva,Viva,JDG,36415,"['Viper', 'Sova', 'Gekko', 'Breach']",4,267,,218.2,1.31,,140.0,0.77,0.28,0.09,0.06,,0%,,21,206,157,76,25,15,Champions Tour 2024 China Stage 2_csvs
+jkuro,jkuro,JDG,3519,"['Killjoy', 'Cypher']",2,267,,175.7,0.86,,119.8,0.62,0.23,0.12,0.1,,0%,,22,166,192,61,31,28,Champions Tour 2024 China Stage 2_csvs
+Z1yan,Z1yan,JDG,41029,"['Kayo', 'Omen', 'Viper', 'Deadlock']",4,267,,212.2,1.09,,136.6,0.75,0.37,0.09,0.07,,0%,,22,200,184,99,25,19,Champions Tour 2024 China Stage 2_csvs
+YHchen,YHchen,JDG,10486,"['Deadlock', 'Fade', 'Omen', 'Astra']",4,267,,203.2,1.02,,127.9,0.69,0.37,0.08,0.07,,0%,,19,183,179,99,21,20,Champions Tour 2024 China Stage 2_csvs
+bunt,bunt,AG,25949,"['Omen', 'Viper']",2,263,,182.0,0.96,,117.6,0.65,0.34,0.09,0.07,,0%,,20,171,179,90,23,18,Champions Tour 2024 China Stage 2_csvs
+monk,monk,AG,14431,"['Breach', 'Kayo', 'Deadlock']",3,263,,194.5,0.88,,125.9,0.66,0.51,0.07,0.05,,0%,,22,173,196,133,18,13,Champions Tour 2024 China Stage 2_csvs
+deLb,deLb,AG,10821,"['Cypher', 'Killjoy']",2,263,,182.0,1.01,,122.3,0.68,0.17,0.06,0.06,,0%,,22,179,177,46,16,15,Champions Tour 2024 China Stage 2_csvs
+Spitfires,Spitfires,AG,4881,"['Raze', 'Jett']",2,263,,229.1,1.03,,149.0,0.8,0.14,0.25,0.18,,0%,,25,210,203,37,67,48,Champions Tour 2024 China Stage 2_csvs
+Ninebody,Ninebody,TYL,3547,"['Gekko', 'Jett', 'Raze', 'Brimstone']",4,249,,251.6,1.19,,165.3,0.87,0.24,0.21,0.15,,0%,,26,217,183,59,53,37,Champions Tour 2024 China Stage 2_csvs
+Yuicaw,Yuicaw,WOL,11218,"['Gekko', 'Brimstone', 'Cypher', 'Jett']",4,197,,254.0,1.29,,167.5,0.92,0.38,0.14,0.07,,0%,,28,181,140,74,27,14,Champions Tour 2024 China Stage 2_csvs
+AAK,AAK,TYL,4773,['Viper'],1,40,,162.5,0.68,,109.0,0.53,0.18,0.05,0.13,,0%,,14,21,31,7,2,5,Champions Tour 2024 China Stage 2_csvs
+Scales,Scales,TYL,39485,"['Kayo', 'Skye', 'Breach', 'Viper']",4,249,,164.7,0.77,,109.4,0.56,0.51,0.08,0.09,,0%,,21,140,182,126,19,22,Champions Tour 2024 China Stage 2_csvs
+zjc,zjc,TYL,7135,"['Sage', 'Killjoy', 'Cypher', 'Sova', 'Skye', 'Omen']",6,249,,186.2,0.93,,131.1,0.65,0.23,0.07,0.11,,0%,,22,163,176,58,17,27,Champions Tour 2024 China Stage 2_csvs
+coldfish,coldfish,TYL,3020,"['Omen', 'Sova', 'Brimstone', 'Viper']",4,249,,182.3,0.93,,118.9,0.65,0.31,0.08,0.05,,0%,,20,161,174,77,19,12,Champions Tour 2024 China Stage 2_csvs
+whzy,whzy,BLG,4885,"['Chamber', 'Raze', 'Jett']",3,370,,225.5,1.06,,146.2,0.8,0.21,0.21,0.17,,0%,,26,296,278,77,77,63,Champions Tour 2024 China Stage 2_csvs
+Knight,Knight,BLG,4774,"['Sage', 'Cypher', 'Sova', 'Breach', 'Killjoy']",5,370,,197.6,1.0,,132.2,0.68,0.41,0.07,0.07,,0%,,23,251,252,150,26,27,Champions Tour 2024 China Stage 2_csvs
+yosemite,yosemite,BLG,6022,"['Raze', 'Viper', 'Killjoy', 'Cypher']",4,370,,206.0,0.99,,140.0,0.71,0.29,0.09,0.09,,0%,,31,263,265,108,32,33,Champions Tour 2024 China Stage 2_csvs
+Flex1n,Flex1n,BLG,4705,"['Omen', 'Brimstone', 'Harbor', 'Viper']",4,370,,187.1,1.05,,118.0,0.65,0.5,0.06,0.08,,0%,,23,241,229,185,22,31,Champions Tour 2024 China Stage 2_csvs
+nephh,nephh,BLG,10698,"['Gekko', 'Skye', 'Kayo', 'Fade', 'Sova', 'Breach']",6,370,,202.5,0.97,,128.5,0.7,0.46,0.09,0.07,,0%,,23,259,266,170,33,26,Champions Tour 2024 China Stage 2_csvs
+pl1xx,pl1xx,WOL,871,"['Sage', 'Fade', 'Yoru', 'Kayo']",4,197,,194.9,0.94,,127.7,0.66,0.4,0.07,0.07,,0%,,18,130,139,79,14,13,Champions Tour 2024 China Stage 2_csvs
+Spring,Spring,WOL,14125,"['Raze', 'Jett', 'Killjoy']",3,197,,233.7,1.01,,157.0,0.79,0.23,0.21,0.23,,0%,,25,155,153,45,42,45,Champions Tour 2024 China Stage 2_csvs
+balua,balua,WOL,14441,"['Omen', 'Viper', 'Killjoy']",3,197,,189.4,1.0,,121.5,0.7,0.24,0.08,0.06,,0%,,23,137,137,48,15,12,Champions Tour 2024 China Stage 2_csvs
+B1ack,B1ack,TEC,30526,"['Skye', 'Kayo', 'Breach']",3,177,,194.5,1.02,,118.2,0.68,0.41,0.07,0.06,,0%,,19,121,119,73,12,11,Champions Tour 2024 China Stage 2_csvs
+AtaKaptan,AtaKaptan,FUT,6510,"['Breach', 'Omen', 'Viper']",3,182,1.24,216.9,1.23,76%,140.5,0.77,0.51,0.04,0.07,30%,17%,4/23,30,140,114,92,7,13,Champions Tour 2024 EMEA Kickoff_csvs
+N4RRATE,N4RRATE,KC,36245,"['Raze', 'Gekko', 'Fade', 'Reyna']",4,383,1.23,249.9,1.27,78%,166.2,0.89,0.33,0.12,0.08,26%,15%,5/33,40,342,269,125,47,31,Champions Tour 2024 EMEA Kickoff_csvs
+Cloud,Cloud,GX,4181,"['Breach', 'Fade', 'Skye', 'Sova']",4,124,1.21,241.3,1.17,71%,155.6,0.84,0.36,0.08,0.06,30%,13%,2/16,22,104,89,45,10,8,Champions Tour 2024 EMEA Kickoff_csvs
+Zyppan,Zyppan,NAVI,11,"['Raze', 'Kayo', 'Sova', 'Breach']",4,146,1.18,237.1,1.23,72%,156.5,0.86,0.32,0.1,0.08,34%,0%,0/12,25,125,102,47,15,11,Champions Tour 2024 EMEA Kickoff_csvs
+MiniBoo,MiniBoo,TH,18350,"['Neon', 'Yoru', 'Raze']",3,208,1.18,254.7,1.22,69%,165.1,0.88,0.19,0.22,0.17,28%,40%,6/15,25,184,151,39,45,36,Champions Tour 2024 EMEA Kickoff_csvs
+ardiis,ardiis,NAVI,98,"['Kayo', 'Jett', 'Yoru', 'Breach', 'Chamber']",5,146,1.18,246.0,1.25,74%,155.8,0.9,0.28,0.14,0.1,21%,20%,4/20,28,132,106,41,21,15,Champions Tour 2024 EMEA Kickoff_csvs
+Sayf,Sayf,VIT,312,"['Viper', 'Omen', 'Kayo', 'Cypher']",4,238,1.17,209.2,1.22,68%,137.3,0.77,0.28,0.11,0.08,37%,14%,5/37,27,183,150,67,26,19,Champions Tour 2024 EMEA Kickoff_csvs
+Chronicle,Chronicle,FNC,458,"['Viper', 'Kayo', 'Breach']",3,88,1.17,218.0,1.2,76%,140.4,0.74,0.57,0.09,0.05,22%,42%,5/12,21,65,54,50,8,4,Champions Tour 2024 EMEA Kickoff_csvs
+Keiko,Keiko,TL,11494,"['Jett', 'Raze', 'Yoru']",3,160,1.16,229.0,1.24,71%,150.7,0.83,0.11,0.21,0.12,30%,5%,1/19,37,133,107,18,33,19,Champions Tour 2024 EMEA Kickoff_csvs
+marteen,marteen,KC,10307,"['Yoru', 'Raze', 'Jett']",3,383,1.13,241.1,1.2,73%,156.4,0.84,0.25,0.18,0.15,23%,20%,4/20,31,320,266,95,70,57,Champions Tour 2024 EMEA Kickoff_csvs
+TakaS,TakaS,M8,301,"['Yoru', 'Raze']",2,104,1.13,260.8,1.25,66%,164.9,0.92,0.2,0.15,0.12,22%,14%,1/7,26,96,77,21,16,12,Champions Tour 2024 EMEA Kickoff_csvs
+yetujey,yetujey,FUT,8369,"['Killjoy', 'Viper', 'Phoenix', 'Cypher']",4,182,1.11,210.0,1.16,79%,143.3,0.74,0.25,0.12,0.09,24%,19%,5/27,30,135,116,46,22,17,Champions Tour 2024 EMEA Kickoff_csvs
+Kicks,Kicks,VIT,11134,"['Skye', 'Sova']",2,238,1.1,201.3,1.09,72%,127.4,0.73,0.38,0.05,0.11,21%,23%,6/26,26,173,158,91,12,27,Champions Tour 2024 EMEA Kickoff_csvs
+Alfajer,Alfajer,FNC,9810,"['Killjoy', 'Cypher']",2,88,1.08,225.5,1.26,74%,146.6,0.83,0.1,0.13,0.06,31%,11%,1/9,24,73,58,9,11,5,Champions Tour 2024 EMEA Kickoff_csvs
+Boo,Boo,TH,1144,"['Omen', 'Astra', 'Viper']",3,208,1.07,187.6,1.05,72%,125.1,0.69,0.4,0.07,0.07,29%,4%,1/23,26,143,136,84,15,15,Champions Tour 2024 EMEA Kickoff_csvs
+Leo,Leo,FNC,1380,"['Fade', 'Sova', 'Skye']",3,88,1.07,186.8,1.13,77%,126.4,0.67,0.33,0.07,0.05,22%,0%,0/11,24,59,52,29,6,4,Champions Tour 2024 EMEA Kickoff_csvs
+Shao,Shao,NAVI,384,"['Brimstone', 'Omen', 'Viper']",3,146,1.06,192.7,1.05,73%,131.9,0.68,0.39,0.05,0.13,30%,10%,1/10,20,99,94,57,7,19,Champions Tour 2024 EMEA Kickoff_csvs
+benjyfishy,benjyfishy,TH,29873,"['Killjoy', 'Viper', 'Cypher']",3,208,1.06,214.5,1.09,75%,141.7,0.76,0.2,0.1,0.09,35%,18%,6/33,22,159,146,42,20,18,Champions Tour 2024 EMEA Kickoff_csvs
+runneR,runneR,VIT,21610,"['Raze', 'Jett']",2,238,1.05,227.7,1.03,72%,153.2,0.76,0.26,0.16,0.16,19%,31%,4/13,27,182,176,63,39,37,Champions Tour 2024 EMEA Kickoff_csvs
+nukkye,nukkye,GX,3070,"['Cypher', 'Sage', 'Killjoy']",3,124,1.04,202.2,0.99,73%,137.4,0.69,0.3,0.1,0.06,29%,8%,1/13,21,86,87,37,13,7,Champions Tour 2024 EMEA Kickoff_csvs
+Boaster,Boaster,FNC,438,['Omen'],1,88,1.01,200.3,1.03,70%,134.6,0.73,0.43,0.07,0.1,28%,0%,0/12,20,64,62,38,6,9,Champions Tour 2024 EMEA Kickoff_csvs
+MAGNUM,MAGNUM,KC,2173,"['Fade', 'Cypher', 'Killjoy', 'Skye']",4,383,1.01,180.0,0.99,73%,124.0,0.64,0.29,0.08,0.1,25%,17%,8/46,25,247,250,110,29,40,Champions Tour 2024 EMEA Kickoff_csvs
+RieNs,RieNs,TH,10971,"['Gekko', 'Sova', 'Breach']",3,208,1.01,202.4,1.01,75%,139.1,0.7,0.31,0.1,0.02,39%,18%,4/22,24,146,145,65,21,5,Champions Tour 2024 EMEA Kickoff_csvs
+grubinho,grubinho,MKOI,5550,"['Viper', 'Brimstone', 'Omen']",3,239,1.0,185.7,0.96,72%,115.3,0.65,0.36,0.07,0.07,35%,15%,5/33,17,155,161,85,17,16,Champions Tour 2024 EMEA Kickoff_csvs
+nAts,nAts,TL,457,"['Viper', 'Cypher']",2,160,0.99,197.9,0.99,71%,138.7,0.68,0.23,0.07,0.11,28%,8%,2/25,28,109,110,36,11,18,Champions Tour 2024 EMEA Kickoff_csvs
+SUYGETSU,SUYGETSU,NAVI,2858,"['Viper', 'Cypher']",2,146,0.99,181.6,1.06,71%,124.3,0.65,0.18,0.04,0.1,38%,20%,5/25,17,95,90,26,6,15,Champions Tour 2024 EMEA Kickoff_csvs
+MrFaliN,MrFaliN,FUT,8044,"['Astra', 'Gekko', 'Skye', 'Sova', 'Omen']",5,182,0.98,201.0,0.96,74%,129.3,0.68,0.43,0.1,0.1,20%,11%,2/18,23,124,129,78,19,19,Champions Tour 2024 EMEA Kickoff_csvs
+sheydos,sheydos,MKOI,1428,"['Killjoy', 'Viper', 'Cypher']",3,239,0.98,163.0,0.97,72%,115.2,0.59,0.18,0.03,0.05,26%,18%,7/40,17,142,147,43,7,11,Champions Tour 2024 EMEA Kickoff_csvs
+Jamppi,Jamppi,TL,9780,"['Killjoy', 'Skye', 'Viper', 'Kayo', 'Breach']",5,160,0.98,208.1,0.99,73%,138.2,0.72,0.22,0.15,0.08,38%,19%,3/16,21,115,116,35,24,12,Champions Tour 2024 EMEA Kickoff_csvs
+tomaszy,tomaszy,KC,19691,"['Omen', 'Viper']",2,383,0.97,184.6,0.95,75%,128.7,0.66,0.34,0.09,0.07,33%,18%,8/44,30,251,264,129,36,27,Champions Tour 2024 EMEA Kickoff_csvs
+logaN,logaN,M8,868,"['Cypher', 'Killjoy']",2,104,0.96,173.8,0.97,69%,117.9,0.59,0.15,0.05,0.11,30%,0%,0/15,15,61,63,16,5,11,Champions Tour 2024 EMEA Kickoff_csvs
+Elite,Elite,BBL,16459,"['Viper', 'Killjoy', 'Cypher']",3,100,0.96,210.0,0.96,65%,134.7,0.72,0.23,0.1,0.1,50%,0%,0/10,20,72,75,23,10,10,Champions Tour 2024 EMEA Kickoff_csvs
+sh1n,sh1n,KC,2625,"['Astra', 'Omen', 'Harbor', 'Sage']",4,383,0.96,162.2,1.0,75%,103.0,0.61,0.34,0.05,0.07,32%,15%,9/60,19,235,234,132,20,25,Champions Tour 2024 EMEA Kickoff_csvs
+reazy,reazy,BBL,10146,"['Skye', 'Sova']",2,100,0.96,197.0,0.92,73%,134.9,0.66,0.34,0.04,0.04,25%,15%,4/26,18,66,72,34,4,4,Champions Tour 2024 EMEA Kickoff_csvs
+qRaxs,qRaxs,FUT,1139,"['Gekko', 'Kayo', 'Raze', 'Fade']",4,182,0.95,201.6,0.89,73%,130.5,0.65,0.43,0.08,0.08,25%,18%,3/17,20,119,133,78,15,14,Champions Tour 2024 EMEA Kickoff_csvs
+kamo,kamo,MKOI,14681,"['Yoru', 'Raze']",2,239,0.95,212.1,0.91,67%,144.1,0.72,0.19,0.22,0.21,24%,23%,3/13,24,171,188,46,52,51,Champions Tour 2024 EMEA Kickoff_csvs
+cNed,cNed,FUT,573,"['Yoru', 'Neon', 'Chamber', 'Raze']",4,182,0.94,216.4,1.0,71%,141.4,0.75,0.18,0.15,0.16,27%,6%,1/16,22,136,136,33,27,29,Champions Tour 2024 EMEA Kickoff_csvs
+starxo,starxo,MKOI,565,"['Harbor', 'Skye', 'Fade', 'Kayo']",4,239,0.94,189.8,0.94,68%,124.3,0.67,0.33,0.07,0.12,24%,21%,6/29,22,159,170,78,17,28,Champions Tour 2024 EMEA Kickoff_csvs
+paTiTek,paTiTek,TH,309,"['Viper', 'Kayo']",2,208,0.93,177.2,0.85,73%,116.4,0.59,0.49,0.07,0.09,27%,18%,4/22,22,123,145,101,15,18,Champions Tour 2024 EMEA Kickoff_csvs
+nataNk,nataNk,M8,5004,"['Raze', 'Phoenix']",2,104,0.93,216.6,1.0,68%,146.2,0.76,0.17,0.23,0.22,27%,29%,2/7,24,79,79,18,24,23,Champions Tour 2024 EMEA Kickoff_csvs
+Mistic,Mistic,TL,1457,"['Sage', 'Brimstone', 'Omen', 'Viper']",4,160,0.92,195.9,0.93,74%,130.4,0.7,0.31,0.06,0.09,31%,17%,3/18,21,112,121,49,9,15,Champions Tour 2024 EMEA Kickoff_csvs
+ShadoW,ShadoW,MKOI,451,"['Sova', 'Fade', 'Breach']",3,239,0.9,180.7,0.87,66%,116.3,0.64,0.28,0.07,0.1,22%,19%,4/21,21,153,175,67,16,23,Champions Tour 2024 EMEA Kickoff_csvs
+ceNder,ceNder,VIT,4321,"['Omen', 'Viper', 'Cypher', 'Killjoy']",4,238,0.88,166.6,0.84,68%,108.6,0.58,0.27,0.1,0.09,23%,21%,5/24,23,137,163,64,23,21,Champions Tour 2024 EMEA Kickoff_csvs
+Wailers,Wailers,M8,19522,"['Omen', 'Viper']",2,104,0.85,168.8,0.87,76%,111.1,0.6,0.29,0.02,0.01,30%,11%,2/18,17,62,71,30,2,1,Champions Tour 2024 EMEA Kickoff_csvs
+Destrian,Destrian,VIT,1615,"['Cypher', 'Killjoy', 'Omen', 'Astra']",4,238,0.84,158.7,0.77,68%,111.9,0.54,0.32,0.06,0.09,21%,10%,3/29,19,128,166,76,14,21,Champions Tour 2024 EMEA Kickoff_csvs
+QutionerX,QutionerX,BBL,10161,"['Raze', 'Jett']",2,100,0.84,210.6,0.85,66%,140.2,0.72,0.16,0.19,0.22,26%,25%,1/4,18,72,85,16,19,22,Champions Tour 2024 EMEA Kickoff_csvs
+hoody,hoody,GX,2690,"['Skye', 'Breach', 'Viper']",3,124,0.81,159.7,0.73,64%,107.7,0.53,0.36,0.06,0.14,23%,11%,2/18,16,66,90,45,7,17,Champions Tour 2024 EMEA Kickoff_csvs
+pAura,pAura,BBL,569,"['Breach', 'Kayo']",2,100,0.8,155.8,0.72,72%,96.4,0.56,0.41,0.09,0.07,33%,7%,1/14,20,56,78,41,9,7,Champions Tour 2024 EMEA Kickoff_csvs
+Brave,Brave,BBL,8041,"['Brimstone', 'Omen', 'Viper']",3,100,0.75,155.2,0.69,67%,103.7,0.54,0.26,0.05,0.1,37%,27%,4/15,17,54,78,26,5,10,Champions Tour 2024 EMEA Kickoff_csvs
+ANGE1,ANGE1,NAVI,109,"['Gekko', 'Sova', 'Omen', 'Fade']",4,146,0.75,167.1,0.77,62%,114.6,0.58,0.25,0.11,0.14,35%,0%,0/10,21,85,110,37,16,21,Champions Tour 2024 EMEA Kickoff_csvs
+beyAz,beyAz,M8,220,"['Breach', 'Sova']",2,104,0.75,129.6,0.62,73%,87.4,0.41,0.49,0.05,0.05,30%,10%,1/10,14,43,69,51,5,5,Champions Tour 2024 EMEA Kickoff_csvs
+Fit1nho,Fit1nho,GX,292,['Raze'],1,124,0.74,180.3,0.75,62%,120.8,0.6,0.11,0.11,0.15,23%,0%,0/11,21,74,99,14,14,18,Champions Tour 2024 EMEA Kickoff_csvs
+Derke,Derke,FNC,5022,"['Raze', 'Jett']",2,88,0.74,188.5,0.84,63%,118.6,0.65,0.08,0.19,0.19,27%,0%,0/3,17,57,68,7,17,17,Champions Tour 2024 EMEA Kickoff_csvs
+Redgar,Redgar,GX,1427,['Omen'],1,124,0.73,147.7,0.72,64%,99.1,0.53,0.26,0.09,0.15,30%,19%,3/16,22,66,92,32,11,19,Champions Tour 2024 EMEA Kickoff_csvs
+Enzo,Enzo,TL,114,"['Sova', 'Gekko', 'Skye', 'Fade']",4,160,0.73,138.1,0.69,68%,99.9,0.46,0.26,0.06,0.06,21%,0%,0/15,17,73,106,42,10,9,Champions Tour 2024 EMEA Kickoff_csvs
+Elite,Elite,BBL,16459,"['Killjoy', 'Cypher', 'Viper']",3,268,1.21,214.2,1.31,75%,143.6,0.8,0.17,0.07,0.06,44%,16%,7/44,23,215,164,45,18,17,Champions Tour 2024 EMEA Stage 1_csvs
+Leo,Leo,FNC,1380,"['Sova', 'Fade', 'Gekko', 'Breach']",4,646,1.21,210.6,1.35,81%,138.8,0.76,0.36,0.04,0.03,27%,10%,10/99,28,492,364,235,28,19,Champions Tour 2024 EMEA Stage 1_csvs
+benjyfishy,benjyfishy,TH,29873,"['Killjoy', 'Cypher', 'Viper']",3,511,1.16,209.5,1.25,72%,140.0,0.79,0.17,0.09,0.06,33%,19%,13/69,28,404,322,87,44,32,Champions Tour 2024 EMEA Stage 1_csvs
+cNed,cNed,FUT,573,"['Chamber', 'Jett', 'Sage', 'Raze']",4,440,1.16,238.6,1.25,75%,155.6,0.85,0.18,0.15,0.14,28%,8%,3/39,25,373,299,79,66,60,Champions Tour 2024 EMEA Stage 1_csvs
+Shao,Shao,NAVI,384,"['Brimstone', 'Omen', 'Astra']",3,329,1.15,202.7,1.18,77%,132.6,0.73,0.4,0.08,0.06,31%,22%,11/50,24,241,204,130,27,20,Champions Tour 2024 EMEA Stage 1_csvs
+nataNk,nataNk,M8,5004,"['Phoenix', 'Raze', 'Sage']",3,186,1.12,236.8,1.08,68%,155.1,0.83,0.23,0.15,0.14,25%,47%,7/15,25,154,142,43,28,26,Champions Tour 2024 EMEA Stage 1_csvs
+tomaszy,tomaszy,KC,19691,"['Cypher', 'Viper']",2,420,1.1,214.2,1.16,76%,144.1,0.75,0.3,0.08,0.07,33%,10%,6/59,26,317,273,124,35,31,Champions Tour 2024 EMEA Stage 1_csvs
+Sayf,Sayf,VIT,312,"['Gekko', 'Viper', 'Cypher', 'Killjoy', 'Omen']",5,331,1.1,218.7,1.17,74%,140.9,0.8,0.23,0.11,0.08,30%,7%,3/41,28,265,226,75,37,28,Champions Tour 2024 EMEA Stage 1_csvs
+qRaxs,qRaxs,FUT,1139,"['Raze', 'Kayo', 'Sage', 'Gekko']",4,440,1.09,202.4,1.1,73%,130.3,0.74,0.36,0.07,0.06,29%,20%,11/56,24,326,297,160,31,27,Champions Tour 2024 EMEA Stage 1_csvs
+ardiis,ardiis,NAVI,98,"['Kayo', 'Breach', 'Jett']",3,329,1.09,215.0,1.07,75%,142.9,0.77,0.4,0.12,0.11,24%,17%,4/23,23,253,236,133,39,37,Champions Tour 2024 EMEA Stage 1_csvs
+MrFaliN,MrFaliN,FUT,8044,"['Skye', 'Sova', 'Gekko', 'Omen', 'Deadlock', 'Breach']",6,440,1.09,206.2,1.05,75%,135.6,0.7,0.38,0.09,0.08,23%,14%,5/37,25,310,295,169,39,33,Champions Tour 2024 EMEA Stage 1_csvs
+N4RRATE,N4RRATE,KC,36245,"['Kayo', 'Gekko', 'Fade', 'Raze', 'Jett', 'Sova']",6,420,1.09,217.4,1.1,75%,141.1,0.75,0.31,0.08,0.07,27%,14%,6/42,27,314,286,132,34,29,Champions Tour 2024 EMEA Stage 1_csvs
+Alfajer,Alfajer,FNC,9810,"['Killjoy', 'Viper', 'Cypher', 'Raze', 'Deadlock']",5,646,1.08,219.1,1.14,72%,145.4,0.77,0.19,0.12,0.11,29%,9%,6/65,28,496,436,123,79,73,Champions Tour 2024 EMEA Stage 1_csvs
+Chronicle,Chronicle,FNC,458,"['Viper', 'Skye', 'Kayo', 'Cypher', 'Sage', 'Omen']",6,646,1.08,205.8,1.09,74%,137.6,0.71,0.4,0.11,0.07,22%,20%,12/59,26,458,422,259,68,48,Champions Tour 2024 EMEA Stage 1_csvs
+Wo0t,Wo0t,TH,21328,"['Kayo', 'Skye', 'Reyna', 'Viper', 'Fade']",5,351,1.07,206.1,1.03,74%,138.3,0.72,0.36,0.1,0.09,33%,14%,4/28,23,251,244,128,35,30,Champions Tour 2024 EMEA Stage 1_csvs
+trexx,trexx,VIT,2168,"['Viper', 'Fade', 'Astra', 'Kayo', 'Sova', 'Omen']",6,331,1.04,203.1,0.99,76%,130.2,0.69,0.47,0.1,0.09,20%,14%,6/43,26,229,232,156,33,29,Champions Tour 2024 EMEA Stage 1_csvs
+purp0,purp0,GX,1885,"['Jett', 'Raze', 'Yoru', 'Chamber']",4,281,1.04,215.5,0.99,68%,145.8,0.74,0.16,0.18,0.14,31%,7%,2/29,26,207,210,46,51,40,Champions Tour 2024 EMEA Stage 1_csvs
+Keiko,Keiko,TL,11494,"['Raze', 'Yoru', 'Jett', 'Reyna']",4,355,1.04,225.8,1.11,70%,146.9,0.81,0.2,0.19,0.17,31%,18%,4/22,25,288,260,71,66,59,Champions Tour 2024 EMEA Stage 1_csvs
+nAts,nAts,TL,457,"['Cypher', 'Viper']",2,355,1.04,211.8,1.15,74%,141.1,0.77,0.23,0.08,0.08,29%,22%,11/49,24,275,239,83,28,28,Champions Tour 2024 EMEA Stage 1_csvs
+grubinho,grubinho,MKOI,5550,"['Omen', 'Viper', 'Brimstone']",3,239,1.04,192.2,0.97,78%,129.1,0.66,0.32,0.1,0.09,33%,15%,5/34,22,158,163,76,23,22,Champions Tour 2024 EMEA Stage 1_csvs
+SUYGETSU,SUYGETSU,NAVI,2858,"['Viper', 'Killjoy', 'Cypher']",3,329,1.04,183.6,1.06,75%,127.1,0.66,0.22,0.07,0.05,32%,9%,5/55,22,217,205,73,24,18,Champions Tour 2024 EMEA Stage 1_csvs
+yetujey,yetujey,FUT,8369,"['Viper', 'Sage', 'Cypher', 'Killjoy']",4,440,1.03,197.6,1.08,70%,131.2,0.7,0.23,0.1,0.11,26%,17%,10/59,23,306,283,99,42,47,Champions Tour 2024 EMEA Stage 1_csvs
+MiniBoo,MiniBoo,TH,18350,"['Kayo', 'Neon', 'Yoru', 'Raze', 'Jett']",5,511,1.03,227.6,1.04,72%,148.2,0.78,0.22,0.18,0.18,32%,16%,5/32,26,400,386,112,94,94,Champions Tour 2024 EMEA Stage 1_csvs
+marteen,marteen,KC,10307,"['Jett', 'Raze', 'Yoru', 'Reyna']",4,420,1.03,217.8,1.07,73%,147.8,0.75,0.19,0.19,0.15,27%,24%,8/34,28,317,297,79,79,65,Champions Tour 2024 EMEA Stage 1_csvs
+sheydos,sheydos,MKOI,1428,"['Viper', 'Cypher', 'Killjoy']",3,239,1.02,171.8,1.07,75%,113.1,0.64,0.14,0.05,0.05,28%,12%,5/41,20,153,143,34,13,13,Champions Tour 2024 EMEA Stage 1_csvs
+logaN,logaN,M8,868,"['Cypher', 'Omen', 'Viper', 'Killjoy']",4,186,1.01,185.7,0.98,68%,120.2,0.66,0.2,0.07,0.08,34%,6%,2/35,19,123,125,38,13,14,Champions Tour 2024 EMEA Stage 1_csvs
+Cloud,Cloud,GX,4181,"['Sova', 'Skye', 'Fade', 'Gekko']",4,281,1.01,192.0,1.0,71%,127.9,0.7,0.26,0.08,0.06,24%,10%,3/29,26,196,196,73,22,16,Champions Tour 2024 EMEA Stage 1_csvs
+RieNs,RieNs,TH,10971,"['Gekko', 'Sova', 'Skye', 'Breach']",4,511,1.01,191.1,0.94,75%,130.1,0.66,0.39,0.06,0.07,36%,20%,12/59,25,337,360,201,31,38,Champions Tour 2024 EMEA Stage 1_csvs
+Derke,Derke,FNC,5022,"['Jett', 'Raze', 'Yoru']",3,646,1.0,224.5,1.07,70%,149.9,0.78,0.19,0.17,0.18,26%,21%,10/47,29,507,472,122,107,118,Champions Tour 2024 EMEA Stage 1_csvs
+QutionerX,QutionerX,BBL,10161,"['Jett', 'Neon', 'Yoru', 'Omen', 'Raze']",5,268,1.0,229.2,1.01,73%,158.3,0.79,0.19,0.19,0.15,23%,6%,1/17,31,213,211,51,52,40,Champions Tour 2024 EMEA Stage 1_csvs
+Zyppan,Zyppan,NAVI,11,"['Raze', 'Kayo', 'Neon', 'Sova']",4,329,1.0,217.3,1.01,74%,147.1,0.74,0.27,0.16,0.14,28%,25%,3/12,24,244,241,89,52,46,Champions Tour 2024 EMEA Stage 1_csvs
+Brave,Brave,BBL,8041,"['Omen', 'Viper', 'Brimstone']",3,268,0.99,204.6,0.98,71%,133.1,0.7,0.37,0.09,0.07,31%,20%,6/30,24,187,190,98,24,20,Champions Tour 2024 EMEA Stage 1_csvs
+starxo,starxo,MKOI,565,"['Fade', 'Kayo', 'Omen', 'Harbor', 'Yoru']",5,239,0.98,190.3,0.93,75%,123.4,0.65,0.48,0.1,0.11,23%,19%,5/26,25,156,168,115,23,26,Champions Tour 2024 EMEA Stage 1_csvs
+Fit1nho,Fit1nho,GX,292,"['Yoru', 'Breach', 'Raze', 'Killjoy', 'Kayo']",5,281,0.96,191.4,0.9,70%,128.3,0.64,0.27,0.1,0.1,32%,7%,2/27,21,179,198,77,28,29,Champions Tour 2024 EMEA Stage 1_csvs
+hoody,hoody,GX,2690,"['Viper', 'Cypher']",2,281,0.94,179.2,0.91,68%,124.7,0.64,0.25,0.1,0.07,27%,12%,5/43,30,180,198,71,29,21,Champions Tour 2024 EMEA Stage 1_csvs
+Enzo,Enzo,TL,114,"['Skye', 'Sova', 'Gekko', 'Cypher', 'Killjoy']",5,355,0.94,173.5,0.89,71%,119.1,0.56,0.34,0.06,0.09,18%,8%,3/40,20,200,225,120,21,31,Champions Tour 2024 EMEA Stage 1_csvs
+MAGNUM,MAGNUM,KC,2173,"['Sova', 'Kayo', 'Skye', 'Killjoy', 'Fade', 'Cypher']",6,420,0.92,179.8,0.85,72%,117.4,0.6,0.37,0.1,0.12,24%,28%,10/36,18,251,294,155,40,49,Champions Tour 2024 EMEA Stage 1_csvs
+Mistic,Mistic,TL,1457,"['Omen', 'Harbor', 'Sage']",3,355,0.92,173.4,0.91,73%,118.0,0.62,0.33,0.07,0.07,32%,5%,2/43,23,219,240,116,24,25,Champions Tour 2024 EMEA Stage 1_csvs
+ceNder,ceNder,VIT,4321,"['Brimstone', 'Omen', 'Viper', 'Killjoy']",4,331,0.91,176.0,0.85,68%,122.7,0.61,0.33,0.07,0.08,24%,11%,4/36,23,203,238,109,22,28,Champions Tour 2024 EMEA Stage 1_csvs
+Jamppi,Jamppi,TL,9780,"['Viper', 'Killjoy', 'Breach', 'Skye', 'Sova', 'Kayo', 'Chamber']",7,355,0.91,193.0,0.91,74%,124.5,0.66,0.32,0.09,0.12,29%,11%,4/35,22,236,258,115,31,41,Champions Tour 2024 EMEA Stage 1_csvs
+Boo,Boo,TH,1144,"['Sage', 'Omen', 'Viper']",3,511,0.91,158.1,0.84,72%,104.0,0.55,0.42,0.08,0.08,36%,10%,7/68,23,280,332,216,42,43,Champions Tour 2024 EMEA Stage 1_csvs
+kamo,kamo,MKOI,14681,"['Raze', 'Jett', 'Yoru', 'Omen', 'Neon']",5,239,0.91,211.9,0.91,66%,136.9,0.72,0.14,0.19,0.18,30%,22%,2/9,25,173,191,34,45,42,Champions Tour 2024 EMEA Stage 1_csvs
+pAura,pAura,BBL,569,"['Kayo', 'Sova', 'Sage', 'Breach']",4,268,0.89,176.8,0.85,65%,111.4,0.6,0.37,0.12,0.13,30%,12%,3/25,19,161,190,100,32,36,Champions Tour 2024 EMEA Stage 1_csvs
+sh1n,sh1n,KC,2625,"['Viper', 'Omen', 'Sage']",3,420,0.89,156.9,0.84,74%,100.1,0.55,0.41,0.06,0.08,28%,9%,5/57,22,233,278,174,24,33,Champions Tour 2024 EMEA Stage 1_csvs
+ANGE1,ANGE1,NAVI,109,"['Gekko', 'Fade', 'Sova', 'Yoru', 'Cypher']",5,329,0.89,185.1,0.88,68%,124.4,0.64,0.29,0.1,0.1,34%,10%,3/30,25,212,241,95,32,34,Champions Tour 2024 EMEA Stage 1_csvs
+paTiTek,paTiTek,TH,309,"['Viper', 'Kayo', 'Brimstone']",3,160,0.89,182.6,0.84,70%,125.4,0.6,0.43,0.06,0.11,23%,12%,2/17,17,96,114,68,9,18,Champions Tour 2024 EMEA Stage 1_csvs
+Kicks,Kicks,VIT,11134,"['Deadlock', 'Killjoy', 'Sova', 'Gekko', 'Kayo', 'Skye']",6,331,0.88,165.3,0.86,75%,109.8,0.61,0.34,0.04,0.05,21%,18%,10/57,24,202,234,113,13,15,Champions Tour 2024 EMEA Stage 1_csvs
+runneR,runneR,VIT,21610,"['Raze', 'Yoru', 'Jett', 'Neon']",4,331,0.88,211.8,0.91,66%,139.2,0.71,0.24,0.17,0.21,17%,14%,3/21,23,235,257,78,56,70,Champions Tour 2024 EMEA Stage 1_csvs
+AtaKaptan,AtaKaptan,FUT,6510,"['Omen', 'Viper']",2,440,0.86,176.7,0.83,70%,112.9,0.59,0.39,0.09,0.13,23%,16%,7/44,20,259,312,173,39,56,Champions Tour 2024 EMEA Stage 1_csvs
+reazy,reazy,BBL,10146,"['Sova', 'Viper', 'Skye', 'Gekko']",4,268,0.86,156.5,0.78,68%,108.5,0.53,0.37,0.04,0.07,29%,24%,8/34,15,141,180,98,10,19,Champions Tour 2024 EMEA Stage 1_csvs
+beyAz,beyAz,M8,220,"['Sova', 'Kayo', 'Skye', 'Breach']",4,186,0.85,178.9,0.79,70%,119.6,0.62,0.37,0.06,0.08,22%,3%,1/29,25,116,146,69,11,15,Champions Tour 2024 EMEA Stage 1_csvs
+Boaster,Boaster,FNC,438,"['Harbor', 'Omen', 'Brimstone', 'Viper', 'Sova']",5,646,0.85,151.3,0.78,73%,98.8,0.51,0.39,0.06,0.1,20%,14%,8/57,21,327,418,255,39,65,Champions Tour 2024 EMEA Stage 1_csvs
+Redgar,Redgar,GX,1427,"['Cypher', 'Omen', 'Kayo']",3,281,0.81,150.5,0.77,68%,97.6,0.54,0.34,0.06,0.09,37%,21%,7/33,18,151,196,95,18,26,Champions Tour 2024 EMEA Stage 1_csvs
+TakaS,TakaS,M8,301,"['Yoru', 'Neon', 'Jett', 'Raze', 'Gekko']",5,186,0.81,190.9,0.81,63%,130.1,0.65,0.26,0.16,0.15,19%,0%,0/12,24,120,149,49,29,27,Champions Tour 2024 EMEA Stage 1_csvs
+ShadoW,ShadoW,MKOI,451,"['Breach', 'Sova', 'Gekko', 'Fade']",4,239,0.8,161.1,0.79,66%,104.7,0.55,0.28,0.04,0.09,21%,0%,0/21,18,132,168,67,10,22,Champions Tour 2024 EMEA Stage 1_csvs
+Wailers,Wailers,M8,19522,"['Omen', 'Cypher', 'Viper']",3,186,0.74,125.4,0.64,59%,85.8,0.46,0.23,0.06,0.06,26%,12%,3/26,15,86,134,42,11,12,Champions Tour 2024 EMEA Stage 1_csvs
+Chronicle,Chronicle,FNC,458,"['Deadlock', 'Skye', 'Viper', 'Sova']",4,439,1.22,216.9,1.29,79%,147.7,0.75,0.37,0.08,0.05,27%,21%,12/58,24,331,256,163,35,22,Champions Tour 2024 EMEA Stage 2_csvs
+grubinho,grubinho,MKOI,5550,"['Omen', 'Viper', 'Brimstone']",3,262,1.22,213.7,1.29,75%,133.3,0.77,0.37,0.07,0.08,33%,6%,2/31,27,203,157,97,18,21,Champions Tour 2024 EMEA Stage 2_csvs
+trexx,trexx,VIT,2168,"['Fade', 'Sova']",2,573,1.21,226.6,1.16,77%,152.7,0.76,0.42,0.08,0.07,19%,14%,11/81,23,435,376,241,45,40,Champions Tour 2024 EMEA Stage 2_csvs
+sheydos,sheydos,MKOI,1428,"['Viper', 'Cypher', 'Killjoy']",3,262,1.2,207.4,1.34,76%,137.1,0.77,0.19,0.07,0.05,25%,14%,5/36,24,202,151,50,19,14,Champions Tour 2024 EMEA Stage 2_csvs
+Sayf,Sayf,VIT,312,"['Neon', 'Jett', 'Iso', 'Raze']",4,573,1.16,239.9,1.23,69%,155.8,0.86,0.19,0.16,0.17,24%,16%,7/43,31,490,398,107,91,96,Champions Tour 2024 EMEA Stage 2_csvs
+Derke,Derke,FNC,5022,"['Jett', 'Raze', 'Yoru', 'Reyna', 'Iso']",5,439,1.15,242.7,1.25,74%,160.6,0.87,0.2,0.17,0.16,25%,22%,6/27,26,382,305,88,76,69,Champions Tour 2024 EMEA Stage 2_csvs
+Alfajer,Alfajer,FNC,9810,"['Cypher', 'Viper', 'Killjoy', 'Iso', 'Breach', 'Clove']",6,439,1.15,221.7,1.27,74%,146.3,0.81,0.22,0.1,0.08,28%,12%,5/42,26,354,278,96,42,35,Champions Tour 2024 EMEA Stage 2_csvs
+N4RRATE,N4RRATE,KC,36245,"['Fade', 'Jett', 'Gekko', 'Neon', 'Skye']",5,245,1.14,239.0,1.13,77%,156.7,0.82,0.32,0.15,0.09,22%,25%,6/24,24,201,178,79,36,22,Champions Tour 2024 EMEA Stage 2_csvs
+RieNs,RieNs,TH,10971,"['Sova', 'Gekko', 'Breach']",3,474,1.13,204.2,1.14,77%,134.9,0.73,0.37,0.08,0.07,34%,12%,7/57,29,344,301,177,36,31,Champions Tour 2024 EMEA Stage 2_csvs
+Wo0t,Wo0t,TH,21328,"['Kayo', 'Fade', 'Iso', 'Jett', 'Gekko', 'Breach']",6,474,1.12,220.9,1.1,77%,143.4,0.76,0.36,0.13,0.09,36%,16%,5/32,26,358,324,171,60,41,Champions Tour 2024 EMEA Stage 2_csvs
+hiro,hiro,FNC,29867,"['Sova', 'Gekko', 'Fade', 'Cypher']",4,439,1.1,194.2,1.16,71%,126.7,0.71,0.33,0.08,0.09,31%,26%,12/46,30,313,269,147,34,39,Champions Tour 2024 EMEA Stage 2_csvs
+Kada,Kada,M8,20871,"['Cypher', 'Omen', 'Viper']",3,274,1.1,207.8,1.12,69%,132.9,0.74,0.28,0.09,0.08,31%,11%,3/28,23,204,182,76,25,21,Champions Tour 2024 EMEA Stage 2_csvs
+nataNk,nataNk,M8,5004,"['Raze', 'Sova', 'Kayo', 'Sage', 'Gekko', 'Neon']",6,274,1.09,229.1,1.1,72%,148.9,0.77,0.26,0.12,0.11,26%,37%,7/19,21,212,193,72,32,30,Champions Tour 2024 EMEA Stage 2_csvs
+MrFaliN,MrFaliN,FUT,8044,"['Breach', 'Omen', 'Sova', 'Deadlock']",4,310,1.07,181.6,1.03,75%,118.2,0.63,0.53,0.08,0.07,25%,19%,6/32,21,195,190,165,26,22,Champions Tour 2024 EMEA Stage 2_csvs
+yetujey,yetujey,FUT,8369,"['Cypher', 'Killjoy']",2,310,1.06,200.5,1.12,69%,128.2,0.71,0.26,0.08,0.07,25%,16%,8/50,21,219,196,81,26,23,Champions Tour 2024 EMEA Stage 2_csvs
+Elite,Elite,BBL,16459,"['Cypher', 'Viper']",2,207,1.06,197.4,1.16,69%,130.4,0.72,0.19,0.09,0.07,41%,13%,4/30,20,149,129,40,19,14,Champions Tour 2024 EMEA Stage 2_csvs
+QutionerX,QutionerX,BBL,10161,"['Jett', 'Raze', 'Neon']",3,207,1.05,240.7,1.08,71%,152.4,0.82,0.2,0.21,0.1,30%,8%,1/13,28,170,158,42,43,21,Champions Tour 2024 EMEA Stage 2_csvs
+cNed,cNed,FUT,573,"['Raze', 'Jett']",2,310,1.04,229.9,1.07,69%,155.0,0.78,0.15,0.18,0.15,24%,8%,2/24,23,243,228,48,57,46,Champions Tour 2024 EMEA Stage 2_csvs
+benjyfishy,benjyfishy,TH,29873,"['Cypher', 'Viper', 'Killjoy']",3,474,1.04,184.9,1.11,70%,125.2,0.72,0.18,0.08,0.07,38%,18%,12/68,30,340,306,83,38,33,Champions Tour 2024 EMEA Stage 2_csvs
+kamo,kamo,MKOI,14681,"['Raze', 'Neon', 'Jett']",3,262,1.03,249.6,1.09,71%,161.3,0.83,0.24,0.21,0.19,26%,13%,1/8,25,217,199,62,55,50,Champions Tour 2024 EMEA Stage 2_csvs
+purp0,purp0,GX,1885,"['Jett', 'Raze', 'Neon', 'Yoru']",4,257,1.03,215.3,1.05,68%,142.5,0.77,0.16,0.21,0.16,37%,8%,2/24,27,198,189,42,53,42,Champions Tour 2024 EMEA Stage 2_csvs
+Boo,Boo,TH,1144,"['Omen', 'Brimstone', 'Viper', 'Astra']",4,474,1.02,173.3,0.97,76%,112.8,0.61,0.44,0.08,0.09,29%,20%,14/71,21,291,301,207,37,42,Champions Tour 2024 EMEA Stage 2_csvs
+marteen,marteen,KC,10307,"['Yoru', 'Raze', 'Omen', 'Gekko']",4,245,1.02,204.1,1.03,75%,137.2,0.74,0.2,0.13,0.1,33%,24%,9/37,24,182,177,49,31,25,Champions Tour 2024 EMEA Stage 2_csvs
+nAts,nAts,TL,457,"['Cypher', 'Viper', 'Killjoy']",3,168,1.02,218.5,1.04,73%,142.5,0.77,0.32,0.11,0.13,27%,3%,1/29,27,129,124,53,18,21,Champions Tour 2024 EMEA Stage 2_csvs
+Enzo,Enzo,TL,114,"['Fade', 'Sova', 'Sage']",3,168,1.01,194.3,0.97,63%,123.3,0.64,0.28,0.04,0.05,18%,11%,3/27,23,108,111,47,6,8,Champions Tour 2024 EMEA Stage 2_csvs
+AtaKaptan,AtaKaptan,FUT,6510,"['Omen', 'Viper']",2,310,1.01,203.0,1.04,75%,129.2,0.73,0.33,0.11,0.13,29%,4%,1/24,25,225,217,102,35,41,Champions Tour 2024 EMEA Stage 2_csvs
+Brave,Brave,BBL,8041,"['Omen', 'Brimstone']",2,207,0.96,198.7,1.0,68%,132.1,0.71,0.29,0.14,0.11,38%,18%,4/22,22,147,147,61,29,23,Champions Tour 2024 EMEA Stage 2_csvs
+SUYGETSU,SUYGETSU,NAVI,2858,"['Cypher', 'Viper', 'Killjoy']",3,285,0.96,188.0,0.94,69%,124.9,0.67,0.2,0.07,0.05,31%,10%,6/58,23,190,202,58,20,15,Champions Tour 2024 EMEA Stage 2_csvs
+Wailers,Wailers,M8,19522,"['Omen', 'Cypher', 'Killjoy']",3,274,0.95,168.9,0.99,73%,112.7,0.63,0.22,0.05,0.04,35%,5%,2/40,20,172,174,59,15,10,Champions Tour 2024 EMEA Stage 2_csvs
+qRaxs,qRaxs,FUT,1139,"['Gekko', 'Breach', 'Kayo', 'Sage']",4,310,0.95,179.1,0.98,72%,118.0,0.65,0.28,0.05,0.06,29%,13%,4/30,18,202,206,88,16,18,Champions Tour 2024 EMEA Stage 2_csvs
+Fit1nho,Fit1nho,GX,292,"['Raze', 'Breach', 'Yoru', 'Killjoy', 'Kayo', 'Omen']",6,257,0.95,177.8,0.92,68%,122.1,0.65,0.28,0.09,0.06,32%,15%,4/27,29,166,181,72,22,15,Champions Tour 2024 EMEA Stage 2_csvs
+Kicks,Kicks,VIT,11134,"['Gekko', 'Killjoy', 'Kayo', 'Breach']",4,573,0.95,177.0,0.89,71%,114.3,0.62,0.41,0.06,0.07,22%,17%,10/58,20,356,398,236,36,40,Champions Tour 2024 EMEA Stage 2_csvs
+runneR,runneR,VIT,21610,"['Cypher', 'Killjoy', 'Neon', 'Viper']",4,573,0.95,186.3,0.94,72%,123.1,0.65,0.25,0.1,0.08,22%,15%,12/79,22,370,393,144,58,45,Champions Tour 2024 EMEA Stage 2_csvs
+ardiis,ardiis,NAVI,98,"['Jett', 'Raze', 'Breach', 'Yoru', 'Kayo']",5,285,0.94,191.6,0.92,67%,126.9,0.69,0.26,0.14,0.13,21%,23%,7/30,25,198,216,75,41,37,Champions Tour 2024 EMEA Stage 2_csvs
+Cloud,Cloud,GX,4181,"['Breach', 'Gekko', 'Sova', 'Fade', 'Skye']",5,257,0.94,185.9,0.87,71%,132.2,0.63,0.34,0.07,0.09,22%,14%,4/28,21,162,187,88,17,22,Champions Tour 2024 EMEA Stage 2_csvs
+MiniBoo,MiniBoo,TH,18350,"['Neon', 'Raze', 'Kayo']",3,474,0.93,209.7,0.92,73%,139.5,0.71,0.26,0.17,0.16,30%,0%,0/19,22,338,366,125,79,76,Champions Tour 2024 EMEA Stage 2_csvs
+sh1n,sh1n,KC,2625,"['Omen', 'Viper', 'Kayo', 'Harbor']",4,245,0.93,180.1,0.88,73%,119.6,0.64,0.38,0.09,0.07,28%,8%,3/40,24,158,180,94,22,17,Champions Tour 2024 EMEA Stage 2_csvs
+hoody,hoody,GX,2690,"['Killjoy', 'Cypher', 'Viper', 'Skye']",4,257,0.91,173.0,0.87,70%,118.0,0.6,0.23,0.07,0.1,25%,5%,2/37,20,153,176,59,19,26,Champions Tour 2024 EMEA Stage 2_csvs
+starxo,starxo,MKOI,565,"['Yoru', 'Kayo', 'Fade', 'Breach']",4,262,0.91,161.8,0.86,70%,105.9,0.56,0.45,0.05,0.11,21%,15%,4/27,18,147,171,119,14,28,Champions Tour 2024 EMEA Stage 2_csvs
+Boaster,Boaster,FNC,438,"['Omen', 'Brimstone', 'Viper', 'Astra']",4,439,0.91,165.9,0.86,72%,107.2,0.56,0.47,0.09,0.11,25%,13%,5/38,18,244,284,206,40,47,Champions Tour 2024 EMEA Stage 2_csvs
+Keiko,Keiko,TL,11494,"['Raze', 'Jett', 'Iso', 'Gekko', 'Reyna']",5,168,0.9,194.0,0.95,67%,131.0,0.73,0.12,0.13,0.18,33%,14%,1/7,30,123,129,20,22,31,Champions Tour 2024 EMEA Stage 2_csvs
+Shao,Shao,NAVI,384,"['Omen', 'Brimstone', 'Astra', 'Sova', 'Fade']",5,285,0.9,178.9,0.82,71%,124.6,0.63,0.32,0.08,0.07,32%,21%,8/39,22,179,218,91,23,19,Champions Tour 2024 EMEA Stage 2_csvs
+pAura,pAura,BBL,569,"['Kayo', 'Gekko', 'Breach']",3,207,0.9,160.7,0.83,66%,106.3,0.57,0.39,0.08,0.11,34%,11%,3/28,18,118,142,80,17,22,Champions Tour 2024 EMEA Stage 2_csvs
+Zyppan,Zyppan,NAVI,11,"['Kayo', 'Gekko', 'Breach', 'Raze', 'Neon']",5,285,0.89,202.2,0.88,68%,135.6,0.7,0.33,0.09,0.14,29%,3%,1/29,23,199,227,93,26,40,Champions Tour 2024 EMEA Stage 2_csvs
+ceNder,ceNder,VIT,4321,"['Omen', 'Viper']",2,573,0.89,163.9,0.83,70%,106.1,0.59,0.37,0.08,0.13,30%,12%,6/52,31,340,408,214,44,77,Champions Tour 2024 EMEA Stage 2_csvs
+TakaS,TakaS,M8,301,"['Yoru', 'Neon', 'Omen', 'Jett']",4,274,0.88,195.3,0.9,65%,127.5,0.67,0.21,0.16,0.23,24%,24%,4/17,23,184,205,57,45,64,Champions Tour 2024 EMEA Stage 2_csvs
+MAGNUM,MAGNUM,KC,2173,"['Sova', 'Breach', 'Killjoy', 'Kayo']",4,245,0.88,168.2,0.81,74%,112.0,0.58,0.33,0.09,0.13,33%,23%,5/22,17,141,174,82,23,33,Champions Tour 2024 EMEA Stage 2_csvs
+Famsii,Famsii,GX,16209,"['Omen', 'Raze']",2,108,0.88,171.6,0.85,71%,125.6,0.62,0.28,0.09,0.07,27%,0%,0/11,24,67,79,30,10,8,Champions Tour 2024 EMEA Stage 2_csvs
+ShadoW,ShadoW,MKOI,451,"['Fade', 'Gekko', 'Sova', 'Breach']",4,262,0.87,162.1,0.86,71%,105.2,0.56,0.32,0.05,0.11,19%,17%,4/24,19,148,173,85,14,28,Champions Tour 2024 EMEA Stage 2_csvs
+Mistic,Mistic,TL,1457,"['Omen', 'Sage', 'Astra']",3,168,0.83,160.5,0.76,71%,101.5,0.56,0.36,0.05,0.1,30%,23%,3/13,17,94,123,61,8,16,Champions Tour 2024 EMEA Stage 2_csvs
+Jamppi,Jamppi,TL,9780,"['Yoru', 'Killjoy', 'Breach', 'Jett', 'Skye', 'Kayo', 'Chamber']",7,168,0.83,167.8,0.78,63%,108.5,0.58,0.2,0.08,0.14,32%,13%,3/24,20,98,125,34,14,24,Champions Tour 2024 EMEA Stage 2_csvs
+tomaszy,tomaszy,KC,19691,"['Cypher', 'Harbor', 'Neon', 'Killjoy']",4,245,0.82,162.8,0.81,65%,109.4,0.58,0.2,0.06,0.09,33%,7%,2/28,16,143,176,49,14,22,Champions Tour 2024 EMEA Stage 2_csvs
+beyAz,beyAz,M8,220,"['Breach', 'Kayo', 'Sova', 'Fade']",4,274,0.78,147.3,0.69,72%,99.4,0.48,0.43,0.04,0.08,22%,18%,6/33,15,132,190,117,10,21,Champions Tour 2024 EMEA Stage 2_csvs
+reazy,reazy,BBL,10146,"['Sova', 'Fade', 'Gekko']",3,207,0.78,151.1,0.77,67%,103.2,0.53,0.27,0.06,0.03,32%,13%,3/24,15,110,142,55,12,7,Champions Tour 2024 EMEA Stage 2_csvs
+Redgar,Redgar,GX,1427,"['Omen', 'Cypher', 'Sage']",3,149,0.76,144.0,0.71,67%,95.7,0.51,0.4,0.08,0.07,39%,14%,3/22,17,76,107,59,12,11,Champions Tour 2024 EMEA Stage 2_csvs
+ANGE1,ANGE1,NAVI,109,"['Sova', 'Fade', 'Gekko', 'Cypher', 'Omen']",5,285,0.76,159.5,0.72,65%,107.7,0.55,0.3,0.11,0.12,31%,7%,2/28,21,157,219,86,30,34,Champions Tour 2024 EMEA Stage 2_csvs
+N4RRATE,N4RRATE,KC,36245,"['Gekko', 'Fade', 'Raze', 'Kayo']",4,157,1.29,245.7,1.27,73%,163.7,0.84,0.41,0.12,0.1,26%,21%,4/19,27,132,104,65,19,16,Champions Tour 2024 Masters Madrid_csvs
+Less,Less,LOUD,8447,"['Viper', 'Cypher']",2,250,1.22,213.2,1.32,80%,155.1,0.78,0.32,0.09,0.08,30%,3%,1/35,27,195,148,80,23,20,Champions Tour 2024 Masters Madrid_csvs
+tuyz,tuyz,LOUD,2408,"['Harbor', 'Viper', 'Omen']",3,250,1.21,190.4,1.29,74%,128.0,0.74,0.32,0.05,0.05,30%,11%,4/37,22,186,144,80,13,12,Champions Tour 2024 Masters Madrid_csvs
+RieNs,RieNs,TH,10971,"['Gekko', 'Sova', 'Breach']",3,130,1.17,230.3,1.14,78%,157.3,0.79,0.34,0.11,0.05,36%,0%,0/22,22,103,90,44,14,7,Champions Tour 2024 Masters Madrid_csvs
+MiniBoo,MiniBoo,TH,18350,"['Neon', 'Yoru', 'Raze']",3,130,1.17,245.0,1.24,77%,153.6,0.88,0.28,0.17,0.14,31%,25%,3/12,25,114,92,37,22,18,Champions Tour 2024 Masters Madrid_csvs
+zekken,zekken,SEN,4004,"['Raze', 'Jett']",2,421,1.15,259.5,1.21,74%,167.1,0.9,0.21,0.23,0.19,22%,17%,5/30,32,381,314,90,96,81,Champions Tour 2024 Masters Madrid_csvs
+johnqt,johnqt,SEN,1265,"['Viper', 'Cypher', 'Killjoy']",3,421,1.12,198.1,1.17,79%,130.9,0.7,0.28,0.09,0.04,24%,18%,14/80,21,293,251,117,36,18,Champions Tour 2024 Masters Madrid_csvs
+TenZ,TenZ,SEN,9,"['Omen', 'Gekko', 'Kayo']",3,421,1.07,208.2,1.05,77%,131.2,0.75,0.54,0.09,0.08,29%,27%,8/30,25,314,300,226,36,32,Champions Tour 2024 Masters Madrid_csvs
+ZmjjKK,ZmjjKK,EDG,3520,"['Raze', 'Kayo', 'Jett']",3,154,1.07,252.0,1.08,69%,164.3,0.88,0.25,0.19,0.11,25%,14%,2/14,30,135,125,39,29,17,Champions Tour 2024 Masters Madrid_csvs
+Munchkin,Munchkin,GEN,2489,"['Kayo', 'Viper']",2,328,1.07,189.6,1.09,71%,125.5,0.67,0.4,0.06,0.08,22%,13%,7/54,19,220,201,131,20,27,Champions Tour 2024 Masters Madrid_csvs
+benjyfishy,benjyfishy,TH,29873,"['Killjoy', 'Cypher', 'Viper']",3,130,1.06,216.8,1.12,72%,140.4,0.78,0.23,0.11,0.09,29%,13%,2/15,24,101,90,30,14,12,Champions Tour 2024 Masters Madrid_csvs
+something,something,PRX,17086,"['Gekko', 'Reyna', 'Jett']",3,366,1.06,212.6,1.08,70%,136.6,0.75,0.22,0.15,0.11,25%,14%,6/42,24,274,254,79,54,42,Champions Tour 2024 Masters Madrid_csvs
+Meteor,Meteor,GEN,13039,"['Killjoy', 'Yoru', 'Jett', 'Cypher']",4,328,1.06,230.0,1.14,73%,152.0,0.82,0.19,0.12,0.13,29%,13%,3/24,22,268,236,61,40,41,Champions Tour 2024 Masters Madrid_csvs
+Karon,Karon,GEN,34974,"['Viper', 'Astra', 'Omen', 'Brimstone']",4,328,1.06,207.3,1.06,74%,140.4,0.74,0.36,0.1,0.06,29%,16%,7/45,20,242,229,119,32,19,Champions Tour 2024 Masters Madrid_csvs
+cauanzin,cauanzin,LOUD,6193,"['Sova', 'Breach']",2,250,1.05,223.3,1.1,74%,143.1,0.78,0.29,0.1,0.1,25%,7%,1/15,22,195,178,72,24,25,Champions Tour 2024 Masters Madrid_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Kayo', 'Harbor', 'Yoru', 'Cypher', 'Raze', 'Fade', 'Skye']",7,366,1.04,216.5,1.02,69%,140.4,0.75,0.36,0.12,0.1,30%,20%,5/25,25,273,268,132,44,38,Champions Tour 2024 Masters Madrid_csvs
+MAGNUM,MAGNUM,KC,2173,"['Killjoy', 'Fade', 'Skye', 'Breach']",4,157,1.04,195.1,1.0,69%,129.3,0.68,0.29,0.1,0.08,23%,7%,1/15,18,106,106,45,15,13,Champions Tour 2024 Masters Madrid_csvs
+t3xture,t3xture,GEN,9196,"['Jett', 'Raze']",2,328,1.03,224.1,1.07,71%,144.3,0.8,0.16,0.16,0.13,24%,17%,4/23,22,264,246,53,54,41,Champions Tour 2024 Masters Madrid_csvs
+marteen,marteen,KC,10307,"['Jett', 'Raze', 'Yoru']",3,157,1.03,214.6,1.02,73%,138.4,0.75,0.2,0.16,0.18,24%,13%,1/8,29,118,116,32,25,29,Champions Tour 2024 Masters Madrid_csvs
+Autumn,Autumn,FPX,872,"['Jett', 'Raze', 'Phoenix', 'Yoru']",4,86,1.03,231.8,0.96,69%,154.5,0.79,0.19,0.22,0.08,28%,33%,2/6,25,68,71,16,19,7,Champions Tour 2024 Masters Madrid_csvs
+Smoggy,Smoggy,EDG,4742,"['Kayo', 'Raze', 'Breach']",3,154,1.02,194.4,0.99,73%,127.9,0.71,0.36,0.09,0.06,29%,11%,4/35,19,110,111,56,14,9,Champions Tour 2024 Masters Madrid_csvs
+saadhak,saadhak,LOUD,727,"['Killjoy', 'Kayo', 'Sova', 'Skye']",4,250,1.01,191.3,0.99,73%,128.1,0.65,0.38,0.09,0.13,17%,17%,4/23,21,162,163,94,22,33,Champions Tour 2024 Masters Madrid_csvs
+Life,Life,FPX,3028,"['Reyna', 'Chamber', 'Jett']",3,86,1.0,230.8,1.04,64%,157.6,0.83,0.12,0.15,0.15,39%,33%,3/9,25,71,68,10,13,13,Champions Tour 2024 Masters Madrid_csvs
+d4v41,d4v41,PRX,9803,"['Sage', 'Fade', 'Viper', 'Skye', 'Omen']",5,366,0.98,182.3,0.9,70%,121.5,0.64,0.39,0.04,0.05,28%,13%,8/62,25,234,259,143,16,17,Champions Tour 2024 Masters Madrid_csvs
+Zellsis,Zellsis,SEN,729,"['Killjoy', 'Kayo', 'Brimstone', 'Viper']",4,421,0.98,188.4,0.93,72%,121.9,0.62,0.41,0.06,0.08,19%,14%,6/43,21,263,282,172,26,34,Champions Tour 2024 Masters Madrid_csvs
+sh1n,sh1n,KC,2625,"['Sage', 'Omen', 'Astra']",3,157,0.96,178.0,0.98,81%,109.9,0.64,0.36,0.06,0.06,30%,11%,3/28,21,101,103,56,9,10,Champions Tour 2024 Masters Madrid_csvs
+Quick,Quick,LOUD,1575,"['Jett', 'Yoru', 'Phoenix', 'Raze']",4,250,0.94,218.5,1.03,67%,140.6,0.77,0.16,0.16,0.15,31%,19%,3/16,27,193,187,39,41,38,Champions Tour 2024 Masters Madrid_csvs
+Sacy,Sacy,SEN,659,"['Fade', 'Gekko', 'Skye', 'Sova']",4,421,0.93,173.8,0.86,73%,113.6,0.59,0.4,0.06,0.09,24%,10%,5/49,23,249,289,169,25,38,Champions Tour 2024 Masters Madrid_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Cypher', 'Brimstone', 'Viper', 'Killjoy']",4,154,0.89,169.0,0.81,66%,119.6,0.6,0.23,0.07,0.07,29%,0%,0/23,23,93,115,36,11,11,Champions Tour 2024 Masters Madrid_csvs
+nobody,nobody,EDG,3017,"['Sova', 'Skye']",2,154,0.88,173.1,0.82,66%,124.1,0.6,0.26,0.07,0.16,33%,11%,2/18,20,92,112,40,11,25,Champions Tour 2024 Masters Madrid_csvs
+Monyet,Monyet,PRX,8497,"['Omen', 'Raze', 'Astra']",3,366,0.87,199.6,0.87,66%,129.9,0.68,0.3,0.12,0.17,24%,19%,7/36,24,250,289,110,45,64,Champions Tour 2024 Masters Madrid_csvs
+Boo,Boo,TH,1144,"['Omen', 'Astra']",2,130,0.87,162.3,0.87,68%,104.4,0.61,0.36,0.04,0.12,32%,12%,2/17,15,79,91,47,5,16,Champions Tour 2024 Masters Madrid_csvs
+mindfreak,mindfreak,PRX,9800,"['Viper', 'Brimstone', 'Omen']",3,366,0.84,162.8,0.84,66%,108.4,0.59,0.23,0.03,0.1,37%,4%,2/49,21,217,258,83,12,35,Champions Tour 2024 Masters Madrid_csvs
+Haodong,Haodong,EDG,4720,"['Omen', 'Cypher', 'Viper']",3,154,0.8,152.3,0.72,69%,110.2,0.54,0.27,0.06,0.1,27%,36%,4/11,19,83,115,41,10,16,Champions Tour 2024 Masters Madrid_csvs
+Lakia,Lakia,GEN,773,"['Gekko', 'Sova', 'Skye', 'Fade']",4,328,0.8,153.1,0.78,68%,104.1,0.54,0.27,0.06,0.09,24%,32%,9/28,19,177,228,87,21,31,Champions Tour 2024 Masters Madrid_csvs
+Lysoar,Lysoar,FPX,37489,['Viper'],1,86,0.79,152.8,0.72,57%,110.8,0.51,0.2,0.06,0.05,30%,0%,0/17,15,44,61,17,5,4,Champions Tour 2024 Masters Madrid_csvs
+paTiTek,paTiTek,TH,309,"['Viper', 'Kayo']",2,130,0.76,149.8,0.65,71%,100.1,0.47,0.48,0.09,0.08,16%,0%,0/7,14,61,94,63,12,10,Champions Tour 2024 Masters Madrid_csvs
+tomaszy,tomaszy,KC,19691,"['Viper', 'Omen', 'Fade']",3,157,0.75,138.7,0.66,63%,98.5,0.46,0.29,0.04,0.09,32%,27%,4/15,15,73,110,46,7,14,Champions Tour 2024 Masters Madrid_csvs
+BerLIN,BerLIN,FPX,7857,"['Omen', 'Harbor', 'Astra']",3,86,0.72,150.0,0.7,65%,99.0,0.53,0.31,0.13,0.13,36%,8%,1/12,14,46,66,27,11,11,Champions Tour 2024 Masters Madrid_csvs
+AAAAY,AAAAY,FPX,19530,"['Gekko', 'Sova']",2,86,0.71,161.0,0.69,66%,112.1,0.56,0.27,0.01,0.02,31%,7%,1/14,15,48,70,23,1,2,Champions Tour 2024 Masters Madrid_csvs
+Boo,Boo,TH,1144,"['Viper', 'Omen', 'Brimstone']",3,492,,177.6,1.05,,110.2,0.65,0.42,0.09,0.06,,0%,,20,320,306,207,42,30,Champions Tour 2024 Masters Shanghai_csvs
+nobody,nobody,EDG,3017,"['Gekko', 'Skye']",2,78,,159.0,0.7,,102.9,0.56,0.29,0.06,0.14,,0%,,21,44,63,23,5,11,Champions Tour 2024 Masters Shanghai_csvs
+Meteor,Meteor,GEN,13039,"['Killjoy', 'Yoru', 'Cypher']",3,388,,230.8,1.22,,150.8,0.84,0.13,0.11,0.09,,0%,,31,326,267,51,43,36,Champions Tour 2024 Masters Shanghai_csvs
+Karon,Karon,GEN,34974,"['Viper', 'Omen', 'Astra', 'Brimstone']",4,388,,193.2,1.13,,125.9,0.7,0.45,0.06,0.07,,0%,,26,270,238,175,22,28,Champions Tour 2024 Masters Shanghai_csvs
+C0M,C0M,LEV,619,"['Sova', 'Fade', 'Cypher', 'Skye']",4,162,,146.0,0.73,,96.0,0.5,0.26,0.07,0.09,,0%,,16,81,111,42,11,15,Champions Tour 2024 Masters Shanghai_csvs
+tex,tex,LEV,1818,"['Killjoy', 'Cypher', 'Gekko']",3,162,,219.8,1.16,,145.7,0.77,0.23,0.07,0.07,,0%,,20,125,108,37,12,12,Champions Tour 2024 Masters Shanghai_csvs
+Mazino,Mazino,LEV,7603,"['Harbor', 'Omen', 'Kayo', 'Breach', 'Brimstone']",5,162,,199.3,1.01,,135.8,0.73,0.36,0.09,0.08,,0%,,30,119,118,59,14,13,Champions Tour 2024 Masters Shanghai_csvs
+aspas,aspas,LEV,8480,"['Jett', 'Raze']",2,162,,237.8,1.17,,158.0,0.85,0.17,0.21,0.12,,0%,,23,137,117,28,34,20,Champions Tour 2024 Masters Shanghai_csvs
+kiNgg,kiNgg,LEV,8549,"['Viper', 'Omen']",2,162,,210.1,1.05,,140.7,0.75,0.32,0.09,0.1,,0%,,28,121,115,52,14,16,Champions Tour 2024 Masters Shanghai_csvs
+Jinggg,Jinggg,PRX,7378,"['Raze', 'Reyna', 'Sage']",3,171,,217.5,0.99,,151.7,0.77,0.21,0.09,0.1,,0%,,24,132,134,36,15,17,Champions Tour 2024 Masters Shanghai_csvs
+mindfreak,mindfreak,PRX,9800,"['Omen', 'Brimstone', 'Viper']",3,171,,180.4,0.91,,120.7,0.64,0.32,0.06,0.05,,0%,,23,110,121,55,11,8,Champions Tour 2024 Masters Shanghai_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Skye', 'Breach', 'Harbor', 'Kayo']",4,171,,189.0,0.89,,122.0,0.67,0.43,0.08,0.13,,0%,,29,114,128,74,13,22,Champions Tour 2024 Masters Shanghai_csvs
+d4v41,d4v41,PRX,9803,"['Viper', 'Skye', 'Sage', 'Sova', 'Killjoy']",5,171,,182.5,1.03,,128.4,0.68,0.32,0.05,0.06,,0%,,20,117,114,55,8,10,Champions Tour 2024 Masters Shanghai_csvs
+something,something,PRX,17086,"['Jett', 'Gekko', 'Reyna']",3,171,,237.8,1.12,,152.2,0.81,0.29,0.2,0.19,,0%,,25,138,123,49,34,33,Champions Tour 2024 Masters Shanghai_csvs
+ZmjjKK,ZmjjKK,EDG,3520,['Raze'],1,78,,243.0,0.91,,154.1,0.81,0.15,0.17,0.17,,0%,,20,63,69,12,13,13,Champions Tour 2024 Masters Shanghai_csvs
+Munchkin,Munchkin,GEN,2489,"['Kayo', 'Viper']",2,388,,177.6,0.98,,119.5,0.62,0.39,0.06,0.09,,0%,,21,239,244,151,23,35,Champions Tour 2024 Masters Shanghai_csvs
+Haodong,Haodong,EDG,4720,"['Cypher', 'Gekko']",2,78,,136.0,0.54,,83.6,0.45,0.21,0.12,0.12,,0%,,14,35,65,16,9,9,Champions Tour 2024 Masters Shanghai_csvs
+Smoggy,Smoggy,EDG,4742,['Omen'],1,78,,237.0,1.1,,156.4,0.82,0.26,0.09,0.04,,0%,,25,64,58,20,7,3,Champions Tour 2024 Masters Shanghai_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Astra', 'Viper']",2,78,,186.5,0.88,,122.4,0.65,0.26,0.05,0.05,,0%,,15,51,58,20,4,4,Champions Tour 2024 Masters Shanghai_csvs
+Asuna,Asuna,100T,601,"['Gekko', 'Raze', 'Kayo']",3,188,,202.8,0.98,,135.3,0.7,0.3,0.12,0.15,,0%,,24,131,134,57,22,28,Champions Tour 2024 Masters Shanghai_csvs
+Boostio,Boostio,100T,604,"['Killjoy', 'Gekko', 'Cypher']",3,188,,183.0,0.91,,125.1,0.66,0.2,0.1,0.12,,0%,,22,125,137,37,19,22,Champions Tour 2024 Masters Shanghai_csvs
+eeiu,eeiu,100T,796,"['Sova', 'Fade']",2,188,,188.9,1.0,,124.5,0.66,0.25,0.05,0.05,,0%,,16,124,124,47,10,10,Champions Tour 2024 Masters Shanghai_csvs
+bang,bang,100T,3880,"['Viper', 'Omen']",2,188,,200.2,1.01,,133.8,0.7,0.25,0.1,0.06,,0%,,23,131,130,47,18,11,Champions Tour 2024 Masters Shanghai_csvs
+Cryocells,Cryocells,100T,4147,"['Jett', 'Brimstone', 'Gekko']",3,188,,219.2,1.07,,140.2,0.78,0.26,0.12,0.14,,0%,,32,146,137,48,22,26,Champions Tour 2024 Masters Shanghai_csvs
+Boaster,Boaster,FNC,438,"['Omen', 'Brimstone', 'Viper']",3,125,,137.0,0.65,,95.4,0.47,0.31,0.08,0.11,,0%,,17,59,91,39,10,14,Champions Tour 2024 Masters Shanghai_csvs
+Chronicle,Chronicle,FNC,458,"['Viper', 'Skye', 'Kayo', 'Cypher']",4,125,,172.5,0.81,,118.1,0.59,0.33,0.06,0.11,,0%,,19,74,91,41,8,14,Champions Tour 2024 Masters Shanghai_csvs
+Leo,Leo,FNC,1380,"['Fade', 'Gekko', 'Sova', 'Breach']",4,125,,186.3,1.01,,124.6,0.65,0.36,0.03,0.05,,0%,,19,81,80,45,4,6,Champions Tour 2024 Masters Shanghai_csvs
+Derke,Derke,FNC,5022,"['Raze', 'Yoru', 'Jett']",3,125,,258.5,1.17,,165.3,0.86,0.23,0.18,0.12,,0%,,26,108,92,29,22,15,Champions Tour 2024 Masters Shanghai_csvs
+t3xture,t3xture,GEN,9196,"['Jett', 'Raze']",2,388,,241.2,1.21,,148.2,0.85,0.14,0.22,0.17,,0%,,28,328,272,55,84,67,Champions Tour 2024 Masters Shanghai_csvs
+Lakia,Lakia,GEN,773,"['Gekko', 'Fade', 'Sova', 'Skye']",4,388,,188.9,1.05,,126.3,0.66,0.34,0.08,0.05,,0%,,19,256,243,131,31,19,Champions Tour 2024 Masters Shanghai_csvs
+RieNs,RieNs,TH,10971,"['Sova', 'Breach', 'Skye', 'Gekko', 'Fade']",5,492,,207.8,1.14,,137.5,0.74,0.39,0.06,0.04,,0%,,25,362,317,191,31,22,Champions Tour 2024 Masters Shanghai_csvs
+Lysoar,Lysoar,FPX,37489,"['Omen', 'Killjoy']",2,211,,148.4,0.75,,104.1,0.52,0.22,0.06,0.09,,0%,,26,109,145,47,13,18,Champions Tour 2024 Masters Shanghai_csvs
+paTiTek,paTiTek,TH,309,"['Kayo', 'Fade', 'Skye', 'Raze', 'Viper']",5,492,,198.6,1.05,,131.4,0.69,0.41,0.09,0.07,,0%,,20,338,323,201,44,34,Champions Tour 2024 Masters Shanghai_csvs
+Wo0t,Wo0t,TH,21328,"['Jett', 'Raze', 'Viper']",3,492,,248.0,1.21,,158.5,0.87,0.17,0.24,0.16,,0%,,37,427,352,85,118,79,Champions Tour 2024 Masters Shanghai_csvs
+benjyfishy,benjyfishy,TH,29873,"['Killjoy', 'Cypher', 'Viper']",3,492,,196.0,1.11,,131.2,0.72,0.2,0.09,0.09,,0%,,28,353,319,99,46,46,Champions Tour 2024 Masters Shanghai_csvs
+vo0kashu,vo0kashu,DRG,3741,"['Killjoy', 'Cypher']",2,85,,223.5,1.0,,156.2,0.74,0.31,0.06,0.08,,0%,,21,63,63,26,5,7,Champions Tour 2024 Masters Shanghai_csvs
+nizhaoTZH,nizhaoTZH,DRG,4880,"['Viper', 'Omen', 'Brimstone']",3,85,,209.3,1.05,,141.0,0.79,0.25,0.07,0.06,,0%,,25,67,64,21,6,5,Champions Tour 2024 Masters Shanghai_csvs
+TvirusLuke,TvirusLuke,DRG,7841,"['Jett', 'Raze']",2,85,,202.0,0.74,,154.6,0.65,0.18,0.18,0.2,,0%,,23,55,74,15,15,17,Champions Tour 2024 Masters Shanghai_csvs
+Nicc,Nicc,DRG,11524,"['Sova', 'Kayo', 'Skye']",3,85,,183.0,0.79,,121.1,0.59,0.28,0.06,0.11,,0%,,20,50,63,24,5,9,Champions Tour 2024 Masters Shanghai_csvs
+Shion7,Shion7,DRG,41774,"['Harbor', 'Gekko', 'Sova']",3,85,,122.5,0.55,,93.7,0.42,0.21,0.04,0.15,,0%,,14,36,65,18,3,13,Champions Tour 2024 Masters Shanghai_csvs
+Autumn,Autumn,FPX,872,"['Cypher', 'Viper', 'Kayo']",3,211,,193.6,0.99,,130.8,0.66,0.34,0.06,0.08,,0%,,21,140,142,72,12,16,Champions Tour 2024 Masters Shanghai_csvs
+Life,Life,FPX,3028,"['Yoru', 'Raze', 'Clove']",3,211,,239.2,1.01,,154.5,0.82,0.21,0.16,0.22,,0%,,30,174,173,45,34,46,Champions Tour 2024 Masters Shanghai_csvs
+BerLIN,BerLIN,FPX,7857,"['Harbor', 'Astra', 'Omen']",3,211,,212.0,1.02,,141.9,0.73,0.33,0.14,0.1,,0%,,28,153,150,70,30,21,Champions Tour 2024 Masters Shanghai_csvs
+AAAAY,AAAAY,FPX,19530,"['Fade', 'Gekko']",2,211,,191.2,1.09,,130.1,0.74,0.19,0.08,0.02,,0%,,30,156,143,40,16,5,Champions Tour 2024 Masters Shanghai_csvs
+cNed,cNed,FUT,573,"['Raze', 'Jett', 'Chamber']",3,305,,216.0,1.01,,148.4,0.77,0.2,0.15,0.16,,0%,,29,235,233,60,45,50,Champions Tour 2024 Masters Shanghai_csvs
+carpe,carpe,T1,31207,"['Sova', 'Fade', 'Omen']",3,103,,196.2,1.03,,131.9,0.71,0.28,0.08,0.1,,0%,,26,73,71,29,8,10,Champions Tour 2024 Masters Shanghai_csvs
+qRaxs,qRaxs,FUT,1139,"['Gekko', 'Breach', 'Kayo', 'Raze']",4,305,,181.2,0.89,,118.4,0.65,0.38,0.06,0.06,,0%,,29,198,222,115,18,17,Champions Tour 2024 Masters Shanghai_csvs
+AtaKaptan,AtaKaptan,FUT,6510,"['Omen', 'Viper']",2,305,,192.5,0.91,,120.8,0.69,0.34,0.07,0.14,,0%,,23,209,229,105,22,42,Champions Tour 2024 Masters Shanghai_csvs
+MrFaliN,MrFaliN,FUT,8044,"['Breach', 'Omen', 'Sova', 'Skye', 'Gekko']",5,305,,173.9,0.84,,116.5,0.61,0.41,0.06,0.1,,0%,,21,186,222,126,19,30,Champions Tour 2024 Masters Shanghai_csvs
+yetujey,yetujey,FUT,8369,"['Cypher', 'Killjoy', 'Viper']",3,305,,189.4,1.0,,127.2,0.67,0.21,0.1,0.11,,0%,,18,205,206,63,29,34,Champions Tour 2024 Masters Shanghai_csvs
+valyn,valyn,G2,3885,"['Astra', 'Harbor', 'Omen', 'Brimstone', 'Sage']",5,344,,178.4,0.92,,117.1,0.65,0.36,0.06,0.1,,0%,,20,222,241,124,20,33,Champions Tour 2024 Masters Shanghai_csvs
+JonahP,JonahP,G2,4581,"['Viper', 'Skye', 'Breach', 'Kayo']",4,344,,203.3,1.0,,128.9,0.72,0.35,0.07,0.12,,0%,,28,246,245,121,25,41,Champions Tour 2024 Masters Shanghai_csvs
+leaf,leaf,G2,7873,"['Cypher', 'Killjoy', 'Viper']",3,344,,208.2,0.98,,140.3,0.72,0.23,0.11,0.13,,0%,,28,248,254,79,37,45,Champions Tour 2024 Masters Shanghai_csvs
+icy,icy,G2,8402,"['Yoru', 'Gekko', 'Raze', 'Jett']",4,344,,196.1,0.9,,131.5,0.67,0.24,0.16,0.11,,0%,,22,232,258,84,55,39,Champions Tour 2024 Masters Shanghai_csvs
+trent,trent,G2,15500,"['Sova', 'Fade', 'Gekko']",3,344,,184.1,0.85,,120.0,0.62,0.32,0.09,0.05,,0%,,27,212,248,111,31,18,Champions Tour 2024 Masters Shanghai_csvs
+Rossy,Rossy,T1,1129,"['Viper', 'Breach']",2,103,,217.6,1.15,,130.8,0.75,0.27,0.06,0.06,,0%,,20,77,67,28,6,6,Champions Tour 2024 Masters Shanghai_csvs
+Sayaplayer,Sayaplayer,T1,4545,"['Jett', 'Sage', 'Raze', 'Gekko']",4,103,,173.6,0.83,,121.3,0.62,0.17,0.07,0.14,,0%,,19,64,77,17,7,14,Champions Tour 2024 Masters Shanghai_csvs
+xccurate,xccurate,T1,10816,"['Harbor', 'Chamber', 'Sage']",3,103,,180.2,0.88,,114.9,0.67,0.18,0.09,0.12,,0%,,18,69,78,19,9,12,Champions Tour 2024 Masters Shanghai_csvs
+iZu,iZu,T1,29833,"['Yoru', 'Reyna', 'Omen', 'Raze']",4,103,,210.8,0.83,,134.0,0.72,0.29,0.17,0.13,,0%,,19,74,89,30,18,13,Champions Tour 2024 Masters Shanghai_csvs
+Alfajer,Alfajer,FNC,9810,"['Killjoy', 'Viper', 'Cypher', 'Raze']",4,125,,221.5,1.1,,150.3,0.78,0.22,0.12,0.14,,0%,,26,98,89,28,15,17,Champions Tour 2024 Masters Shanghai_csvs
+JitBoyS,JitBoyS,TLN,13788,"['Viper', 'Killjoy', 'Cypher']",3,122,1.2,228.5,1.25,75%,152.0,0.83,0.16,0.06,0.07,36%,29%,6/21,26,101,81,20,7,8,Champions Tour 2024 Pacific Kickoff_csvs
+invy,invy,TS,8504,"['Kayo', 'Viper', 'Sage']",3,225,1.2,211.7,1.26,76%,144.7,0.8,0.37,0.07,0.06,29%,5%,1/21,28,181,144,84,16,13,Champions Tour 2024 Pacific Kickoff_csvs
+t3xture,t3xture,GEN,9196,"['Jett', 'Raze']",2,429,1.18,250.8,1.29,73%,164.3,0.9,0.16,0.16,0.14,29%,22%,9/41,33,388,301,69,70,62,Champions Tour 2024 Pacific Kickoff_csvs
+Jremy,Jremy,TS,7405,"['Jett', 'Raze']",2,225,1.17,256.6,1.24,75%,163.3,0.9,0.19,0.25,0.17,28%,15%,2/13,27,202,163,42,56,38,Champions Tour 2024 Pacific Kickoff_csvs
+MaKo,MaKo,DRX,4462,"['Omen', 'Viper', 'Brimstone']",3,133,1.17,207.8,1.16,84%,141.6,0.74,0.41,0.1,0.02,31%,6%,1/16,21,99,85,55,13,3,Champions Tour 2024 Pacific Kickoff_csvs
+Karon,Karon,GEN,34974,"['Viper', 'Astra', 'Omen', 'Brimstone']",4,429,1.14,199.2,1.12,77%,132.3,0.71,0.39,0.08,0.05,36%,19%,12/63,23,304,272,168,33,23,Champions Tour 2024 Pacific Kickoff_csvs
+Sayaplayer,Sayaplayer,T1,4545,"['Jett', 'Raze']",2,163,1.14,215.1,1.29,74%,143.2,0.82,0.08,0.21,0.13,29%,15%,2/13,36,134,104,13,34,22,Champions Tour 2024 Pacific Kickoff_csvs
+something,something,PRX,17086,"['Yoru', 'Jett', 'Gekko', 'Reyna']",4,191,1.14,224.7,1.12,77%,143.6,0.8,0.25,0.17,0.11,22%,6%,1/16,23,153,137,47,33,21,Champions Tour 2024 Pacific Kickoff_csvs
+Meiy,Meiy,DFM,6672,"['Raze', 'Yoru']",2,86,1.12,253.5,1.1,70%,163.4,0.87,0.17,0.21,0.16,26%,20%,2/10,21,75,68,15,18,14,Champions Tour 2024 Pacific Kickoff_csvs
+xccurate,xccurate,T1,10816,"['Harbor', 'Chamber', 'Cypher', 'Astra']",4,163,1.12,233.6,1.23,74%,149.8,0.83,0.21,0.08,0.04,29%,0%,0/20,29,135,110,35,13,6,Champions Tour 2024 Pacific Kickoff_csvs
+Jemkin,Jemkin,RRQ,24895,"['Jett', 'Raze']",2,136,1.1,236.3,1.17,68%,146.6,0.87,0.13,0.13,0.12,30%,15%,2/13,25,118,101,17,18,16,Champions Tour 2024 Pacific Kickoff_csvs
+Rossy,Rossy,T1,1129,['Viper'],1,163,1.09,213.4,1.14,79%,129.5,0.72,0.29,0.07,0.06,19%,24%,6/25,23,117,103,48,12,9,Champions Tour 2024 Pacific Kickoff_csvs
+Governor,Governor,TLN,3980,"['Neon', 'Jett', 'Raze']",3,122,1.08,247.0,1.16,70%,153.3,0.84,0.23,0.19,0.21,17%,20%,2/10,25,103,89,28,23,26,Champions Tour 2024 Pacific Kickoff_csvs
+d4v41,d4v41,PRX,9803,"['Viper', 'Skye', 'Sage', 'Omen', 'Fade']",5,191,1.07,195.9,0.99,73%,138.0,0.68,0.45,0.05,0.07,31%,23%,7/30,21,130,131,85,9,13,Champions Tour 2024 Pacific Kickoff_csvs
+Flashback,Flashback,DRX,35013,"['Killjoy', 'Cypher']",2,133,1.06,200.3,1.2,68%,139.5,0.77,0.16,0.07,0.13,36%,9%,1/11,21,102,85,21,9,17,Champions Tour 2024 Pacific Kickoff_csvs
+mindfreak,mindfreak,PRX,9800,"['Sova', 'Omen', 'Viper', 'Brimstone']",4,191,1.06,189.4,1.04,69%,129.4,0.69,0.25,0.04,0.04,28%,29%,10/35,29,132,127,48,7,8,Champions Tour 2024 Pacific Kickoff_csvs
+Meteor,Meteor,GEN,13039,"['Killjoy', 'Jett', 'Cypher']",3,429,1.06,222.0,1.15,72%,146.6,0.8,0.14,0.11,0.09,28%,9%,5/53,24,345,299,60,49,37,Champions Tour 2024 Pacific Kickoff_csvs
+Egoist,Egoist,BLD,2362,"['Skye', 'Killjoy', 'Cypher']",3,122,1.06,208.4,1.07,75%,132.2,0.75,0.23,0.08,0.06,26%,24%,4/17,27,91,85,28,10,7,Champions Tour 2024 Pacific Kickoff_csvs
+sScary,sScary,BLD,4382,"['Viper', 'Omen']",2,122,1.06,177.8,1.05,77%,123.9,0.63,0.39,0.08,0.08,24%,21%,7/34,28,77,73,47,10,10,Champions Tour 2024 Pacific Kickoff_csvs
+Dep,Dep,ZETA,424,"['Raze', 'Jett']",2,212,1.05,245.0,1.16,67%,154.0,0.87,0.12,0.22,0.18,27%,5%,1/19,27,184,159,26,46,39,Champions Tour 2024 Pacific Kickoff_csvs
+iZu,iZu,T1,29833,"['Yoru', 'Omen', 'Raze']",3,163,1.05,203.1,1.07,74%,134.7,0.72,0.38,0.1,0.11,30%,13%,2/16,27,117,109,62,17,18,Champions Tour 2024 Pacific Kickoff_csvs
+JessieVash,JessieVash,TS,2334,"['Sova', 'Skye']",2,225,1.04,186.7,1.05,74%,125.8,0.64,0.36,0.06,0.08,26%,18%,6/34,18,144,137,81,14,17,Champions Tour 2024 Pacific Kickoff_csvs
+BuZz,BuZz,DRX,804,"['Raze', 'Yoru', 'Jett']",3,133,1.03,234.7,1.01,79%,148.6,0.79,0.29,0.17,0.09,23%,14%,1/7,22,105,104,38,23,12,Champions Tour 2024 Pacific Kickoff_csvs
+stax,stax,DRX,485,"['Fade', 'Sova', 'Breach', 'Gekko']",4,133,1.03,174.3,1.09,70%,115.6,0.66,0.29,0.08,0.05,32%,12%,2/17,22,88,81,39,10,7,Champions Tour 2024 Pacific Kickoff_csvs
+xffero,xffero,RRQ,4871,"['Viper', 'Astra', 'Harbor', 'Omen']",4,136,1.02,200.3,0.96,72%,128.8,0.71,0.37,0.08,0.08,30%,26%,5/19,22,96,100,50,11,11,Champions Tour 2024 Pacific Kickoff_csvs
+BORKUM,BORKUM,TS,2333,"['Viper', 'Omen']",2,225,1.02,191.3,0.99,72%,123.1,0.66,0.47,0.11,0.07,21%,10%,2/21,24,148,149,106,24,16,Champions Tour 2024 Pacific Kickoff_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Harbor', 'Cypher', 'Kayo', 'Yoru', 'Fade']",5,191,1.01,220.3,1.05,73%,139.9,0.79,0.27,0.13,0.12,29%,10%,1/10,33,151,144,51,24,23,Champions Tour 2024 Pacific Kickoff_csvs
+NDG,NDG,TS,12322,"['Cypher', 'Killjoy']",2,225,1.01,178.6,1.04,78%,125.9,0.64,0.22,0.05,0.09,21%,22%,5/23,23,143,138,49,11,20,Champions Tour 2024 Pacific Kickoff_csvs
+Foxy9,Foxy9,DRX,11600,"['Viper', 'Jett', 'Kayo']",3,133,1.0,200.7,1.08,74%,122.4,0.72,0.23,0.16,0.14,31%,8%,1/12,21,96,89,30,21,18,Champions Tour 2024 Pacific Kickoff_csvs
+Deryeon,Deryeon,BLD,9152,"['Harbor', 'Raze']",2,122,0.98,222.4,0.98,72%,145.1,0.76,0.22,0.17,0.13,21%,18%,2/11,29,93,95,27,21,16,Champions Tour 2024 Pacific Kickoff_csvs
+Munchkin,Munchkin,GEN,2489,"['Kayo', 'Viper']",2,429,0.98,187.5,0.98,72%,124.7,0.66,0.38,0.09,0.1,21%,13%,5/40,27,283,288,164,38,43,Champions Tour 2024 Pacific Kickoff_csvs
+blaZek1ng,blaZek1ng,GE,1743,"['Gekko', 'Sova', 'Fade']",3,149,0.97,187.9,0.97,68%,129.2,0.65,0.22,0.05,0.09,29%,7%,2/28,24,97,100,33,8,13,Champions Tour 2024 Pacific Kickoff_csvs
+yuran,yuran,ZETA,29840,"['Viper', 'Sova', 'Breach']",3,212,0.96,192.5,0.91,72%,128.8,0.66,0.32,0.09,0.08,27%,5%,1/22,20,139,153,68,19,17,Champions Tour 2024 Pacific Kickoff_csvs
+Estrella,Estrella,RRQ,25025,"['Sova', 'Skye', 'Fade']",3,136,0.96,176.3,0.89,67%,114.2,0.61,0.3,0.05,0.08,30%,0%,0/23,19,83,93,41,7,11,Champions Tour 2024 Pacific Kickoff_csvs
+hiroronn,hiroronn,ZETA,10588,"['Skye', 'Sova', 'Kayo', 'Fade']",4,212,0.95,179.2,0.91,67%,122.2,0.64,0.32,0.08,0.11,30%,16%,4/25,18,135,148,68,16,24,Champions Tour 2024 Pacific Kickoff_csvs
+ban,ban,TLN,5129,"['Yoru', 'Kayo', 'Skye']",3,122,0.93,195.5,0.91,73%,119.9,0.66,0.34,0.12,0.09,26%,14%,2/14,22,80,88,42,15,11,Champions Tour 2024 Pacific Kickoff_csvs
+Laz,Laz,ZETA,999,"['Cypher', 'Killjoy']",2,212,0.92,180.5,0.93,67%,123.1,0.65,0.16,0.08,0.07,25%,9%,3/34,16,137,147,34,17,15,Champions Tour 2024 Pacific Kickoff_csvs
+SSeeS,SSeeS,DFM,21438,"['Omen', 'Viper']",2,86,0.92,169.5,0.84,71%,106.7,0.62,0.34,0.03,0.08,36%,33%,4/12,17,53,63,29,3,7,Champions Tour 2024 Pacific Kickoff_csvs
+SugarZ3ro,SugarZ3ro,ZETA,6668,"['Brimstone', 'Harbor', 'Omen']",3,212,0.92,156.2,0.84,67%,105.4,0.56,0.4,0.01,0.08,28%,9%,2/22,19,118,140,84,3,16,Champions Tour 2024 Pacific Kickoff_csvs
+Benkai,Benkai,GE,9802,"['Cypher', 'Killjoy', 'Viper']",3,149,0.9,171.6,0.88,63%,113.9,0.6,0.13,0.03,0.1,25%,17%,4/23,26,89,101,20,4,15,Champions Tour 2024 Pacific Kickoff_csvs
+Medusa,Medusa,DFM,993,"['Killjoy', 'Cypher']",2,86,0.88,177.0,0.84,60%,122.7,0.63,0.1,0.12,0.08,39%,7%,1/14,19,54,64,9,10,7,Champions Tour 2024 Pacific Kickoff_csvs
+carpe,carpe,T1,31207,"['Sova', 'Fade', 'Skye']",3,163,0.85,180.3,0.81,76%,119.0,0.6,0.32,0.09,0.1,22%,31%,4/13,23,97,120,52,15,17,Champions Tour 2024 Pacific Kickoff_csvs
+Lakia,Lakia,GEN,773,"['Gekko', 'Skye', 'Fade', 'Sova']",4,429,0.85,173.9,0.83,74%,115.0,0.59,0.34,0.07,0.1,27%,35%,13/37,20,254,306,148,30,44,Champions Tour 2024 Pacific Kickoff_csvs
+fl1pzjder,fl1pzjder,RRQ,7045,"['Gekko', 'Viper', 'Omen', 'Yoru']",4,136,0.84,164.5,0.78,69%,103.4,0.57,0.28,0.06,0.1,28%,18%,3/17,18,77,99,38,8,13,Champions Tour 2024 Pacific Kickoff_csvs
+lenne,lenne,TLN,8137,['Sova'],1,122,0.84,162.2,0.72,72%,108.8,0.5,0.34,0.06,0.07,17%,7%,1/15,17,61,85,41,7,9,Champions Tour 2024 Pacific Kickoff_csvs
+Russ,Russ,GE,1162,"['Kayo', 'Gekko', 'Breach']",3,149,0.83,163.4,0.79,66%,102.0,0.56,0.33,0.07,0.09,32%,11%,2/18,17,84,107,49,11,14,Champions Tour 2024 Pacific Kickoff_csvs
+Lmemore,Lmemore,RRQ,7764,"['Killjoy', 'Cypher', 'Chamber']",3,136,0.81,184.5,0.83,64%,123.7,0.65,0.13,0.1,0.2,33%,13%,1/8,20,89,107,18,14,27,Champions Tour 2024 Pacific Kickoff_csvs
+neth,neth,DFM,1970,"['Viper', 'Harbor']",2,86,0.81,171.8,0.75,62%,114.9,0.58,0.22,0.05,0.12,27%,7%,1/15,14,50,67,19,4,10,Champions Tour 2024 Pacific Kickoff_csvs
+Polvi,Polvi,GE,1839,"['Raze', 'Jett']",2,149,0.8,197.3,0.78,63%,136.0,0.63,0.14,0.23,0.2,21%,0%,0/6,16,94,121,21,35,30,Champions Tour 2024 Pacific Kickoff_csvs
+Monyet,Monyet,PRX,8497,"['Omen', 'Raze']",2,191,0.78,175.8,0.75,70%,120.4,0.6,0.26,0.1,0.18,21%,16%,3/19,20,114,152,50,19,34,Champions Tour 2024 Pacific Kickoff_csvs
+Lightningfast,Lightningfast,GE,3626,"['Viper', 'Omen']",2,149,0.78,153.4,0.73,64%,104.5,0.54,0.22,0.06,0.06,38%,13%,2/15,14,80,110,33,9,9,Champions Tour 2024 Pacific Kickoff_csvs
+yay,yay,BLD,881,"['Neon', 'Skye', 'Viper', 'Jett']",4,122,0.77,167.8,0.8,67%,115.0,0.6,0.25,0.08,0.13,28%,14%,1/7,27,73,91,30,10,16,Champions Tour 2024 Pacific Kickoff_csvs
+crazyguy,crazyguy,BLD,1430,"['Sova', 'Breach', 'Skye']",3,122,0.74,175.0,0.73,61%,113.5,0.54,0.28,0.09,0.1,31%,0%,0/5,17,66,91,34,11,12,Champions Tour 2024 Pacific Kickoff_csvs
+Anthem,Anthem,DFM,6700,"['Skye', 'Sova']",2,86,0.71,138.5,0.57,67%,102.2,0.44,0.47,0.06,0.09,28%,20%,2/10,13,38,67,40,5,8,Champions Tour 2024 Pacific Kickoff_csvs
+Crws,Crws,TLN,3977,"['Harbor', 'Omen', 'Astra']",3,122,0.69,129.2,0.68,67%,86.9,0.47,0.29,0.03,0.1,23%,9%,1/11,13,57,84,35,4,12,Champions Tour 2024 Pacific Kickoff_csvs
+Jemkin,Jemkin,RRQ,24895,"['Jett', 'Raze']",2,244,1.17,236.4,1.26,75%,151.5,0.85,0.13,0.14,0.16,33%,13%,3/23,26,208,165,31,33,39,Champions Tour 2024 Pacific Stage 1_csvs
+MaKo,MaKo,DRX,4462,"['Viper', 'Omen']",2,372,1.16,216.8,1.19,76%,147.2,0.76,0.35,0.09,0.09,31%,15%,5/33,21,281,237,130,34,35,Champions Tour 2024 Pacific Stage 1_csvs
+BeYN,BeYN,DRX,4678,"['Omen', 'Sova', 'Yoru', 'Brimstone', 'Astra', 'Gekko']",6,372,1.15,199.7,1.16,79%,132.2,0.73,0.39,0.05,0.06,29%,19%,8/43,25,270,233,144,20,22,Champions Tour 2024 Pacific Stage 1_csvs
+Laz,Laz,ZETA,999,"['Chamber', 'Killjoy', 'Viper']",3,299,1.14,212.8,1.16,71%,142.0,0.76,0.15,0.15,0.08,26%,4%,2/50,22,227,196,46,44,24,Champions Tour 2024 Pacific Stage 1_csvs
+t3xture,t3xture,GEN,9196,"['Raze', 'Jett', 'Omen']",3,627,1.14,235.3,1.2,72%,153.7,0.84,0.17,0.21,0.13,27%,17%,10/59,28,526,437,107,130,84,Champions Tour 2024 Pacific Stage 1_csvs
+something,something,PRX,17086,"['Jett', 'Reyna', 'Gekko']",3,494,1.14,229.9,1.22,76%,145.5,0.82,0.22,0.2,0.12,27%,13%,4/30,25,406,334,109,99,61,Champions Tour 2024 Pacific Stage 1_csvs
+d4v41,d4v41,PRX,9803,"['Skye', 'Killjoy', 'Omen', 'Sage', 'Kayo', 'Viper']",6,494,1.13,210.8,1.17,81%,136.3,0.74,0.42,0.09,0.06,31%,10%,5/50,22,364,311,206,43,29,Champions Tour 2024 Pacific Stage 1_csvs
+invy,invy,TS,8504,"['Breach', 'Viper', 'Kayo', 'Fade']",4,382,1.12,206.8,1.05,77%,137.2,0.74,0.49,0.06,0.05,34%,13%,5/39,25,282,268,188,24,18,Champions Tour 2024 Pacific Stage 1_csvs
+sScary,sScary,BLD,4382,"['Omen', 'Brimstone', 'Harbor', 'Viper']",4,294,1.12,220.4,1.11,75%,143.3,0.78,0.33,0.09,0.07,25%,11%,5/45,26,228,206,96,27,21,Champions Tour 2024 Pacific Stage 1_csvs
+JitBoyS,JitBoyS,TLN,13788,"['Omen', 'Harbor', 'Viper']",3,339,1.1,199.4,1.09,73%,134.3,0.73,0.34,0.08,0.08,37%,22%,11/49,29,246,226,114,28,27,Champions Tour 2024 Pacific Stage 1_csvs
+Jinggg,Jinggg,PRX,7378,"['Raze', 'Sage']",2,494,1.1,234.3,1.17,77%,154.4,0.81,0.24,0.13,0.09,21%,18%,7/38,24,402,345,119,65,45,Champions Tour 2024 Pacific Stage 1_csvs
+Dep,Dep,ZETA,424,"['Phoenix', 'Jett', 'Neon', 'Yoru', 'Raze']",5,299,1.08,234.6,1.1,72%,152.4,0.82,0.22,0.15,0.15,28%,25%,5/20,29,245,222,66,44,46,Champions Tour 2024 Pacific Stage 1_csvs
+Jremy,Jremy,TS,7405,"['Raze', 'Jett']",2,382,1.08,247.3,1.12,75%,158.0,0.82,0.2,0.23,0.24,22%,20%,7/35,30,315,282,78,89,92,Champions Tour 2024 Pacific Stage 1_csvs
+Foxy9,Foxy9,DRX,11600,"['Cypher', 'Killjoy']",2,372,1.08,191.4,1.17,74%,126.4,0.72,0.21,0.07,0.08,32%,22%,13/60,24,269,229,77,27,29,Champions Tour 2024 Pacific Stage 1_csvs
+Lmemore,Lmemore,RRQ,7764,"['Sova', 'Skye', 'Fade']",3,244,1.07,221.6,1.05,67%,149.3,0.79,0.23,0.11,0.11,35%,14%,3/22,30,192,183,56,26,27,Champions Tour 2024 Pacific Stage 1_csvs
+mindfreak,mindfreak,PRX,9800,"['Omen', 'Brimstone', 'Viper']",3,494,1.06,193.3,1.12,77%,126.3,0.7,0.37,0.05,0.06,32%,10%,7/73,26,347,309,181,27,31,Champions Tour 2024 Pacific Stage 1_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Cypher', 'Harbor', 'Kayo', 'Breach', 'Sova', 'Skye']",6,494,1.06,195.5,1.11,78%,131.1,0.72,0.35,0.08,0.11,32%,17%,7/42,25,354,319,174,39,56,Champions Tour 2024 Pacific Stage 1_csvs
+Munchkin,Munchkin,GEN,2489,"['Viper', 'Kayo', 'Skye']",3,627,1.06,195.5,1.02,74%,129.5,0.66,0.44,0.07,0.1,25%,23%,18/78,22,411,402,278,41,61,Champions Tour 2024 Pacific Stage 1_csvs
+Rossy,Rossy,T1,1129,"['Viper', 'Kayo', 'Skye', 'Breach', 'Sage']",5,531,1.06,201.2,1.0,74%,132.2,0.69,0.4,0.07,0.08,26%,17%,13/75,22,369,370,215,39,40,Champions Tour 2024 Pacific Stage 1_csvs
+Lightningfast,Lightningfast,GE,3626,"['Omen', 'Sage', 'Viper']",3,302,1.05,209.1,1.01,72%,137.1,0.72,0.37,0.09,0.08,33%,15%,4/27,24,217,214,113,26,24,Champions Tour 2024 Pacific Stage 1_csvs
+Karon,Karon,GEN,34974,"['Omen', 'Viper', 'Brimstone', 'Astra']",4,627,1.04,188.6,1.02,73%,119.5,0.67,0.42,0.07,0.08,30%,14%,9/65,25,420,412,263,42,49,Champions Tour 2024 Pacific Stage 1_csvs
+SugarZ3ro,SugarZ3ro,ZETA,6668,"['Omen', 'Viper', 'Astra', 'Brimstone']",4,299,1.03,194.3,1.01,77%,121.9,0.69,0.43,0.05,0.07,33%,15%,4/27,24,205,202,130,16,22,Champions Tour 2024 Pacific Stage 1_csvs
+yuran,yuran,ZETA,29840,"['Viper', 'Gekko', 'Sova']",3,299,1.03,202.7,1.0,68%,138.6,0.68,0.32,0.07,0.09,27%,17%,6/36,19,204,204,95,20,27,Champions Tour 2024 Pacific Stage 1_csvs
+BuZz,BuZz,DRX,804,"['Raze', 'Jett']",2,372,1.02,230.8,1.07,73%,147.4,0.78,0.15,0.18,0.19,23%,14%,3/22,25,290,271,54,67,70,Champions Tour 2024 Pacific Stage 1_csvs
+Meiy,Meiy,DFM,6672,"['Raze', 'Yoru']",2,284,1.02,238.3,1.04,67%,155.2,0.83,0.16,0.19,0.18,26%,8%,1/12,29,236,227,45,54,52,Champions Tour 2024 Pacific Stage 1_csvs
+BORKUM,BORKUM,TS,2333,"['Omen', 'Viper']",2,382,1.01,186.8,0.97,72%,120.6,0.66,0.32,0.08,0.05,23%,21%,9/43,19,251,258,124,29,21,Champions Tour 2024 Pacific Stage 1_csvs
+xffero,xffero,RRQ,4871,"['Cypher', 'Killjoy']",2,244,0.99,200.6,1.05,70%,127.8,0.71,0.14,0.09,0.08,31%,15%,4/26,23,174,166,33,23,19,Champions Tour 2024 Pacific Stage 1_csvs
+JessieVash,JessieVash,TS,2334,"['Sova', 'Skye', 'Breach', 'Fade']",4,382,0.99,191.2,0.99,70%,128.7,0.68,0.31,0.07,0.06,27%,14%,6/43,26,259,262,119,26,24,Champions Tour 2024 Pacific Stage 1_csvs
+blaZek1ng,blaZek1ng,GE,1743,"['Sova', 'Viper', 'Omen']",3,302,0.98,194.2,0.96,71%,131.1,0.66,0.28,0.12,0.07,30%,11%,5/45,22,200,208,84,36,21,Champions Tour 2024 Pacific Stage 1_csvs
+ban,ban,TLN,5129,"['Viper', 'Skye', 'Kayo', 'Killjoy', 'Yoru', 'Chamber', 'Cypher']",7,339,0.98,207.8,1.05,66%,137.0,0.75,0.24,0.13,0.12,33%,7%,2/30,26,254,243,81,43,40,Champions Tour 2024 Pacific Stage 1_csvs
+Polvi,Polvi,GE,1839,"['Raze', 'Jett', 'Gekko']",3,302,0.98,211.8,0.98,70%,141.1,0.73,0.2,0.18,0.17,22%,13%,3/23,22,220,224,59,55,51,Champions Tour 2024 Pacific Stage 1_csvs
+Russ,Russ,GE,1162,"['Gekko', 'Kayo', 'Fade']",4,302,0.98,192.3,0.99,72%,124.1,0.7,0.31,0.08,0.09,41%,24%,7/29,21,210,212,95,25,27,Champions Tour 2024 Pacific Stage 1_csvs
+Meteor,Meteor,GEN,13039,"['Killjoy', 'Cypher', 'Jett', 'Yoru']",4,627,0.97,210.7,1.02,68%,141.0,0.74,0.17,0.13,0.09,32%,9%,6/69,24,467,456,105,82,55,Champions Tour 2024 Pacific Stage 1_csvs
+stax,stax,DRX,485,"['Fade', 'Kayo', 'Sova', 'Skye', 'Breach']",5,372,0.96,173.9,0.88,73%,109.1,0.58,0.48,0.08,0.1,26%,11%,3/28,17,216,246,180,30,38,Champions Tour 2024 Pacific Stage 1_csvs
+xccurate,xccurate,T1,10816,"['Chamber', 'Harbor', 'Killjoy', 'Cypher', 'Omen']",5,531,0.96,186.3,1.0,70%,123.3,0.7,0.17,0.08,0.09,27%,10%,7/69,21,372,371,91,41,47,Champions Tour 2024 Pacific Stage 1_csvs
+Governor,Governor,TLN,3980,"['Raze', 'Jett', 'Neon']",3,339,0.95,199.2,1.0,68%,133.3,0.71,0.15,0.16,0.17,24%,20%,6/30,22,239,240,52,55,56,Champions Tour 2024 Pacific Stage 1_csvs
+lenne,lenne,TLN,8137,"['Sova', 'Gekko', 'Fade']",3,91,0.95,177.3,0.83,75%,112.4,0.57,0.45,0.09,0.07,18%,6%,1/16,15,52,63,41,8,6,Champions Tour 2024 Pacific Stage 1_csvs
+Sayaplayer,Sayaplayer,T1,4545,"['Raze', 'Jett', 'Neon', 'Reyna']",4,531,0.94,209.7,0.96,70%,139.0,0.73,0.17,0.17,0.16,26%,14%,8/56,25,390,407,90,92,86,Champions Tour 2024 Pacific Stage 1_csvs
+Zest,Zest,BLD,772,"['Fade', 'Gekko', 'Sova', 'Skye']",4,294,0.94,175.6,0.9,69%,116.6,0.62,0.26,0.05,0.07,26%,11%,4/36,24,181,202,76,16,21,Champions Tour 2024 Pacific Stage 1_csvs
+Lakia,Lakia,GEN,773,"['Fade', 'Sova', 'Gekko', 'Skye', 'Viper']",5,627,0.92,169.1,0.86,73%,116.7,0.58,0.36,0.05,0.08,26%,13%,9/67,19,361,419,227,33,49,Champions Tour 2024 Pacific Stage 1_csvs
+Surf,Surf,TLN,23062,"['Killjoy', 'Viper', 'Cypher']",3,248,0.92,169.6,0.9,68%,119.2,0.59,0.19,0.08,0.07,38%,10%,2/20,23,146,163,46,20,17,Champions Tour 2024 Pacific Stage 1_csvs
+iZu,iZu,T1,29833,"['Omen', 'Skye', 'Yoru', 'Raze', 'Viper']",5,531,0.91,184.7,0.88,70%,121.3,0.65,0.34,0.09,0.12,27%,24%,13/55,26,347,395,180,49,64,Champions Tour 2024 Pacific Stage 1_csvs
+Crws,Crws,TLN,3977,"['Fade', 'Gekko', 'Kayo', 'Sova', 'Viper', 'Breach']",6,339,0.9,159.4,0.86,69%,108.0,0.56,0.27,0.04,0.07,26%,16%,6/37,23,190,221,92,15,23,Champions Tour 2024 Pacific Stage 1_csvs
+NDG,NDG,TS,12322,"['Cypher', 'Killjoy']",2,382,0.9,186.4,0.92,70%,122.7,0.66,0.23,0.1,0.05,24%,7%,4/55,22,254,277,87,37,21,Champions Tour 2024 Pacific Stage 1_csvs
+Anthem,Anthem,DFM,6700,"['Kayo', 'Fade', 'Gekko', 'Skye', 'Sova']",5,284,0.9,159.0,0.81,69%,109.3,0.56,0.36,0.04,0.08,25%,13%,5/38,20,160,197,101,12,22,Champions Tour 2024 Pacific Stage 1_csvs
+Medusa,Medusa,DFM,993,"['Viper', 'Omen']",2,284,0.9,187.2,0.87,71%,122.2,0.63,0.27,0.1,0.13,31%,8%,3/39,19,178,204,78,29,38,Champions Tour 2024 Pacific Stage 1_csvs
+carpe,carpe,T1,31207,"['Fade', 'Gekko', 'Sova', 'Skye']",4,531,0.89,169.4,0.85,72%,112.5,0.61,0.33,0.06,0.08,26%,8%,4/53,24,322,380,173,33,40,Champions Tour 2024 Pacific Stage 1_csvs
+Benkai,Benkai,GE,9802,"['Viper', 'Killjoy', 'Cypher']",3,302,0.89,166.4,0.89,69%,118.4,0.59,0.16,0.06,0.07,24%,2%,1/47,20,177,200,49,17,20,Champions Tour 2024 Pacific Stage 1_csvs
+Retla,Retla,BLD,2361,"['Viper', 'Cypher', 'Killjoy']",3,294,0.87,163.9,0.89,73%,108.1,0.57,0.2,0.05,0.07,25%,14%,5/37,16,169,189,60,16,22,Champions Tour 2024 Pacific Stage 1_csvs
+SSeeS,SSeeS,DFM,21438,"['Omen', 'Viper']",2,284,0.86,151.1,0.78,70%,97.5,0.55,0.34,0.05,0.06,31%,10%,4/39,18,155,198,97,13,17,Champions Tour 2024 Pacific Stage 1_csvs
+Estrella,Estrella,RRQ,25025,"['Viper', 'Omen']",2,204,0.84,157.4,0.79,75%,105.8,0.54,0.39,0.05,0.07,27%,9%,3/32,15,110,140,79,11,14,Champions Tour 2024 Pacific Stage 1_csvs
+Deryeon,Deryeon,BLD,9152,"['Killjoy', 'Breach', 'Kayo', 'Jett', 'Gekko']",5,294,0.84,170.2,0.8,72%,112.2,0.59,0.27,0.08,0.09,30%,3%,1/37,18,173,217,80,24,27,Champions Tour 2024 Pacific Stage 1_csvs
+yay,yay,BLD,881,"['Raze', 'Jett', 'Yoru']",3,294,0.83,190.4,0.83,67%,126.2,0.64,0.17,0.19,0.22,23%,25%,4/16,20,187,225,49,55,66,Champions Tour 2024 Pacific Stage 1_csvs
+neth,neth,DFM,1970,"['Cypher', 'Killjoy']",2,284,0.82,160.9,0.79,66%,108.5,0.57,0.2,0.06,0.11,24%,12%,5/41,23,162,204,56,16,32,Champions Tour 2024 Pacific Stage 1_csvs
+hiroronn,hiroronn,ZETA,10588,"['Sova', 'Kayo', 'Gekko', 'Breach', 'Skye']",5,299,0.81,164.6,0.76,73%,104.1,0.56,0.39,0.06,0.12,32%,16%,5/31,20,167,220,116,19,37,Champions Tour 2024 Pacific Stage 1_csvs
+fl1pzjder,fl1pzjder,RRQ,7045,"['Yoru', 'Viper', 'Gekko', 'Kayo']",4,244,0.8,156.2,0.74,66%,108.0,0.54,0.29,0.08,0.12,27%,22%,6/27,23,132,178,70,20,29,Champions Tour 2024 Pacific Stage 1_csvs
+2GE,2GE,RRQ,9735,"['Omen', 'Viper']",2,40,0.69,122.0,0.7,68%,81.6,0.48,0.1,0.0,0.08,29%,0%,0/6,10,19,27,4,0,3,Champions Tour 2024 Pacific Stage 1_csvs
+Karon,Karon,GEN,34974,"['Omen', 'Viper', 'Brimstone']",3,480,1.21,207.5,1.24,79%,134.0,0.78,0.43,0.09,0.05,36%,15%,10/65,28,372,299,204,44,24,Champions Tour 2024 Pacific Stage 2_csvs
+Sayaplayer,Sayaplayer,T1,4545,"['Chamber', 'Sage', 'Jett', 'Gekko']",4,268,1.18,227.2,1.37,75%,145.5,0.85,0.12,0.18,0.11,27%,11%,4/36,24,228,167,32,48,29,Champions Tour 2024 Pacific Stage 2_csvs
+d4v41,d4v41,PRX,9803,"['Killjoy', 'Sage', 'Viper', 'Fade', 'Sova', 'Kayo', 'Skye']",7,436,1.18,212.6,1.22,78%,141.4,0.75,0.36,0.08,0.06,27%,18%,9/50,25,326,267,157,37,28,Champions Tour 2024 Pacific Stage 2_csvs
+invy,invy,TS,8504,"['Kayo', 'Breach', 'Viper', 'Sova']",4,290,1.15,200.9,1.1,75%,133.1,0.71,0.5,0.07,0.06,27%,11%,4/37,24,207,189,145,21,17,Champions Tour 2024 Pacific Stage 2_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Kayo', 'Breach', 'Skye', 'Yoru', 'Cypher', 'Fade', 'Harbor', 'Neon']",8,436,1.15,228.3,1.18,78%,147.0,0.8,0.47,0.1,0.09,29%,7%,2/30,22,349,296,203,42,39,Champions Tour 2024 Pacific Stage 2_csvs
+primmie,primmie,TLN,25255,"['Clove', 'Jett', 'Iso', 'Cypher']",4,118,1.12,254.5,1.06,69%,174.1,0.91,0.2,0.16,0.13,45%,27%,4/15,28,107,101,24,19,15,Champions Tour 2024 Pacific Stage 2_csvs
+Meiy,Meiy,DFM,6672,"['Jett', 'Raze', 'Neon']",3,250,1.12,252.9,1.12,72%,165.3,0.91,0.14,0.22,0.18,25%,10%,2/21,32,227,203,34,56,45,Champions Tour 2024 Pacific Stage 2_csvs
+Jemkin,Jemkin,RRQ,24895,"['Gekko', 'Jett', 'Raze', 'Chamber', 'Yoru']",5,328,1.11,218.3,1.22,78%,144.0,0.8,0.18,0.13,0.13,30%,27%,7/26,27,261,214,60,41,41,Champions Tour 2024 Pacific Stage 2_csvs
+BuZz,BuZz,DRX,804,"['Jett', 'Raze', 'Neon']",3,590,1.1,241.5,1.15,69%,153.2,0.84,0.15,0.17,0.16,21%,29%,14/49,33,498,434,87,98,95,Champions Tour 2024 Pacific Stage 2_csvs
+sScary,sScary,BLD,4382,"['Omen', 'Viper', 'Brimstone']",3,236,1.1,206.4,1.08,78%,132.8,0.72,0.44,0.06,0.04,27%,8%,3/36,21,170,158,104,15,9,Champions Tour 2024 Pacific Stage 2_csvs
+Rossy,Rossy,T1,1129,"['Viper', 'Gekko', 'Sova']",3,136,1.09,205.7,1.15,73%,138.7,0.72,0.25,0.07,0.07,33%,13%,2/15,29,98,85,34,10,10,Champions Tour 2024 Pacific Stage 2_csvs
+Munchkin,Munchkin,GEN,2489,"['Viper', 'Kayo']",2,480,1.09,193.0,1.01,78%,126.5,0.63,0.55,0.09,0.09,20%,10%,5/49,34,302,298,264,42,41,Champions Tour 2024 Pacific Stage 2_csvs
+xffero,xffero,RRQ,4871,"['Killjoy', 'Omen', 'Viper', 'Cypher']",4,328,1.09,220.1,1.13,74%,145.8,0.77,0.26,0.08,0.09,31%,20%,10/49,30,253,224,86,27,29,Champions Tour 2024 Pacific Stage 2_csvs
+t3xture,t3xture,GEN,9196,"['Raze', 'Jett']",2,480,1.09,229.6,1.2,70%,148.3,0.82,0.16,0.21,0.14,27%,14%,3/22,27,394,329,79,99,69,Champions Tour 2024 Pacific Stage 2_csvs
+2GE,2GE,TS,9735,"['Omen', 'Viper']",2,290,1.08,196.2,1.08,73%,126.0,0.7,0.34,0.08,0.08,30%,25%,9/36,20,202,187,100,24,22,Champions Tour 2024 Pacific Stage 2_csvs
+Flashback,Flashback,DRX,35013,"['Clove', 'Kayo', 'Astra', 'Omen', 'Cypher', 'Killjoy', 'Chamber', 'Viper']",8,590,1.08,220.5,1.09,70%,141.9,0.77,0.25,0.11,0.08,29%,20%,19/94,25,455,418,148,63,46,Champions Tour 2024 Pacific Stage 2_csvs
+stax,stax,T1,485,"['Skye', 'Fade', 'Breach', 'Kayo']",4,268,1.08,197.6,1.07,78%,125.4,0.68,0.54,0.03,0.05,30%,13%,5/39,20,181,169,146,9,14,Champions Tour 2024 Pacific Stage 2_csvs
+iZu,iZu,T1,29833,"['Raze', 'Cypher', 'Iso', 'Jett', 'Killjoy']",5,268,1.08,253.8,1.2,75%,167.5,0.88,0.19,0.16,0.14,23%,6%,1/16,26,236,196,51,44,38,Champions Tour 2024 Pacific Stage 2_csvs
+Wild0reoo,Wild0reoo,TS,9740,"['Killjoy', 'Cypher', 'Skye', 'Gekko']",4,290,1.06,199.7,1.08,74%,132.4,0.73,0.31,0.08,0.07,34%,18%,5/28,25,213,197,90,22,21,Champions Tour 2024 Pacific Stage 2_csvs
+Meteor,Meteor,GEN,13039,"['Cypher', 'Killjoy']",2,480,1.06,207.1,1.15,72%,135.5,0.75,0.19,0.1,0.08,29%,7%,4/56,27,358,311,92,47,40,Champions Tour 2024 Pacific Stage 2_csvs
+Laz,Laz,ZETA,999,"['Killjoy', 'Cypher', 'Skye', 'Gekko', 'Sova', 'Fade']",6,284,1.06,199.8,1.05,66%,133.5,0.72,0.29,0.08,0.1,37%,16%,7/43,23,205,196,83,23,28,Champions Tour 2024 Pacific Stage 2_csvs
+JitBoyS,JitBoyS,TLN,13788,"['Viper', 'Omen', 'Astra', 'Harbor', 'Clove']",5,398,1.05,200.6,1.01,72%,131.7,0.71,0.33,0.07,0.08,38%,7%,4/58,24,283,281,130,28,32,Champions Tour 2024 Pacific Stage 2_csvs
+something,something,PRX,17086,"['Jett', 'Gekko', 'Fade', 'Reyna', 'Breach']",5,436,1.04,207.2,1.11,72%,134.1,0.75,0.19,0.16,0.11,29%,15%,8/55,20,329,296,84,69,50,Champions Tour 2024 Pacific Stage 2_csvs
+SugarZ3ro,SugarZ3ro,ZETA,6668,"['Viper', 'Omen']",2,284,1.04,203.4,1.01,73%,133.5,0.73,0.32,0.04,0.07,37%,5%,2/43,21,207,205,92,11,19,Champions Tour 2024 Pacific Stage 2_csvs
+Jinggg,Jinggg,PRX,7378,"['Sage', 'Raze', 'Iso', 'Neon', 'Clove', 'Phoenix']",6,436,1.04,224.4,1.1,73%,144.8,0.78,0.29,0.15,0.12,21%,13%,3/23,28,339,308,125,65,52,Champions Tour 2024 Pacific Stage 2_csvs
+Lakia,Lakia,GEN,773,"['Skye', 'Fade', 'Sova', 'Gekko']",4,480,1.02,183.0,1.03,74%,123.9,0.64,0.35,0.08,0.08,26%,21%,9/43,24,305,295,167,36,39,Champions Tour 2024 Pacific Stage 2_csvs
+Estrella,Estrella,RRQ,25025,"['Kayo', 'Breach', 'Omen']",3,328,1.01,166.8,0.97,77%,108.3,0.59,0.48,0.05,0.06,31%,7%,3/41,23,192,198,159,18,21,Champions Tour 2024 Pacific Stage 2_csvs
+Monyet,Monyet,RRQ,8497,"['Viper', 'Omen', 'Neon', 'Raze']",4,328,1.01,211.5,0.98,73%,141.5,0.73,0.38,0.12,0.13,31%,20%,6/30,28,240,245,125,38,44,Champions Tour 2024 Pacific Stage 2_csvs
+Jremy,Jremy,TS,7405,"['Jett', 'Raze', 'Neon']",3,290,1.0,218.8,1.03,72%,144.2,0.73,0.2,0.2,0.2,25%,0%,0/14,23,213,206,57,57,58,Champions Tour 2024 Pacific Stage 2_csvs
+Lmemore,Lmemore,RRQ,7764,"['Sova', 'Chamber', 'Skye', 'Gekko', 'Deadlock']",5,328,1.0,199.9,1.0,68%,134.5,0.7,0.24,0.09,0.12,33%,19%,6/31,33,229,228,78,30,39,Champions Tour 2024 Pacific Stage 2_csvs
+Benkai,Benkai,GE,9802,"['Sova', 'Breach', 'Killjoy']",3,180,0.98,161.0,0.81,72%,115.7,0.54,0.36,0.02,0.05,28%,17%,6/35,17,97,120,64,3,9,Champions Tour 2024 Pacific Stage 2_csvs
+blaZek1ng,blaZek1ng,GE,1743,"['Cypher', 'Killjoy', 'Viper']",3,180,0.98,184.1,0.92,66%,122.9,0.67,0.16,0.06,0.07,33%,15%,6/39,18,120,131,28,11,13,Champions Tour 2024 Pacific Stage 2_csvs
+JessieVash,JessieVash,TS,2334,"['Sova', 'Cypher', 'Killjoy']",3,290,0.98,187.5,0.99,70%,125.3,0.64,0.23,0.09,0.09,25%,18%,7/40,19,187,188,67,25,25,Champions Tour 2024 Pacific Stage 2_csvs
+MaKo,MaKo,DRX,4462,"['Viper', 'Omen', 'Breach', 'Brimstone']",4,590,0.97,190.6,0.93,71%,125.4,0.65,0.38,0.08,0.1,29%,17%,12/70,21,382,410,225,47,61,Champions Tour 2024 Pacific Stage 2_csvs
+mindfreak,mindfreak,PRX,9800,"['Viper', 'Omen']",2,436,0.97,167.7,1.03,75%,108.4,0.62,0.33,0.06,0.06,37%,13%,7/52,20,270,261,144,26,28,Champions Tour 2024 Pacific Stage 2_csvs
+Polvi,Polvi,GE,1839,"['Jett', 'Neon']",2,180,0.96,230.0,0.96,67%,153.2,0.79,0.23,0.21,0.22,26%,20%,2/10,22,143,149,42,38,40,Champions Tour 2024 Pacific Stage 2_csvs
+carpe,carpe,T1,31207,"['Gekko', 'Viper', 'Sova']",3,132,0.94,195.3,0.97,80%,125.8,0.68,0.43,0.12,0.08,25%,8%,1/12,20,90,93,57,16,11,Champions Tour 2024 Pacific Stage 2_csvs
+SSeeS,SSeeS,DFM,21438,"['Viper', 'Omen']",2,250,0.94,177.3,0.86,68%,114.3,0.61,0.39,0.07,0.09,38%,13%,6/45,21,153,178,98,17,22,Champions Tour 2024 Pacific Stage 2_csvs
+Retla,Retla,BLD,2361,"['Killjoy', 'Cypher']",2,236,0.94,188.0,0.96,66%,126.0,0.69,0.18,0.05,0.05,27%,21%,4/19,22,164,171,42,12,12,Champions Tour 2024 Pacific Stage 2_csvs
+Dep,Dep,ZETA,424,"['Omen', 'Raze', 'Jett', 'Neon']",4,284,0.93,219.4,0.94,69%,145.8,0.74,0.19,0.22,0.17,27%,9%,2/23,24,211,224,55,62,47,Champions Tour 2024 Pacific Stage 2_csvs
+hiroronn,hiroronn,ZETA,10588,"['Gekko', 'Sova', 'Cypher', 'Killjoy']",4,284,0.92,176.2,0.85,69%,121.2,0.61,0.24,0.09,0.1,28%,21%,7/33,20,172,202,67,25,28,Champions Tour 2024 Pacific Stage 2_csvs
+Deryeon,Deryeon,BLD,9152,"['Jett', 'Raze', 'Neon']",3,236,0.91,210.1,0.94,66%,136.3,0.74,0.15,0.2,0.22,28%,15%,3/20,24,174,185,35,47,53,Champions Tour 2024 Pacific Stage 2_csvs
+Surf,Surf,TLN,23062,"['Jett', 'Gekko', 'Breach', 'Killjoy', 'Cypher', 'Sage', 'Phoenix']",7,280,0.91,171.9,0.91,69%,111.1,0.61,0.2,0.05,0.07,36%,0%,0/28,19,170,186,56,15,19,Champions Tour 2024 Pacific Stage 2_csvs
+ban,ban,TLN,5129,"['Killjoy', 'Cypher', 'Jett', 'Iso', 'Breach', 'Phoenix', 'Sage', 'Deadlock']",8,398,0.9,183.1,0.88,65%,126.5,0.65,0.19,0.11,0.11,35%,9%,4/46,23,260,297,76,44,44,Champions Tour 2024 Pacific Stage 2_csvs
+Governor,Governor,TLN,3980,"['Kayo', 'Raze', 'Neon', 'Clove', 'Sova']",5,398,0.9,193.5,0.89,70%,126.9,0.69,0.23,0.17,0.16,25%,21%,5/24,26,275,308,93,68,65,Champions Tour 2024 Pacific Stage 2_csvs
+Medusa,Medusa,DFM,993,"['Killjoy', 'Cypher']",2,250,0.9,180.4,0.92,68%,124.6,0.65,0.14,0.08,0.11,26%,19%,7/37,22,162,177,36,21,27,Champions Tour 2024 Pacific Stage 2_csvs
+neth,neth,DFM,1970,"['Harbor', 'Kayo', 'Breach']",3,250,0.89,171.6,0.8,74%,110.0,0.58,0.44,0.04,0.06,27%,16%,4/25,18,144,180,109,9,16,Champions Tour 2024 Pacific Stage 2_csvs
+Zest,Zest,BLD,772,"['Kayo', 'Deadlock', 'Viper', 'Skye', 'Breach']",5,236,0.89,167.5,0.85,69%,106.3,0.59,0.34,0.08,0.1,34%,13%,4/31,20,139,163,80,20,24,Champions Tour 2024 Pacific Stage 2_csvs
+Crws,Crws,TLN,3977,"['Gekko', 'Breach', 'Sova', 'Fade']",4,398,0.88,168.9,0.83,68%,117.9,0.56,0.28,0.04,0.08,21%,11%,6/56,21,224,270,110,16,31,Champions Tour 2024 Pacific Stage 2_csvs
+Russ,Russ,GE,1162,"['Kayo', 'Fade']",2,180,0.87,177.0,0.75,72%,116.7,0.59,0.52,0.12,0.1,34%,19%,3/16,20,107,143,94,22,18,Champions Tour 2024 Pacific Stage 2_csvs
+BeYN,BeYN,DRX,4678,"['Kayo', 'Gekko', 'Sova', 'Skye', 'Fade']",5,590,0.86,161.6,0.79,71%,109.5,0.55,0.27,0.06,0.08,26%,24%,16/68,27,322,407,159,34,47,Champions Tour 2024 Pacific Stage 2_csvs
+Foxy9,Foxy9,DRX,11600,"['Killjoy', 'Cypher', 'Kayo', 'Breach', 'Brimstone', 'Gekko']",6,590,0.85,165.0,0.82,70%,110.7,0.58,0.35,0.07,0.09,32%,12%,7/57,21,340,416,209,42,56,Champions Tour 2024 Pacific Stage 2_csvs
+crazyguy,crazyguy,BLD,1430,"['Sova', 'Fade', 'Deadlock']",3,236,0.82,166.1,0.71,68%,116.2,0.53,0.33,0.07,0.12,21%,10%,3/30,19,125,177,77,16,28,Champions Tour 2024 Pacific Stage 2_csvs
+xccurate,xccurate,T1,10816,"['Omen', 'Viper', 'Brimstone']",3,268,0.8,160.5,0.79,73%,106.9,0.55,0.4,0.04,0.1,22%,24%,5/21,20,148,188,108,12,27,Champions Tour 2024 Pacific Stage 2_csvs
+yuran,yuran,ZETA,29840,"['Kayo', 'Breach', 'Viper']",3,284,0.8,153.5,0.67,71%,101.7,0.5,0.52,0.05,0.1,25%,4%,1/25,20,142,211,148,14,27,Champions Tour 2024 Pacific Stage 2_csvs
+Lightningfast,Lightningfast,GE,3626,"['Omen', 'Sage']",2,180,0.79,151.9,0.74,69%,92.4,0.57,0.33,0.07,0.07,30%,17%,3/18,18,102,138,59,13,13,Champions Tour 2024 Pacific Stage 2_csvs
+Anthem,Anthem,DFM,6700,"['Sova', 'Gekko', 'Deadlock']",3,250,0.79,160.3,0.74,73%,105.4,0.56,0.21,0.05,0.1,23%,8%,2/25,20,140,189,53,12,25,Champions Tour 2024 Pacific Stage 2_csvs
 penny,penny,FUR,7716,"['Jett', 'Raze']",2,38,1.37,266.0,1.68,82%,165.9,0.97,0.21,0.18,0.11,24%,25%,1/4,22,37,22,8,7,4,VCT 2025 Americas Kickoff_csvs
 mada,mada,NRG,5132,"['Raze', 'Jett', 'Yoru', 'Neon']",4,183,1.29,277.3,1.37,75%,173.6,0.97,0.19,0.2,0.21,22%,26%,5/19,30,178,130,35,37,39,VCT 2025 Americas Kickoff_csvs
 bdog,bdog,FUR,844,['Breach'],1,38,1.28,212.5,1.33,79%,125.5,0.74,0.55,0.05,0.0,35%,0%,0/8,16,28,21,21,2,0,VCT 2025 Americas Kickoff_csvs
@@ -748,6 +1523,86 @@ ZesBeeW,ZesBeeW,TS,2380,"['Neon', 'Omen', 'Viper']",3,195,0.76,151.4,0.72,64%,10
 Wild0reoo,Wild0reoo,TS,9740,"['Omen', 'Cypher', 'Skye', 'Viper', 'Neon']",5,256,0.76,162.9,0.7,63%,107.5,0.55,0.27,0.06,0.15,34%,26%,6/23,23,140,199,70,15,39,VCT 2025 Pacific Stage 2_csvs
 JessieVash,JessieVash,TS,2334,['Sova'],1,61,0.75,141.7,0.7,59%,103.7,0.49,0.16,0.03,0.03,32%,0%,0/11,16,30,43,10,2,2,VCT 2025 Pacific Stage 2_csvs
 SSeeS,SSeeS,DFM,21438,"['Sova', 'Fade', 'Omen']",3,274,0.66,122.5,0.64,63%,81.5,0.43,0.2,0.05,0.1,25%,15%,6/41,12,117,182,54,13,28,VCT 2025 Pacific Stage 2_csvs
+trexx,trexx,VIT,2168,"['Sova', 'Fade']",2,151,1.23,228.0,1.24,72%,155.0,0.81,0.34,0.09,0.07,23%,14%,3/21,26,123,99,52,13,10,Valorant Champions 2024_csvs
+Derke,Derke,FNC,5022,"['Raze', 'Yoru']",2,293,1.22,257.4,1.33,72%,167.0,0.92,0.18,0.17,0.14,24%,27%,6/22,30,269,202,54,51,42,Valorant Champions 2024_csvs
+primmie,primmie,TLN,25255,"['Yoru', 'Sage', 'Clove', 'Raze']",4,85,1.22,243.0,1.32,74%,152.4,0.88,0.27,0.08,0.06,37%,13%,2/15,22,75,57,23,7,5,Valorant Champions 2024_csvs
+Chronicle,Chronicle,FNC,458,"['Viper', 'Sova']",2,293,1.21,224.4,1.23,73%,153.8,0.77,0.29,0.13,0.07,26%,12%,4/34,25,227,185,84,38,21,Valorant Champions 2024_csvs
+keznit,keznit,KRÜ,2462,"['Neon', 'Omen', 'Raze', 'Jett']",4,156,1.18,250.8,1.16,76%,170.7,0.83,0.33,0.14,0.08,23%,13%,1/8,22,130,112,51,22,13,Valorant Champions 2024_csvs
+CHICHOO,CHICHOO,EDG,15559,"['Omen', 'Viper', 'Killjoy', 'Cypher', 'Astra']",5,449,1.18,221.5,1.24,76%,144.5,0.79,0.29,0.11,0.06,29%,16%,9/57,27,353,284,129,50,26,Valorant Champions 2024_csvs
+Meteor,Meteor,GEN,13039,"['Killjoy', 'Yoru', 'Cypher']",3,153,1.17,241.1,1.32,71%,160.7,0.9,0.17,0.11,0.1,37%,16%,3/19,28,137,104,26,17,16,Valorant Champions 2024_csvs
+RieNs,RieNs,TH,10971,"['Sova', 'Gekko', 'Viper']",3,552,1.15,214.2,1.17,75%,145.0,0.76,0.29,0.09,0.09,38%,22%,14/65,28,419,359,158,48,50,Valorant Champions 2024_csvs
+Smoggy,Smoggy,EDG,4742,"['Clove', 'Brimstone', 'Viper', 'Omen']",4,449,1.14,213.1,1.21,76%,133.8,0.76,0.37,0.06,0.06,28%,15%,9/60,23,340,281,165,29,28,Valorant Champions 2024_csvs
+t3xture,t3xture,GEN,9196,"['Jett', 'Raze']",2,153,1.14,242.6,1.17,69%,157.2,0.84,0.18,0.18,0.14,25%,19%,3/16,24,128,109,27,28,21,Valorant Champions 2024_csvs
+aspas,aspas,LEV,8480,"['Raze', 'Jett', 'Neon']",3,407,1.14,220.5,1.19,74%,146.9,0.8,0.17,0.15,0.1,28%,16%,7/45,29,326,274,68,61,42,Valorant Champions 2024_csvs
+zekken,zekken,SEN,4004,"['Jett', 'Raze', 'Neon']",3,361,1.12,252.2,1.17,71%,161.0,0.89,0.26,0.2,0.18,23%,27%,4/15,27,323,275,94,73,66,Valorant Champions 2024_csvs
+TenZ,TenZ,SEN,9,"['Omen', 'Gekko', 'Kayo']",3,361,1.1,213.4,1.08,75%,139.2,0.75,0.44,0.07,0.09,25%,5%,2/37,29,271,251,158,27,33,Valorant Champions 2024_csvs
+Kai,Kai,TE,37494,"['Jett', 'Cypher', 'Killjoy']",3,208,1.1,213.9,1.1,70%,145.8,0.76,0.17,0.14,0.13,29%,4%,1/26,25,158,143,36,29,26,Valorant Champions 2024_csvs
+ZmjjKK,ZmjjKK,EDG,3520,"['Neon', 'Raze', 'Jett']",3,449,1.1,250.8,1.2,69%,160.6,0.88,0.21,0.23,0.19,24%,17%,4/23,28,394,329,95,105,85,Valorant Champions 2024_csvs
+Alfajer,Alfajer,FNC,9810,"['Gekko', 'Killjoy', 'Breach', 'Iso']",4,293,1.09,209.7,1.11,73%,145.3,0.75,0.23,0.09,0.07,32%,19%,6/31,25,220,198,68,27,20,Valorant Champions 2024_csvs
+Autumn,Autumn,FPX,872,"['Viper', 'Chamber']",2,115,1.08,211.8,1.12,71%,134.5,0.75,0.23,0.17,0.1,32%,15%,3/20,20,86,77,27,19,11,Valorant Champions 2024_csvs
+Shyy,Shyy,KRÜ,24007,"['Cypher', 'Viper', 'Killjoy']",3,156,1.07,211.1,1.16,69%,139.9,0.78,0.26,0.13,0.12,27%,24%,6/25,23,121,104,40,21,18,Valorant Champions 2024_csvs
+yetujey,yetujey,FUT,8369,"['Cypher', 'Viper']",2,88,1.07,231.8,1.14,69%,145.0,0.82,0.18,0.19,0.08,30%,0%,0/16,19,72,63,16,17,7,Valorant Champions 2024_csvs
+mindfreak,mindfreak,PRX,9800,"['Viper', 'Omen', 'Brimstone']",3,140,1.06,210.1,1.04,78%,134.4,0.74,0.41,0.05,0.04,31%,19%,3/16,22,104,100,58,7,6,Valorant Champions 2024_csvs
+Kicks,Kicks,VIT,11134,"['Kayo', 'Gekko', 'Breach']",3,151,1.05,187.1,0.92,72%,120.2,0.63,0.5,0.06,0.07,24%,22%,4/18,22,95,103,75,9,11,Valorant Champions 2024_csvs
+Flashback,Flashback,DRX,35013,"['Cypher', 'Viper', 'Killjoy']",3,238,1.04,202.3,1.16,76%,133.4,0.74,0.23,0.1,0.05,30%,18%,6/34,27,177,153,54,24,12,Valorant Champions 2024_csvs
+kiNgg,kiNgg,LEV,8549,"['Brimstone', 'Omen', 'Viper']",3,407,1.04,185.1,1.04,75%,120.2,0.67,0.36,0.08,0.07,32%,17%,10/58,25,271,261,148,31,29,Valorant Champions 2024_csvs
+LuoK1ng,LuoK1ng,TE,3045,"['Omen', 'Brimstone', 'Astra']",3,208,1.04,201.6,1.1,74%,131.3,0.75,0.35,0.07,0.04,33%,0%,0/29,27,155,141,73,15,9,Valorant Champions 2024_csvs
+heat,heat,KRÜ,8673,"['Breach', 'Sova', 'Fade', 'Gekko']",4,156,1.03,191.4,1.09,74%,123.3,0.73,0.26,0.06,0.04,33%,9%,2/23,21,114,105,40,10,7,Valorant Champions 2024_csvs
+MaKo,MaKo,DRX,4462,"['Omen', 'Brimstone', 'Viper']",3,238,1.02,192.7,0.99,77%,124.9,0.66,0.4,0.07,0.08,27%,17%,4/23,21,157,158,95,16,19,Valorant Champions 2024_csvs
+BuZz,BuZz,DRX,804,"['Jett', 'Raze', 'Neon']",3,238,1.01,241.3,1.11,68%,149.7,0.83,0.17,0.22,0.2,23%,17%,2/12,24,198,178,40,53,47,Valorant Champions 2024_csvs
+Sacy,Sacy,SEN,659,"['Sova', 'Fade', 'Gekko']",3,361,1.01,190.1,0.9,74%,128.8,0.61,0.45,0.07,0.08,23%,21%,8/39,19,222,247,162,26,29,Valorant Champions 2024_csvs
+Sayf,Sayf,VIT,312,"['Jett', 'Neon', 'Raze']",3,151,1.01,210.0,1.03,67%,139.1,0.72,0.22,0.11,0.17,27%,20%,3/15,22,109,106,33,16,25,Valorant Champions 2024_csvs
+johnqt,johnqt,SEN,1265,"['Cypher', 'Deadlock', 'Viper']",3,361,1.0,162.2,1.01,74%,106.9,0.59,0.28,0.07,0.06,24%,18%,9/50,23,214,212,101,27,22,Valorant Champions 2024_csvs
+valyn,valyn,G2,3885,"['Harbor', 'Omen', 'Brimstone', 'Astra']",4,200,0.99,191.2,0.99,72%,118.4,0.7,0.34,0.07,0.07,23%,18%,5/28,25,139,140,67,13,13,Valorant Champions 2024_csvs
+S1Mon,S1Mon,EDG,13768,"['Breach', 'Fade', 'Kayo']",3,449,0.99,164.5,0.89,76%,109.1,0.57,0.49,0.06,0.04,29%,20%,8/40,24,256,287,220,29,16,Valorant Champions 2024_csvs
+Karon,Karon,GEN,34974,"['Omen', 'Astra', 'Brimstone', 'Viper']",4,153,0.99,180.4,1.0,73%,114.8,0.67,0.42,0.07,0.07,32%,19%,3/16,23,103,103,64,11,10,Valorant Champions 2024_csvs
+cNed,cNed,FUT,573,"['Jett', 'Raze']",2,88,0.99,222.3,0.99,67%,151.4,0.77,0.13,0.18,0.14,25%,0%,0/8,21,68,69,11,16,12,Valorant Champions 2024_csvs
+Wo0t,Wo0t,TH,21328,"['Gekko', 'Fade', 'Omen', 'Skye', 'Kayo', 'Breach']",6,552,0.99,189.6,0.97,75%,124.2,0.66,0.39,0.07,0.09,36%,18%,9/51,25,363,376,213,39,49,Valorant Champions 2024_csvs
+Zellsis,Zellsis,SEN,729,"['Breach', 'Cypher', 'Brimstone', 'Killjoy', 'Kayo']",5,361,0.98,175.1,0.93,73%,111.8,0.61,0.41,0.07,0.09,23%,14%,7/51,22,220,236,149,24,34,Valorant Champions 2024_csvs
+hiro,hiro,FNC,29867,"['Fade', 'Viper', 'Cypher']",3,293,0.98,185.2,1.02,73%,118.8,0.66,0.28,0.06,0.08,28%,16%,4/25,21,193,190,83,19,24,Valorant Champions 2024_csvs
+ban,ban,TLN,5129,"['Skye', 'Phoenix', 'Deadlock', 'Cypher']",4,85,0.98,184.0,1.04,72%,118.5,0.68,0.2,0.08,0.08,38%,8%,1/13,18,58,56,17,7,7,Valorant Champions 2024_csvs
+C0M,C0M,LEV,619,"['Viper', 'Sova', 'Fade']",3,407,0.98,192.8,0.95,70%,136.3,0.64,0.27,0.08,0.08,25%,14%,8/56,22,260,274,109,31,31,Valorant Champions 2024_csvs
+Boo,Boo,TH,1144,"['Astra', 'Brimstone', 'Fade', 'Viper', 'Omen', 'Sage']",6,552,0.98,180.2,0.95,74%,113.8,0.64,0.38,0.08,0.06,31%,14%,15/104,24,354,372,210,46,33,Valorant Champions 2024_csvs
+MiniBoo,MiniBoo,TH,18350,"['Jett', 'Raze', 'Yoru', 'Neon']",4,552,0.97,206.0,0.99,69%,134.5,0.72,0.18,0.16,0.16,30%,14%,3/22,24,398,403,97,87,88,Valorant Champions 2024_csvs
+leaf,leaf,G2,7873,"['Killjoy', 'Viper']",2,200,0.97,202.7,0.93,69%,138.5,0.7,0.19,0.14,0.1,21%,11%,2/19,27,140,150,37,28,20,Valorant Champions 2024_csvs
+AAAAY,AAAAY,FPX,19530,"['Fade', 'Gekko']",2,115,0.97,181.8,1.05,68%,122.8,0.7,0.17,0.08,0.05,31%,6%,1/17,27,81,77,20,9,6,Valorant Champions 2024_csvs
+benjyfishy,benjyfishy,TH,29873,"['Cypher', 'Viper', 'Killjoy']",3,552,0.96,190.3,1.02,69%,127.9,0.7,0.18,0.08,0.12,36%,16%,9/58,24,388,380,99,46,65,Valorant Champions 2024_csvs
+BerLIN,BerLIN,FPX,7857,"['Omen', 'Astra', 'Breach']",3,115,0.96,178.6,0.92,69%,118.5,0.62,0.36,0.1,0.08,26%,7%,1/14,20,71,77,41,11,9,Valorant Champions 2024_csvs
+trent,trent,G2,15500,"['Sova', 'Fade', 'Gekko']",3,200,0.96,195.9,0.89,68%,132.5,0.65,0.31,0.09,0.11,30%,10%,3/29,20,130,146,61,18,21,Valorant Champions 2024_csvs
+Mazino,Mazino,LEV,7603,"['Skye', 'Deadlock', 'Breach', 'Harbor']",4,407,0.95,194.8,0.94,70%,125.6,0.69,0.36,0.09,0.09,27%,18%,6/33,24,279,298,146,36,38,Valorant Champions 2024_csvs
+Munchkin,Munchkin,GEN,2489,"['Viper', 'Kayo']",2,153,0.95,191.6,0.84,78%,127.3,0.6,0.49,0.1,0.08,24%,8%,2/26,21,92,109,75,15,13,Valorant Champions 2024_csvs
+f0rsakeN,f0rsakeN,PRX,9801,"['Sova', 'Kayo', 'Breach', 'Fade', 'Cypher']",5,140,0.95,181.9,0.93,68%,121.9,0.67,0.3,0.05,0.11,37%,19%,4/21,21,94,101,42,7,16,Valorant Champions 2024_csvs
+FengF,FengF,TE,4770,"['Killjoy', 'Raze', 'Cypher']",3,208,0.95,203.1,1.02,67%,132.4,0.71,0.1,0.13,0.14,29%,15%,3/20,21,147,144,21,28,29,Valorant Champions 2024_csvs
+BeYN,BeYN,DRX,4678,"['Sova', 'Fade']",2,238,0.95,175.6,0.97,73%,115.2,0.64,0.26,0.05,0.09,25%,28%,9/32,18,153,158,63,12,22,Valorant Champions 2024_csvs
+qRaxs,qRaxs,FUT,1139,"['Breach', 'Fade', 'Gekko']",3,88,0.94,155.5,0.88,70%,101.9,0.57,0.3,0.05,0.07,29%,21%,3/14,17,50,57,26,4,6,Valorant Champions 2024_csvs
+icy,icy,G2,8402,"['Gekko', 'Raze', 'Yoru']",3,200,0.93,183.2,0.88,67%,124.5,0.65,0.21,0.12,0.13,30%,19%,4/21,24,129,147,42,23,25,Valorant Champions 2024_csvs
+nobody,nobody,EDG,3017,"['Fade', 'Gekko', 'Sova']",3,449,0.93,180.2,0.95,72%,118.2,0.63,0.28,0.08,0.1,33%,24%,10/42,23,282,298,126,36,45,Valorant Champions 2024_csvs
+d4v41,d4v41,PRX,9803,"['Killjoy', 'Fade', 'Sage', 'Viper', 'Skye']",5,140,0.93,181.0,0.87,72%,125.0,0.64,0.27,0.05,0.07,32%,20%,4/20,19,89,102,38,7,10,Valorant Champions 2024_csvs
+something,something,PRX,17086,"['Jett', 'Gekko']",2,140,0.93,205.0,0.93,69%,133.7,0.69,0.26,0.13,0.14,28%,6%,1/16,18,97,104,36,18,20,Valorant Champions 2024_csvs
+Flex1n,Flex1n,BLG,4705,"['Brimstone', 'Omen', 'Viper']",3,78,0.93,182.5,0.83,73%,126.7,0.64,0.32,0.1,0.08,36%,15%,2/13,16,50,60,25,8,6,Valorant Champions 2024_csvs
+Foxy9,Foxy9,DRX,11600,"['Breach', 'Kayo', 'Gekko', 'Chamber']",4,238,0.93,180.3,0.93,71%,119.6,0.64,0.41,0.05,0.09,29%,15%,4/27,23,152,164,97,11,22,Valorant Champions 2024_csvs
+whzy,whzy,BLG,4885,"['Raze', 'Neon', 'Jett']",3,78,0.92,245.3,0.91,65%,150.9,0.79,0.21,0.18,0.23,22%,0%,0/3,23,62,68,16,14,18,Valorant Champions 2024_csvs
+runneR,runneR,VIT,21610,"['Killjoy', 'Cypher', 'Viper']",3,151,0.91,205.1,0.88,68%,137.1,0.67,0.26,0.13,0.09,20%,0%,0/17,21,101,115,40,20,14,Valorant Champions 2024_csvs
+Jinggg,Jinggg,PRX,7378,"['Sage', 'Neon', 'Raze']",3,140,0.91,209.7,0.88,69%,137.2,0.67,0.35,0.12,0.23,18%,18%,2/11,21,94,107,49,17,32,Valorant Champions 2024_csvs
+Melser,Melser,KRÜ,1311,"['Omen', 'Harbor', 'Brimstone', 'Viper']",4,156,0.91,178.6,0.86,69%,114.5,0.6,0.3,0.1,0.13,31%,15%,3/20,22,94,109,47,15,21,Valorant Champions 2024_csvs
+ceNder,ceNder,VIT,4321,"['Omen', 'Viper']",2,151,0.88,167.0,0.9,68%,108.4,0.64,0.32,0.07,0.15,29%,7%,1/15,19,96,107,48,10,23,Valorant Champions 2024_csvs
+mta,mta,KRÜ,36169,"['Sova', 'Kayo', 'Gekko', 'Viper']",4,156,0.88,173.9,0.87,71%,115.3,0.62,0.27,0.1,0.09,32%,8%,1/12,19,97,112,42,15,14,Valorant Champions 2024_csvs
+JonahP,JonahP,G2,4581,"['Viper', 'Skye']",2,200,0.88,183.8,0.83,66%,117.1,0.63,0.28,0.09,0.12,23%,13%,3/24,21,125,151,56,17,23,Valorant Champions 2024_csvs
+tex,tex,LEV,1818,"['Gekko', 'Cypher', 'Killjoy']",3,407,0.88,194.5,0.91,67%,130.0,0.69,0.19,0.12,0.14,33%,16%,5/32,26,280,307,76,50,57,Valorant Champions 2024_csvs
+heybay,heybay,TE,4712,"['Kayo', 'Breach', 'Deadlock', 'Viper']",4,208,0.86,163.3,0.79,74%,108.9,0.56,0.4,0.06,0.08,25%,9%,2/22,20,117,148,84,13,16,Valorant Champions 2024_csvs
+Lysoar,Lysoar,FPX,37489,"['Cypher', 'Viper', 'Omen']",3,115,0.85,166.6,0.78,70%,118.7,0.57,0.37,0.04,0.04,20%,13%,1/8,21,66,85,42,5,5,Valorant Champions 2024_csvs
+Biank,Biank,TE,3021,"['Sova', 'Skye', 'Fade']",3,208,0.82,165.5,0.78,64%,106.9,0.54,0.34,0.1,0.11,16%,35%,6/17,18,113,145,71,20,23,Valorant Champions 2024_csvs
+Knight,Knight,BLG,4774,"['Cypher', 'Breach', 'Sage']",3,78,0.8,147.3,0.67,64%,96.5,0.51,0.42,0.03,0.06,29%,8%,1/13,14,40,60,33,2,5,Valorant Champions 2024_csvs
+AtaKaptan,AtaKaptan,FUT,6510,"['Viper', 'Brimstone', 'Omen']",3,88,0.8,160.8,0.75,64%,106.3,0.53,0.34,0.05,0.1,24%,0%,0/7,15,47,63,30,4,9,Valorant Champions 2024_csvs
+MrFaliN,MrFaliN,FUT,8044,"['Omen', 'Gekko', 'Breach']",3,88,0.78,172.8,0.75,70%,113.3,0.56,0.35,0.06,0.09,25%,13%,1/8,16,49,65,31,5,8,Valorant Champions 2024_csvs
+nephh,nephh,BLG,10698,"['Skye', 'Fade', 'Kayo']",3,78,0.77,167.0,0.68,58%,106.0,0.54,0.32,0.05,0.12,20%,0%,0/11,13,42,62,25,4,9,Valorant Champions 2024_csvs
+JitBoyS,JitBoyS,TLN,13788,"['Viper', 'Clove', 'Omen']",3,85,0.76,181.8,0.72,72%,118.0,0.59,0.22,0.14,0.07,35%,11%,1/9,18,50,69,19,12,6,Valorant Champions 2024_csvs
+Governor,Governor,TLN,3980,"['Neon', 'Sova', 'Raze', 'Deadlock']",4,85,0.75,183.3,0.76,62%,120.2,0.59,0.25,0.12,0.18,20%,0%,0/12,20,50,66,21,10,15,Valorant Champions 2024_csvs
+Boaster,Boaster,FNC,438,"['Astra', 'Omen']",2,293,0.71,122.2,0.68,70%,76.9,0.43,0.32,0.06,0.12,25%,14%,5/35,16,125,185,95,18,34,Valorant Champions 2024_csvs
+Life,Life,FPX,3028,"['Yoru', 'Raze', 'Viper']",3,115,0.71,175.8,0.78,61%,116.3,0.6,0.14,0.13,0.22,32%,13%,1/8,18,69,89,16,15,25,Valorant Champions 2024_csvs
+Lakia,Lakia,GEN,773,"['Skye', 'Sova', 'Fade', 'Gekko']",4,153,0.61,118.3,0.56,69%,79.5,0.39,0.3,0.05,0.09,23%,25%,3/12,16,60,108,46,8,14,Valorant Champions 2024_csvs
+yosemite,yosemite,BLG,6022,"['Viper', 'Cypher', 'Killjoy']",3,78,0.61,127.0,0.52,55%,84.8,0.4,0.23,0.05,0.1,25%,0%,0/13,12,31,60,18,4,8,Valorant Champions 2024_csvs
+Crws,Crws,TLN,3977,"['Omen', 'Kayo', 'Fade']",3,85,0.51,133.8,0.57,61%,91.2,0.45,0.24,0.05,0.14,19%,17%,1/6,11,38,67,20,4,12,Valorant Champions 2024_csvs
 aspas,aspas,MIBR,8480,"['Neon', 'Waylay', 'Raze', 'Jett']",4,330,1.33,261.6,1.66,79%,164.7,0.97,0.13,0.2,0.07,26%,8%,2/26,32,319,192,44,67,23,Valorant Champions 2025_csvs
 RieNs,RieNs,TH,10971,"['Fade', 'Sova']",2,256,1.17,226.1,1.14,73%,148.9,0.79,0.33,0.07,0.05,34%,20%,7/35,23,203,178,85,18,12,Valorant Champions 2025_csvs
 brawk,brawk,NRG,2172,"['Sova', 'Vyse']",2,377,1.16,224.6,1.17,76%,144.7,0.73,0.34,0.07,0.06,17%,9%,4/47,28,275,236,128,26,23,Valorant Champions 2025_csvs

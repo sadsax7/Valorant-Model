@@ -1,0 +1,1301 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,carpe,31207,T1,overall,"Sova, Fade",1.28,249,43,35,19,+8,81%,151,24%,6,3,+3,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,xccurate,10816,T1,overall,"Harbor, Chamber",1.15,221,43,34,9,+9,74%,150,26%,1,3,-2,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Sayaplayer,4545,T1,overall,"Jett, Raze",1.14,205,44,35,5,+9,72%,155,36%,10,8,+2,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,iZu,29833,T1,overall,"Yoru, Omen",1.06,212,39,36,18,+3,70%,141,30%,5,10,-5,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Rossy,1129,T1,overall,Viper,0.99,204,32,35,21,-3,72%,124,19%,4,3,+1,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,sScary,4382,BLEED,overall,"Viper, Omen",1.10,206,41,35,15,+6,74%,142,21%,3,4,-1,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,yay,881,BLEED,overall,"Neon, Skye",0.83,198,38,42,12,-4,72%,132,29%,6,8,-2,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,crazyguy,1430,BLEED,overall,"Sova, Breach",0.80,205,31,41,17,-10,57%,120,32%,5,4,+1,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Egoist,2362,BLEED,overall,"Skye, Killjoy",0.78,170,30,40,11,-10,72%,108,24%,5,4,+1,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Deryeon,9152,BLEED,overall,"Harbor, Raze",0.77,183,35,43,9,-8,75%,131,23%,8,6,+2,,
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Sayaplayer,4545,T1,map,Jett,1.54,284,36,21,1,+15,79%,191,36%,8,4,+4,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,xccurate,10816,T1,map,Harbor,1.22,254,29,24,7,+5,71%,169,29%,1,2,-1,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,carpe,31207,T1,map,Sova,1.05,203,23,25,11,-2,82%,131,28%,3,3,0,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,iZu,29833,T1,map,Yoru,0.96,194,22,24,9,-2,68%,136,26%,3,8,-5,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Rossy,1129,T1,map,Viper,0.75,138,16,22,8,-6,62%,99,27%,0,2,-2,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,sScary,4382,BLEED,map,Viper,1.17,215,28,21,10,+7,82%,152,27%,3,2,+1,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Deryeon,9152,BLEED,map,Harbor,0.99,245,29,28,6,+1,85%,154,27%,6,1,+5,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,yay,881,BLEED,map,Neon,0.88,213,27,26,6,+1,71%,130,26%,6,7,-1,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Egoist,2362,BLEED,map,Skye,0.65,140,17,26,9,-9,74%,90,27%,2,2,0,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,crazyguy,1430,BLEED,map,Sova,0.56,150,15,25,9,-10,53%,102,26%,2,3,-1,Breeze,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,carpe,31207,T1,map,Fade,1.69,294,20,10,8,+10,79%,187,20%,3,0,+3,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Rossy,1129,T1,map,Viper,1.41,270,16,13,13,+3,89%,170,13%,4,1,+3,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,iZu,29833,T1,map,Omen,1.25,229,17,12,9,+5,74%,151,39%,2,2,0,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,xccurate,10816,T1,map,Chamber,1.02,187,14,10,2,+4,79%,117,17%,0,1,-1,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Sayaplayer,4545,T1,map,Raze,0.43,126,8,14,4,-6,58%,92,35%,2,4,-2,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,crazyguy,1430,BLEED,map,Breach,1.21,260,16,16,8,0,63%,153,38%,3,1,+2,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Egoist,2362,BLEED,map,Killjoy,1.01,200,13,14,2,-1,68%,141,22%,3,2,+1,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,sScary,4382,BLEED,map,Omen,0.97,196,13,14,5,-1,58%,124,15%,0,2,-2,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,yay,881,BLEED,map,Skye,0.74,183,11,16,6,-5,74%,136,35%,0,1,-1,Lotus,T1
+296735,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-17 01:00:00,T1,BLEED,2 - 0,Deryeon,9152,BLEED,map,Raze,0.37,120,6,15,3,-9,58%,90,12%,2,5,-3,Lotus,T1
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,overall,"Jett, Raze",1.37,312,76,49,10,+27,74%,205,25%,16,7,+9,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,overall,"Killjoy, Jett, Cypher",1.12,240,64,48,7,+16,74%,149,31%,13,5,+8,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,overall,"Kayo, Viper",1.01,190,45,48,38,-3,80%,124,13%,2,3,-1,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,overall,"Gekko, Skye",0.87,170,38,49,32,-11,75%,118,27%,5,5,0,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,overall,"Viper, Astra, Omen",0.80,147,35,50,22,-15,72%,98,39%,7,6,+1,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,overall,"Sova, Skye, Fade",1.07,189,47,46,22,+1,71%,124,33%,2,5,-3,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,overall,"Viper, Astra, Harbor",1.02,217,52,54,29,-2,72%,137,24%,4,5,-1,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,overall,"Jett, Raze",0.92,215,54,54,6,0,67%,130,28%,10,12,-2,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,overall,"Gekko, Viper, Omen",0.92,186,43,52,25,-9,77%,118,32%,4,9,-5,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,overall,"Killjoy, Cypher",0.89,190,48,52,7,-4,62%,129,37%,6,12,-6,,
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Jett,1.69,377,33,16,1,+17,79%,245,31%,7,2,+5,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Killjoy,1.30,238,21,14,1,+7,75%,150,32%,3,2,+1,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Kayo,1.02,185,15,17,16,-2,83%,113,17%,0,0,0,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Viper,0.81,136,11,17,6,-6,67%,100,46%,4,3,+1,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Gekko,0.36,89,7,18,4,-11,67%,73,19%,1,2,-1,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Viper,1.28,269,22,17,12,+5,79%,176,28%,1,2,-1,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Jett,1.02,195,19,16,0,+3,58%,118,28%,3,4,-1,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Killjoy,0.87,219,18,20,2,-2,63%,148,38%,2,4,-2,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Gekko,0.80,169,13,17,7,-4,71%,109,38%,2,4,-2,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Sova,0.75,115,10,17,5,-7,75%,71,28%,1,1,0,Icebox,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Astra,1.18,223,19,17,9,+2,83%,131,46%,3,1,+2,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Jett,1.17,257,24,17,3,+7,75%,146,20%,7,3,+4,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Skye,1.03,180,14,16,15,-2,79%,128,29%,2,2,0,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Viper,0.95,205,16,18,13,-2,79%,139,12%,1,0,+1,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Raze,0.80,202,16,18,3,-2,63%,140,22%,2,3,-1,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Viper,1.27,204,18,15,8,+3,83%,133,33%,1,1,0,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Cypher,1.15,205,20,15,2,+5,71%,132,33%,4,5,-1,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Skye,1.14,207,18,16,9,+2,67%,149,33%,0,3,-3,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Astra,0.84,207,15,21,8,-6,67%,133,20%,3,1,+2,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Raze,0.63,191,15,22,5,-7,58%,127,37%,1,5,-4,Split,Rex Regum Qeon
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Raze,1.64,357,27,15,6,+12,81%,235,21%,7,2,+5,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Skye,1.28,240,17,15,13,+2,81%,159,30%,2,1,+1,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Viper,1.08,181,14,13,9,+1,76%,119,11%,1,3,-2,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Cypher,0.84,226,19,17,3,+2,71%,149,41%,3,0,+3,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Omen,0.37,81,5,16,7,-11,67%,59,21%,0,2,-2,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Fade,1.35,245,19,13,8,+6,71%,156,36%,1,1,0,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Raze,1.14,259,20,16,1,+4,86%,148,22%,6,3,+3,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Harbor,0.93,175,15,16,9,-1,71%,98,26%,0,2,-2,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Omen,0.67,185,12,20,10,-8,76%,112,26%,1,4,-3,Sunset,Gen.G
+296745,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (C)",2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Cypher,0.64,146,10,17,3,-7,52%,104,43%,0,3,-3,Sunset,Gen.G
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,overall,Viper,1.38,240,38,23,12,+15,74%,159,28%,7,4,+3,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,overall,"Skye, Sova",1.34,213,32,21,16,+11,72%,154,27%,2,4,-2,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,overall,"Raze, Jett",1.20,237,37,28,6,+9,72%,154,27%,7,6,+1,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,overall,"Brimstone, Harbor",1.15,168,26,21,18,+5,81%,115,26%,1,4,-3,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,overall,"Cypher, Killjoy",0.89,169,28,27,6,+1,67%,116,31%,5,3,+2,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,overall,"Raze, Jett",0.88,221,31,34,3,-3,67%,152,21%,11,8,+3,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,overall,Viper,0.81,182,27,33,5,-6,60%,117,35%,5,4,+1,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,overall,"Gekko, Sova",0.77,165,24,33,7,-9,72%,117,38%,2,3,-1,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,overall,Kayo,0.65,144,21,32,13,-11,65%,89,23%,3,2,+1,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,overall,"Cypher, Killjoy",0.63,113,17,29,5,-12,53%,85,24%,0,5,-5,,
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Brimstone,1.27,228,19,14,10,+5,78%,153,26%,1,1,0,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,map,Viper,1.15,218,18,14,4,+4,65%,140,30%,4,3,+1,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,map,Raze,1.14,243,20,15,1,+5,70%,166,33%,4,4,0,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,map,Skye,1.06,181,14,12,6,+2,70%,116,24%,2,1,+1,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,map,Cypher,0.78,176,16,17,4,-1,61%,113,28%,3,0,+3,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,map,Cypher,0.92,156,13,15,4,-2,61%,112,30%,0,2,-2,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,map,Kayo,0.85,180,15,17,5,-2,61%,108,23%,2,1,+1,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,map,Gekko,0.84,185,15,19,1,-4,74%,128,37%,1,3,-2,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,map,Viper,0.82,160,14,17,2,-3,57%,98,33%,2,3,-1,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,map,Raze,0.75,210,15,19,3,-4,61%,145,18%,4,5,-1,Bind,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,map,Sova,1.66,245,18,9,10,+9,75%,197,29%,0,3,-3,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,map,Viper,1.65,262,20,9,8,+11,85%,181,25%,3,1,+2,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,map,Jett,1.28,231,17,13,5,+4,75%,140,22%,3,2,+1,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,map,Killjoy,1.02,161,12,10,2,+2,75%,118,37%,2,3,-1,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Harbor,1.01,107,7,7,8,0,85%,71,25%,0,3,-3,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,map,Jett,1.03,232,16,15,0,+1,75%,161,27%,7,3,+4,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,map,Viper,0.80,203,13,16,3,-3,65%,139,36%,3,1,+2,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,map,Sova,0.69,145,9,14,6,-5,70%,105,40%,1,0,+1,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,map,Kayo,0.42,107,6,15,8,-9,70%,67,23%,1,1,0,Icebox,ZETA DIVISION
+296730,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (A)",2024-02-18 01:00:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,map,Killjoy,0.30,69,4,14,1,-10,45%,55,17%,0,3,-3,Icebox,ZETA DIVISION
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Jremy,7405,Team Secret,overall,Jett,1.01,223,28,30,6,-2,65%,152,31%,5,8,-3,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JessieVash,2334,Team Secret,overall,Sova,0.97,177,23,28,8,-5,54%,125,32%,2,4,-2,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,BORKUM,2333,Team Secret,overall,"Viper, Omen",0.75,155,17,30,14,-13,62%,110,18%,3,4,-1,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,invy,8504,Team Secret,overall,Kayo,0.66,125,17,30,10,-13,59%,85,20%,2,4,-2,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,NDG,12322,Team Secret,overall,"Cypher, Killjoy",0.44,94,9,30,8,-21,62%,71,24%,1,4,-3,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Governor,3980,TALON,overall,"Neon, Jett",1.73,341,46,19,12,+27,84%,205,22%,11,6,+5,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,lenne,8137,TALON,overall,Sova,1.40,216,27,14,18,+13,89%,136,15%,4,2,+2,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,ban,5129,TALON,overall,"Yoru, Kayo",1.21,247,34,24,15,+10,81%,149,27%,5,1,+4,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JitBoyS,13788,TALON,overall,"Viper, Killjoy",1.13,185,22,16,11,+6,78%,126,26%,2,1,+1,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Crws,3977,TALON,overall,"Harbor, Omen",0.83,138,19,21,12,-2,81%,92,21%,2,3,-1,,
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JessieVash,2334,Team Secret,map,Sova,1.12,202,16,15,5,+1,67%,138,42%,2,2,0,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Jremy,7405,Team Secret,map,Jett,1.09,230,16,15,6,+1,67%,157,29%,4,5,-1,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,BORKUM,2333,Team Secret,map,Viper,1.02,191,12,14,7,-2,71%,129,23%,2,0,+2,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,invy,8504,Team Secret,map,Kayo,0.86,139,12,15,4,-3,62%,89,32%,2,2,0,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,NDG,12322,Team Secret,map,Cypher,0.59,97,5,15,7,-10,81%,74,19%,1,1,0,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,ban,5129,TALON,map,Yoru,1.38,289,22,13,4,+9,76%,171,22%,3,1,+2,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Governor,3980,TALON,map,Neon,1.35,282,21,13,10,+8,76%,176,17%,4,5,-1,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Crws,3977,TALON,map,Harbor,0.97,175,13,13,6,0,81%,114,29%,1,2,-1,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,lenne,8137,TALON,map,Sova,0.93,139,10,11,9,-1,81%,96,20%,0,2,-2,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JitBoyS,13788,TALON,map,Viper,0.90,140,8,11,9,-3,71%,105,40%,2,1,+1,Breeze,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Jremy,7405,Team Secret,map,Jett,0.92,216,12,15,0,-3,63%,145,33%,1,3,-2,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JessieVash,2334,Team Secret,map,Sova,0.76,151,7,13,3,-6,38%,109,17%,0,2,-2,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,invy,8504,Team Secret,map,Kayo,0.40,110,5,15,6,-10,56%,79,7%,0,2,-2,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,BORKUM,2333,Team Secret,map,Omen,0.39,119,5,16,7,-11,50%,85,9%,1,4,-3,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,NDG,12322,Team Secret,map,Killjoy,0.25,91,4,15,1,-11,38%,68,33%,0,3,-3,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Governor,3980,TALON,map,Jett,2.23,399,25,6,2,+19,94%,243,28%,7,1,+6,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,lenne,8137,TALON,map,Sova,2.02,293,17,3,9,+14,100%,187,13%,4,0,+4,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,JitBoyS,13788,TALON,map,Killjoy,1.45,230,14,5,2,+9,88%,152,21%,0,0,0,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,ban,5129,TALON,map,Kayo,0.98,205,12,11,11,+1,88%,120,38%,2,0,+2,Ascent,TALON
+296731,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 03:30:00,Team Secret,TALON,0 - 2,Crws,3977,TALON,map,Omen,0.66,100,6,8,6,-2,81%,63,10%,1,1,0,Ascent,TALON
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Flashback,35013,DRX,overall,"Killjoy, Cypher",1.25,219,37,23,5,+14,71%,146,39%,2,6,-4,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,MaKo,4462,DRX,overall,"Omen, Viper",1.17,213,35,27,12,+8,81%,143,30%,5,0,+5,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,stax,485,DRX,overall,"Fade, Sova",1.11,182,30,23,7,+7,71%,119,32%,4,3,+1,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,BuZz,804,DRX,overall,"Raze, Yoru",1.09,243,36,31,12,+5,86%,156,28%,5,4,+1,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Foxy9,11600,DRX,overall,"Viper, Jett",1.00,209,32,27,4,+5,79%,126,26%,7,6,+1,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Meiy,6672,DetonatioN FocusMe,overall,"Raze, Yoru",0.99,246,33,36,11,-3,74%,166,24%,10,7,+3,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Medusa,993,DetonatioN FocusMe,overall,"Killjoy, Cypher",0.85,168,27,32,2,-5,60%,115,41%,3,3,0,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Anthem,6700,DetonatioN FocusMe,overall,"Skye, Sova",0.81,149,20,32,18,-12,71%,105,26%,2,4,-2,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,SSeeS,21438,DetonatioN FocusMe,overall,"Omen, Viper",0.75,180,28,35,10,-7,76%,106,39%,2,4,-2,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,neth,1970,DetonatioN FocusMe,overall,"Viper, Harbor",0.72,155,23,35,8,-12,55%,102,30%,2,5,-3,,
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,BuZz,804,DRX,map,Raze,1.21,269,20,16,4,+4,86%,174,24%,5,2,+3,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,stax,485,DRX,map,Fade,1.14,214,18,13,2,+5,76%,135,32%,3,3,0,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,MaKo,4462,DRX,map,Omen,1.13,201,16,14,7,+2,86%,144,28%,3,0,+3,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Foxy9,11600,DRX,map,Viper,1.09,230,18,13,1,+5,86%,140,35%,1,2,-1,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Flashback,35013,DRX,map,Killjoy,1.07,176,16,11,2,+5,71%,122,33%,0,2,-2,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Meiy,6672,DetonatioN FocusMe,map,Raze,1.06,252,16,18,7,-2,76%,173,20%,6,3,+3,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,neth,1970,DetonatioN FocusMe,map,Viper,0.93,176,14,17,5,-3,62%,117,32%,1,3,-2,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,SSeeS,21438,DetonatioN FocusMe,map,Omen,0.88,212,17,18,5,-1,81%,122,31%,1,2,-1,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Anthem,6700,DetonatioN FocusMe,map,Skye,0.87,173,12,17,9,-5,81%,114,23%,1,2,-1,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Medusa,993,DetonatioN FocusMe,map,Killjoy,0.37,96,8,18,1,-10,52%,68,29%,0,2,-2,Lotus,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Flashback,35013,DRX,map,Cypher,1.43,261,21,12,3,+9,71%,169,46%,2,4,-2,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,MaKo,4462,DRX,map,Viper,1.22,224,19,13,5,+6,76%,143,31%,2,0,+2,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,stax,485,DRX,map,Sova,1.07,149,12,10,5,+2,67%,102,33%,1,0,+1,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,BuZz,804,DRX,map,Yoru,0.97,217,16,15,8,+1,86%,138,33%,0,2,-2,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Foxy9,11600,DRX,map,Jett,0.91,187,14,14,3,0,71%,111,18%,6,4,+2,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Medusa,993,DetonatioN FocusMe,map,Cypher,1.33,240,19,14,1,+5,67%,162,49%,3,1,+2,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Meiy,6672,DetonatioN FocusMe,map,Yoru,0.92,240,17,18,4,-1,71%,160,30%,4,4,0,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,Anthem,6700,DetonatioN FocusMe,map,Sova,0.76,125,8,15,9,-7,62%,96,30%,1,2,-1,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,SSeeS,21438,DetonatioN FocusMe,map,Viper,0.62,147,11,17,5,-6,71%,90,55%,1,2,-1,Breeze,DRX
+296736,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Opening (B)",2024-02-18 05:30:00,DRX,DetonatioN FocusMe,2 - 0,neth,1970,DetonatioN FocusMe,map,Harbor,0.51,134,9,18,3,-9,48%,87,28%,1,2,-1,Breeze,DRX
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,t3xture,9196,Gen.G,overall,"Jett, Raze",1.19,260,65,51,11,+14,73%,167,27%,11,11,0,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Karon,34974,Gen.G,overall,"Astra, Omen",1.11,219,53,48,24,+5,76%,136,37%,4,3,+1,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Meteor,13039,Gen.G,overall,"Cypher, Killjoy",0.90,188,45,50,8,-5,67%,135,29%,8,3,+5,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Lakia,773,Gen.G,overall,"Skye, Fade",0.76,179,38,53,22,-15,65%,112,27%,5,7,-2,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Munchkin,2489,Gen.G,overall,Viper,0.67,149,34,51,17,-17,50%,103,24%,2,12,-10,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,something,17086,Paper Rex,overall,"Yoru, Jett, Gekko",1.37,266,60,44,21,+16,83%,178,19%,13,7,+6,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,d4v41,9803,Paper Rex,overall,"Viper, Skye, Sage",1.26,230,56,41,17,+15,68%,167,34%,3,5,-2,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Monyet,8497,Paper Rex,overall,"Omen, Raze",1.02,206,50,51,21,-1,80%,139,27%,7,8,-1,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,overall,"Harbor, Cypher, Kayo",1.01,229,53,50,20,+3,73%,148,31%,10,7,+3,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,overall,"Sova, Omen, Viper",0.74,149,34,49,17,-15,64%,107,24%,3,3,0,,
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,t3xture,9196,Gen.G,map,Jett,1.48,319,28,17,3,+11,74%,201,40%,4,2,+2,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Karon,34974,Gen.G,map,Astra,1.34,226,20,15,7,+5,78%,134,44%,1,0,+1,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.02,180,14,15,8,-1,52%,130,19%,0,3,-3,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Meteor,13039,Gen.G,map,Cypher,0.94,217,18,18,3,0,65%,143,24%,3,1,+2,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Lakia,773,Gen.G,map,Skye,0.44,130,9,20,9,-11,65%,88,20%,4,5,-1,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Viper,1.31,224,21,15,1,+6,57%,167,43%,1,3,-2,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,something,17086,Paper Rex,map,Yoru,0.99,233,18,18,6,0,78%,174,19%,4,2,+2,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Harbor,0.89,203,17,18,8,-1,78%,142,46%,2,2,0,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Sova,0.86,203,14,19,10,-5,78%,143,17%,1,0,+1,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Omen,0.71,166,15,19,6,-4,70%,103,27%,3,5,-2,Breeze,Gen.G
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Meteor,13039,Gen.G,map,Killjoy,1.35,269,22,15,3,+7,83%,190,40%,5,1,+4,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,t3xture,9196,Gen.G,map,Raze,1.31,258,23,17,6,+6,83%,162,19%,5,2,+3,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Karon,34974,Gen.G,map,Omen,0.90,197,16,16,9,0,70%,123,31%,2,2,0,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Lakia,773,Gen.G,map,Fade,0.72,142,10,16,9,-6,65%,95,18%,0,0,0,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.72,169,14,18,7,-4,65%,116,32%,2,4,-2,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,something,17086,Paper Rex,map,Jett,1.42,282,23,17,6,+6,83%,180,16%,4,5,-1,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Raze,1.26,255,20,18,8,+2,91%,187,23%,1,1,0,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Skye,1.20,220,16,15,12,+1,74%,154,30%,1,2,-1,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Cypher,0.75,174,15,18,4,-3,57%,113,25%,2,4,-2,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Omen,0.55,86,8,17,5,-9,43%,61,21%,1,2,-1,Lotus,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Lakia,773,Gen.G,map,Skye,1.19,265,19,17,4,+2,65%,159,44%,1,2,-1,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Karon,34974,Gen.G,map,Omen,1.09,233,17,17,8,0,80%,153,35%,1,1,0,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,t3xture,9196,Gen.G,map,Raze,0.73,203,14,17,2,-3,60%,132,26%,2,7,-5,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Meteor,13039,Gen.G,map,Cypher,0.34,79,5,17,2,-12,50%,61,19%,0,1,-1,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.21,97,6,18,2,-12,30%,57,19%,0,5,-5,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,something,17086,Paper Rex,map,Gekko,1.77,284,19,9,9,+10,90%,181,22%,5,0,+5,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Kayo,1.44,309,21,14,8,+7,85%,196,24%,6,1,+5,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Sage,1.26,246,19,11,4,+8,75%,181,31%,1,0,+1,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Omen,1.12,196,15,14,7,+1,80%,125,33%,3,2,+1,Sunset,Paper Rex
+296747,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-19 01:00:00,Gen.G,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Viper,0.81,158,12,13,2,-1,70%,119,41%,1,1,0,Sunset,Paper Rex
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Egoist,2362,BLEED,overall,"Cypher, Killjoy",1.28,234,61,45,17,+16,78%,151,27%,5,3,+2,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Deryeon,9152,BLEED,overall,"Raze, Harbor",1.15,249,58,52,18,+6,70%,156,19%,13,10,+3,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,sScary,4382,BLEED,overall,"Omen, Viper",1.03,159,36,38,32,-2,80%,110,26%,7,6,+1,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,yay,881,BLEED,overall,"Viper, Jett",0.73,148,35,49,18,-14,64%,102,27%,4,8,-4,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,crazyguy,1430,BLEED,overall,"Sova, Skye",0.70,155,35,50,17,-15,65%,108,31%,6,8,-2,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Benkai,9802,Global Esports,overall,"Viper, Killjoy, Cypher",1.14,217,54,43,10,+11,74%,141,27%,4,4,0,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,blaZek1ng,1743,Global Esports,overall,"Fade, Sova, Gekko",1.13,228,56,41,20,+15,72%,145,25%,4,7,-3,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Russ,1162,Global Esports,overall,"Gekko, Kayo, Breach",1.01,181,43,43,27,0,72%,117,35%,6,7,-1,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Polvi,1839,Global Esports,overall,"Raze, Jett",0.88,206,46,54,13,-8,71%,140,22%,17,13,+4,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Lightningfast,3626,Global Esports,overall,"Omen, Viper",0.79,139,35,45,18,-10,71%,96,40%,3,3,0,,
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,sScary,4382,BLEED,map,Omen,1.15,190,15,12,8,+3,77%,124,35%,3,4,-1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Deryeon,9152,BLEED,map,Raze,1.08,268,19,18,4,+1,64%,149,12%,3,4,-1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Egoist,2362,BLEED,map,Cypher,1.01,174,14,13,5,+1,68%,105,33%,2,1,+1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,yay,881,BLEED,map,Viper,0.93,156,12,13,2,-1,64%,111,36%,1,1,0,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,crazyguy,1430,BLEED,map,Sova,0.66,150,11,18,4,-7,59%,107,34%,2,1,+1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,blaZek1ng,1743,Global Esports,map,Fade,1.49,292,24,11,8,+13,59%,175,20%,2,3,-1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Polvi,1839,Global Esports,map,Raze,0.95,211,16,17,3,-1,59%,152,31%,6,6,0,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Benkai,9802,Global Esports,map,Viper,0.86,197,13,16,8,-3,73%,122,24%,3,1,+2,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Russ,1162,Global Esports,map,Gekko,0.81,143,12,14,4,-2,73%,90,52%,0,1,-1,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Lightningfast,3626,Global Esports,map,Omen,0.78,117,9,13,4,-4,59%,78,25%,0,0,0,Sunset,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Deryeon,9152,BLEED,map,Harbor,1.27,185,16,14,8,+2,70%,143,25%,0,2,-2,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,sScary,4382,BLEED,map,Viper,1.19,136,10,8,10,+2,91%,107,29%,3,1,+2,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Egoist,2362,BLEED,map,Killjoy,1.12,244,20,18,7,+2,78%,169,21%,2,1,+1,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,crazyguy,1430,BLEED,map,Sova,0.98,221,17,17,6,0,74%,145,30%,4,3,+1,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,yay,881,BLEED,map,Jett,0.94,204,17,17,6,0,65%,146,27%,3,4,-1,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Russ,1162,Global Esports,map,Kayo,1.20,234,17,14,16,+3,83%,149,30%,5,3,+2,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,blaZek1ng,1743,Global Esports,map,Sova,0.98,196,15,16,7,-1,78%,136,27%,2,2,0,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Benkai,9802,Global Esports,map,Killjoy,0.93,175,15,14,2,+1,70%,120,30%,0,2,-2,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Polvi,1839,Global Esports,map,Jett,0.76,192,14,19,5,-5,74%,122,20%,4,4,0,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Lightningfast,3626,Global Esports,map,Viper,0.70,145,13,17,4,-4,74%,98,59%,0,1,-1,Icebox,BLEED
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Egoist,2362,BLEED,map,Cypher,1.67,284,27,14,5,+13,88%,174,30%,1,1,0,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Deryeon,9152,BLEED,map,Raze,1.10,294,23,20,6,+3,75%,175,18%,10,4,+6,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,sScary,4382,BLEED,map,Omen,0.78,152,11,18,14,-7,71%,100,17%,1,1,0,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,crazyguy,1430,BLEED,map,Skye,0.49,94,7,15,7,-8,63%,74,28%,0,4,-4,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,yay,881,BLEED,map,Viper,0.34,83,6,19,10,-13,63%,52,14%,0,3,-3,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Benkai,9802,Global Esports,map,Cypher,1.59,279,26,13,0,+13,79%,178,27%,1,1,0,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Russ,1162,Global Esports,map,Breach,1.01,167,14,15,7,-1,63%,111,30%,1,3,-2,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,blaZek1ng,1743,Global Esports,map,Gekko,0.95,196,17,14,5,+3,79%,127,31%,0,2,-2,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Polvi,1839,Global Esports,map,Raze,0.92,215,16,18,5,-2,79%,146,18%,7,3,+4,Split,Global Esports
+296738,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 04:15:00,BLEED,Global Esports,1 - 2,Lightningfast,3626,Global Esports,map,Omen,0.89,155,13,15,10,-2,79%,112,41%,3,2,+1,Split,Global Esports
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,xccurate,10816,T1,overall,"Cypher, Chamber",1.22,263,57,40,12,+17,74%,160,28%,10,3,+7,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Sayaplayer,4545,T1,overall,"Jett, Raze",1.22,222,51,35,5,+16,77%,149,35%,10,9,+1,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Rossy,1129,T1,overall,Viper,1.13,211,48,35,12,+13,80%,126,17%,4,3,+1,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,iZu,29833,T1,overall,Omen,1.10,194,41,37,31,+4,80%,121,28%,6,3,+3,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,carpe,31207,T1,overall,"Fade, Sova",0.80,175,35,44,22,-9,80%,119,20%,6,7,-1,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Dep,424,ZETA DIVISION,overall,"Jett, Raze",1.06,233,51,46,8,+5,64%,148,25%,15,13,+2,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,SugarZ3ro,6668,ZETA DIVISION,overall,Omen,0.99,163,36,41,24,-5,59%,109,33%,0,3,-3,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Laz,999,ZETA DIVISION,overall,"Killjoy, Cypher",0.84,171,33,47,13,-14,66%,124,22%,1,4,-3,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,yuran,29840,ZETA DIVISION,overall,"Sova, Viper, Breach",0.80,166,34,50,25,-16,67%,111,23%,3,4,-1,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,hiroronn,10588,ZETA DIVISION,overall,"Kayo, Fade",0.80,175,37,48,22,-11,57%,117,31%,6,12,-6,,
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Rossy,1129,T1,map,Viper,1.20,203,20,14,4,+6,83%,124,14%,0,0,0,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Sayaplayer,4545,T1,map,Jett,1.12,221,20,16,1,+4,71%,143,43%,3,4,-1,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,iZu,29833,T1,map,Omen,1.07,208,16,17,17,-1,75%,125,26%,3,2,+1,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,xccurate,10816,T1,map,Cypher,0.92,207,18,19,3,-1,67%,126,21%,3,2,+1,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,carpe,31207,T1,map,Fade,0.38,123,8,22,9,-14,67%,83,11%,2,5,-3,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,SugarZ3ro,6668,ZETA DIVISION,map,Omen,1.21,166,17,13,7,+4,63%,119,35%,0,1,-1,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Dep,424,ZETA DIVISION,map,Jett,1.17,265,24,18,1,+6,71%,155,37%,9,2,+7,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Laz,999,ZETA DIVISION,map,Killjoy,1.15,207,15,14,9,+1,88%,142,20%,0,2,-2,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,yuran,29840,ZETA DIVISION,map,Sova,1.04,208,17,18,11,-1,71%,144,25%,2,1,+1,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,hiroronn,10588,ZETA DIVISION,map,Kayo,0.83,201,15,19,14,-4,63%,129,26%,2,5,-3,Ascent,ZETA DIVISION
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,xccurate,10816,T1,map,Chamber,1.66,359,22,9,4,+13,76%,219,26%,6,0,+6,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Rossy,1129,T1,map,Viper,1.35,278,17,8,3,+9,94%,168,22%,3,0,+3,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,iZu,29833,T1,map,Omen,1.31,188,12,7,6,+5,94%,121,38%,1,0,+1,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Sayaplayer,4545,T1,map,Raze,1.17,206,13,9,3,+4,94%,132,29%,3,2,+1,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,carpe,31207,T1,map,Fade,1.00,165,10,9,9,+1,94%,125,30%,1,1,0,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Dep,424,ZETA DIVISION,map,Raze,0.94,195,11,13,3,-2,65%,118,14%,1,4,-3,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Laz,999,ZETA DIVISION,map,Killjoy,0.85,188,10,15,2,-5,53%,143,20%,1,1,0,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,SugarZ3ro,6668,ZETA DIVISION,map,Omen,0.72,143,7,14,7,-7,53%,97,27%,0,2,-2,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,hiroronn,10588,ZETA DIVISION,map,Fade,0.50,104,7,15,2,-8,35%,71,58%,1,4,-3,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,yuran,29840,ZETA DIVISION,map,Viper,0.36,132,7,17,5,-10,41%,70,19%,0,3,-3,Lotus,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Sayaplayer,4545,T1,map,Raze,1.39,238,18,10,1,+8,70%,171,35%,4,3,+1,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,xccurate,10816,T1,map,Cypher,1.20,224,17,12,5,+5,80%,153,38%,1,1,0,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,carpe,31207,T1,map,Sova,1.15,238,17,13,4,+4,85%,158,28%,3,1,+2,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,iZu,29833,T1,map,Omen,0.95,187,13,13,8,0,75%,117,24%,2,1,+1,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Rossy,1129,T1,map,Viper,0.84,151,11,13,5,-2,65%,91,13%,1,3,-2,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Dep,424,ZETA DIVISION,map,Raze,1.03,240,16,15,4,+1,55%,164,25%,5,7,-2,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,hiroronn,10588,ZETA DIVISION,map,Fade,1.02,220,15,14,6,+1,70%,141,30%,3,3,0,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,SugarZ3ro,6668,ZETA DIVISION,map,Omen,0.96,180,12,14,10,-2,60%,107,35%,0,0,0,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,yuran,29840,ZETA DIVISION,map,Breach,0.87,158,10,15,9,-5,85%,108,22%,1,0,+1,Sunset,T1
+296737,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-19 08:00:00,T1,ZETA DIVISION,2 - 1,Laz,999,ZETA DIVISION,map,Cypher,0.46,117,8,18,2,-10,50%,87,33%,0,1,-1,Sunset,T1
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Meiy,6672,DetonatioN FocusMe,overall,"Raze, Yoru",1.25,261,42,32,4,+10,66%,161,27%,8,7,+1,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,SSeeS,21438,DetonatioN FocusMe,overall,"Omen, Viper",1.08,160,25,28,19,-3,66%,107,33%,1,3,-2,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Medusa,993,DetonatioN FocusMe,overall,"Killjoy, Cypher",0.90,186,27,32,7,-5,61%,130,38%,7,4,+3,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,neth,1970,DetonatioN FocusMe,overall,"Viper, Harbor",0.89,189,27,32,11,-5,68%,127,25%,2,5,-3,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Anthem,6700,DetonatioN FocusMe,overall,"Skye, Sova",0.62,128,18,35,22,-17,64%,99,31%,3,4,-1,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Jremy,7405,Team Secret,overall,"Raze, Jett",1.30,262,46,29,5,+17,75%,169,29%,10,8,+2,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,NDG,12322,Team Secret,overall,"Killjoy, Cypher",1.06,203,33,26,9,+7,75%,133,27%,4,5,-1,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,BORKUM,2333,Team Secret,overall,"Omen, Viper",0.98,189,28,28,14,0,66%,132,30%,5,4,+1,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,invy,8504,Team Secret,overall,"Viper, Kayo",0.96,182,27,29,16,-2,75%,118,21%,2,2,0,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,JessieVash,2334,Team Secret,overall,"Skye, Sova",0.96,154,25,27,11,-2,70%,110,31%,2,2,0,,
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Meiy,6672,DetonatioN FocusMe,map,Raze,1.34,278,21,15,1,+6,65%,163,31%,4,5,-1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,neth,1970,DetonatioN FocusMe,map,Viper,1.05,221,13,15,8,-2,80%,164,22%,1,0,+1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,SSeeS,21438,DetonatioN FocusMe,map,Omen,0.88,150,10,14,10,-4,65%,105,43%,1,2,-1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Medusa,993,DetonatioN FocusMe,map,Killjoy,0.82,185,12,14,1,-2,65%,128,32%,3,2,+1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Anthem,6700,DetonatioN FocusMe,map,Skye,0.46,91,5,16,10,-11,55%,78,29%,0,2,-2,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Raze,1.36,237,19,11,2,+8,70%,156,28%,5,4,+1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,NDG,12322,Team Secret,map,Killjoy,1.31,253,19,12,5,+7,85%,161,23%,2,1,+1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Skye,0.95,139,11,12,4,-1,75%,93,31%,2,1,+1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Omen,0.95,188,13,12,6,+1,80%,121,32%,1,1,0,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,invy,8504,Team Secret,map,Viper,0.85,174,12,14,6,-2,70%,112,20%,1,2,-1,Lotus,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,SSeeS,21438,DetonatioN FocusMe,map,Viper,1.26,169,15,14,9,+1,67%,109,27%,0,1,-1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Meiy,6672,DetonatioN FocusMe,map,Yoru,1.18,244,21,17,3,+4,67%,159,24%,4,2,+2,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Medusa,993,DetonatioN FocusMe,map,Cypher,0.96,187,15,18,6,-3,58%,132,43%,4,2,+2,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,neth,1970,DetonatioN FocusMe,map,Harbor,0.76,156,14,17,3,-3,58%,97,29%,1,5,-4,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Anthem,6700,DetonatioN FocusMe,map,Sova,0.75,165,13,19,12,-6,71%,117,33%,3,2,+1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Jett,1.26,287,27,18,3,+9,79%,180,30%,5,4,+1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,invy,8504,Team Secret,map,Kayo,1.06,189,15,15,10,0,79%,124,22%,1,0,+1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Viper,1.01,190,15,16,8,-1,54%,140,28%,4,3,+1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Sova,0.98,169,14,15,7,-1,67%,123,30%,0,1,-1,Breeze,Team Secret
+296733,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,0 - 2,NDG,12322,Team Secret,map,Cypher,0.85,153,14,14,4,0,67%,109,35%,2,4,-2,Breeze,Team Secret
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Foxy9,11600,DRX,overall,"Viper, Kayo",1.29,238,40,26,11,+14,84%,141,35%,8,5,+3,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,MaKo,4462,DRX,overall,Omen,1.17,175,27,22,21,+5,91%,128,35%,2,1,+1,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,BuZz,804,DRX,overall,"Raze, Jett",1.17,246,35,31,13,+4,82%,161,22%,11,4,+7,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Flashback,35013,DRX,overall,"Cypher, Killjoy",1.03,208,33,29,7,+4,68%,153,40%,3,4,-1,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,stax,485,DRX,overall,"Breach, Sova",1.03,164,29,25,13,+4,64%,108,33%,2,4,-2,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,JitBoyS,13788,TALON,overall,"Cypher, Killjoy",1.32,258,42,32,5,+10,75%,164,43%,3,3,0,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Crws,3977,TALON,overall,"Astra, Omen",0.81,153,24,30,13,-6,66%,103,21%,1,6,-5,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Governor,3980,TALON,overall,"Raze, Jett",0.81,212,33,37,7,-4,73%,137,13%,9,9,0,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,ban,5129,TALON,overall,"Skye, Kayo",0.79,138,20,29,16,-9,70%,86,31%,3,4,-1,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,lenne,8137,TALON,overall,Sova,0.50,117,14,36,14,-22,64%,90,18%,2,4,-2,,
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,stax,485,DRX,map,Breach,1.31,242,22,15,7,+7,70%,145,34%,2,1,+1,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,MaKo,4462,DRX,map,Omen,1.13,191,17,14,7,+3,91%,133,33%,1,1,0,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Foxy9,11600,DRX,map,Viper,1.10,250,21,17,5,+4,78%,145,27%,5,3,+2,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Flashback,35013,DRX,map,Cypher,1.02,165,15,13,3,+2,70%,137,47%,0,2,-2,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,BuZz,804,DRX,map,Raze,0.94,198,14,16,9,-2,83%,138,21%,4,4,0,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,JitBoyS,13788,TALON,map,Cypher,1.53,282,26,15,4,+11,87%,179,36%,1,1,0,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Governor,3980,TALON,map,Raze,0.96,248,18,20,6,-2,83%,171,13%,5,4,+1,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,ban,5129,TALON,map,Skye,0.75,150,12,17,5,-5,78%,95,24%,3,2,+1,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Crws,3977,TALON,map,Astra,0.74,154,13,17,8,-4,65%,106,20%,1,3,-2,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,lenne,8137,TALON,map,Sova,0.35,104,6,20,6,-14,61%,90,14%,1,2,-1,Split,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Foxy9,11600,DRX,map,Kayo,1.50,225,19,9,6,+10,90%,137,47%,3,2,+1,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,BuZz,804,DRX,map,Jett,1.42,294,21,15,4,+6,81%,187,22%,7,0,+7,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,MaKo,4462,DRX,map,Omen,1.22,159,10,8,14,+2,90%,122,36%,1,0,+1,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Flashback,35013,DRX,map,Killjoy,1.05,251,18,16,4,+2,67%,171,35%,3,2,+1,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,stax,485,DRX,map,Sova,0.73,86,7,10,6,-3,57%,67,30%,0,3,-3,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,JitBoyS,13788,TALON,map,Killjoy,1.08,233,16,17,1,-1,62%,147,55%,2,2,0,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Crws,3977,TALON,map,Omen,0.88,151,11,13,5,-2,67%,100,23%,0,3,-3,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,ban,5129,TALON,map,Kayo,0.84,126,8,12,11,-4,62%,75,43%,0,2,-2,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,lenne,8137,TALON,map,Sova,0.67,129,8,16,8,-8,67%,90,22%,1,2,-1,Ascent,DRX
+296732,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-20 05:20:00,DRX,TALON,2 - 0,Governor,3980,TALON,map,Jett,0.65,175,15,17,1,-2,62%,100,14%,4,5,-1,Ascent,DRX
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,overall,"Raze, Jett",1.26,255,66,45,2,+21,72%,161,27%,12,7,+5,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,overall,"Killjoy, Cypher",1.10,223,55,44,11,+11,81%,146,29%,5,6,-1,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,overall,"Omen, Astra, Viper",1.10,186,42,41,30,+1,73%,123,35%,7,5,+2,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,overall,"Fade, Skye, Gekko",0.97,185,43,44,21,-1,79%,126,32%,7,7,0,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,overall,"Viper, Kayo",0.79,158,36,45,28,-9,73%,105,20%,4,7,-3,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,overall,"Raze, Jett",1.28,258,64,47,11,+17,69%,163,31%,8,4,+4,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,overall,"Omen, Viper",1.01,184,44,46,21,-2,72%,120,40%,7,6,+1,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,overall,"Fade, Sova",0.84,164,36,47,19,-11,63%,104,26%,5,6,-1,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,overall,"Viper, Yoru, Gekko",0.75,143,34,47,13,-13,61%,88,21%,4,4,0,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,overall,"Chamber, Cypher, Killjoy",0.72,179,41,55,11,-14,66%,118,28%,8,15,-7,,
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Killjoy,1.33,246,18,10,6,+8,85%,163,26%,2,1,+1,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Omen,1.27,206,15,11,7,+4,65%,138,50%,2,3,-1,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Raze,1.16,222,18,13,1,+5,75%,137,25%,4,2,+2,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Fade,0.89,171,12,14,4,-2,90%,113,29%,1,3,-2,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Viper,0.85,177,12,13,6,-1,80%,118,13%,1,1,0,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Raze,1.15,258,17,15,5,+2,65%,173,23%,5,0,+5,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Omen,0.84,157,12,15,7,-3,70%,106,40%,0,2,-2,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Viper,0.83,153,11,12,4,-1,60%,89,26%,1,1,0,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Chamber,0.73,172,12,16,2,-4,65%,112,18%,2,4,-2,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Fade,0.68,152,9,17,11,-8,65%,94,24%,2,3,-1,Lotus,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Jett,1.32,266,23,16,0,+7,70%,172,31%,4,2,+2,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Cypher,0.97,197,17,17,2,0,65%,127,23%,1,3,-2,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Astra,0.87,163,12,16,8,-4,74%,111,24%,2,1,+1,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Skye,0.79,168,12,16,5,-4,65%,130,38%,2,4,-2,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Viper,0.73,148,11,16,9,-5,70%,111,39%,1,3,-2,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Jett,1.38,253,22,13,3,+9,74%,160,33%,1,2,-1,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Viper,1.37,233,19,13,7,+6,78%,156,49%,4,2,+2,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Sova,1.13,216,17,13,2,+4,74%,138,27%,2,1,+1,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Cypher,0.70,155,13,18,4,-5,70%,105,35%,4,3,+1,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Yoru,0.53,111,10,18,5,-8,65%,64,19%,2,2,0,Breeze,Rex Regum Qeon
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,t3xture,9196,Gen.G,map,Jett,1.30,277,25,16,1,+9,71%,171,24%,4,3,+1,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Karon,34974,Gen.G,map,Viper,1.20,190,15,14,15,+1,79%,121,33%,3,1,+2,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lakia,773,Gen.G,map,Gekko,1.19,217,19,14,12,+5,83%,132,29%,4,0,+4,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Meteor,13039,Gen.G,map,Killjoy,1.03,226,20,17,3,+3,92%,151,37%,2,2,0,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Munchkin,2489,Gen.G,map,Kayo,0.79,148,13,16,13,-3,71%,88,13%,2,3,-1,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Jemkin,24895,Rex Regum Qeon,map,Jett,1.29,262,25,19,3,+6,67%,158,36%,2,2,0,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,fl1pzjder,7045,Rex Regum Qeon,map,Gekko,0.90,165,13,17,4,-4,58%,110,19%,1,1,0,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,xffero,4871,Rex Regum Qeon,map,Viper,0.80,161,13,18,7,-5,67%,98,29%,3,2,+1,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Lmemore,7764,Rex Regum Qeon,map,Killjoy,0.72,210,16,21,5,-5,63%,137,29%,2,8,-6,Icebox,Gen.G
+296749,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (C)",2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,2 - 1,Estrella,25025,Rex Regum Qeon,map,Sova,0.71,123,10,17,6,-7,50%,80,26%,1,2,-1,Icebox,Gen.G
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JitBoyS,13788,TALON,overall,"Viper, Killjoy",1.15,243,37,33,4,+4,71%,163,38%,2,4,-2,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,ban,5129,TALON,overall,"Yoru, Kayo",0.82,202,26,35,11,-9,68%,130,22%,7,6,+1,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Governor,3980,TALON,overall,"Neon, Jett",0.78,189,24,33,9,-9,56%,124,15%,3,11,-8,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,lenne,8137,TALON,overall,Sova,0.68,154,20,35,9,-15,66%,104,19%,1,3,-2,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Crws,3977,TALON,overall,"Harbor, Omen",0.44,98,14,33,10,-19,56%,65,30%,1,3,-2,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,invy,8504,Team Secret,overall,Kayo,1.52,276,47,24,15,+23,83%,189,27%,5,1,+4,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,BORKUM,2333,Team Secret,overall,"Viper, Omen",1.39,233,34,25,35,+9,83%,146,24%,5,2,+3,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Jremy,7405,Team Secret,overall,Jett,1.17,220,34,25,5,+9,78%,139,32%,10,4,+6,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,NDG,12322,Team Secret,overall,"Cypher, Killjoy",1.15,204,27,24,16,+3,98%,149,17%,2,3,-1,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JessieVash,2334,Team Secret,overall,Sova,1.11,193,27,23,19,+4,83%,125,22%,5,4,+1,,
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JitBoyS,13788,TALON,map,Viper,1.24,266,20,17,3,+3,86%,170,48%,0,1,-1,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,ban,5129,TALON,map,Yoru,0.95,228,16,18,4,-2,62%,137,28%,5,4,+1,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Governor,3980,TALON,map,Neon,0.84,190,13,16,4,-3,48%,121,18%,1,6,-5,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,lenne,8137,TALON,map,Sova,0.44,128,8,20,6,-12,62%,89,41%,0,1,-1,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Crws,3977,TALON,map,Harbor,0.23,75,5,18,4,-13,43%,55,28%,0,3,-3,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Viper,1.65,308,24,13,12,+11,86%,188,31%,5,2,+3,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,invy,8504,Team Secret,map,Kayo,1.24,236,19,13,12,+6,76%,159,22%,4,1,+3,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Jett,1.23,227,18,12,2,+6,86%,159,30%,4,0,+4,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Sova,1.14,201,14,12,12,+2,90%,125,26%,1,1,0,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,NDG,12322,Team Secret,map,Cypher,1.13,185,14,12,6,+2,95%,130,28%,1,2,-1,Breeze,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JitBoyS,13788,TALON,map,Killjoy,1.05,220,17,16,1,+1,55%,156,31%,2,3,-1,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,lenne,8137,TALON,map,Sova,0.93,180,12,15,3,-3,70%,121,12%,1,2,-1,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Governor,3980,TALON,map,Jett,0.71,188,11,17,5,-6,65%,127,12%,2,5,-3,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,ban,5129,TALON,map,Kayo,0.67,175,10,17,7,-7,75%,123,16%,2,2,0,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Crws,3977,TALON,map,Omen,0.66,120,9,15,6,-6,70%,76,31%,1,0,+1,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,invy,8504,Team Secret,map,Kayo,1.81,315,28,11,3,+17,90%,221,31%,1,0,+1,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,NDG,12322,Team Secret,map,Killjoy,1.16,222,13,12,10,+1,100%,170,13%,1,1,0,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Omen,1.12,158,10,12,23,-2,80%,101,15%,0,0,0,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Jett,1.10,213,16,13,3,+3,70%,118,35%,6,4,+2,Ascent,Team Secret
+296734,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (B)",2024-02-21 04:30:00,TALON,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Sova,1.07,185,13,11,7,+2,75%,125,20%,4,3,+1,Ascent,Team Secret
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,overall,Raze,1.46,339,46,22,6,+24,84%,218,25%,13,3,+10,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,overall,"Cypher, Killjoy",1.34,221,32,15,8,+17,78%,139,27%,3,2,+1,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,overall,Viper,1.32,248,32,19,7,+13,78%,156,35%,5,1,+4,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,overall,"Skye, Fade",1.22,174,26,15,7,+11,78%,115,37%,3,2,+1,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,overall,"Brimstone, Omen",0.85,111,16,19,18,-3,70%,82,28%,1,4,-3,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,overall,"Gekko, Fade",0.89,151,17,26,6,-9,57%,113,32%,2,3,-1,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,overall,Cypher,0.75,163,18,29,5,-11,54%,97,22%,0,6,-6,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,overall,"Viper, Omen",0.71,147,18,32,10,-14,54%,105,38%,1,2,-1,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,overall,"Kayo, Gekko",0.69,157,20,32,9,-12,57%,90,37%,2,5,-3,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,overall,Raze,0.57,161,17,33,5,-16,43%,109,16%,7,9,-2,,
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,map,Raze,1.62,350,27,10,2,+17,86%,219,31%,7,2,+5,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,map,Viper,1.42,221,17,9,4,+8,86%,134,33%,2,1,+1,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,map,Cypher,1.23,190,16,8,7,+8,67%,126,29%,1,1,0,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,map,Skye,1.18,207,17,10,3,+7,76%,125,39%,1,1,0,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Brimstone,0.61,104,7,13,9,-6,62%,79,22%,1,4,-3,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,map,Gekko,0.90,149,9,14,4,-5,57%,105,26%,2,1,+1,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,map,Viper,0.84,197,13,19,6,-6,52%,143,44%,0,1,-1,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,map,Raze,0.72,186,11,18,2,-7,48%,124,12%,6,6,0,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,map,Kayo,0.65,137,10,17,6,-7,52%,76,38%,1,2,-1,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,map,Cypher,0.54,87,7,16,2,-9,48%,59,16%,0,2,-2,Bind,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Laz,999,ZETA DIVISION,map,Killjoy,1.48,252,16,7,1,+9,94%,157,25%,2,1,+1,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,hiroronn,10588,ZETA DIVISION,map,Fade,1.28,141,9,5,4,+4,81%,101,33%,2,1,+1,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Dep,424,ZETA DIVISION,map,Raze,1.25,327,19,12,4,+7,81%,216,18%,6,1,+5,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,yuran,29840,ZETA DIVISION,map,Viper,1.17,274,15,10,3,+5,69%,185,39%,3,0,+3,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Omen,1.16,118,9,6,9,+3,81%,85,35%,0,0,0,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Benkai,9802,Global Esports,map,Cypher,1.02,238,11,13,3,-2,63%,147,26%,0,4,-4,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,blaZek1ng,1743,Global Esports,map,Fade,0.88,152,8,12,2,-4,56%,124,43%,0,2,-2,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Russ,1162,Global Esports,map,Gekko,0.74,176,10,15,3,-5,63%,108,36%,1,3,-2,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Lightningfast,3626,Global Esports,map,Omen,0.54,97,5,13,4,-8,56%,55,22%,1,1,0,Lotus,ZETA DIVISION
+296739,Champions Tour 2024: Pacific Kickoff,"Group Stage: 
+						Decider (A)",2024-02-21 07:15:00,ZETA DIVISION,Global Esports,2 - 0,Polvi,1839,Global Esports,map,Raze,0.39,135,6,15,3,-9,38%,90,25%,1,3,-2,Lotus,ZETA DIVISION
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,invy,8504,Team Secret,overall,"Kayo, Viper, Sage",1.33,237,59,41,20,+18,75%,162,36%,4,5,-1,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Jremy,7405,Team Secret,overall,"Jett, Raze",1.12,259,57,51,16,+6,75%,160,25%,18,13,+5,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,NDG,12322,Team Secret,overall,"Cypher, Killjoy",1.05,183,45,40,13,+5,75%,130,17%,3,7,-4,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,JessieVash,2334,Team Secret,overall,"Sova, Skye",0.95,196,43,41,25,+2,72%,128,24%,3,3,0,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,BORKUM,2333,Team Secret,overall,"Viper, Omen",0.94,165,41,43,22,-2,66%,109,19%,8,4,+4,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Munchkin,2489,Gen.G,overall,"Viper, Kayo",1.17,210,50,46,24,+4,68%,140,22%,5,7,-2,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Meteor,13039,Gen.G,overall,"Cypher, Killjoy",1.06,224,54,50,6,+4,62%,153,32%,8,6,+2,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Karon,34974,Gen.G,overall,"Astra, Omen, Viper",0.95,185,42,48,27,-6,72%,119,39%,9,2,+7,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,t3xture,9196,Gen.G,overall,"Jett, Raze",0.79,179,41,51,11,-10,65%,124,31%,8,13,-5,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Lakia,773,Gen.G,overall,"Skye, Fade, Gekko",0.66,140,29,50,19,-21,66%,87,27%,2,8,-6,,
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Jremy,7405,Team Secret,map,Jett,1.54,327,22,12,5,+10,83%,196,29%,7,2,+5,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,invy,8504,Team Secret,map,Kayo,1.53,251,17,7,6,+10,72%,170,35%,3,1,+2,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,JessieVash,2334,Team Secret,map,Sova,1.22,255,18,11,6,+7,83%,178,45%,1,0,+1,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,NDG,12322,Team Secret,map,Cypher,1.13,192,11,9,7,+2,78%,129,13%,2,1,+1,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,BORKUM,2333,Team Secret,map,Viper,0.92,140,9,8,6,+1,72%,82,13%,0,1,-1,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.08,185,12,13,4,-1,56%,106,29%,0,1,-1,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Karon,34974,Gen.G,map,Astra,0.73,177,10,17,7,-7,56%,104,24%,3,1,+2,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Lakia,773,Gen.G,map,Skye,0.66,158,8,15,5,-7,61%,109,38%,1,4,-3,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Cypher,0.60,145,9,16,1,-7,44%,94,23%,1,4,-3,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Jett,0.58,147,8,16,3,-8,50%,100,50%,0,3,-3,Breeze,Team Secret
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,invy,8504,Team Secret,map,Viper,1.38,231,18,13,6,+5,77%,164,38%,0,1,-1,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Jremy,7405,Team Secret,map,Raze,1.21,264,19,16,4,+3,68%,169,22%,7,5,+2,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,JessieVash,2334,Team Secret,map,Skye,1.11,213,16,13,10,+3,77%,141,22%,0,2,-2,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,NDG,12322,Team Secret,map,Killjoy,0.91,141,11,12,4,-1,73%,106,23%,0,3,-3,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,BORKUM,2333,Team Secret,map,Omen,0.61,136,10,15,8,-5,55%,73,16%,3,1,+2,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Killjoy,1.52,297,23,13,1,+10,64%,192,29%,6,0,+6,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Raze,0.96,223,16,16,2,0,68%,155,35%,4,4,0,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,0.83,149,11,15,8,-4,68%,101,18%,0,3,-3,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Karon,34974,Gen.G,map,Omen,0.74,139,9,15,12,-6,77%,87,48%,2,1,+1,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Lakia,773,Gen.G,map,Fade,0.70,139,10,15,4,-5,64%,84,21%,0,2,-2,Lotus,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,BORKUM,2333,Team Secret,map,Viper,1.21,218,22,20,8,+2,71%,154,23%,5,2,+3,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,invy,8504,Team Secret,map,Sage,1.15,228,24,21,8,+3,75%,156,37%,1,3,-2,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,NDG,12322,Team Secret,map,Killjoy,1.12,216,23,19,2,+4,75%,149,17%,1,3,-2,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Jremy,7405,Team Secret,map,Jett,0.78,187,16,23,7,-7,75%,130,23%,4,6,-2,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,JessieVash,2334,Team Secret,map,Sova,0.66,120,9,17,9,-8,61%,87,11%,2,1,+1,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Kayo,1.49,297,27,18,12,+9,75%,193,22%,5,3,+2,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Karon,34974,Gen.G,map,Viper,1.26,239,23,16,8,+7,79%,154,43%,4,0,+4,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Killjoy,1.00,230,22,21,4,+1,71%,161,37%,1,2,-1,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Jett,0.79,166,17,19,6,-2,71%,115,16%,4,6,-2,Icebox,Gen.G
+297254,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 01:00:00,Team Secret,Gen.G,1 - 2,Lakia,773,Gen.G,map,Gekko,0.61,122,11,20,10,-9,71%,77,26%,1,2,-1,Icebox,Gen.G
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Dep,424,ZETA DIVISION,overall,Jett,0.93,257,29,31,2,-2,63%,153,22%,6,7,-1,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,SugarZ3ro,6668,ZETA DIVISION,overall,"Harbor, Omen",0.85,186,23,29,14,-6,66%,125,26%,1,3,-2,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,yuran,29840,ZETA DIVISION,overall,"Viper, Sova",0.75,184,19,29,15,-10,77%,128,23%,1,4,-3,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,hiroronn,10588,ZETA DIVISION,overall,"Sova, Kayo",0.65,162,20,33,12,-13,63%,102,25%,2,4,-2,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Laz,999,ZETA DIVISION,overall,Killjoy,0.62,138,16,29,6,-13,57%,99,21%,3,4,-1,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,invy,8504,Team Secret,overall,"Sage, Kayo",1.45,228,31,20,23,+11,86%,155,33%,3,1,+2,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,JessieVash,2334,Team Secret,overall,Sova,1.31,210,26,18,18,+8,91%,142,25%,2,4,-2,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,NDG,12322,Team Secret,overall,Killjoy,1.30,208,29,18,3,+11,80%,140,25%,1,1,0,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Jremy,7405,Team Secret,overall,Jett,1.27,318,37,28,10,+9,83%,203,27%,13,5,+8,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,BORKUM,2333,Team Secret,overall,"Viper, Omen",1.10,228,28,23,21,+5,86%,128,15%,3,2,+1,,
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Dep,424,ZETA DIVISION,map,Jett,1.31,326,15,13,0,+2,64%,210,30%,2,4,-2,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,yuran,29840,ZETA DIVISION,map,Viper,0.72,187,7,12,8,-5,86%,122,12%,1,0,+1,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,SugarZ3ro,6668,ZETA DIVISION,map,Harbor,0.49,134,6,13,4,-7,57%,98,19%,0,3,-3,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Laz,999,ZETA DIVISION,map,Killjoy,0.37,118,6,13,0,-7,50%,73,21%,2,2,0,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,hiroronn,10588,ZETA DIVISION,map,Sova,0.30,112,4,14,1,-10,43%,87,20%,0,0,0,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Jett,1.67,380,19,10,4,+9,79%,253,30%,5,1,+4,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,invy,8504,Team Secret,map,Sage,1.38,182,10,6,8,+4,79%,121,25%,0,1,-1,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Viper,1.35,253,13,8,9,+5,93%,138,10%,2,0,+2,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Sova,1.30,212,11,7,7,+4,86%,138,41%,2,2,0,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,NDG,12322,Team Secret,map,Killjoy,1.27,208,12,7,1,+5,86%,142,23%,0,1,-1,Icebox,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,SugarZ3ro,6668,ZETA DIVISION,map,Omen,1.09,237,17,16,10,+1,71%,143,29%,1,0,+1,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,hiroronn,10588,ZETA DIVISION,map,Kayo,0.89,211,16,19,11,-3,76%,112,28%,2,4,-2,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Laz,999,ZETA DIVISION,map,Killjoy,0.78,157,10,16,6,-6,62%,116,21%,1,2,-1,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,yuran,29840,ZETA DIVISION,map,Sova,0.76,180,12,17,7,-5,71%,132,31%,0,4,-4,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Dep,424,ZETA DIVISION,map,Jett,0.68,187,14,18,2,-4,62%,115,17%,4,3,+1,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,invy,8504,Team Secret,map,Kayo,1.50,274,21,14,15,+7,90%,178,37%,3,0,+3,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,JessieVash,2334,Team Secret,map,Sova,1.32,207,15,11,11,+4,95%,145,19%,0,2,-2,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,NDG,12322,Team Secret,map,Killjoy,1.32,207,17,11,2,+6,76%,138,26%,1,0,+1,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,Jremy,7405,Team Secret,map,Jett,1.00,255,18,18,6,0,86%,170,25%,8,4,+4,Ascent,Team Secret
+297253,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 04:20:00,ZETA DIVISION,Team Secret,0 - 2,BORKUM,2333,Team Secret,map,Omen,0.93,203,15,15,12,0,81%,120,20%,1,2,-1,Ascent,Team Secret
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Karon,34974,Gen.G,overall,"Viper, Omen",1.58,236,30,15,22,+15,86%,175,42%,2,1,+1,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Meteor,13039,Gen.G,overall,Killjoy,1.54,301,41,21,4,+20,78%,188,21%,3,6,-3,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,t3xture,9196,Gen.G,overall,Jett,1.24,239,30,23,7,+7,75%,154,45%,7,2,+5,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Lakia,773,Gen.G,overall,"Gekko, Sova",1.22,218,30,21,12,+9,75%,150,24%,3,2,+1,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Munchkin,2489,Gen.G,overall,Kayo,0.90,174,23,22,18,+1,81%,111,24%,5,5,0,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Laz,999,ZETA DIVISION,overall,Killjoy,0.97,210,28,29,1,-1,64%,137,30%,5,2,+3,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,hiroronn,10588,ZETA DIVISION,overall,"Sova, Kayo",0.75,175,20,31,11,-11,67%,121,27%,3,2,+1,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,SugarZ3ro,6668,ZETA DIVISION,overall,"Harbor, Omen",0.68,151,17,30,10,-13,61%,94,27%,0,2,-2,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,yuran,29840,ZETA DIVISION,overall,"Viper, Sova",0.58,139,16,32,9,-16,64%,95,26%,3,4,-1,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Dep,424,ZETA DIVISION,overall,Jett,0.55,166,21,32,4,-11,50%,101,46%,5,10,-5,,
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Meteor,13039,Gen.G,map,Killjoy,1.60,290,21,10,2,+11,74%,189,30%,2,3,-1,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Karon,34974,Gen.G,map,Viper,1.45,224,14,9,8,+5,79%,166,45%,2,0,+2,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,t3xture,9196,Gen.G,map,Jett,1.31,283,19,12,2,+7,84%,172,51%,5,0,+5,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Lakia,773,Gen.G,map,Gekko,1.25,238,19,11,3,+8,74%,173,44%,0,2,-2,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Munchkin,2489,Gen.G,map,Kayo,0.82,163,11,12,10,-1,84%,102,22%,2,3,-1,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Laz,999,ZETA DIVISION,map,Killjoy,0.89,212,14,17,0,-3,63%,125,19%,3,1,+2,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,yuran,29840,ZETA DIVISION,map,Viper,0.86,213,13,17,5,-4,63%,146,31%,2,4,-2,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,hiroronn,10588,ZETA DIVISION,map,Sova,0.70,174,11,17,3,-6,58%,116,27%,0,1,-1,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Dep,424,ZETA DIVISION,map,Jett,0.47,162,11,18,1,-7,53%,105,55%,3,4,-1,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Harbor,0.43,83,5,15,5,-10,58%,46,36%,0,1,-1,Icebox,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Karon,34974,Gen.G,map,Omen,1.73,247,16,6,14,+10,94%,185,38%,0,1,-1,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Meteor,13039,Gen.G,map,Killjoy,1.48,311,20,11,2,+9,82%,186,14%,1,3,-2,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Lakia,773,Gen.G,map,Sova,1.18,197,11,10,9,+1,76%,124,12%,3,0,+3,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,t3xture,9196,Gen.G,map,Jett,1.17,195,11,11,5,0,65%,135,38%,2,2,0,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Munchkin,2489,Gen.G,map,Kayo,0.99,185,12,10,8,+2,76%,122,25%,3,2,+1,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Laz,999,ZETA DIVISION,map,Killjoy,1.05,207,14,12,1,+2,65%,151,44%,2,1,+1,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,SugarZ3ro,6668,ZETA DIVISION,map,Omen,0.95,218,12,15,5,-3,65%,147,24%,0,1,-1,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,hiroronn,10588,ZETA DIVISION,map,Kayo,0.80,175,9,14,8,-5,76%,125,27%,3,1,+2,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,Dep,424,ZETA DIVISION,map,Jett,0.63,169,10,14,3,-4,47%,96,38%,2,6,-4,Ascent,Gen.G
+297255,Champions Tour 2024: Pacific Kickoff,"Play-Ins: 
+						Play-ins",2024-02-22 06:30:00,Gen.G,ZETA DIVISION,2 - 0,yuran,29840,ZETA DIVISION,map,Sova,0.27,64,3,15,4,-12,65%,39,13%,1,0,+1,Ascent,Gen.G
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Rossy,1129,T1,overall,Viper,1.15,227,37,33,15,+4,86%,140,24%,4,3,+1,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Sayaplayer,4545,T1,overall,Jett,1.02,216,39,34,3,+5,73%,123,16%,14,5,+9,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,xccurate,10816,T1,overall,"Astra, Cypher",0.98,202,35,36,14,-1,76%,136,32%,2,0,+2,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,iZu,29833,T1,overall,"Raze, Omen",0.97,208,37,36,13,+1,69%,144,33%,6,5,+1,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,carpe,31207,T1,overall,"Skye, Fade",0.44,120,19,41,11,-22,65%,84,22%,3,7,-4,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,overall,"Yoru, Fade",1.38,292,54,35,16,+19,88%,173,34%,6,8,-2,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,mindfreak,9800,Paper Rex,overall,"Omen, Viper",1.32,197,40,27,12,+13,73%,137,25%,1,1,0,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,something,17086,Paper Rex,overall,"Jett, Gekko",1.04,185,35,30,9,+5,76%,106,23%,4,8,-4,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,d4v41,9803,Paper Rex,overall,"Viper, Omen",1.02,193,28,33,33,-5,80%,128,25%,2,4,-2,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Monyet,8497,Paper Rex,overall,Raze,0.62,160,23,42,18,-19,63%,115,15%,7,8,-1,,
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Rossy,1129,T1,map,Viper,1.20,221,23,19,8,+4,90%,136,23%,2,1,+1,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Sayaplayer,4545,T1,map,Jett,1.11,238,26,20,1,+6,77%,135,15%,8,4,+4,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,iZu,29833,T1,map,Raze,1.10,255,27,24,2,+3,70%,170,33%,6,4,+2,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,xccurate,10816,T1,map,Astra,0.77,176,18,24,8,-6,77%,118,30%,2,0,+2,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,carpe,31207,T1,map,Skye,0.46,129,14,25,5,-11,70%,89,26%,1,2,-1,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,mindfreak,9800,Paper Rex,map,Omen,1.41,246,29,18,6,+11,77%,156,27%,1,0,+1,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Yoru,1.26,297,33,24,5,+9,83%,186,42%,3,7,-4,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Viper,1.05,188,16,20,19,-4,73%,133,25%,2,1,+1,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,something,17086,Paper Rex,map,Jett,0.81,165,19,21,3,-2,70%,99,19%,2,6,-4,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Monyet,8497,Paper Rex,map,Raze,0.69,156,15,25,8,-10,57%,115,15%,3,5,-2,Split,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,xccurate,10816,T1,map,Cypher,1.31,228,17,12,6,+5,74%,163,35%,0,0,0,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Rossy,1129,T1,map,Viper,1.08,233,14,14,7,0,79%,146,25%,2,2,0,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Sayaplayer,4545,T1,map,Jett,0.88,193,13,14,2,-1,68%,105,17%,6,1,+5,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,iZu,29833,T1,map,Omen,0.76,161,10,12,11,-2,68%,104,31%,0,1,-1,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,carpe,31207,T1,map,Fade,0.41,110,5,16,6,-11,58%,77,17%,2,5,-3,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,f0rsakeN,9801,Paper Rex,map,Fade,1.56,286,21,11,11,+10,95%,153,23%,3,1,+2,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,something,17086,Paper Rex,map,Gekko,1.39,205,16,9,6,+7,84%,116,29%,2,2,0,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,mindfreak,9800,Paper Rex,map,Viper,1.19,148,11,9,6,+2,68%,108,23%,0,1,-1,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,d4v41,9803,Paper Rex,map,Omen,0.97,197,12,13,14,-1,89%,120,26%,0,3,-3,Ascent,Paper Rex
+297256,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 03:00:00,T1,Paper Rex,0 - 2,Monyet,8497,Paper Rex,map,Raze,0.52,163,8,17,10,-9,74%,115,15%,4,3,+1,Ascent,Paper Rex
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,MaKo,4462,DRX,overall,"Brimstone, Omen",1.18,236,37,36,22,+1,81%,153,28%,6,2,+4,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,stax,485,DRX,overall,"Gekko, Fade",0.96,178,29,33,19,-4,74%,120,32%,4,0,+4,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Flashback,35013,DRX,overall,Cypher,0.92,175,32,33,9,-1,64%,121,30%,4,7,-3,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,BuZz,804,DRX,overall,"Yoru, Raze",0.85,215,34,42,13,-8,70%,130,20%,7,4,+3,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Foxy9,11600,DRX,overall,Viper,0.73,156,24,36,15,-12,62%,102,32%,6,7,-1,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Karon,34974,Gen.G,overall,"Brimstone, Omen",1.38,224,38,27,18,+11,83%,160,28%,0,1,-1,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,t3xture,9196,Gen.G,overall,Raze,1.21,263,45,34,11,+11,83%,174,29%,5,11,-6,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Munchkin,2489,Gen.G,overall,Viper,1.13,206,34,27,17,+7,81%,142,18%,11,4,+7,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Meteor,13039,Gen.G,overall,"Cypher, Killjoy",0.99,196,35,34,8,+1,68%,131,33%,3,3,0,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Lakia,773,Gen.G,overall,"Skye, Fade",0.79,159,28,34,14,-6,77%,107,22%,1,8,-7,,
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Flashback,35013,DRX,map,Cypher,1.08,199,21,19,4,+2,65%,133,28%,3,4,-1,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,MaKo,4462,DRX,map,Brimstone,1.03,202,16,20,18,-4,81%,134,17%,1,2,-1,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,BuZz,804,DRX,map,Yoru,0.99,246,22,22,10,0,69%,150,26%,2,1,+1,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,stax,485,DRX,map,Gekko,0.80,149,12,19,14,-7,77%,106,26%,3,0,+3,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Foxy9,11600,DRX,map,Viper,0.63,159,14,22,6,-8,50%,101,38%,4,6,-2,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Karon,34974,Gen.G,map,Brimstone,1.55,250,23,14,10,+9,85%,180,23%,0,1,-1,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,t3xture,9196,Gen.G,map,Raze,1.45,297,28,18,5,+10,85%,191,30%,4,2,+2,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Munchkin,2489,Gen.G,map,Viper,1.21,221,20,14,10,+6,81%,145,15%,6,2,+4,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Meteor,13039,Gen.G,map,Cypher,0.82,176,18,21,5,-3,69%,115,34%,2,2,0,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Lakia,773,Gen.G,map,Skye,0.73,146,13,18,11,-5,85%,100,15%,1,6,-5,Bind,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,MaKo,4462,DRX,map,Omen,1.35,270,21,16,4,+5,81%,177,42%,5,0,+5,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,stax,485,DRX,map,Fade,1.16,206,17,14,5,+3,71%,138,38%,1,0,+1,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Foxy9,11600,DRX,map,Viper,0.86,153,10,14,9,-4,76%,104,28%,2,1,+1,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Flashback,35013,DRX,map,Cypher,0.73,150,11,14,5,-3,62%,106,35%,1,3,-2,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,BuZz,804,DRX,map,Raze,0.69,184,12,20,3,-8,71%,105,9%,5,3,+2,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Meteor,13039,Gen.G,map,Killjoy,1.19,216,17,13,3,+4,67%,151,33%,1,1,0,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Karon,34974,Gen.G,map,Omen,1.18,198,15,13,8,+2,81%,134,39%,0,0,0,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Munchkin,2489,Gen.G,map,Viper,1.04,191,14,13,7,+1,81%,137,26%,5,2,+3,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,t3xture,9196,Gen.G,map,Raze,0.91,229,17,16,6,+1,81%,154,28%,1,9,-8,Lotus,Gen.G
+297257,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Semifinals",2024-02-24 05:25:00,DRX,Gen.G,0 - 2,Lakia,773,Gen.G,map,Fade,0.88,172,15,16,3,-1,67%,116,32%,0,2,-2,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,mindfreak,9800,Paper Rex,overall,"Viper, Omen, Brimstone",1.18,216,58,51,19,+7,71%,144,32%,3,4,-1,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,something,17086,Paper Rex,overall,"Gekko, Jett, Reyna",1.02,213,58,63,17,-5,72%,138,25%,16,6,+10,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,d4v41,9803,Paper Rex,overall,"Omen, Viper, Skye, Fade",0.94,172,46,57,35,-11,74%,120,31%,4,4,0,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,f0rsakeN,9801,Paper Rex,overall,"Fade, Yoru, Cypher",0.77,179,44,59,15,-15,63%,111,24%,8,8,0,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Monyet,8497,Paper Rex,overall,Raze,0.67,162,41,59,11,-18,66%,108,20%,5,18,-13,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Karon,34974,Gen.G,overall,"Omen, Astra, Brimstone",1.29,214,64,43,25,+21,83%,143,36%,4,5,-1,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,t3xture,9196,Gen.G,overall,"Jett, Raze",1.22,249,65,48,17,+17,76%,163,31%,11,11,0,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Munchkin,2489,Gen.G,overall,"Kayo, Viper",1.16,217,61,49,22,+12,78%,144,25%,9,5,+4,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Meteor,13039,Gen.G,overall,"Killjoy, Jett, Cypher",0.93,205,51,52,16,-1,75%,140,25%,9,8,+1,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Lakia,773,Gen.G,overall,"Sova, Skye, Fade",0.86,176,48,55,28,-7,80%,118,26%,7,7,0,,
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,mindfreak,9800,Paper Rex,map,Viper,1.16,236,14,14,1,0,61%,166,29%,1,1,0,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,something,17086,Paper Rex,map,Gekko,0.97,213,12,16,7,-4,83%,124,29%,3,3,0,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,d4v41,9803,Paper Rex,map,Omen,0.86,137,7,14,10,-7,78%,101,24%,1,0,+1,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,f0rsakeN,9801,Paper Rex,map,Fade,0.63,124,9,15,4,-6,61%,64,33%,1,2,-1,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Monyet,8497,Paper Rex,map,Raze,0.50,164,11,16,3,-5,56%,99,18%,1,5,-4,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,t3xture,9196,Gen.G,map,Jett,1.71,335,23,9,3,+14,72%,209,26%,3,4,-1,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Karon,34974,Gen.G,map,Omen,1.52,224,17,7,4,+10,78%,164,52%,1,1,0,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Munchkin,2489,Gen.G,map,Kayo,1.14,193,14,11,10,+3,89%,128,29%,3,1,+2,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Meteor,13039,Gen.G,map,Killjoy,0.90,227,12,13,4,-1,72%,151,18%,3,0,+3,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Lakia,773,Gen.G,map,Sova,0.67,154,9,13,6,-4,72%,109,24%,1,1,0,Ascent,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,something,17086,Paper Rex,map,Jett,1.28,264,18,12,2,+6,76%,171,19%,6,1,+5,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,mindfreak,9800,Paper Rex,map,Omen,1.28,215,15,8,7,+7,82%,134,42%,1,1,0,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,f0rsakeN,9801,Paper Rex,map,Yoru,1.22,242,15,11,3,+4,71%,147,14%,3,1,+2,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Monyet,8497,Paper Rex,map,Raze,1.16,199,11,9,4,+2,76%,123,23%,2,2,0,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,d4v41,9803,Paper Rex,map,Viper,0.90,198,12,13,8,-1,82%,145,30%,0,0,0,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Karon,34974,Gen.G,map,Astra,1.17,214,15,13,4,+2,76%,138,36%,0,1,-1,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Munchkin,2489,Gen.G,map,Viper,0.94,190,10,13,4,-3,71%,132,20%,0,1,-1,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,t3xture,9196,Gen.G,map,Raze,0.80,194,10,15,5,-5,65%,130,19%,3,2,+1,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Meteor,13039,Gen.G,map,Jett,0.59,168,9,15,4,-6,65%,135,28%,0,4,-4,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Lakia,773,Gen.G,map,Skye,0.58,157,9,15,4,-6,65%,89,24%,2,4,-2,Split,Paper Rex
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,d4v41,9803,Paper Rex,map,Skye,1.14,204,19,16,11,+3,75%,129,37%,2,2,0,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,something,17086,Paper Rex,map,Reyna,1.10,253,20,21,6,-1,67%,162,26%,7,1,+6,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,mindfreak,9800,Paper Rex,map,Omen,1.05,180,16,16,4,0,71%,120,22%,1,1,0,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,f0rsakeN,9801,Paper Rex,map,Cypher,0.76,166,12,16,6,-4,71%,114,24%,1,2,-1,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Monyet,8497,Paper Rex,map,Raze,0.46,146,11,21,3,-10,63%,107,12%,2,5,-3,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Munchkin,2489,Gen.G,map,Viper,1.42,290,24,15,4,+9,71%,175,24%,3,1,+2,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Karon,34974,Gen.G,map,Omen,1.27,199,18,13,6,+5,92%,134,37%,2,3,-1,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Lakia,773,Gen.G,map,Fade,1.11,246,20,18,10,+2,83%,164,29%,3,2,+1,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,t3xture,9196,Gen.G,map,Raze,0.86,174,16,16,2,0,75%,115,42%,0,3,-3,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Meteor,13039,Gen.G,map,Killjoy,0.84,155,12,16,6,-4,75%,112,21%,3,4,-1,Lotus,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,mindfreak,9800,Paper Rex,map,Brimstone,1.28,233,13,13,7,0,71%,163,42%,0,1,-1,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,d4v41,9803,Paper Rex,map,Fade,0.78,149,8,14,6,-6,59%,103,30%,1,2,-1,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,something,17086,Paper Rex,map,Gekko,0.68,123,8,14,2,-6,65%,85,29%,0,1,-1,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Monyet,8497,Paper Rex,map,Raze,0.65,137,8,13,1,-5,71%,102,28%,0,6,-6,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,f0rsakeN,9801,Paper Rex,map,Yoru,0.49,182,8,17,2,-9,47%,122,30%,3,3,0,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,t3xture,9196,Gen.G,map,Raze,1.65,291,16,8,7,+8,94%,213,39%,5,2,+3,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Meteor,13039,Gen.G,map,Cypher,1.44,269,18,8,2,+10,88%,171,37%,3,0,+3,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Karon,34974,Gen.G,map,Brimstone,1.18,217,14,10,11,+4,82%,139,26%,1,0,+1,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Munchkin,2489,Gen.G,map,Viper,1.03,196,13,10,4,+3,82%,128,26%,3,2,+1,Bind,Gen.G
+297258,Champions Tour 2024: Pacific Kickoff,"Playoffs: 
+						Grand Final",2024-02-25 03:00:00,Paper Rex,Gen.G,1 - 3,Lakia,773,Gen.G,map,Skye,0.97,147,10,9,8,+1,100%,90,25%,1,0,+1,Bind,Gen.G

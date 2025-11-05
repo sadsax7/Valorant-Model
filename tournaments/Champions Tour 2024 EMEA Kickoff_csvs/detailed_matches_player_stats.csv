@@ -1,0 +1,1301 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,AtaKaptan,6510,FUT Esports,overall,"Breach, Omen",1.23,196,32,31,33,+1,81%,136,30%,1,4,-3,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,cNed,573,FUT Esports,overall,"Yoru, Neon",1.07,250,42,36,14,+6,74%,159,31%,8,9,-1,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MrFaliN,8044,FUT Esports,overall,"Astra, Gekko",0.97,203,33,34,14,-1,70%,133,23%,6,4,+2,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,yetujey,8369,FUT Esports,overall,"Killjoy, Viper",0.87,201,30,34,11,-4,77%,138,20%,4,5,-1,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,qRaxs,1139,FUT Esports,overall,"Gekko, Kayo",0.84,176,27,35,27,-8,70%,116,22%,3,3,0,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,Boo,1144,Team Heretics,overall,"Omen, Astra",1.60,298,52,29,17,+23,74%,203,40%,5,3,+2,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MiniBoo,18350,Team Heretics,overall,"Neon, Yoru",1.35,267,43,34,11,+9,70%,184,34%,11,10,+1,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,benjyfishy,29873,Team Heretics,overall,"Killjoy, Viper",0.87,188,32,34,9,-2,70%,125,28%,5,5,0,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,paTiTek,309,Team Heretics,overall,"Viper, Kayo",0.76,139,22,33,19,-11,72%,88,19%,2,3,-1,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,RieNs,10971,Team Heretics,overall,"Gekko, Sova",0.65,127,21,34,13,-13,72%,91,37%,2,1,+1,,
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,cNed,573,FUT Esports,map,Yoru,1.17,250,21,17,9,+4,71%,158,38%,5,4,+1,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,AtaKaptan,6510,FUT Esports,map,Breach,1.13,175,13,16,17,-3,75%,112,24%,1,2,-1,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,qRaxs,1139,FUT Esports,map,Gekko,1.10,225,20,17,9,+3,67%,139,28%,1,2,-1,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MrFaliN,8044,FUT Esports,map,Astra,0.90,184,15,18,11,-3,75%,113,21%,0,3,-3,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,yetujey,8369,FUT Esports,map,Killjoy,0.75,183,12,17,6,-5,75%,121,13%,4,2,+2,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,Boo,1144,Team Heretics,map,Omen,1.49,297,26,17,10,+9,71%,203,35%,1,1,0,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MiniBoo,18350,Team Heretics,map,Neon,1.28,269,22,17,5,+5,63%,173,35%,7,5,+2,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,benjyfishy,29873,Team Heretics,map,Killjoy,0.83,181,16,15,4,+1,67%,129,27%,2,4,-2,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,RieNs,10971,Team Heretics,map,Gekko,0.79,143,11,15,10,-4,79%,104,38%,2,0,+2,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,paTiTek,309,Team Heretics,map,Viper,0.67,114,10,17,6,-7,75%,74,19%,1,1,0,Lotus,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,AtaKaptan,6510,FUT Esports,map,Omen,1.33,217,19,15,16,+4,87%,161,35%,0,2,-2,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MrFaliN,8044,FUT Esports,map,Gekko,1.03,221,18,16,3,+2,65%,154,25%,6,1,+5,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,yetujey,8369,FUT Esports,map,Viper,1.00,218,18,17,5,+1,78%,155,25%,0,3,-3,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,cNed,573,FUT Esports,map,Neon,0.96,250,21,19,5,+2,78%,160,24%,3,5,-2,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,qRaxs,1139,FUT Esports,map,Kayo,0.57,127,7,18,18,-11,74%,92,13%,2,1,+1,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,Boo,1144,Team Heretics,map,Astra,1.70,299,26,12,7,+14,78%,203,45%,4,2,+2,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,MiniBoo,18350,Team Heretics,map,Yoru,1.43,265,21,17,6,+4,78%,195,33%,4,5,-1,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,benjyfishy,29873,Team Heretics,map,Viper,0.92,195,16,19,5,-3,74%,121,29%,3,1,+2,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,paTiTek,309,Team Heretics,map,Kayo,0.86,163,12,16,13,-4,70%,102,19%,1,2,-1,Bind,Team Heretics
+297401,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 11:00:00,FUT Esports,Team Heretics,0 - 2,RieNs,10971,Team Heretics,map,Sova,0.51,111,10,19,3,-9,65%,78,35%,0,1,-1,Bind,Team Heretics
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Cloud,4181,GIANTX,overall,"Breach, Fade, Skye",1.22,255,57,48,33,+9,69%,157,29%,6,5,+1,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,nukkye,3070,GIANTX,overall,"Cypher, Sage, Killjoy",0.96,187,41,46,22,-5,72%,124,31%,8,6,+2,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Redgar,1427,GIANTX,overall,Omen,0.95,179,42,43,13,-1,67%,123,29%,6,8,-2,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,hoody,2690,GIANTX,overall,"Skye, Breach, Viper",0.84,149,32,43,23,-11,64%,100,20%,3,11,-8,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Fit1nho,292,GIANTX,overall,Raze,0.68,160,33,50,8,-17,64%,110,21%,6,5,+1,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,N4RRATE,36245,Karmine Corp,overall,"Raze, Gekko, Fade",1.29,271,56,44,17,+12,77%,176,25%,6,5,+1,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,MAGNUM,2173,Karmine Corp,overall,"Fade, Cypher, Killjoy",1.20,219,53,38,12,+15,70%,151,26%,7,8,-1,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,tomaszy,19691,Karmine Corp,overall,"Omen, Viper",1.07,208,47,42,18,+5,75%,136,37%,8,3,+5,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,marteen,10307,Karmine Corp,overall,"Yoru, Raze",0.98,200,43,42,13,+1,67%,127,21%,9,8,+1,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,sh1n,2625,Karmine Corp,overall,"Astra, Omen",0.85,131,31,39,22,-8,77%,85,35%,5,5,0,,
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Cloud,4181,GIANTX,map,Breach,1.18,251,21,20,13,+1,67%,152,37%,1,2,-1,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Fit1nho,292,GIANTX,map,Raze,1.13,240,21,17,2,+4,71%,156,28%,2,1,+1,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Redgar,1427,GIANTX,map,Omen,0.99,162,14,12,6,+2,83%,101,26%,3,3,0,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,nukkye,3070,GIANTX,map,Cypher,0.87,174,14,18,9,-4,63%,117,33%,3,4,-1,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,hoody,2690,GIANTX,map,Skye,0.79,144,11,16,9,-5,71%,98,21%,1,4,-3,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,N4RRATE,36245,Karmine Corp,map,Raze,1.25,295,23,18,4,+5,79%,179,20%,3,3,0,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,MAGNUM,2173,Karmine Corp,map,Fade,1.11,186,18,14,5,+4,67%,123,24%,3,2,+1,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,marteen,10307,Karmine Corp,map,Yoru,0.91,210,16,17,6,-1,58%,138,29%,3,3,0,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,sh1n,2625,Karmine Corp,map,Astra,0.90,128,12,14,7,-2,71%,72,28%,4,1,+3,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,tomaszy,19691,Karmine Corp,map,Omen,0.85,182,14,18,8,-4,75%,126,39%,1,1,0,Split,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,hoody,2690,GIANTX,map,Breach,1.29,203,15,12,14,+3,78%,124,20%,1,1,0,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Redgar,1427,GIANTX,map,Omen,1.25,248,22,15,3,+7,61%,172,31%,1,4,-3,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Cloud,4181,GIANTX,map,Fade,1.22,254,22,16,12,+6,70%,153,28%,4,3,+1,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,nukkye,3070,GIANTX,map,Sage,1.17,217,17,15,13,+2,83%,140,33%,3,1,+2,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Fit1nho,292,GIANTX,map,Raze,0.32,94,6,18,3,-12,65%,65,16%,3,2,+1,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,tomaszy,19691,Karmine Corp,map,Viper,1.15,228,19,16,7,+3,74%,147,34%,3,1,+2,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,MAGNUM,2173,Karmine Corp,map,Cypher,1.14,221,18,16,4,+2,65%,152,25%,2,3,-1,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,N4RRATE,36245,Karmine Corp,map,Gekko,1.00,214,15,18,7,-3,65%,150,28%,2,2,0,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,marteen,10307,Karmine Corp,map,Raze,0.87,151,12,15,3,-3,70%,102,17%,4,3,+1,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,sh1n,2625,Karmine Corp,map,Omen,0.79,155,12,17,7,-5,74%,101,41%,0,3,-3,Sunset,GIANTX
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Cloud,4181,GIANTX,map,Skye,1.28,260,14,12,8,+2,71%,172,24%,1,0,+1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,nukkye,3070,GIANTX,map,Killjoy,0.81,171,10,13,0,-3,71%,113,26%,2,1,+1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Fit1nho,292,GIANTX,map,Raze,0.54,145,6,15,3,-9,53%,104,14%,1,2,-1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,Redgar,1427,GIANTX,map,Omen,0.47,126,6,16,4,-10,53%,87,28%,2,1,+1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,hoody,2690,GIANTX,map,Viper,0.31,101,6,15,0,-9,35%,71,18%,1,6,-5,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,N4RRATE,36245,Karmine Corp,map,Fade,1.73,303,18,8,6,+10,88%,205,30%,1,0,+1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,MAGNUM,2173,Karmine Corp,map,Killjoy,1.41,250,17,8,3,+9,82%,189,30%,2,3,-1,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,tomaszy,19691,Karmine Corp,map,Viper,1.26,215,14,8,3,+6,76%,134,41%,4,1,+3,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,marteen,10307,Karmine Corp,map,Raze,1.23,238,15,10,4,+5,76%,146,16%,2,2,0,Lotus,Karmine Corp
+297402,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (A)",2024-02-20 13:35:00,GIANTX,Karmine Corp,1 - 2,sh1n,2625,Karmine Corp,map,Omen,0.88,110,7,8,8,-1,88%,80,37%,1,1,0,Lotus,Karmine Corp
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Zyppan,11,Natus Vincere,overall,"Raze, Kayo, Sova",1.30,263,55,39,27,+16,76%,174,29%,6,6,0,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ardiis,98,Natus Vincere,overall,"Kayo, Jett, Yoru",1.28,266,59,42,17,+17,76%,178,22%,8,5,+3,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Shao,384,Natus Vincere,overall,"Brimstone, Omen, Viper",1.26,208,41,34,35,+7,83%,141,29%,2,7,-5,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,SUYGETSU,2858,Natus Vincere,overall,"Viper, Cypher",1.07,201,42,34,10,+8,75%,141,39%,5,7,-2,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ANGE1,109,Natus Vincere,overall,"Gekko, Sova, Omen",0.76,172,35,45,15,-10,73%,118,36%,8,5,+3,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Brave,8041,BBL Esports,overall,"Brimstone, Omen, Viper",0.92,185,38,48,22,-10,73%,121,37%,5,6,-1,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,reazy,10146,BBL Esports,overall,"Skye, Sova",0.92,188,35,43,24,-8,73%,136,20%,2,1,+1,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,pAura,569,BBL Esports,overall,"Breach, Kayo",0.90,174,37,47,28,-10,75%,105,38%,7,4,+3,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,QutionerX,10161,BBL Esports,overall,"Raze, Jett",0.88,214,45,50,9,-5,63%,136,27%,12,15,-3,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Elite,16459,BBL Esports,overall,"Viper, Killjoy, Cypher",0.87,183,37,45,15,-8,66%,120,52%,4,3,+1,,
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Shao,384,Natus Vincere,map,Brimstone,1.37,249,18,14,11,+4,86%,179,31%,0,2,-2,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ardiis,98,Natus Vincere,map,Kayo,1.16,232,18,17,13,+1,76%,151,22%,0,1,-1,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,SUYGETSU,2858,Natus Vincere,map,Viper,0.89,204,14,15,5,-1,76%,141,36%,3,3,0,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Zyppan,11,Natus Vincere,map,Raze,0.77,211,14,17,5,-3,71%,158,20%,4,4,0,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ANGE1,109,Natus Vincere,map,Gekko,0.75,172,14,18,3,-4,67%,121,32%,2,2,0,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,pAura,569,BBL Esports,map,Breach,1.23,238,20,15,3,+5,86%,143,37%,4,2,+2,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Brave,8041,BBL Esports,map,Brimstone,1.11,229,17,17,10,0,76%,150,35%,1,3,-2,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Elite,16459,BBL Esports,map,Viper,1.04,209,15,15,10,0,76%,122,50%,3,1,+2,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,QutionerX,10161,BBL Esports,map,Raze,0.97,224,16,17,5,-1,71%,143,20%,4,3,+1,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,reazy,10146,BBL Esports,map,Skye,0.83,153,11,14,11,-3,71%,112,16%,0,0,0,Bind,BBL Esports
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Zyppan,11,Natus Vincere,map,Kayo,1.51,280,20,12,16,+8,84%,161,30%,2,2,0,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,SUYGETSU,2858,Natus Vincere,map,Cypher,1.42,247,17,9,4,+8,79%,157,45%,1,2,-1,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Shao,384,Natus Vincere,map,Omen,1.26,204,12,11,10,+1,84%,133,37%,2,2,0,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ANGE1,109,Natus Vincere,map,Sova,1.14,213,14,11,3,+3,79%,140,50%,3,1,+2,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ardiis,98,Natus Vincere,map,Jett,0.85,184,13,13,2,0,58%,137,19%,2,2,0,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Brave,8041,BBL Esports,map,Omen,1.13,227,15,15,7,0,79%,141,50%,3,0,+3,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,reazy,10146,BBL Esports,map,Sova,1.00,234,14,15,6,-1,79%,173,24%,1,0,+1,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,QutionerX,10161,BBL Esports,map,Jett,0.87,216,15,15,2,0,47%,142,37%,3,8,-5,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,pAura,569,BBL Esports,map,Kayo,0.51,76,5,16,15,-11,68%,34,19%,1,1,0,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Elite,16459,BBL Esports,map,Killjoy,0.50,145,7,16,4,-9,68%,111,41%,1,1,0,Ascent,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ardiis,98,Natus Vincere,map,Yoru,1.83,382,28,12,2,+16,95%,248,24%,6,2,+4,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Zyppan,11,Natus Vincere,map,Sova,1.68,299,21,10,6,+11,74%,204,40%,0,0,0,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Shao,384,Natus Vincere,map,Viper,1.14,171,11,9,14,+2,79%,108,18%,0,3,-3,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,SUYGETSU,2858,Natus Vincere,map,Cypher,0.93,151,11,10,1,+1,68%,126,36%,1,2,-1,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,ANGE1,109,Natus Vincere,map,Omen,0.40,131,7,16,9,-9,74%,92,29%,3,2,+1,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Elite,16459,BBL Esports,map,Cypher,1.04,195,15,14,1,+1,53%,128,68%,0,1,-1,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,reazy,10146,BBL Esports,map,Sova,0.94,178,10,14,7,-4,68%,126,19%,1,1,0,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,pAura,569,BBL Esports,map,Kayo,0.93,208,12,16,10,-4,68%,134,48%,2,1,+1,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,QutionerX,10161,BBL Esports,map,Jett,0.79,202,14,18,2,-4,68%,123,26%,5,4,+1,Breeze,Natus Vincere
+297406,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 08:00:00,Natus Vincere,BBL Esports,2 - 1,Brave,8041,BBL Esports,map,Viper,0.50,100,6,16,5,-10,63%,70,23%,1,3,-2,Breeze,Natus Vincere
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Keiko,11494,Team Liquid,overall,"Jett, Raze",1.51,300,51,30,6,+21,81%,201,34%,8,5,+3,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,nAts,457,Team Liquid,overall,Viper,1.33,256,45,30,11,+15,79%,182,30%,1,5,-4,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Jamppi,9780,Team Liquid,overall,"Killjoy, Skye",0.99,194,33,33,8,0,72%,127,46%,8,3,+5,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Enzo,114,Team Liquid,overall,"Sova, Gekko",0.75,144,20,31,17,-11,72%,98,21%,3,5,-2,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Mistic,1457,Team Liquid,overall,"Sage, Brimstone",0.71,136,22,35,20,-13,81%,94,31%,1,8,-7,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,sheydos,1428,Movistar KOI(KOI),overall,"Killjoy, Viper",1.05,168,28,27,9,+1,77%,122,24%,2,0,+2,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,kamo,14681,Movistar KOI(KOI),overall,"Yoru, Raze",1.03,222,37,37,9,0,81%,152,30%,14,9,+5,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,grubinho,5550,Movistar KOI(KOI),overall,"Viper, Brimstone",0.95,206,33,33,14,0,66%,121,29%,4,2,+2,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,ShadoW,451,Movistar KOI(KOI),overall,"Sova, Fade",0.85,193,31,37,9,-6,55%,128,29%,3,4,-1,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,starxo,565,Movistar KOI(KOI),overall,"Harbor, Skye",0.75,174,29,37,18,-8,62%,107,31%,3,6,-3,,
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Keiko,11494,Team Liquid,map,Jett,2.09,427,37,16,2,+21,91%,283,31%,6,2,+4,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,nAts,457,Team Liquid,map,Viper,1.02,192,17,16,5,+1,83%,123,22%,1,2,-1,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Jamppi,9780,Team Liquid,map,Killjoy,0.90,158,13,14,4,-1,65%,105,41%,2,1,+1,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Enzo,114,Team Liquid,map,Sova,0.69,141,9,16,9,-7,74%,104,21%,2,2,0,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Mistic,1457,Team Liquid,map,Sage,0.67,103,9,16,10,-7,78%,75,26%,0,5,-5,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,kamo,14681,Movistar KOI(KOI),map,Yoru,1.11,251,21,19,2,+2,83%,169,36%,8,5,+3,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,grubinho,5550,Movistar KOI(KOI),map,Viper,0.96,198,16,14,7,+2,65%,112,27%,2,2,0,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,ShadoW,451,Movistar KOI(KOI),map,Sova,0.89,219,16,20,8,-4,70%,157,38%,2,2,0,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,sheydos,1428,Movistar KOI(KOI),map,Killjoy,0.78,123,11,14,2,-3,78%,93,18%,0,0,0,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,starxo,565,Movistar KOI(KOI),map,Harbor,0.73,171,13,18,9,-5,65%,113,38%,0,2,-2,Icebox,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,nAts,457,Team Liquid,map,Viper,1.62,320,28,14,6,+14,75%,238,36%,0,3,-3,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Jamppi,9780,Team Liquid,map,Skye,1.08,229,20,19,4,+1,79%,148,49%,6,2,+4,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Keiko,11494,Team Liquid,map,Raze,0.96,172,14,14,4,0,71%,122,42%,2,3,-1,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Enzo,114,Team Liquid,map,Gekko,0.80,146,11,15,8,-4,71%,93,21%,1,3,-2,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,Mistic,1457,Team Liquid,map,Brimstone,0.75,168,13,19,10,-6,83%,112,36%,1,3,-2,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,sheydos,1428,Movistar KOI(KOI),map,Viper,1.30,212,17,13,7,+4,75%,151,30%,2,0,+2,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,kamo,14681,Movistar KOI(KOI),map,Raze,0.96,192,16,18,7,-2,79%,135,24%,6,4,+2,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,grubinho,5550,Movistar KOI(KOI),map,Brimstone,0.93,214,17,19,7,-2,67%,130,31%,2,0,+2,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,ShadoW,451,Movistar KOI(KOI),map,Fade,0.81,167,15,17,1,-2,42%,99,22%,1,2,-1,Bind,Team Liquid
+297407,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (B)",2024-02-21 11:00:00,Team Liquid,Movistar KOI(KOI),2 - 0,starxo,565,Movistar KOI(KOI),map,Skye,0.76,176,16,19,9,-3,58%,102,25%,3,4,-1,Bind,Team Liquid
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Kicks,11134,Team Vitality,overall,Skye,1.29,228,33,26,20,+7,77%,155,23%,4,4,0,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,ceNder,4321,Team Vitality,overall,"Omen, Viper",1.26,212,34,24,12,+10,81%,133,37%,8,3,+5,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,runneR,21610,Team Vitality,overall,Raze,1.21,267,39,28,10,+11,74%,164,21%,8,6,+2,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Sayf,312,Team Vitality,overall,"Viper, Omen",1.01,160,23,23,16,0,74%,119,41%,2,4,-2,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Destrian,1615,Team Vitality,overall,"Cypher, Killjoy",0.90,148,22,25,10,-3,70%,113,26%,2,2,0,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,logaN,868,Gentle Mates,overall,"Cypher, Killjoy",0.89,164,25,28,5,-3,70%,113,27%,0,5,-5,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,TakaS,301,Gentle Mates,overall,"Yoru, Raze",0.88,217,32,33,7,-1,60%,140,21%,9,7,+2,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,nataNk,5004,Gentle Mates,overall,"Raze, Phoenix",0.87,218,31,34,7,-3,60%,141,30%,9,12,-3,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Wailers,19522,Gentle Mates,overall,Omen,0.85,149,22,28,11,-6,74%,97,29%,0,0,0,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,beyAz,220,Gentle Mates,overall,Breach,0.72,113,16,28,20,-12,79%,76,21%,1,0,+1,,
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Kicks,11134,Team Vitality,map,Skye,1.31,251,20,16,8,+4,74%,167,27%,2,3,-1,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Sayf,312,Team Vitality,map,Viper,1.09,187,15,12,6,+3,74%,142,58%,1,2,-1,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,runneR,21610,Team Vitality,map,Raze,1.00,218,16,15,6,+1,70%,147,28%,4,5,-1,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Destrian,1615,Team Vitality,map,Cypher,1.00,182,14,13,7,+1,70%,132,24%,1,1,0,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,ceNder,4321,Team Vitality,map,Omen,0.85,116,11,14,7,-3,74%,80,42%,2,2,0,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,nataNk,5004,Gentle Mates,map,Raze,1.25,301,23,17,3,+6,74%,188,30%,7,3,+4,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Wailers,19522,Gentle Mates,map,Omen,0.89,140,10,13,8,-3,83%,100,27%,0,0,0,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,logaN,868,Gentle Mates,map,Cypher,0.87,114,10,12,4,-2,70%,77,27%,0,3,-3,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,beyAz,220,Gentle Mates,map,Breach,0.78,130,9,15,14,-6,91%,86,19%,0,0,0,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,TakaS,301,Gentle Mates,map,Yoru,0.77,221,18,19,3,-1,61%,132,20%,6,4,+2,Sunset,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,ceNder,4321,Team Vitality,map,Viper,1.74,308,23,10,5,+13,90%,193,35%,6,1,+5,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,runneR,21610,Team Vitality,map,Raze,1.45,316,23,13,4,+10,80%,184,16%,4,1,+3,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Kicks,11134,Team Vitality,map,Skye,1.27,204,13,10,12,+3,80%,141,18%,2,1,+1,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Sayf,312,Team Vitality,map,Omen,0.91,132,8,11,10,-3,75%,94,23%,1,2,-1,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Destrian,1615,Team Vitality,map,Killjoy,0.78,114,8,12,3,-4,70%,92,27%,1,1,0,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,TakaS,301,Gentle Mates,map,Raze,1.02,213,14,14,4,0,60%,148,22%,3,3,0,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,logaN,868,Gentle Mates,map,Killjoy,0.91,214,15,16,1,-1,70%,155,27%,0,2,-2,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,Wailers,19522,Gentle Mates,map,Omen,0.79,157,12,15,3,-3,65%,93,33%,0,0,0,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,beyAz,220,Gentle Mates,map,Breach,0.66,95,7,13,6,-6,65%,64,26%,1,0,+1,Lotus,Team Vitality
+297412,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Opening (C)",2024-02-21 13:45:00,Team Vitality,Gentle Mates,2 - 0,nataNk,5004,Gentle Mates,map,Phoenix,0.44,134,8,17,4,-9,45%,88,31%,2,9,-7,Lotus,Team Vitality
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MiniBoo,18350,Team Heretics,overall,"Raze, Neon",1.41,291,35,22,7,+13,82%,183,23%,9,2,+7,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,benjyfishy,29873,Team Heretics,overall,"Cypher, Killjoy",1.38,254,31,17,7,+14,85%,168,32%,1,4,-3,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,Boo,1144,Team Heretics,overall,Omen,1.34,203,28,15,12,+13,85%,137,29%,5,1,+4,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,RieNs,10971,Team Heretics,overall,"Breach, Gekko",1.32,239,30,17,10,+13,82%,157,36%,5,1,+4,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,paTiTek,309,Team Heretics,overall,Viper,1.09,182,22,18,13,+4,85%,118,28%,3,3,0,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,overall,"Astra, Omen",0.93,162,21,27,12,-6,68%,102,34%,2,5,-3,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,overall,"Raze, Fade",0.91,226,24,30,14,-6,68%,153,19%,3,5,-2,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,overall,"Omen, Viper",0.78,168,18,30,11,-12,68%,118,32%,2,1,+1,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,overall,"Yoru, Raze",0.62,149,18,29,6,-11,68%,95,12%,3,7,-4,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,overall,"Fade, Killjoy",0.37,100,8,30,11,-22,62%,72,17%,1,5,-4,,
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MiniBoo,18350,Team Heretics,map,Raze,1.86,393,24,10,4,+14,88%,241,24%,5,0,+5,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,RieNs,10971,Team Heretics,map,Breach,1.23,227,13,9,6,+4,88%,135,35%,1,1,0,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,paTiTek,309,Team Heretics,map,Viper,1.22,208,14,9,6,+5,88%,133,22%,1,2,-1,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,benjyfishy,29873,Team Heretics,map,Cypher,1.13,227,15,10,3,+5,82%,137,42%,0,4,-4,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,Boo,1144,Team Heretics,map,Omen,0.92,147,10,10,5,0,82%,90,27%,2,1,+1,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,map,Raze,0.97,255,13,15,7,-2,71%,177,17%,2,2,0,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,map,Astra,0.75,153,10,16,7,-6,65%,89,31%,2,3,-1,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,map,Yoru,0.70,149,10,14,2,-4,71%,94,13%,2,2,0,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,map,Fade,0.70,169,8,15,8,-7,94%,114,18%,1,2,-1,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,map,Omen,0.61,145,7,16,6,-9,76%,114,33%,1,0,+1,Split,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,Boo,1144,Team Heretics,map,Omen,1.76,259,18,5,7,+13,88%,185,31%,3,0,+3,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,benjyfishy,29873,Team Heretics,map,Killjoy,1.64,281,16,7,4,+9,88%,199,27%,1,0,+1,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,RieNs,10971,Team Heretics,map,Gekko,1.41,250,17,8,4,+9,76%,179,37%,4,0,+4,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MiniBoo,18350,Team Heretics,map,Neon,0.95,188,11,12,3,-1,76%,125,22%,4,2,+2,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,paTiTek,309,Team Heretics,map,Viper,0.95,156,8,9,7,-1,82%,104,34%,2,1,+1,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,map,Omen,1.11,171,11,11,5,0,71%,115,37%,0,2,-2,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.94,191,11,14,5,-3,59%,122,30%,1,1,0,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,map,Fade,0.84,197,11,15,7,-4,65%,130,23%,1,3,-2,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,map,Raze,0.54,148,8,15,4,-7,65%,96,11%,1,5,-4,Lotus,Team Heretics
+297403,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-22 11:00:00,Team Heretics,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,map,Killjoy,0.03,30,0,15,3,-15,29%,30,10%,0,3,-3,Lotus,Team Heretics
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,yetujey,8369,FUT Esports,overall,"Viper, Phoenix, Cypher",1.31,228,52,30,12,+22,83%,153,30%,10,5,+5,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,AtaKaptan,6510,FUT Esports,overall,"Omen, Viper",1.26,216,49,34,19,+15,77%,134,36%,2,3,-1,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,cNed,573,FUT Esports,overall,"Chamber, Raze",1.13,216,47,40,8,+7,70%,143,24%,11,6,+5,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,qRaxs,1139,FUT Esports,overall,"Raze, Fade",0.97,215,42,45,28,-3,83%,137,27%,6,4,+2,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,MrFaliN,8044,FUT Esports,overall,"Skye, Sova, Omen",0.93,184,37,42,32,-5,77%,113,17%,5,8,-3,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Cloud,4181,GIANTX,overall,"Breach, Sova, Fade",1.19,228,47,41,12,+6,73%,154,30%,4,3,+1,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,nukkye,3070,GIANTX,overall,"Cypher, Killjoy, Sage",1.14,217,45,41,15,+4,75%,151,27%,5,1,+4,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Fit1nho,292,GIANTX,overall,Raze,0.81,201,41,49,6,-8,60%,133,25%,8,13,-5,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,hoody,2690,GIANTX,overall,"Skye, Viper, Breach",0.79,170,34,47,22,-13,63%,116,26%,4,6,-2,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Redgar,1427,GIANTX,overall,Omen,0.50,117,24,49,19,-25,60%,74,33%,5,11,-6,,
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,yetujey,8369,FUT Esports,map,Viper,1.62,262,19,7,5,+12,100%,178,21%,1,1,0,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,MrFaliN,8044,FUT Esports,map,Skye,1.26,222,16,11,8,+5,84%,129,19%,3,2,+1,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,AtaKaptan,6510,FUT Esports,map,Omen,1.11,213,15,12,5,+3,74%,126,37%,1,0,+1,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,cNed,573,FUT Esports,map,Chamber,1.10,178,13,11,2,+2,63%,125,40%,4,2,+2,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,qRaxs,1139,FUT Esports,map,Raze,0.62,180,11,17,6,-6,74%,119,19%,3,2,+1,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Cloud,4181,GIANTX,map,Breach,1.39,303,20,14,6,+6,84%,195,31%,2,0,+2,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,nukkye,3070,GIANTX,map,Cypher,0.96,179,11,13,4,-2,68%,118,30%,0,0,0,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Redgar,1427,GIANTX,map,Omen,0.71,121,9,13,10,-4,68%,69,36%,0,3,-3,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Fit1nho,292,GIANTX,map,Raze,0.57,184,11,18,2,-7,74%,109,20%,4,5,-1,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,hoody,2690,GIANTX,map,Skye,0.47,117,7,16,4,-9,53%,75,14%,1,4,-3,Split,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,yetujey,8369,FUT Esports,map,Phoenix,1.09,221,17,15,5,+2,76%,148,28%,4,2,+2,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,AtaKaptan,6510,FUT Esports,map,Viper,1.00,158,14,14,9,0,67%,104,36%,0,3,-3,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,cNed,573,FUT Esports,map,Chamber,0.91,201,14,17,2,-3,71%,139,14%,3,2,+1,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,qRaxs,1139,FUT Esports,map,Fade,0.88,168,12,16,10,-4,86%,109,23%,1,1,0,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,MrFaliN,8044,FUT Esports,map,Sova,0.83,220,15,19,10,-4,67%,141,23%,2,3,-1,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,nukkye,3070,GIANTX,map,Killjoy,1.48,265,21,12,4,+9,86%,199,31%,2,0,+2,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Cloud,4181,GIANTX,map,Sova,1.37,223,17,13,2,+4,71%,167,33%,2,1,+1,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Fit1nho,292,GIANTX,map,Raze,1.22,289,21,15,3,+6,71%,194,29%,3,3,0,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,hoody,2690,GIANTX,map,Viper,1.06,235,16,15,11,+1,81%,167,28%,1,1,0,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Redgar,1427,GIANTX,map,Omen,0.34,88,6,17,6,-11,67%,55,43%,3,5,-2,Icebox,GIANTX
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,AtaKaptan,6510,FUT Esports,map,Viper,1.67,277,20,8,5,+12,90%,173,35%,1,0,+1,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,qRaxs,1139,FUT Esports,map,Fade,1.40,298,19,12,12,+7,90%,185,34%,2,1,+1,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,cNed,573,FUT Esports,map,Raze,1.39,269,20,12,4,+8,75%,165,24%,4,2,+2,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,yetujey,8369,FUT Esports,map,Cypher,1.25,201,16,8,2,+8,75%,135,47%,5,2,+3,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,MrFaliN,8044,FUT Esports,map,Omen,0.73,109,6,12,14,-6,80%,67,6%,0,3,-3,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,nukkye,3070,GIANTX,map,Sage,0.93,207,13,16,7,-3,70%,133,19%,3,1,+2,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Cloud,4181,GIANTX,map,Fade,0.83,157,10,14,4,-4,65%,100,25%,0,2,-2,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,hoody,2690,GIANTX,map,Breach,0.80,158,11,16,7,-5,55%,101,37%,2,1,+1,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Fit1nho,292,GIANTX,map,Raze,0.62,130,9,16,1,-7,35%,90,23%,1,5,-4,Sunset,FUT Esports
+297404,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-22 13:10:00,FUT Esports,GIANTX,2 - 1,Redgar,1427,GIANTX,map,Omen,0.46,141,9,19,3,-10,45%,97,28%,2,3,-1,Sunset,FUT Esports
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Zyppan,11,Natus Vincere,overall,"Raze, Sova",1.32,264,37,26,8,+11,65%,169,33%,5,4,+1,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ardiis,98,Natus Vincere,overall,"Breach, Yoru",1.30,252,38,26,17,+12,78%,151,20%,4,6,-2,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Shao,384,Natus Vincere,overall,"Omen, Viper",1.17,213,31,23,9,+8,75%,148,38%,3,4,-1,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,SUYGETSU,2858,Natus Vincere,overall,"Viper, Cypher",0.97,154,25,23,8,+2,70%,99,33%,1,5,-4,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ANGE1,109,Natus Vincere,overall,"Fade, Omen",0.75,161,22,28,13,-6,55%,116,24%,4,4,0,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Keiko,11494,Team Liquid,overall,"Raze, Yoru",1.06,213,31,29,6,+2,70%,137,30%,9,4,+5,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Jamppi,9780,Team Liquid,overall,"Viper, Kayo",1.05,202,28,30,11,-2,78%,144,43%,4,4,0,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,nAts,457,Team Liquid,overall,Cypher,0.89,202,26,30,6,-4,63%,131,31%,6,6,0,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Mistic,1457,Team Liquid,overall,"Omen, Viper",0.85,202,29,33,6,-4,65%,135,42%,1,2,-1,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Enzo,114,Team Liquid,overall,"Skye, Sova",0.50,103,12,31,10,-19,58%,78,16%,3,1,+2,,
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Shao,384,Natus Vincere,map,Omen,1.51,267,20,11,6,+9,85%,188,42%,2,1,+1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ardiis,98,Natus Vincere,map,Breach,1.14,214,15,13,11,+2,80%,121,25%,1,3,-2,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,SUYGETSU,2858,Natus Vincere,map,Viper,1.11,171,15,11,2,+4,70%,106,32%,1,3,-2,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Zyppan,11,Natus Vincere,map,Raze,1.04,251,17,16,4,+1,60%,162,27%,3,4,-1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ANGE1,109,Natus Vincere,map,Fade,0.85,157,10,12,10,-2,70%,106,25%,1,1,0,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Raze,1.53,312,23,14,2,+9,80%,201,32%,7,1,+6,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Jamppi,9780,Team Liquid,map,Viper,0.82,192,12,16,6,-4,75%,145,47%,2,3,-1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Mistic,1457,Team Liquid,map,Omen,0.81,190,14,16,4,-2,65%,138,43%,0,1,-1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Cypher,0.72,139,9,15,5,-6,60%,96,27%,2,3,-1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Enzo,114,Team Liquid,map,Skye,0.43,91,5,16,5,-11,55%,68,17%,1,0,+1,Split,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Zyppan,11,Natus Vincere,map,Sova,1.61,276,20,10,4,+10,70%,176,41%,2,0,+2,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ardiis,98,Natus Vincere,map,Yoru,1.47,289,23,13,6,+10,75%,180,17%,3,3,0,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,SUYGETSU,2858,Natus Vincere,map,Cypher,0.84,137,10,12,6,-2,70%,92,33%,0,2,-2,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Shao,384,Natus Vincere,map,Viper,0.82,159,11,12,3,-1,65%,108,32%,1,3,-2,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,ANGE1,109,Natus Vincere,map,Omen,0.64,164,12,16,3,-4,40%,127,22%,3,3,0,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Jamppi,9780,Team Liquid,map,Kayo,1.27,212,16,14,5,+2,80%,144,38%,2,1,+1,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,nAts,457,Team Liquid,map,Cypher,1.05,264,17,15,1,+2,65%,165,34%,4,3,+1,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Mistic,1457,Team Liquid,map,Viper,0.89,213,15,17,2,-2,65%,133,42%,1,1,0,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Keiko,11494,Team Liquid,map,Yoru,0.58,114,8,15,4,-7,60%,73,27%,2,3,-1,Breeze,Natus Vincere
+297408,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 08:00:00,Natus Vincere,Team Liquid,2 - 0,Enzo,114,Team Liquid,map,Sova,0.56,115,7,15,5,-8,60%,88,15%,2,1,+1,Breeze,Natus Vincere
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Elite,16459,BBL Esports,overall,Viper,1.11,251,35,30,8,+5,63%,155,49%,6,7,-1,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,reazy,10146,BBL Esports,overall,Skye,1.03,210,31,29,10,+2,73%,133,34%,2,3,-1,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,QutionerX,10161,BBL Esports,overall,Raze,0.79,206,27,35,7,-8,71%,146,24%,7,7,0,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,pAura,569,BBL Esports,overall,Breach,0.66,129,19,31,13,-12,68%,84,27%,2,3,-1,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Brave,8041,BBL Esports,overall,"Brimstone, Omen",0.51,110,16,30,4,-14,59%,79,36%,0,4,-4,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,kamo,14681,Movistar KOI(KOI),overall,Raze,1.32,291,37,30,15,+7,73%,198,18%,9,7,+2,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,starxo,565,Movistar KOI(KOI),overall,"Skye, Fade",1.31,208,33,22,16,+11,76%,137,28%,5,1,+4,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,ShadoW,451,Movistar KOI(KOI),overall,"Fade, Breach",1.27,217,34,25,19,+9,85%,129,16%,4,6,-2,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,sheydos,1428,Movistar KOI(KOI),overall,Viper,1.23,185,29,21,10,+8,88%,132,26%,2,2,0,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,grubinho,5550,Movistar KOI(KOI),overall,"Brimstone, Omen",0.77,158,22,30,21,-8,83%,92,28%,4,1,+3,,
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Elite,16459,BBL Esports,map,Viper,1.24,262,15,12,5,+3,67%,166,46%,3,3,0,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,reazy,10146,BBL Esports,map,Skye,0.93,210,13,14,3,-1,61%,141,33%,1,1,0,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,pAura,569,BBL Esports,map,Breach,0.69,116,7,13,8,-6,67%,71,36%,1,1,0,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Brave,8041,BBL Esports,map,Brimstone,0.58,128,8,13,2,-5,61%,91,35%,0,2,-2,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,QutionerX,10161,BBL Esports,map,Raze,0.49,168,9,16,1,-7,61%,113,10%,3,3,0,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,ShadoW,451,Movistar KOI(KOI),map,Fade,1.42,217,16,9,9,+7,83%,131,13%,2,3,-1,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,starxo,565,Movistar KOI(KOI),map,Skye,1.42,216,15,8,7,+7,78%,141,32%,2,0,+2,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,sheydos,1428,Movistar KOI(KOI),map,Viper,1.23,203,14,10,4,+4,89%,145,30%,1,2,-1,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,kamo,14681,Movistar KOI(KOI),map,Raze,1.09,241,13,13,5,0,67%,171,23%,3,3,0,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,grubinho,5550,Movistar KOI(KOI),map,Brimstone,0.96,179,10,12,15,-2,83%,105,19%,2,0,+2,Bind,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,reazy,10146,BBL Esports,map,Skye,1.11,210,18,15,7,+3,83%,127,35%,1,2,-1,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,QutionerX,10161,BBL Esports,map,Raze,1.04,243,18,19,6,-1,78%,172,35%,4,4,0,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Elite,16459,BBL Esports,map,Viper,1.00,239,20,18,3,+2,61%,148,51%,3,4,-1,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,pAura,569,BBL Esports,map,Breach,0.63,141,12,18,5,-6,70%,94,23%,1,2,-1,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,Brave,8041,BBL Esports,map,Omen,0.45,92,8,17,2,-9,57%,69,38%,0,2,-2,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,kamo,14681,Movistar KOI(KOI),map,Raze,1.50,340,24,17,10,+7,78%,220,15%,6,4,+2,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,sheydos,1428,Movistar KOI(KOI),map,Viper,1.24,166,15,11,6,+4,87%,122,22%,1,0,+1,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,starxo,565,Movistar KOI(KOI),map,Fade,1.22,200,18,14,9,+4,74%,134,25%,3,1,+2,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,ShadoW,451,Movistar KOI(KOI),map,Breach,1.16,216,18,16,10,+2,87%,127,19%,2,3,-1,Split,Movistar KOI(KOI)
+297409,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-23 10:10:00,BBL Esports,Movistar KOI(KOI),0 - 2,grubinho,5550,Movistar KOI(KOI),map,Omen,0.62,137,12,18,6,-6,83%,82,38%,2,1,+1,Split,Movistar KOI(KOI)
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Sayf,312,Team Vitality,overall,"Omen, Kayo",1.22,210,35,30,11,+5,64%,134,33%,6,3,+3,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Kicks,11134,Team Vitality,overall,"Skye, Sova",0.89,180,28,32,14,-4,55%,109,22%,1,6,-5,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,runneR,21610,Team Vitality,overall,"Raze, Jett",0.77,198,26,38,15,-12,77%,135,16%,5,10,-5,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,ceNder,4321,Team Vitality,overall,"Viper, Cypher",0.71,168,25,40,15,-15,61%,113,18%,4,4,0,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Destrian,1615,Team Vitality,overall,"Killjoy, Omen",0.65,123,20,35,14,-15,61%,88,25%,1,4,-3,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Chronicle,458,FNATIC,overall,"Viper, Kayo",1.31,220,32,22,29,+10,84%,144,22%,4,0,+4,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Alfajer,9810,FNATIC,overall,Killjoy,1.23,264,45,27,2,+18,77%,161,37%,7,3,+4,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Boaster,438,FNATIC,overall,Omen,1.22,222,34,29,24,+5,75%,145,32%,3,5,-2,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Leo,1380,FNATIC,overall,"Fade, Sova",1.20,208,34,23,17,+11,82%,145,24%,3,0,+3,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Derke,5022,FNATIC,overall,"Raze, Jett",0.69,191,30,33,3,-3,61%,111,36%,10,9,+1,,
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Sayf,312,Team Vitality,map,Omen,1.35,232,23,16,6,+7,65%,145,38%,4,2,+2,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,ceNder,4321,Team Vitality,map,Viper,0.95,230,19,22,12,-3,73%,139,16%,3,3,0,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Kicks,11134,Team Vitality,map,Skye,0.85,151,16,17,9,-1,54%,85,23%,0,2,-2,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Destrian,1615,Team Vitality,map,Killjoy,0.81,155,15,19,4,-4,62%,111,28%,1,1,0,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,runneR,21610,Team Vitality,map,Raze,0.79,191,15,21,11,-6,81%,138,13%,3,7,-4,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Leo,1380,FNATIC,map,Fade,1.30,237,24,15,8,+9,81%,148,27%,2,0,+2,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Chronicle,458,FNATIC,map,Viper,1.27,220,17,14,15,+3,81%,156,19%,2,0,+2,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Boaster,438,FNATIC,map,Omen,1.16,233,20,20,13,0,69%,146,31%,2,3,-1,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Alfajer,9810,FNATIC,map,Killjoy,0.93,214,21,19,1,+2,69%,137,31%,4,3,+1,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Derke,5022,FNATIC,map,Raze,0.42,127,13,20,1,-7,54%,78,25%,5,5,0,Lotus,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Sayf,312,Team Vitality,map,Kayo,1.04,188,12,14,5,-2,61%,117,27%,2,1,+1,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Kicks,11134,Team Vitality,map,Sova,0.96,209,12,15,5,-3,56%,144,22%,1,4,-3,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,runneR,21610,Team Vitality,map,Jett,0.74,205,11,17,4,-6,72%,131,22%,2,3,-1,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Destrian,1615,Team Vitality,map,Omen,0.42,90,5,16,10,-11,61%,54,17%,0,3,-3,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,ceNder,4321,Team Vitality,map,Cypher,0.36,106,6,18,3,-12,44%,76,23%,1,1,0,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Alfajer,9810,FNATIC,map,Killjoy,1.67,313,24,8,1,+16,89%,196,44%,3,0,+3,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Chronicle,458,FNATIC,map,Kayo,1.37,219,15,8,14,+7,89%,127,28%,2,0,+2,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Boaster,438,FNATIC,map,Omen,1.31,211,14,9,11,+5,83%,145,32%,1,2,-1,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Derke,5022,FNATIC,map,Jett,1.08,255,17,13,2,+4,72%,160,47%,5,4,+1,Ascent,FNATIC
+297414,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-23 12:20:00,Team Vitality,FNATIC,0 - 2,Leo,1380,FNATIC,map,Sova,1.06,178,10,8,9,+2,83%,140,19%,1,0,+1,Ascent,FNATIC
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Kicks,11134,Team Vitality,overall,Skye,1.22,206,50,40,27,+10,82%,128,22%,2,6,-4,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,runneR,21610,Team Vitality,overall,"Jett, Raze",1.16,232,47,43,18,+4,70%,162,22%,9,7,+2,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Sayf,312,Team Vitality,overall,"Cypher, Omen, Viper",0.95,186,43,42,11,+1,57%,113,34%,4,8,-4,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Destrian,1615,Team Vitality,overall,"Astra, Killjoy, Cypher",0.91,192,40,46,16,-6,70%,134,19%,9,3,+6,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,ceNder,4321,Team Vitality,overall,"Viper, Omen",0.70,141,27,44,16,-17,59%,98,18%,4,9,-5,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,TakaS,301,Gentle Mates,overall,"Yoru, Raze",1.31,290,64,44,14,+20,70%,183,23%,7,5,+2,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,logaN,868,Gentle Mates,overall,"Cypher, Killjoy",1.01,180,36,35,11,+1,69%,121,32%,5,6,-1,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,nataNk,5004,Gentle Mates,overall,"Phoenix, Raze",0.98,216,48,45,11,+3,74%,150,25%,15,11,+4,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Wailers,19522,Gentle Mates,overall,"Viper, Omen",0.86,182,40,43,19,-3,77%,121,30%,2,1,+1,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,beyAz,220,Gentle Mates,overall,"Sova, Breach",0.78,141,27,41,31,-14,69%,96,36%,4,5,-1,,
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Kicks,11134,Team Vitality,map,Skye,1.10,218,15,14,3,+1,82%,122,42%,0,2,-2,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Destrian,1615,Team Vitality,map,Astra,1.10,250,14,15,5,-1,76%,194,32%,2,0,+2,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,runneR,21610,Team Vitality,map,Jett,1.04,230,13,14,3,-1,59%,147,34%,2,3,-1,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Sayf,312,Team Vitality,map,Cypher,0.48,118,7,15,2,-8,47%,78,37%,1,2,-1,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,ceNder,4321,Team Vitality,map,Viper,0.46,113,5,14,6,-9,53%,76,20%,1,4,-3,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,TakaS,301,Gentle Mates,map,Yoru,1.80,393,26,11,5,+15,76%,250,25%,3,2,+1,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,nataNk,5004,Gentle Mates,map,Phoenix,1.33,263,18,11,1,+7,71%,165,27%,5,3,+2,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,logaN,868,Gentle Mates,map,Cypher,1.12,206,13,10,6,+3,71%,138,42%,2,0,+2,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,beyAz,220,Gentle Mates,map,Sova,0.79,113,6,10,9,-4,65%,92,37%,0,1,-1,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Wailers,19522,Gentle Mates,map,Viper,0.76,156,9,12,6,-3,82%,114,24%,1,0,+1,Breeze,Gentle Mates
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Kicks,11134,Team Vitality,map,Skye,1.43,259,26,18,19,+8,82%,157,14%,2,2,0,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,runneR,21610,Team Vitality,map,Raze,1.23,256,21,19,13,+2,75%,187,19%,5,4,+1,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Sayf,312,Team Vitality,map,Omen,1.05,202,22,19,6,+3,57%,117,23%,0,3,-3,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Destrian,1615,Team Vitality,map,Killjoy,0.95,185,19,20,5,-1,64%,119,13%,6,2,+4,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,ceNder,4321,Team Vitality,map,Viper,0.75,133,12,18,5,-6,57%,101,14%,2,2,0,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,TakaS,301,Gentle Mates,map,Raze,1.15,256,26,22,4,+4,68%,171,18%,2,1,+1,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,nataNk,5004,Gentle Mates,map,Phoenix,1.02,275,24,23,9,+1,79%,183,25%,7,6,+1,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,beyAz,220,Gentle Mates,map,Breach,0.86,147,14,19,17,-5,75%,95,46%,2,1,+1,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,logaN,868,Gentle Mates,map,Killjoy,0.86,142,13,16,3,-3,71%,110,19%,1,6,-5,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Wailers,19522,Gentle Mates,map,Omen,0.80,180,17,21,10,-4,71%,116,25%,1,1,0,Lotus,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Sayf,312,Team Vitality,map,Viper,1.28,238,14,8,3,+6,69%,144,58%,3,3,0,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,runneR,21610,Team Vitality,map,Raze,1.16,211,13,10,2,+3,75%,134,19%,2,0,+2,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Kicks,11134,Team Vitality,map,Skye,0.97,142,9,8,5,+1,81%,85,37%,0,2,-2,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,ceNder,4321,Team Vitality,map,Omen,0.88,177,10,12,5,-2,69%,114,23%,1,3,-2,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Destrian,1615,Team Vitality,map,Cypher,0.65,141,7,11,6,-4,75%,99,18%,1,1,0,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,logaN,868,Gentle Mates,map,Cypher,1.16,193,10,9,2,+1,63%,123,48%,2,0,+2,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,Wailers,19522,Gentle Mates,map,Omen,1.08,211,14,10,3,+4,81%,138,44%,0,0,0,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,TakaS,301,Gentle Mates,map,Yoru,1.05,221,12,11,5,+1,69%,133,30%,2,2,0,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,beyAz,220,Gentle Mates,map,Breach,0.60,163,7,12,5,-5,63%,102,23%,2,3,-1,Sunset,Team Vitality
+297416,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 08:05:00,Team Vitality,Gentle Mates,2 - 1,nataNk,5004,Gentle Mates,map,Raze,0.51,110,6,11,1,-5,69%,74,25%,3,2,+1,Sunset,Team Vitality
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,N4RRATE,36245,Karmine Corp,overall,"Fade, Raze, Gekko",1.11,212,66,53,18,+13,79%,157,28%,11,6,+5,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MAGNUM,2173,Karmine Corp,overall,"Killjoy, Skye, Cypher",1.11,193,50,46,24,+4,73%,135,28%,4,7,-3,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,marteen,10307,Karmine Corp,overall,"Raze, Yoru",1.04,263,64,61,20,+3,72%,164,25%,16,11,+5,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,tomaszy,19691,Karmine Corp,overall,Viper,1.00,203,50,55,31,-5,75%,153,33%,6,8,-2,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,sh1n,2625,Karmine Corp,overall,Omen,0.79,140,37,48,28,-11,80%,88,26%,4,2,+2,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,AtaKaptan,6510,FUT Esports,overall,"Breach, Omen, Viper",1.24,232,59,49,40,+10,73%,148,27%,4,6,-2,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,yetujey,8369,FUT Esports,overall,"Cypher, Viper",1.09,198,53,52,23,+1,76%,139,24%,8,7,+1,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MrFaliN,8044,FUT Esports,overall,"Omen, Gekko",1.03,217,54,53,32,+1,75%,140,20%,8,7,+1,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,qRaxs,1139,FUT Esports,overall,"Gekko, Kayo, Fade",1.00,205,50,53,23,-3,65%,134,26%,6,7,-1,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,cNed,573,FUT Esports,overall,Raze,0.70,194,47,60,11,-13,71%,129,26%,8,14,-6,,
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,N4RRATE,36245,Karmine Corp,map,Fade,1.38,280,40,24,13,+16,92%,184,28%,6,2,+4,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,tomaszy,19691,Karmine Corp,map,Viper,1.23,249,30,24,17,+6,84%,175,34%,3,2,+1,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MAGNUM,2173,Karmine Corp,map,Killjoy,1.14,199,25,21,6,+4,76%,143,26%,2,5,-3,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,marteen,10307,Karmine Corp,map,Raze,0.87,237,31,29,6,+2,76%,149,27%,8,8,0,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,sh1n,2625,Karmine Corp,map,Omen,0.73,133,16,23,20,-7,84%,83,19%,1,1,0,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,AtaKaptan,6510,FUT Esports,map,Breach,1.31,226,30,24,21,+6,74%,145,26%,2,3,-1,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,yetujey,8369,FUT Esports,map,Cypher,1.21,234,30,29,12,+1,79%,157,21%,8,3,+5,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MrFaliN,8044,FUT Esports,map,Omen,0.93,194,23,28,19,-5,66%,137,18%,3,4,-1,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,qRaxs,1139,FUT Esports,map,Gekko,0.80,162,20,29,11,-9,68%,118,27%,1,2,-1,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,cNed,573,FUT Esports,map,Raze,0.46,147,18,32,5,-14,58%,98,23%,4,8,-4,Lotus,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,marteen,10307,Karmine Corp,map,Yoru,0.92,225,12,16,8,-4,65%,147,27%,4,1,+3,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,N4RRATE,36245,Karmine Corp,map,Raze,0.87,209,13,14,0,-1,59%,134,24%,4,3,+1,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MAGNUM,2173,Karmine Corp,map,Skye,0.74,130,7,12,9,-5,59%,86,27%,0,1,-1,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,sh1n,2625,Karmine Corp,map,Omen,0.61,97,6,12,4,-6,71%,61,45%,0,0,0,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,tomaszy,19691,Karmine Corp,map,Viper,0.56,161,7,16,8,-9,71%,119,26%,1,3,-2,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,AtaKaptan,6510,FUT Esports,map,Omen,1.70,301,20,9,6,+11,88%,180,33%,2,0,+2,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,qRaxs,1139,FUT Esports,map,Kayo,1.67,284,18,8,8,+10,82%,177,21%,1,2,-1,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,yetujey,8369,FUT Esports,map,Viper,1.30,177,11,7,5,+4,88%,120,33%,0,0,0,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MrFaliN,8044,FUT Esports,map,Gekko,1.10,229,14,10,8,+4,82%,160,19%,2,3,-1,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,cNed,573,FUT Esports,map,Raze,0.53,132,7,11,2,-4,76%,100,31%,3,4,-1,Bind,FUT Esports
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,marteen,10307,Karmine Corp,map,Raze,1.46,327,21,16,6,+5,70%,209,23%,4,2,+2,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MAGNUM,2173,Karmine Corp,map,Cypher,1.38,250,18,13,9,+5,80%,162,33%,2,1,+1,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,sh1n,2625,Karmine Corp,map,Omen,1.06,189,15,13,4,+2,80%,119,30%,3,1,+2,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,tomaszy,19691,Karmine Corp,map,Viper,0.94,200,13,15,6,-2,60%,138,35%,2,3,-1,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,N4RRATE,36245,Karmine Corp,map,Gekko,0.81,147,13,15,5,-2,70%,123,35%,1,1,0,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,cNed,573,FUT Esports,map,Raze,1.28,304,22,17,4,+5,90%,213,28%,1,2,-1,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,MrFaliN,8044,FUT Esports,map,Omen,1.15,229,17,15,5,+2,85%,130,27%,3,0,+3,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,qRaxs,1139,FUT Esports,map,Fade,0.79,169,12,16,4,-4,45%,128,30%,4,3,+1,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,AtaKaptan,6510,FUT Esports,map,Viper,0.72,168,9,16,13,-7,60%,128,21%,0,3,-3,Sunset,Karmine Corp
+297405,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 11:15:00,Karmine Corp,FUT Esports,2 - 1,yetujey,8369,FUT Esports,map,Cypher,0.69,184,12,16,6,-4,60%,120,24%,0,4,-4,Sunset,Karmine Corp
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Mistic,1457,Team Liquid,overall,"Omen, Sage",1.09,232,61,53,23,+8,74%,151,27%,7,5,+2,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Keiko,11494,Team Liquid,overall,"Raze, Jett",0.99,193,51,48,6,+3,66%,126,25%,16,10,+6,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Jamppi,9780,Team Liquid,overall,"Breach, Killjoy, Viper",0.95,222,54,53,16,+1,71%,142,32%,12,5,+7,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Enzo,114,Team Liquid,overall,"Fade, Sova, Skye",0.85,158,41,44,15,-3,71%,113,23%,4,3,+1,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,nAts,457,Team Liquid,overall,"Cypher, Viper",0.83,157,38,50,19,-12,70%,115,24%,4,7,-3,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,starxo,565,Movistar KOI(KOI),overall,"Fade, Harbor",1.11,225,56,48,24,+8,74%,148,21%,3,9,-6,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,sheydos,1428,Movistar KOI(KOI),overall,"Cypher, Killjoy, Viper",1.04,159,44,44,13,0,70%,119,29%,2,5,-3,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,grubinho,5550,Movistar KOI(KOI),overall,"Omen, Viper",1.03,181,44,46,30,-2,71%,118,39%,5,9,-4,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,kamo,14681,Movistar KOI(KOI),overall,"Raze, Yoru",1.01,227,56,56,12,0,64%,147,24%,16,15,+1,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,ShadoW,451,Movistar KOI(KOI),overall,"Breach, Sova",0.93,182,48,51,25,-3,68%,113,19%,4,5,-1,,
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Mistic,1457,Team Liquid,map,Omen,1.19,238,20,16,6,+4,67%,160,47%,4,3,+1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Keiko,11494,Team Liquid,map,Raze,0.92,199,16,16,0,0,63%,128,17%,5,4,+1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Jamppi,9780,Team Liquid,map,Breach,0.85,187,15,17,5,-2,58%,114,30%,1,1,0,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Enzo,114,Team Liquid,map,Fade,0.74,124,10,14,4,-4,71%,86,17%,0,2,-2,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,nAts,457,Team Liquid,map,Cypher,0.65,100,7,15,3,-8,63%,88,29%,1,3,-2,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,starxo,565,Movistar KOI(KOI),map,Fade,1.42,256,22,12,8,+10,79%,181,28%,1,2,-1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,sheydos,1428,Movistar KOI(KOI),map,Cypher,1.06,149,13,12,5,+1,71%,110,29%,1,0,+1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,kamo,14681,Movistar KOI(KOI),map,Raze,0.99,212,18,17,2,+1,63%,118,26%,8,4,+4,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,ShadoW,451,Movistar KOI(KOI),map,Breach,0.94,176,14,14,11,0,71%,108,12%,1,2,-1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,grubinho,5550,Movistar KOI(KOI),map,Omen,0.82,137,11,13,10,-2,79%,82,52%,2,3,-1,Sunset,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Mistic,1457,Team Liquid,map,Sage,1.20,232,21,19,10,+2,85%,165,41%,0,0,0,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Keiko,11494,Team Liquid,map,Jett,1.17,203,20,16,3,+4,69%,131,40%,7,3,+4,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Jamppi,9780,Team Liquid,map,Killjoy,0.96,238,21,20,6,+1,77%,151,36%,7,2,+5,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Enzo,114,Team Liquid,map,Sova,0.96,184,17,16,4,+1,69%,135,23%,2,1,+1,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,nAts,457,Team Liquid,map,Viper,0.89,190,17,19,6,-2,69%,123,23%,1,3,-2,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,starxo,565,Movistar KOI(KOI),map,Harbor,1.06,231,21,19,5,+2,65%,142,25%,1,4,-3,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,ShadoW,451,Movistar KOI(KOI),map,Sova,1.05,218,21,20,5,+1,65%,142,17%,2,2,0,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,grubinho,5550,Movistar KOI(KOI),map,Viper,0.95,199,16,19,12,-3,65%,130,31%,1,4,-3,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,sheydos,1428,Movistar KOI(KOI),map,Killjoy,0.93,148,15,18,4,-3,69%,116,29%,1,2,-1,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,kamo,14681,Movistar KOI(KOI),map,Yoru,0.86,193,17,20,4,-3,62%,146,27%,4,5,-1,Icebox,Team Liquid
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Jamppi,9780,Team Liquid,map,Viper,1.04,241,18,16,5,+2,78%,162,30%,4,2,+2,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,nAts,457,Team Liquid,map,Cypher,0.95,180,14,16,10,-2,78%,136,24%,2,1,+1,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Mistic,1457,Team Liquid,map,Omen,0.88,227,20,18,7,+2,70%,127,11%,3,2,+1,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Keiko,11494,Team Liquid,map,Raze,0.85,176,15,16,3,-1,65%,119,20%,4,3,+1,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,Enzo,114,Team Liquid,map,Skye,0.83,166,14,14,7,0,74%,117,28%,2,0,+2,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,grubinho,5550,Movistar KOI(KOI),map,Omen,1.34,207,17,14,8,+3,70%,143,42%,2,2,0,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,kamo,14681,Movistar KOI(KOI),map,Raze,1.21,276,21,19,6,+2,70%,180,21%,4,6,-2,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,sheydos,1428,Movistar KOI(KOI),map,Viper,1.16,180,16,14,4,+2,70%,130,31%,0,3,-3,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,starxo,565,Movistar KOI(KOI),map,Fade,0.83,187,13,17,11,-4,78%,120,12%,1,3,-2,Split,Movistar KOI(KOI)
+297410,Champions Tour 2024: EMEA Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 14:45:00,Team Liquid,Movistar KOI(KOI),1 - 2,ShadoW,451,Movistar KOI(KOI),map,Breach,0.79,151,13,17,9,-4,70%,85,34%,1,1,0,Split,Movistar KOI(KOI)
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,N4RRATE,36245,Karmine Corp,overall,"Gekko, Reyna",1.20,249,43,34,17,+9,76%,165,27%,6,5,+1,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,marteen,10307,Karmine Corp,overall,Raze,1.19,275,45,36,11,+9,71%,172,16%,10,7,+3,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,MAGNUM,2173,Karmine Corp,overall,"Cypher, Skye",1.19,205,37,30,14,+7,71%,136,28%,6,4,+2,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,tomaszy,19691,Karmine Corp,overall,Viper,0.81,177,32,36,13,-4,76%,120,44%,5,4,+1,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,sh1n,2625,Karmine Corp,overall,"Omen, Harbor",0.77,120,22,30,8,-8,69%,90,29%,1,1,0,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Sayf,312,Team Vitality,overall,"Viper, Kayo",1.51,276,48,31,22,+17,78%,173,43%,6,2,+4,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Kicks,11134,Team Vitality,overall,"Skye, Sova",1.03,215,35,36,16,-1,65%,139,22%,5,6,-1,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,runneR,21610,Team Vitality,overall,"Raze, Jett",0.97,227,38,41,12,-3,69%,162,18%,6,8,-2,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,ceNder,4321,Team Vitality,overall,"Omen, Killjoy",0.81,154,25,34,12,-9,69%,99,24%,3,2,+1,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Destrian,1615,Team Vitality,overall,"Cypher, Omen",0.61,122,19,37,21,-18,71%,91,14%,1,10,-9,,
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,marteen,10307,Karmine Corp,map,Raze,1.42,324,24,15,4,+9,71%,204,21%,5,3,+2,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,N4RRATE,36245,Karmine Corp,map,Gekko,1.35,256,20,12,8,+8,81%,164,31%,3,1,+2,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,MAGNUM,2173,Karmine Corp,map,Cypher,1.13,176,15,11,3,+4,71%,112,24%,3,3,0,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,sh1n,2625,Karmine Corp,map,Omen,0.84,121,10,11,4,-1,76%,82,31%,0,0,0,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.73,193,13,16,8,-3,76%,124,48%,3,0,+3,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Sayf,312,Team Vitality,map,Viper,1.40,285,21,14,5,+7,71%,167,38%,1,1,0,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Kicks,11134,Team Vitality,map,Skye,1.15,213,15,16,9,-1,71%,140,27%,3,3,0,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,ceNder,4321,Team Vitality,map,Omen,0.93,167,13,15,5,-2,71%,102,44%,1,2,-1,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,runneR,21610,Team Vitality,map,Raze,0.67,175,11,18,4,-7,71%,121,11%,1,4,-3,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Destrian,1615,Team Vitality,map,Cypher,0.23,81,4,19,8,-15,62%,55,3%,1,4,-3,Sunset,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,MAGNUM,2173,Karmine Corp,map,Skye,1.24,234,22,19,11,+3,71%,155,30%,3,1,+2,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,N4RRATE,36245,Karmine Corp,map,Reyna,1.10,241,23,22,9,+1,71%,166,24%,3,4,-1,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,marteen,10307,Karmine Corp,map,Raze,1.01,225,21,21,7,0,71%,147,12%,5,4,+1,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.87,160,19,20,5,-1,75%,117,41%,2,4,-2,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,sh1n,2625,Karmine Corp,map,Harbor,0.71,119,12,19,4,-7,64%,97,28%,1,1,0,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Sayf,312,Team Vitality,map,Kayo,1.59,267,27,17,17,+10,82%,177,48%,5,1,+4,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,runneR,21610,Team Vitality,map,Jett,1.20,279,27,23,8,+4,68%,192,23%,5,4,+1,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Kicks,11134,Team Vitality,map,Sova,0.93,217,20,20,7,0,61%,139,17%,2,3,-1,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,Destrian,1615,Team Vitality,map,Omen,0.90,163,15,18,13,-3,79%,119,18%,0,6,-6,Ascent,Karmine Corp
+307567,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 08:00:00,Karmine Corp,Team Vitality,2 - 0,ceNder,4321,Team Vitality,map,Killjoy,0.72,140,12,19,7,-7,68%,97,15%,2,0,+2,Ascent,Karmine Corp
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,grubinho,5550,KOI,overall,"Omen, Viper",1.03,173,28,26,10,+2,68%,104,29%,3,2,+1,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ShadoW,451,KOI,overall,"Breach, Sova",0.99,198,27,29,9,-2,66%,130,26%,2,2,0,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,sheydos,1428,KOI,overall,Cypher,0.78,149,22,26,4,-4,66%,92,19%,1,3,-2,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,kamo,14681,KOI,overall,"Raze, Yoru",0.75,162,22,32,5,-10,56%,119,36%,8,9,-1,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,starxo,565,KOI,overall,"Fade, Kayo",0.59,137,18,33,13,-15,63%,89,12%,3,7,-4,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Sayf,312,Team Vitality,overall,"Viper, Cypher",1.23,226,34,24,7,+10,71%,153,34%,8,2,+6,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Destrian,1615,Team Vitality,overall,"Cypher, Astra",1.17,193,27,23,15,+4,68%,128,24%,1,2,-1,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,runneR,21610,Team Vitality,overall,"Raze, Jett",1.10,212,32,26,8,+6,71%,138,17%,11,6,+5,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ceNder,4321,Team Vitality,overall,"Omen, Viper",1.03,172,26,21,9,+5,73%,106,21%,4,3,+1,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Kicks,11134,Team Vitality,overall,Skye,1.02,175,27,24,14,+3,78%,102,16%,0,5,-5,,
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,grubinho,5550,KOI,map,Omen,1.15,178,15,13,7,+2,77%,112,41%,3,1,+2,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,kamo,14681,KOI,map,Raze,1.03,200,15,16,2,-1,64%,141,38%,4,3,+1,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,sheydos,1428,KOI,map,Cypher,0.80,124,10,12,1,-2,73%,71,21%,1,2,-1,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,starxo,565,KOI,map,Fade,0.80,175,12,16,5,-4,73%,113,19%,1,5,-4,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ShadoW,451,KOI,map,Breach,0.67,132,9,15,8,-6,64%,88,18%,0,1,-1,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,runneR,21610,Team Vitality,map,Raze,1.30,243,19,12,5,+7,77%,153,16%,6,4,+2,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Sayf,312,Team Vitality,map,Viper,1.12,249,19,15,3,+4,73%,161,25%,4,1,+3,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Kicks,11134,Team Vitality,map,Skye,1.08,151,13,10,6,+3,77%,87,16%,0,3,-3,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ceNder,4321,Team Vitality,map,Omen,0.89,160,12,12,7,0,77%,96,22%,3,1,+2,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Destrian,1615,Team Vitality,map,Cypher,0.80,112,9,13,6,-4,64%,77,28%,0,1,-1,Sunset,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ShadoW,451,KOI,map,Sova,1.35,264,18,14,1,+4,68%,179,33%,2,1,+1,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,grubinho,5550,KOI,map,Viper,0.90,167,13,13,3,0,58%,94,18%,0,1,-1,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,sheydos,1428,KOI,map,Cypher,0.77,173,12,14,3,-2,58%,115,18%,0,1,-1,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,kamo,14681,KOI,map,Yoru,0.44,124,7,16,3,-9,47%,93,32%,4,6,-2,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,starxo,565,KOI,map,Kayo,0.36,98,6,17,8,-11,53%,62,3%,2,2,0,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Destrian,1615,Team Vitality,map,Astra,1.59,273,18,10,9,+8,74%,186,22%,1,1,0,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Sayf,312,Team Vitality,map,Cypher,1.36,203,15,9,4,+6,68%,144,52%,4,1,+3,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,ceNder,4321,Team Vitality,map,Viper,1.19,183,14,9,2,+5,68%,117,21%,1,2,-1,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,Kicks,11134,Team Vitality,map,Skye,0.96,199,14,14,8,0,79%,120,16%,0,2,-2,Breeze,Team Vitality
+307565,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 10:45:00,KOI,Team Vitality,0 - 2,runneR,21610,Team Vitality,map,Jett,0.88,181,13,14,3,-1,63%,120,18%,5,2,+3,Breeze,Team Vitality
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,N4RRATE,36245,Karmine Corp,overall,"Gekko, Raze",1.57,300,42,23,9,+19,84%,179,27%,9,1,+8,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,marteen,10307,Karmine Corp,overall,"Raze, Yoru",1.54,267,34,17,15,+17,81%,181,27%,5,4,+1,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,MAGNUM,2173,Karmine Corp,overall,"Cypher, Skye",1.14,182,25,19,11,+6,84%,118,34%,4,1,+3,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sh1n,2625,Karmine Corp,overall,Omen,1.12,202,31,21,7,+10,81%,123,32%,3,3,0,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,tomaszy,19691,Karmine Corp,overall,Viper,0.74,145,19,23,9,-4,70%,102,28%,4,3,+1,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,grubinho,5550,KOI,overall,"Omen, Brimstone",1.21,214,28,26,10,+2,73%,140,49%,1,2,-1,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,starxo,565,KOI,overall,"Fade, Skye",0.81,189,23,30,7,-7,62%,125,30%,3,5,-2,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sheydos,1428,KOI,overall,"Cypher, Viper",0.74,158,19,29,7,-10,59%,107,26%,0,1,-1,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,kamo,14681,KOI,overall,Raze,0.52,152,19,33,5,-14,62%,96,17%,5,11,-6,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,ShadoW,451,KOI,overall,"Breach, Fade",0.36,114,13,33,5,-20,51%,79,20%,3,6,-3,,
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,N4RRATE,36245,Karmine Corp,map,Gekko,2.00,340,25,9,5,+16,94%,198,32%,2,1,+1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,marteen,10307,Karmine Corp,map,Raze,1.45,263,14,9,11,+5,88%,174,18%,2,1,+1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,MAGNUM,2173,Karmine Corp,map,Cypher,1.31,231,15,8,5,+7,88%,158,27%,2,1,+1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sh1n,2625,Karmine Corp,map,Omen,1.25,209,15,10,4,+5,88%,130,48%,2,1,+1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.75,152,9,11,6,-2,71%,112,23%,3,2,+1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,grubinho,5550,KOI,map,Omen,1.13,241,14,15,4,-1,65%,161,48%,1,2,-1,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,starxo,565,KOI,map,Fade,0.79,193,10,15,6,-5,65%,136,24%,1,1,0,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,kamo,14681,KOI,map,Raze,0.48,168,10,17,2,-7,59%,110,19%,3,7,-4,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sheydos,1428,KOI,map,Cypher,0.48,127,7,15,4,-8,53%,91,16%,0,0,0,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,ShadoW,451,KOI,map,Breach,0.27,108,5,16,3,-11,65%,77,7%,1,1,0,Sunset,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,marteen,10307,Karmine Corp,map,Yoru,1.62,270,20,8,4,+12,75%,187,37%,3,3,0,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,N4RRATE,36245,Karmine Corp,map,Raze,1.22,259,17,14,4,+3,75%,164,22%,7,0,+7,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sh1n,2625,Karmine Corp,map,Omen,1.02,194,16,11,3,+5,75%,117,23%,1,2,-1,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,MAGNUM,2173,Karmine Corp,map,Skye,1.00,133,10,11,6,-1,80%,85,46%,2,0,+2,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.74,138,10,12,3,-2,70%,93,33%,1,1,0,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,grubinho,5550,KOI,map,Brimstone,1.27,186,14,11,6,+3,80%,122,50%,0,0,0,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,sheydos,1428,KOI,map,Viper,0.95,188,12,14,3,-2,65%,120,33%,0,1,-1,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,starxo,565,KOI,map,Skye,0.82,185,13,15,1,-2,60%,115,36%,2,4,-2,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,kamo,14681,KOI,map,Raze,0.56,136,9,16,3,-7,65%,83,16%,2,4,-2,Bind,Karmine Corp
+307564,Champions Tour 2024: EMEA Kickoff,"Play-In Stage: 
+						Play-ins",2024-02-26 12:45:00,Karmine Corp,KOI,2 - 0,ShadoW,451,KOI,map,Fade,0.44,120,8,17,2,-9,40%,80,30%,2,5,-3,Bind,Karmine Corp
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,MiniBoo,18350,Team Heretics,overall,"Neon, Yoru",1.37,290,49,29,11,+20,72%,167,29%,10,9,+1,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,RieNs,10971,Team Heretics,overall,Sova,1.35,253,42,29,17,+13,81%,170,40%,6,0,+6,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,benjyfishy,29873,Team Heretics,overall,Cypher,1.13,226,37,32,12,+5,81%,147,44%,5,3,+2,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,paTiTek,309,Team Heretics,overall,Kayo,1.06,201,33,34,31,-1,83%,141,33%,6,4,+2,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Boo,1144,Team Heretics,overall,"Omen, Viper",0.89,131,21,27,27,-6,74%,85,19%,1,3,-2,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ardiis,98,Natus Vincere,overall,"Chamber, Yoru",0.96,211,35,38,7,-3,68%,133,20%,9,4,+5,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,SUYGETSU,2858,Natus Vincere,overall,"Viper, Cypher",0.92,181,28,33,8,-5,68%,125,39%,0,3,-3,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Zyppan,11,Natus Vincere,overall,"Breach, Sova",0.90,172,33,37,12,-4,72%,124,46%,4,1,+3,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ANGE1,109,Natus Vincere,overall,"Fade, Omen",0.72,167,28,37,9,-9,53%,109,47%,4,12,-8,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Shao,384,Natus Vincere,overall,"Omen, Viper",0.72,150,27,37,13,-10,57%,106,24%,2,8,-6,,
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,RieNs,10971,Team Heretics,map,Sova,1.20,223,24,21,9,+3,80%,154,38%,2,0,+2,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,benjyfishy,29873,Team Heretics,map,Cypher,1.13,217,22,20,9,+2,77%,142,48%,1,2,-1,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,paTiTek,309,Team Heretics,map,Kayo,1.10,217,22,22,18,0,83%,149,35%,4,3,+1,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,MiniBoo,18350,Team Heretics,map,Neon,1.01,231,25,23,9,+2,67%,138,28%,7,7,0,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Boo,1144,Team Heretics,map,Omen,0.84,135,14,20,16,-6,67%,82,18%,1,3,-2,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Zyppan,11,Natus Vincere,map,Breach,1.14,230,25,21,11,+4,80%,158,43%,3,0,+3,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ardiis,98,Natus Vincere,map,Chamber,1.07,230,25,22,0,+3,63%,135,26%,7,3,+4,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ANGE1,109,Natus Vincere,map,Fade,0.91,202,21,21,8,0,60%,126,51%,3,6,-3,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,SUYGETSU,2858,Natus Vincere,map,Viper,0.85,156,15,20,7,-5,70%,111,34%,0,2,-2,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Shao,384,Natus Vincere,map,Omen,0.76,179,20,23,6,-3,60%,114,21%,2,4,-2,Sunset,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,MiniBoo,18350,Team Heretics,map,Yoru,2.01,349,24,6,2,+18,82%,219,29%,3,2,+1,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,RieNs,10971,Team Heretics,map,Sova,1.62,283,18,8,8,+10,82%,198,44%,4,0,+4,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,benjyfishy,29873,Team Heretics,map,Cypher,1.13,234,15,12,3,+3,88%,154,38%,4,1,+3,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,paTiTek,309,Team Heretics,map,Kayo,1.01,185,11,12,13,-1,82%,127,28%,2,1,+1,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Boo,1144,Team Heretics,map,Viper,0.99,127,7,7,11,0,88%,90,20%,0,0,0,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,SUYGETSU,2858,Natus Vincere,map,Cypher,1.04,205,13,13,1,0,65%,149,46%,0,1,-1,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ardiis,98,Natus Vincere,map,Yoru,0.76,191,10,16,7,-6,76%,128,15%,2,1,+1,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Shao,384,Natus Vincere,map,Viper,0.65,120,7,14,7,-7,53%,92,33%,0,4,-4,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,Zyppan,11,Natus Vincere,map,Sova,0.47,113,8,16,1,-8,59%,66,64%,1,1,0,Breeze,Team Heretics
+303093,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 11:00:00,Team Heretics,Natus Vincere,2 - 0,ANGE1,109,Natus Vincere,map,Omen,0.38,131,7,16,1,-9,41%,80,38%,1,6,-5,Breeze,Team Heretics
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Chronicle,458,FNATIC,overall,"Viper, Breach",1.02,217,33,32,21,+1,68%,136,22%,4,4,0,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Leo,1380,FNATIC,overall,"Fade, Skye",0.94,166,25,29,12,-4,73%,108,20%,3,4,-1,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Alfajer,9810,FNATIC,overall,"Killjoy, Cypher",0.93,188,28,31,7,-3,70%,132,25%,4,2,+2,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Boaster,438,FNATIC,overall,Omen,0.80,179,30,33,14,-3,66%,124,24%,3,4,-1,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Derke,5022,FNATIC,overall,Raze,0.78,186,27,35,4,-8,64%,126,21%,7,8,-1,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,tomaszy,19691,Karmine Corp,overall,"Viper, Omen",1.36,215,37,27,18,+10,75%,139,28%,4,2,+2,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,marteen,10307,Karmine Corp,overall,"Raze, Yoru",1.27,250,40,26,13,+14,73%,170,26%,8,7,+1,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,N4RRATE,36245,Karmine Corp,overall,"Fade, Raze",1.20,224,34,32,16,+2,84%,158,26%,6,4,+2,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,sh1n,2625,Karmine Corp,overall,"Omen, Astra",1.01,163,30,25,16,+5,73%,107,41%,1,2,-1,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,MAGNUM,2173,Karmine Corp,overall,"Killjoy, Fade",0.72,142,19,33,17,-14,73%,92,23%,3,6,-3,,
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Chronicle,458,FNATIC,map,Viper,1.13,266,21,17,14,+4,78%,157,15%,4,1,+3,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Alfajer,9810,FNATIC,map,Killjoy,1.09,198,16,16,4,0,70%,138,33%,3,1,+2,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Leo,1380,FNATIC,map,Fade,0.98,185,14,15,9,-1,78%,119,19%,2,2,0,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Boaster,438,FNATIC,map,Omen,0.75,147,16,15,5,+1,65%,100,19%,0,2,-2,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Derke,5022,FNATIC,map,Raze,0.56,155,12,20,1,-8,65%,102,18%,4,3,+1,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,tomaszy,19691,Karmine Corp,map,Viper,1.86,278,26,13,4,+13,78%,176,29%,2,0,+2,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,N4RRATE,36245,Karmine Corp,map,Fade,1.23,180,15,15,11,0,83%,127,33%,1,2,-1,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,marteen,10307,Karmine Corp,map,Raze,1.00,216,17,16,6,+1,65%,149,22%,4,6,-2,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,sh1n,2625,Karmine Corp,map,Omen,0.91,167,17,15,7,+2,70%,110,41%,1,2,-1,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,MAGNUM,2173,Karmine Corp,map,Killjoy,0.51,118,8,20,8,-12,70%,92,13%,1,3,-2,Lotus,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Derke,5022,FNATIC,map,Raze,1.03,217,15,15,3,0,62%,152,24%,3,5,-2,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Chronicle,458,FNATIC,map,Breach,0.90,167,12,15,7,-3,57%,113,36%,0,3,-3,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Leo,1380,FNATIC,map,Skye,0.89,147,11,14,3,-3,67%,96,23%,1,2,-1,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Boaster,438,FNATIC,map,Omen,0.84,210,14,18,9,-4,67%,150,28%,3,2,+1,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,Alfajer,9810,FNATIC,map,Cypher,0.76,177,12,15,3,-3,71%,125,17%,1,1,0,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,marteen,10307,Karmine Corp,map,Yoru,1.57,284,23,10,7,+13,81%,193,30%,4,1,+3,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,N4RRATE,36245,Karmine Corp,map,Raze,1.18,268,19,17,5,+2,86%,191,22%,5,2,+3,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,sh1n,2625,Karmine Corp,map,Astra,1.12,159,13,10,9,+3,76%,103,41%,0,0,0,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,MAGNUM,2173,Karmine Corp,map,Fade,0.95,166,11,13,9,-2,76%,93,38%,2,3,-1,Split,Karmine Corp
+303094,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Semifinals",2024-02-29 13:20:00,FNATIC,Karmine Corp,0 - 2,tomaszy,19691,Karmine Corp,map,Omen,0.81,151,11,14,14,-3,71%,98,25%,2,2,0,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,benjyfishy,29873,Team Heretics,overall,"Cypher, Killjoy",0.98,203,59,63,14,-4,69%,137,36%,9,6,+3,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,RieNs,10971,Team Heretics,overall,"Sova, Gekko, Breach",0.90,197,53,65,25,-12,69%,141,40%,8,3,+5,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,paTiTek,309,Team Heretics,overall,"Kayo, Viper",0.89,182,46,60,38,-14,61%,118,26%,4,8,-4,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MiniBoo,18350,Team Heretics,overall,"Neon, Raze",0.87,213,57,66,10,-9,60%,146,27%,15,15,0,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,Boo,1144,Team Heretics,overall,"Omen, Viper",0.76,153,42,65,28,-23,63%,98,24%,4,8,-4,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,N4RRATE,36245,Karmine Corp,overall,"Gekko, Fade, Raze",1.31,264,77,53,34,+24,79%,173,28%,6,5,+1,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,marteen,10307,Karmine Corp,overall,"Raze, Jett, Yoru",1.26,268,76,55,17,+21,76%,171,29%,19,13,+6,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,sh1n,2625,Karmine Corp,overall,"Omen, Sage, Astra",1.25,204,63,44,39,+19,74%,129,31%,4,7,-3,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MAGNUM,2173,Karmine Corp,overall,"Cypher, Killjoy, Fade",1.00,187,55,54,21,+1,74%,126,19%,4,9,-5,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,tomaszy,19691,Karmine Corp,overall,"Viper, Omen",0.92,170,48,51,29,-3,79%,117,32%,7,6,+1,,
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,benjyfishy,29873,Team Heretics,map,Cypher,1.36,269,21,15,9,+6,95%,184,37%,5,1,+4,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,RieNs,10971,Team Heretics,map,Sova,1.17,235,19,15,8,+4,77%,174,34%,3,2,+1,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,Boo,1144,Team Heretics,map,Omen,1.09,192,14,14,10,0,73%,128,29%,2,0,+2,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MiniBoo,18350,Team Heretics,map,Neon,1.07,243,19,16,4,+3,73%,159,37%,3,3,0,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,paTiTek,309,Team Heretics,map,Kayo,1.01,158,11,13,16,-2,68%,103,16%,1,2,-1,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,sh1n,2625,Karmine Corp,map,Omen,1.03,195,17,17,12,0,73%,121,23%,1,1,0,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,N4RRATE,36245,Karmine Corp,map,Gekko,1.01,206,16,17,8,-1,68%,127,24%,0,1,-1,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MAGNUM,2173,Karmine Corp,map,Cypher,0.94,184,15,16,6,-1,55%,115,18%,1,4,-3,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,tomaszy,19691,Karmine Corp,map,Viper,0.88,187,13,17,6,-4,77%,133,29%,2,2,0,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,marteen,10307,Karmine Corp,map,Raze,0.77,163,12,17,7,-5,64%,112,14%,4,6,-2,Sunset,Team Heretics
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,RieNs,10971,Team Heretics,map,Gekko,1.05,233,16,17,6,-1,75%,169,45%,3,0,+3,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,benjyfishy,29873,Team Heretics,map,Killjoy,0.87,173,13,15,0,-2,55%,120,44%,2,3,-1,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MiniBoo,18350,Team Heretics,map,Neon,0.82,217,14,17,4,-3,55%,155,28%,4,3,+1,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,paTiTek,309,Team Heretics,map,Viper,0.73,202,12,17,8,-5,55%,140,16%,1,2,-1,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,Boo,1144,Team Heretics,map,Omen,0.31,78,6,19,5,-13,50%,49,19%,0,2,-2,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,N4RRATE,36245,Karmine Corp,map,Fade,1.79,336,26,13,12,+13,85%,215,32%,1,1,0,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,marteen,10307,Karmine Corp,map,Raze,1.60,292,22,12,2,+10,75%,180,37%,4,3,+1,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,sh1n,2625,Karmine Corp,map,Omen,1.08,147,11,9,12,+2,70%,90,23%,1,2,-1,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MAGNUM,2173,Karmine Corp,map,Killjoy,1.02,202,13,14,6,-1,85%,148,21%,1,3,-2,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,tomaszy,19691,Karmine Corp,map,Viper,0.97,183,13,13,9,0,80%,129,20%,3,1,+2,Lotus,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,benjyfishy,29873,Team Heretics,map,Killjoy,1.07,239,17,16,1,+1,70%,154,32%,0,1,-1,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,paTiTek,309,Team Heretics,map,Kayo,0.76,170,11,18,9,-7,60%,101,36%,1,2,-1,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MiniBoo,18350,Team Heretics,map,Raze,0.74,196,12,18,1,-6,60%,130,21%,3,6,-3,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,RieNs,10971,Team Heretics,map,Sova,0.70,182,12,18,2,-6,65%,117,46%,2,0,+2,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,Boo,1144,Team Heretics,map,Viper,0.63,153,10,18,10,-8,60%,96,15%,1,4,-3,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,N4RRATE,36245,Karmine Corp,map,Gekko,1.39,261,19,11,9,+8,85%,194,44%,3,1,+2,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,marteen,10307,Karmine Corp,map,Jett,1.38,313,23,14,3,+9,85%,210,33%,5,2,+3,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,sh1n,2625,Karmine Corp,map,Sage,1.18,204,16,10,7,+6,80%,140,41%,1,2,-1,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MAGNUM,2173,Karmine Corp,map,Killjoy,1.10,212,16,14,3,+2,80%,139,18%,2,1,+1,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,tomaszy,19691,Karmine Corp,map,Viper,0.94,179,14,13,8,+1,85%,112,38%,2,1,+1,Icebox,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,paTiTek,309,Team Heretics,map,Viper,1.07,199,12,12,5,0,61%,130,52%,1,2,-1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,Boo,1144,Team Heretics,map,Omen,0.99,189,12,14,3,-2,67%,118,28%,1,2,-1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MiniBoo,18350,Team Heretics,map,Raze,0.84,196,12,15,1,-3,50%,135,21%,5,3,+2,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,RieNs,10971,Team Heretics,map,Breach,0.62,137,6,15,9,-9,56%,99,36%,0,1,-1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,benjyfishy,29873,Team Heretics,map,Cypher,0.53,129,8,17,4,-9,50%,81,30%,2,1,+1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,sh1n,2625,Karmine Corp,map,Astra,1.77,269,19,8,8,+11,72%,170,36%,1,2,-1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,marteen,10307,Karmine Corp,map,Yoru,1.33,304,19,12,5,+7,83%,188,35%,6,2,+4,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,N4RRATE,36245,Karmine Corp,map,Raze,1.06,251,16,12,5,+4,78%,157,18%,2,2,0,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,MAGNUM,2173,Karmine Corp,map,Fade,0.94,149,11,10,6,+1,78%,102,19%,0,1,-1,Split,Karmine Corp
+303095,Champions Tour 2024: EMEA Kickoff,"Playoffs: 
+						Grand Final",2024-03-01 11:00:00,Team Heretics,Karmine Corp,1 - 3,tomaszy,19691,Karmine Corp,map,Omen,0.91,130,8,8,6,0,72%,89,59%,0,2,-2,Split,Karmine Corp

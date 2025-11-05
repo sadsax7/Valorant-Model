@@ -1,0 +1,34 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Tue, June 18, 2024",353153,11:30 PM,FUT Esports,2,KOI,1,2-1,FUT Esports,Completed,Week 1,Regular Season
+"Wed, June 19, 2024",353154,9:30 PM,BBL Esports,1,FNATIC,2,1-2,FNATIC,Completed,Week 1,Regular Season
+"Thu, June 20, 2024",353155,1:00 AM,Team Heretics,2,Natus Vincere,0,2-0,Team Heretics,Completed,Week 1,Regular Season
+"Thu, June 20, 2024",353157,9:30 PM,GIANTX,2,Gentle Mates,1,2-1,GIANTX,Completed,Week 1,Regular Season
+"Fri, June 21, 2024",353156,12:40 AM,Team Vitality,2,Team Liquid,0,2-0,Team Vitality,Completed,Week 1,Regular Season
+"Fri, June 21, 2024",353159,9:30 PM,BBL Esports,0,Karmine Corp,2,0-2,Karmine Corp,Completed,Week 1,Regular Season
+"Fri, June 21, 2024",353158,11:20 PM,Natus Vincere,0,FUT Esports,2,0-2,FUT Esports,Completed,Week 1,Regular Season
+"Tue, June 25, 2024",353202,11:30 PM,KOI,2,GIANTX,0,2-0,KOI,Completed,Week 2,Regular Season
+"Wed, June 26, 2024",353161,9:30 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Week 2,Regular Season
+"Wed, June 26, 2024",353160,11:45 PM,FNATIC,2,Team Vitality,1,2-1,FNATIC,Completed,Week 2,Regular Season
+"Thu, June 27, 2024",353162,9:30 PM,BBL Esports,2,Team Liquid,0,2-0,BBL Esports,Completed,Week 2,Regular Season
+"Thu, June 27, 2024",353163,11:30 PM,Natus Vincere,0,GIANTX,2,0-2,GIANTX,Completed,Week 2,Regular Season
+"Fri, June 28, 2024",353164,9:30 PM,KOI,0,Gentle Mates,2,0-2,Gentle Mates,Completed,Week 2,Regular Season
+"Sat, June 29, 2024",353165,12:00 AM,FNATIC,2,Karmine Corp,0,2-0,FNATIC,Completed,Week 2,Regular Season
+"Wed, July 3, 2024",353166,9:30 PM,Team Heretics,2,GIANTX,1,2-1,Team Heretics,Completed,Week 3,Regular Season
+"Thu, July 4, 2024",353167,12:55 AM,FUT Esports,2,Gentle Mates,0,2-0,FUT Esports,Completed,Week 3,Regular Season
+"Thu, July 4, 2024",353168,9:30 PM,KOI,2,Natus Vincere,0,2-0,KOI,Completed,Week 3,Regular Season
+"Thu, July 4, 2024",353169,11:35 PM,Team Liquid,2,Karmine Corp,0,2-0,Team Liquid,Completed,Week 3,Regular Season
+"Fri, July 5, 2024",353170,9:30 PM,BBL Esports,1,Team Vitality,2,1-2,Team Vitality,Completed,Week 3,Regular Season
+"Sat, July 6, 2024",353171,12:30 AM,Team Heretics,2,Gentle Mates,1,2-1,Team Heretics,Completed,Week 3,Regular Season
+"Tue, July 9, 2024",353172,11:30 PM,FUT Esports,2,GIANTX,0,2-0,FUT Esports,Completed,Week 4,Regular Season
+"Wed, July 10, 2024",353173,9:30 PM,Team Heretics,2,KOI,1,2-1,Team Heretics,Completed,Week 4,Regular Season
+"Thu, July 11, 2024",353174,12:50 AM,FNATIC,2,Team Liquid,0,2-0,FNATIC,Completed,Week 4,Regular Season
+"Thu, July 11, 2024",353175,9:30 PM,Natus Vincere,2,Gentle Mates,1,2-1,Natus Vincere,Completed,Week 4,Regular Season
+"Fri, July 12, 2024",353203,12:40 AM,Team Vitality,2,Karmine Corp,1,2-1,Team Vitality,Completed,Week 4,Regular Season
+"Mon, July 15, 2024",371278,9:30 PM,Team Vitality,2,Natus Vincere,1,2-1,Team Vitality,Completed,Knockout Round,Playoffs
+"Tue, July 16, 2024",371279,12:20 AM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Knockout Round,Playoffs
+"Tue, July 16, 2024",371280,9:30 PM,Team Heretics,1,Team Vitality,2,1-2,Team Vitality,Completed,Upper Semifinals,Playoffs
+"Wed, July 17, 2024",371281,1:15 AM,FUT Esports,0,FNATIC,2,0-2,FNATIC,Completed,Upper Semifinals,Playoffs
+"Wed, July 17, 2024",371282,9:30 PM,Team Vitality,0,FNATIC,2,0-2,FNATIC,Completed,Upper Final,Playoffs
+"Wed, July 17, 2024",371284,11:45 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Lower Round 1,Playoffs
+"Fri, July 19, 2024",371285,9:30 PM,Team Vitality,3,Team Heretics,1,3-1,Team Vitality,Completed,Lower Final,Playoffs
+"Sat, July 20, 2024",371283,9:30 PM,FNATIC,3,Team Vitality,1,3-1,FNATIC,Completed,Grand Final,Playoffs

@@ -1,0 +1,1401 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Ethan,11225,NRG,overall,Kayo,1.32,245,37,24,23,+13,84%,164,24%,3,5,-2,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Demon1,26171,NRG,overall,Jett,1.16,214,33,26,6,+7,70%,146,26%,12,5,+7,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Victor,261,NRG,overall,"Cypher, Killjoy",1.15,223,35,27,9,+8,82%,143,28%,8,3,+5,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,crashies,4,NRG,overall,Sova,1.04,183,29,24,15,+5,80%,120,28%,3,1,+2,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Marved,263,NRG,overall,"Viper, Omen",0.82,153,24,31,20,-7,80%,109,24%,1,3,-2,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,mwzera,939,FURIA,overall,Jett,1.29,230,36,29,10,+7,77%,147,24%,9,8,+1,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Khalil,1711,FURIA,overall,"Cypher, Killjoy",0.96,180,29,31,5,-2,66%,128,32%,1,3,-2,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,liazzi,2567,FURIA,overall,"Viper, Omen",0.96,186,27,31,19,-4,73%,112,36%,3,4,-1,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,kon4n,1671,FURIA,overall,Sova,0.95,180,26,30,11,-4,77%,112,14%,2,1,+1,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,havoc,8706,FURIA,overall,Kayo,0.32,115,14,37,14,-23,48%,77,23%,2,11,-9,,
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Victor,261,NRG,map,Cypher,1.28,218,18,13,7,+5,83%,139,38%,4,1,+3,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Ethan,11225,NRG,map,Kayo,1.23,205,17,13,14,+4,83%,139,32%,0,2,-2,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,crashies,4,NRG,map,Sova,1.12,200,16,13,7,+3,78%,136,35%,2,0,+2,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Demon1,26171,NRG,map,Jett,1.04,238,19,17,4,+2,70%,155,26%,8,3,+5,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Marved,263,NRG,map,Viper,0.91,187,16,17,6,-1,78%,141,33%,1,2,-1,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,mwzera,939,FURIA,map,Jett,1.59,289,23,15,7,+8,78%,190,29%,4,4,0,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,liazzi,2567,FURIA,map,Viper,1.17,242,19,17,7,+2,65%,141,33%,2,2,0,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Khalil,1711,FURIA,map,Cypher,0.86,193,15,17,5,-2,57%,136,39%,1,2,-1,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,kon4n,1671,FURIA,map,Sova,0.83,174,14,17,6,-3,78%,106,17%,1,1,0,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,havoc,8706,FURIA,map,Kayo,0.04,44,2,20,5,-18,39%,36,13%,0,6,-6,Breeze,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Ethan,11225,NRG,map,Kayo,1.42,284,20,11,9,+9,86%,192,18%,3,3,0,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Demon1,26171,NRG,map,Jett,1.29,189,14,9,2,+5,71%,136,26%,4,2,+2,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Victor,261,NRG,map,Killjoy,1.00,227,17,14,2,+3,81%,146,22%,4,2,+2,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,crashies,4,NRG,map,Sova,0.96,165,13,11,8,+2,81%,102,21%,1,1,0,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Marved,263,NRG,map,Omen,0.72,118,8,14,14,-6,81%,74,14%,0,1,-1,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,Khalil,1711,FURIA,map,Killjoy,1.07,166,14,14,0,0,76%,119,25%,0,1,-1,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,kon4n,1671,FURIA,map,Sova,1.07,186,12,13,5,-1,76%,119,12%,1,0,+1,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,mwzera,939,FURIA,map,Jett,0.97,171,13,14,3,-1,76%,101,18%,5,4,+1,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,liazzi,2567,FURIA,map,Omen,0.73,130,8,14,12,-6,81%,81,43%,1,2,-1,Ascent,NRG
+295605,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 17:00:00,NRG,FURIA,2 - 0,havoc,8706,FURIA,map,Kayo,0.64,185,12,17,9,-5,57%,121,27%,2,5,-3,Ascent,NRG
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,wippie,4373,Cloud9,overall,"Viper, Killjoy",1.16,191,44,37,17,+7,82%,129,19%,5,3,+2,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,OXY,18796,Cloud9,overall,"Yoru, Raze",1.10,276,65,56,9,+9,66%,179,37%,17,13,+4,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,vanity,7870,Cloud9,overall,"Skye, Viper, Gekko",1.07,174,42,41,23,+1,74%,111,24%,1,10,-9,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,Xeppaa,7871,Cloud9,overall,"Raze, Skye, Fade",1.04,212,52,50,20,+2,84%,131,27%,8,8,0,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jakee,8742,Cloud9,overall,"Brimstone, Astra, Omen",0.97,168,37,44,33,-7,76%,112,20%,1,2,-1,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,RgLMeister,5351,MIBR,overall,"Brimstone, Astra, Omen",1.12,189,46,39,30,+7,84%,123,27%,2,4,-2,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jzz,13093,MIBR,overall,"Raze, Skye",0.94,216,50,53,17,-3,76%,147,29%,11,12,-1,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,mazin,8872,MIBR,overall,"Skye, Viper",0.92,178,43,49,27,-6,71%,118,27%,5,3,+2,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,artzin,5957,MIBR,overall,"Jett, Raze",0.87,203,47,51,9,-4,75%,133,19%,12,7,+5,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,frz,651,MIBR,overall,"Viper, Killjoy",0.81,165,42,48,12,-6,63%,109,23%,6,6,0,,
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,wippie,4373,Cloud9,map,Viper,1.56,253,23,11,4,+12,88%,151,25%,2,1,+1,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jakee,8742,Cloud9,map,Brimstone,1.34,236,20,14,11,+6,71%,150,27%,1,1,0,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,OXY,18796,Cloud9,map,Yoru,1.17,261,21,18,5,+3,63%,173,40%,6,2,+4,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,Xeppaa,7871,Cloud9,map,Raze,0.99,223,20,17,4,+3,79%,134,25%,6,3,+3,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,vanity,7870,Cloud9,map,Skye,0.90,125,9,13,15,-4,83%,84,23%,0,2,-2,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,RgLMeister,5351,MIBR,map,Brimstone,1.18,200,17,14,13,+3,83%,135,23%,2,1,+1,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,frz,651,MIBR,map,Viper,0.83,176,16,18,1,-2,58%,106,29%,1,0,+1,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,artzin,5957,MIBR,map,Jett,0.78,192,16,19,4,-3,67%,131,23%,3,2,+1,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,mazin,8872,MIBR,map,Skye,0.74,158,13,20,13,-7,75%,104,36%,0,1,-1,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jzz,13093,MIBR,map,Raze,0.44,162,11,22,6,-11,58%,123,29%,3,11,-8,Bind,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,Xeppaa,7871,Cloud9,map,Skye,1.05,199,14,15,6,-1,76%,128,39%,0,3,-3,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,OXY,18796,Cloud9,map,Raze,1.05,265,20,18,2,+2,62%,166,35%,5,6,-1,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,vanity,7870,Cloud9,map,Viper,1.00,200,15,16,2,-1,57%,119,21%,0,5,-5,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,wippie,4373,Cloud9,map,Killjoy,0.86,163,10,13,6,-3,71%,109,16%,1,1,0,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jakee,8742,Cloud9,map,Astra,0.76,147,9,15,8,-6,76%,103,16%,0,0,0,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jzz,13093,MIBR,map,Raze,1.28,264,21,14,5,+7,90%,185,31%,4,1,+3,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,RgLMeister,5351,MIBR,map,Astra,1.14,185,15,12,7,+3,76%,114,23%,0,0,0,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,mazin,8872,MIBR,map,Skye,1.04,173,14,13,3,+1,67%,118,40%,1,0,+1,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,artzin,5957,MIBR,map,Jett,0.83,196,14,16,3,-2,81%,121,14%,8,2,+6,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,frz,651,MIBR,map,Viper,0.80,157,13,13,2,0,62%,106,35%,2,3,-1,Split,MIBR
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,vanity,7870,Cloud9,map,Gekko,1.33,197,18,12,6,+6,78%,133,28%,1,3,-2,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,Xeppaa,7871,Cloud9,map,Fade,1.08,215,18,18,10,0,96%,131,21%,2,2,0,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,OXY,18796,Cloud9,map,Raze,1.07,301,24,20,2,+4,74%,197,35%,6,5,+1,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,wippie,4373,Cloud9,map,Killjoy,1.01,156,11,13,7,-2,87%,123,16%,2,1,+1,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jakee,8742,Cloud9,map,Omen,0.77,122,8,15,14,-7,83%,80,14%,0,1,-1,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,jzz,13093,MIBR,map,Skye,1.14,222,18,17,6,+1,83%,138,27%,4,0,+4,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,RgLMeister,5351,MIBR,map,Omen,1.05,181,14,13,10,+1,91%,119,41%,0,3,-3,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,artzin,5957,MIBR,map,Raze,1.01,220,17,16,2,+1,78%,147,19%,1,3,-2,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,mazin,8872,MIBR,map,Viper,1.00,202,16,16,11,0,70%,132,16%,4,2,+2,Lotus,Cloud9
+295606,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (A)",2024-02-16 20:00:00,Cloud9,MIBR,2 - 1,frz,651,MIBR,map,Killjoy,0.80,161,13,17,9,-4,70%,115,11%,3,3,0,Lotus,Cloud9
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,cauanzin,6193,LOUD,overall,Breach,1.22,212,36,28,15,+8,80%,127,33%,5,3,+2,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Quick,1575,LOUD,overall,"Raze, Phoenix",1.15,234,39,29,11,+10,72%,152,21%,9,7,+2,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Less,8447,LOUD,overall,Viper,1.05,183,29,29,20,0,72%,124,33%,5,4,+1,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,saadhak,727,LOUD,overall,"Skye, Kayo",0.99,198,30,34,22,-4,74%,126,21%,3,7,-4,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,tuyz,2408,LOUD,overall,Omen,0.88,133,20,28,29,-8,74%,84,32%,0,3,-3,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,zekken,4004,Sentinels,overall,"Raze, Jett",1.06,224,36,33,8,+3,70%,141,18%,11,8,+3,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,johnqt,1265,Sentinels,overall,"Cypher, Killjoy",1.02,186,29,27,11,+2,72%,125,21%,3,3,0,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Sacy,659,Sentinels,overall,"Skye, Sova",1.00,218,31,34,17,-3,72%,143,25%,4,4,0,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,TenZ,9,Sentinels,overall,Omen,0.99,172,26,28,21,-2,70%,116,35%,4,2,+2,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Zellsis,729,Sentinels,overall,"Viper, Kayo",0.75,172,26,32,22,-6,80%,106,25%,2,5,-3,,
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Quick,1575,LOUD,map,Raze,1.17,261,22,16,5,+6,71%,173,20%,5,6,-1,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,cauanzin,6193,LOUD,map,Breach,1.13,212,18,15,5,+3,79%,126,33%,2,0,+2,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,tuyz,2408,LOUD,map,Omen,1.08,177,13,14,18,-1,71%,110,35%,0,1,-1,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,saadhak,727,LOUD,map,Skye,1.04,226,19,20,10,-1,71%,139,19%,1,4,-3,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Less,8447,LOUD,map,Viper,1.02,157,14,13,9,+1,63%,100,42%,2,3,-1,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,zekken,4004,Sentinels,map,Raze,1.23,257,22,17,4,+5,79%,163,16%,7,4,+3,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,TenZ,9,Sentinels,map,Omen,1.17,234,19,16,6,+3,67%,151,40%,3,0,+3,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,johnqt,1265,Sentinels,map,Cypher,0.97,170,15,14,3,+1,71%,107,17%,2,3,-1,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Zellsis,729,Sentinels,map,Viper,0.75,204,15,19,10,-4,79%,125,28%,1,1,0,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Sacy,659,Sentinels,map,Skye,0.51,105,7,20,8,-13,63%,69,23%,1,2,-1,Split,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,cauanzin,6193,LOUD,map,Breach,1.32,212,18,13,10,+5,82%,128,33%,3,3,0,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Quick,1575,LOUD,map,Phoenix,1.13,207,17,13,6,+4,73%,129,23%,4,1,+3,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Less,8447,LOUD,map,Viper,1.09,208,15,16,11,-1,82%,151,28%,3,1,+2,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,saadhak,727,LOUD,map,Kayo,0.94,170,11,14,12,-3,77%,111,22%,2,3,-1,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,tuyz,2408,LOUD,map,Omen,0.66,89,7,14,11,-7,77%,57,25%,0,2,-2,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Sacy,659,Sentinels,map,Sova,1.55,331,24,14,9,+10,82%,224,26%,3,2,+1,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,johnqt,1265,Sentinels,map,Killjoy,1.08,202,14,13,8,+1,73%,144,24%,1,0,+1,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,zekken,4004,Sentinels,map,Jett,0.87,190,14,16,4,-2,59%,118,23%,4,4,0,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,TenZ,9,Sentinels,map,Omen,0.80,109,7,12,15,-5,73%,78,27%,1,2,-1,Ascent,LOUD
+295610,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 17:00:00,LOUD,Sentinels,2 - 0,Zellsis,729,Sentinels,map,Kayo,0.75,139,11,13,12,-2,82%,86,21%,1,4,-3,Ascent,LOUD
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,aspas,8480,LEVIATÁN,overall,"Raze, Reyna",1.45,293,66,44,16,+22,77%,198,27%,16,9,+7,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,C0M,619,LEVIATÁN,overall,"Skye, Sova",1.20,209,47,40,23,+7,73%,134,21%,9,2,+7,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Mazino,7603,LEVIATÁN,overall,"Harbor, Omen",0.91,191,40,46,30,-6,66%,126,20%,3,7,-4,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,tex,1818,LEVIATÁN,overall,"Gekko, Cypher, Killjoy",0.78,136,30,42,15,-12,69%,100,35%,3,7,-4,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,kiNgg,8549,LEVIATÁN,overall,"Viper, Breach",0.77,165,35,48,26,-13,69%,105,29%,1,5,-4,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,overall,"Brimstone, Astra, Jett",1.14,229,51,42,8,+9,73%,153,25%,9,10,-1,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Boostio,604,100 Thieves,overall,"Gekko, Killjoy",1.13,238,52,45,17,+7,73%,166,25%,9,11,-2,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,eeiu,796,100 Thieves,overall,"Fade, Sova",0.94,187,40,42,16,-2,73%,117,20%,2,2,0,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,bang,3880,100 Thieves,overall,Viper,0.86,184,40,43,12,-3,71%,115,33%,5,4,+1,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Asuna,601,100 Thieves,overall,"Raze, Gekko",0.80,182,37,47,13,-10,74%,106,20%,5,5,0,,
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,aspas,8480,LEVIATÁN,map,Raze,1.84,374,31,15,3,+16,86%,235,23%,10,1,+9,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,C0M,619,LEVIATÁN,map,Skye,1.25,202,17,12,11,+5,77%,111,13%,4,0,+4,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Mazino,7603,LEVIATÁN,map,Harbor,1.24,233,17,12,13,+5,73%,151,15%,2,1,+1,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,tex,1818,LEVIATÁN,map,Gekko,0.92,124,9,10,8,-1,77%,99,37%,0,3,-3,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,kiNgg,8549,LEVIATÁN,map,Viper,0.74,145,10,15,10,-5,68%,89,25%,0,1,-1,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Gekko,1.22,274,22,18,3,+4,77%,180,35%,4,2,+2,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Brimstone,0.90,204,15,16,5,-1,77%,126,26%,1,6,-5,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,0.74,151,11,16,7,-5,68%,108,28%,0,1,-1,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,0.62,147,10,19,7,-9,73%,94,19%,1,4,-3,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,0.56,95,6,15,4,-9,55%,70,29%,0,3,-3,Bind,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,aspas,8480,LEVIATÁN,map,Raze,0.83,203,10,15,4,-5,69%,150,28%,2,7,-5,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,kiNgg,8549,LEVIATÁN,map,Breach,0.79,185,11,15,4,-4,63%,119,29%,0,1,-1,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Mazino,7603,LEVIATÁN,map,Omen,0.62,139,7,14,5,-7,63%,98,25%,0,3,-3,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,tex,1818,LEVIATÁN,map,Cypher,0.50,120,6,16,5,-10,69%,82,28%,0,1,-1,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,C0M,619,LEVIATÁN,map,Sova,0.49,146,6,15,5,-9,50%,105,25%,1,1,0,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,1.64,259,17,6,5,+11,94%,158,15%,1,0,+1,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Astra,1.51,232,15,7,1,+8,88%,180,36%,3,1,+2,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,1.36,286,18,10,4,+8,100%,180,24%,3,1,+2,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Gekko,1.20,194,10,8,7,+2,94%,150,19%,2,0,+2,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,1.13,239,15,10,4,+5,88%,150,38%,4,1,+3,Split,100 Thieves
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,C0M,619,LEVIATÁN,map,Sova,1.62,278,24,13,7,+11,83%,174,29%,4,1,+3,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,aspas,8480,LEVIATÁN,map,Reyna,1.52,302,25,14,9,+11,75%,195,32%,4,1,+3,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,tex,1818,LEVIATÁN,map,Killjoy,0.85,163,15,16,2,-1,63%,114,38%,3,3,0,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Mazino,7603,LEVIATÁN,map,Harbor,0.81,200,16,20,12,-4,63%,121,24%,1,3,-2,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,kiNgg,8549,LEVIATÁN,map,Viper,0.79,164,14,18,12,-4,75%,111,31%,1,3,-2,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Jett,1.11,250,21,19,2,+2,58%,161,17%,5,3,+2,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Killjoy,1.00,246,20,19,7,+1,54%,164,23%,3,9,-6,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,0.95,217,19,18,4,+1,75%,132,33%,1,0,+1,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Sova,0.65,151,12,20,4,-8,63%,98,21%,1,1,0,Icebox,LEVIATÁN
+295611,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (B)",2024-02-17 19:35:00,LEVIATÁN,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Gekko,0.61,114,9,18,2,-9,58%,66,14%,1,0,+1,Icebox,LEVIATÁN
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,keznit,2462,KRÜ Esports,overall,"Jett, Chamber",1.20,263,64,49,10,+15,66%,173,38%,16,8,+8,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Klaus,2610,KRÜ Esports,overall,"Sova, Fade",1.07,210,49,47,18,+2,71%,141,24%,9,2,+7,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Shyy,24007,KRÜ Esports,overall,"Killjoy, Viper",1.07,183,45,40,14,+5,69%,139,20%,3,5,-2,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,mta,36169,KRÜ Esports,overall,Kayo,0.85,179,39,52,37,-13,68%,109,37%,8,7,+1,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Melser,1311,KRÜ Esports,overall,"Viper, Omen",0.64,138,32,49,19,-17,69%,96,34%,3,7,-4,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,valyn,3885,G2 Esports,overall,"Brimstone, Omen",1.26,236,54,44,33,+10,85%,150,30%,8,5,+3,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,JonahP,4581,G2 Esports,overall,"Sova, Kayo",1.24,236,56,45,28,+11,78%,148,29%,3,7,-4,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,trent,15500,G2 Esports,overall,Viper,1.02,196,45,46,14,-1,74%,132,22%,2,7,-5,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,leaf,7873,G2 Esports,overall,"Jett, Raze",0.92,209,48,50,16,-2,60%,132,28%,13,17,-4,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,neT,6582,G2 Esports,overall,"Killjoy, Cypher",0.78,138,34,44,5,-10,62%,99,32%,3,3,0,,
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Killjoy,1.56,225,19,10,2,+9,77%,161,24%,2,2,0,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Klaus,2610,KRÜ Esports,map,Sova,1.21,198,16,14,6,+2,77%,143,24%,4,0,+4,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,keznit,2462,KRÜ Esports,map,Jett,1.02,234,18,15,4,+3,59%,152,30%,3,5,-2,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Melser,1311,KRÜ Esports,map,Viper,0.88,169,13,14,3,-1,77%,122,38%,0,2,-2,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,mta,36169,KRÜ Esports,map,Kayo,0.86,211,14,19,15,-5,68%,132,44%,3,1,+2,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Brimstone,1.52,314,24,15,6,+9,91%,203,35%,4,1,+3,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,0.94,204,16,16,3,0,77%,122,9%,1,1,0,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Jett,0.79,193,12,17,7,-5,59%,137,29%,4,4,0,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Sova,0.70,145,13,16,3,-3,73%,100,40%,1,5,-4,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Killjoy,0.49,97,7,16,0,-9,50%,80,22%,0,1,-1,Icebox,KRÜ Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Klaus,2610,KRÜ Esports,map,Fade,1.04,230,16,17,7,-1,73%,147,23%,4,1,+3,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,mta,36169,KRÜ Esports,map,Kayo,0.90,162,13,16,8,-3,73%,101,31%,3,2,+1,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,keznit,2462,KRÜ Esports,map,Chamber,0.88,196,15,16,1,-1,59%,124,38%,5,0,+5,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Melser,1311,KRÜ Esports,map,Omen,0.68,156,11,18,10,-7,64%,99,30%,3,2,+1,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Viper,0.39,96,7,17,5,-10,50%,78,16%,0,2,-2,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Sova,1.63,297,23,13,6,+10,77%,181,31%,2,1,+1,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,1.45,223,17,10,14,+7,91%,150,35%,0,2,-2,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Raze,1.15,238,19,14,6,+5,64%,152,29%,4,5,-1,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,1.05,190,13,14,8,-1,73%,125,33%,1,6,-5,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Cypher,0.92,133,12,11,1,+1,73%,94,39%,0,1,-1,Sunset,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,keznit,2462,KRÜ Esports,map,Jett,1.66,358,31,18,5,+13,79%,238,45%,8,3,+5,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Shyy,24007,KRÜ Esports,map,Killjoy,1.24,229,19,13,7,+6,79%,174,20%,1,1,0,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Klaus,2610,KRÜ Esports,map,Sova,0.96,201,17,16,5,+1,63%,134,24%,1,1,0,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,mta,36169,KRÜ Esports,map,Kayo,0.80,164,12,17,14,-5,63%,96,38%,2,4,-2,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,Melser,1311,KRÜ Esports,map,Omen,0.39,88,8,17,6,-9,67%,70,35%,0,3,-3,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Kayo,1.37,267,20,16,19,+4,83%,162,23%,0,1,-1,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,1.07,194,16,16,3,0,71%,148,28%,0,0,0,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Cypher,0.92,185,15,17,4,-2,63%,120,35%,3,1,+2,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,0.84,172,13,19,13,-6,75%,102,18%,4,2,+2,Ascent,G2 Esports
+295615,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Opening (C)",2024-02-18 17:00:00,KRÜ Esports,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Jett,0.83,197,17,19,3,-2,58%,110,28%,5,8,-3,Ascent,G2 Esports
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mwzera,939,FURIA,overall,Jett,1.18,244,38,32,7,+6,65%,164,26%,7,7,0,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,havoc,8706,FURIA,overall,"Raze, Kayo",1.03,228,36,32,12,+4,63%,145,28%,10,9,+1,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,kon4n,1671,FURIA,overall,"Skye, Sova",0.91,160,25,31,18,-6,74%,115,24%,4,1,+3,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,Khalil,1711,FURIA,overall,"Viper, Cypher",0.89,162,25,33,11,-8,63%,112,22%,2,2,0,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,liazzi,2567,FURIA,overall,"Astra, Viper",0.83,148,23,29,11,-6,67%,101,34%,2,2,0,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,frz,651,MIBR,overall,"Viper, Cypher",1.19,232,37,28,11,+9,63%,154,26%,2,8,-6,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,artzin,5957,MIBR,overall,Jett,1.09,236,37,33,8,+4,78%,149,27%,11,7,+4,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,RgLMeister,5351,MIBR,overall,"Astra, Viper",1.06,169,28,26,12,+2,74%,120,34%,1,3,-2,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,jzz,13093,MIBR,overall,"Raze, Sova",1.01,213,36,32,5,+4,65%,143,27%,6,5,+1,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mazin,8872,MIBR,overall,"Skye, Kayo",0.78,125,19,28,22,-9,67%,87,34%,1,2,-1,,
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mwzera,939,FURIA,map,Jett,1.42,305,24,17,2,+7,77%,197,31%,5,3,+2,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,havoc,8706,FURIA,map,Raze,0.95,221,16,15,5,+1,68%,127,18%,5,4,+1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,Khalil,1711,FURIA,map,Viper,0.90,163,11,15,7,-4,64%,102,14%,0,1,-1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,kon4n,1671,FURIA,map,Skye,0.81,146,11,16,10,-5,73%,110,21%,1,0,+1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,liazzi,2567,FURIA,map,Astra,0.63,91,6,13,5,-7,68%,63,32%,1,2,-1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,frz,651,MIBR,map,Viper,1.49,277,22,11,7,+11,64%,185,20%,1,5,-4,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,jzz,13093,MIBR,map,Raze,0.98,237,18,17,3,+1,64%,153,22%,4,3,+1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,artzin,5957,MIBR,map,Jett,0.95,193,15,16,3,-1,91%,126,38%,4,3,+1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mazin,8872,MIBR,map,Skye,0.92,126,10,11,8,-1,73%,89,31%,1,0,+1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,RgLMeister,5351,MIBR,map,Astra,0.89,143,11,13,9,-2,77%,103,36%,0,1,-1,Split,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,havoc,8706,FURIA,map,Kayo,1.11,235,20,17,7,+3,58%,161,43%,5,5,0,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,liazzi,2567,FURIA,map,Viper,1.01,205,17,16,6,+1,67%,135,36%,1,0,+1,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,kon4n,1671,FURIA,map,Sova,0.99,174,14,15,8,-1,75%,120,26%,3,1,+2,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mwzera,939,FURIA,map,Jett,0.95,183,14,15,5,-1,54%,135,20%,2,4,-2,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,Khalil,1711,FURIA,map,Cypher,0.89,160,14,18,4,-4,63%,120,32%,2,1,+1,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,artzin,5957,MIBR,map,Jett,1.23,278,22,17,5,+5,67%,170,20%,7,4,+3,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,RgLMeister,5351,MIBR,map,Viper,1.22,194,17,13,3,+4,71%,136,33%,1,2,-1,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,jzz,13093,MIBR,map,Sova,1.04,189,18,15,2,+3,67%,133,36%,2,2,0,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,frz,651,MIBR,map,Cypher,0.91,186,15,17,4,-2,63%,126,37%,1,3,-2,Breeze,MIBR
+295608,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-19 17:00:00,FURIA,MIBR,0 - 2,mazin,8872,MIBR,map,Kayo,0.66,124,9,17,14,-8,63%,85,37%,0,2,-2,Breeze,MIBR
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,overall,Raze,1.21,252,51,42,13,+9,71%,168,23%,12,8,+4,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,overall,"Viper, Cypher",1.18,218,44,35,18,+9,76%,142,32%,5,4,+1,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Sacy,659,Sentinels,overall,"Fade, Skye",1.18,194,41,34,33,+7,81%,133,24%,3,5,-2,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,TenZ,9,Sentinels,overall,"Omen, Yoru",1.15,215,43,36,26,+7,72%,147,30%,8,4,+4,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,overall,"Killjoy, Brimstone, Viper",1.09,189,39,36,18,+3,79%,133,24%,4,5,-1,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,bang,3880,100 Thieves,overall,Viper,0.97,201,38,42,19,-4,71%,134,26%,6,7,-1,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,overall,"Chamber, Brimstone, Astra",0.92,184,43,41,12,+2,67%,120,25%,4,4,0,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,overall,Fade,0.88,153,34,41,19,-7,69%,105,31%,1,3,-2,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,overall,Raze,0.81,197,35,48,19,-13,67%,129,15%,8,13,-5,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,overall,"Omen, Gekko",0.79,166,33,46,13,-13,71%,114,33%,7,5,+2,,
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Raze,1.58,308,21,12,6,+9,78%,204,19%,5,2,+3,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,TenZ,9,Sentinels,map,Omen,1.39,207,14,8,11,+6,83%,133,38%,2,1,+1,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Viper,1.33,211,15,9,5,+6,78%,125,29%,1,2,-1,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Killjoy,1.28,208,13,10,4,+3,83%,152,17%,2,1,+1,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Sacy,659,Sentinels,map,Fade,1.25,190,11,9,14,+2,89%,141,14%,0,2,-2,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Chamber,1.02,221,16,14,0,+2,72%,138,32%,3,2,+1,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,0.82,190,10,14,4,-4,50%,144,30%,3,2,+1,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,0.64,179,9,16,6,-7,61%,128,20%,1,3,-2,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,0.59,97,7,13,3,-6,56%,56,17%,0,2,-2,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Omen,0.34,115,6,17,5,-11,56%,96,26%,1,1,0,Lotus,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,TenZ,9,Sentinels,map,Yoru,1.07,240,15,14,5,+1,63%,174,30%,3,3,0,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Viper,0.95,197,11,13,7,-2,68%,134,35%,2,1,+1,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Brimstone,0.90,187,12,15,10,-3,79%,117,29%,0,2,-2,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Sacy,659,Sentinels,map,Skye,0.89,168,12,14,9,-2,74%,101,28%,1,3,-2,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Raze,0.79,194,12,16,3,-4,53%,125,29%,1,3,-2,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Gekko,1.27,209,15,12,4,+3,84%,133,36%,4,2,+2,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,1.16,204,13,11,9,+2,89%,133,21%,1,0,+1,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,1.10,261,17,14,4,+3,74%,165,16%,7,4,+3,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,1.07,193,14,13,10,+1,89%,137,33%,0,0,0,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Brimstone,1.00,158,13,12,8,+1,79%,119,29%,0,1,-1,Bind,100 Thieves
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Sacy,659,Sentinels,map,Skye,1.38,225,18,11,10,+7,81%,156,30%,2,0,+2,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,johnqt,1265,Sentinels,map,Cypher,1.27,245,18,13,6,+5,81%,163,32%,2,1,+1,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,zekken,4004,Sentinels,map,Raze,1.26,255,18,14,4,+4,81%,176,23%,6,3,+3,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Zellsis,729,Sentinels,map,Viper,1.09,171,14,11,4,+3,76%,130,30%,2,2,0,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,TenZ,9,Sentinels,map,Omen,1.00,199,14,14,10,0,71%,134,23%,3,0,+3,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,eeiu,796,100 Thieves,map,Fade,0.96,169,13,15,6,-2,62%,117,37%,1,1,0,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,bang,3880,100 Thieves,map,Viper,0.93,210,15,17,6,-2,71%,127,29%,2,5,-3,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Cryocells,4147,100 Thieves,map,Astra,0.77,173,14,15,4,-1,52%,106,19%,1,1,0,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Boostio,604,100 Thieves,map,Gekko,0.75,173,12,17,4,-5,71%,113,34%,2,2,0,Split,Sentinels
+295613,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-19 19:45:00,Sentinels,100 Thieves,2 - 1,Asuna,601,100 Thieves,map,Raze,0.68,150,9,18,9,-9,67%,98,9%,0,6,-6,Split,Sentinels
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Victor,261,NRG,overall,"Cypher, Killjoy",1.30,233,39,28,14,+11,74%,166,22%,4,6,-2,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Demon1,26171,NRG,overall,Jett,1.30,250,43,31,4,+12,76%,167,36%,9,6,+3,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,crashies,4,NRG,overall,"Viper, Sova",1.09,162,26,23,13,+3,74%,110,21%,3,2,+1,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Marved,263,NRG,overall,Omen,1.03,219,36,35,23,+1,78%,135,26%,4,4,0,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Ethan,11225,NRG,overall,"Skye, Kayo",0.87,199,29,36,23,-7,80%,126,12%,5,3,+2,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,vanity,7870,Cloud9,overall,"Skye, Sova",1.07,217,34,33,16,+1,87%,154,24%,3,1,+2,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,wippie,4373,Cloud9,overall,"Viper, Killjoy",0.94,171,29,30,7,-1,63%,111,27%,1,3,-2,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Xeppaa,7871,Cloud9,overall,"Raze, Kayo",0.94,213,31,35,24,-4,78%,135,21%,2,5,-3,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,OXY,18796,Cloud9,overall,"Yoru, Jett",0.83,211,34,40,8,-6,67%,133,31%,12,11,+1,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,jakee,8742,Cloud9,overall,Omen,0.72,151,25,35,14,-10,63%,104,29%,3,5,-2,,
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Demon1,26171,NRG,map,Jett,1.72,316,24,11,2,+13,85%,216,33%,4,2,+2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Victor,261,NRG,map,Cypher,1.29,217,17,10,5,+7,70%,152,19%,1,3,-2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Marved,263,NRG,map,Omen,1.12,229,16,15,10,+1,80%,143,27%,3,1,+2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Ethan,11225,NRG,map,Skye,1.08,213,15,14,8,+1,85%,143,21%,3,1,+2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,crashies,4,NRG,map,Viper,0.98,136,9,10,6,-1,70%,96,27%,1,1,0,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,wippie,4373,Cloud9,map,Viper,1.06,177,13,13,4,0,50%,113,22%,1,3,-2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Xeppaa,7871,Cloud9,map,Raze,0.89,233,14,17,5,-3,65%,150,21%,1,1,0,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,vanity,7870,Cloud9,map,Skye,0.66,174,11,17,6,-6,75%,115,32%,1,1,0,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,jakee,8742,Cloud9,map,Omen,0.66,157,11,17,3,-6,60%,110,34%,2,2,0,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,OXY,18796,Cloud9,map,Yoru,0.62,166,11,17,5,-6,60%,95,63%,3,5,-2,Sunset,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Victor,261,NRG,map,Killjoy,1.31,248,22,18,9,+4,77%,177,24%,3,3,0,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,crashies,4,NRG,map,Sova,1.17,187,17,13,7,+4,77%,121,18%,2,1,+1,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Demon1,26171,NRG,map,Jett,0.98,183,19,20,2,-1,69%,129,41%,5,4,+1,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Marved,263,NRG,map,Omen,0.97,208,20,20,13,0,77%,129,26%,1,3,-2,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Ethan,11225,NRG,map,Kayo,0.70,184,14,22,15,-8,77%,113,7%,2,2,0,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,vanity,7870,Cloud9,map,Sova,1.39,259,23,16,10,+7,96%,183,21%,2,0,+2,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,OXY,18796,Cloud9,map,Jett,1.00,255,23,23,3,0,73%,162,23%,9,6,+3,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,Xeppaa,7871,Cloud9,map,Kayo,0.98,192,17,18,19,-1,88%,124,20%,1,4,-3,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,wippie,4373,Cloud9,map,Killjoy,0.85,164,16,17,3,-1,73%,109,30%,0,0,0,Ascent,NRG
+295607,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-23 17:00:00,NRG,Cloud9,2 - 0,jakee,8742,Cloud9,map,Omen,0.76,145,14,18,11,-4,65%,100,26%,1,3,-2,Ascent,NRG
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Less,8447,LOUD,overall,Viper,1.56,254,61,33,16,+28,84%,165,29%,8,4,+4,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tuyz,2408,LOUD,overall,"Brimstone, Omen",1.16,194,45,38,32,+7,78%,135,37%,6,1,+5,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,cauanzin,6193,LOUD,overall,Breach,0.96,182,43,45,24,-2,76%,117,33%,10,2,+8,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Quick,1575,LOUD,overall,"Phoenix, Raze",0.88,204,49,50,10,-1,66%,131,27%,11,8,+3,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,saadhak,727,LOUD,overall,"Kayo, Skye",0.87,192,42,48,27,-6,76%,123,14%,7,9,-2,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,kiNgg,8549,LEVIATÁN,overall,"Viper, Kayo",1.14,231,56,45,16,+11,73%,160,33%,3,5,-2,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,C0M,619,LEVIATÁN,overall,"Skye, Sova",0.93,200,41,48,27,-7,72%,127,18%,4,7,-3,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,aspas,8480,LEVIATÁN,overall,"Raze, Jett",0.89,181,42,46,8,-4,66%,124,29%,4,8,-4,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Mazino,7603,LEVIATÁN,overall,"Harbor, Astra, Omen",0.78,147,35,45,18,-10,72%,106,34%,3,10,-7,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tex,1818,LEVIATÁN,overall,"Gekko, Raze, Killjoy",0.76,180,40,56,20,-16,69%,122,24%,11,13,-2,,
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,saadhak,727,LOUD,map,Kayo,1.10,247,19,18,10,+1,88%,159,12%,1,4,-3,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Less,8447,LOUD,map,Viper,1.06,169,14,14,4,0,71%,118,21%,1,3,-2,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tuyz,2408,LOUD,map,Brimstone,1.06,173,14,15,13,-1,75%,125,41%,2,0,+2,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,cauanzin,6193,LOUD,map,Breach,0.99,186,16,17,8,-1,71%,127,39%,2,2,0,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Quick,1575,LOUD,map,Phoenix,0.76,188,16,21,4,-5,67%,118,19%,4,5,-1,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,kiNgg,8549,LEVIATÁN,map,Viper,1.43,248,21,13,10,+8,83%,183,39%,1,1,0,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Mazino,7603,LEVIATÁN,map,Harbor,1.30,197,18,12,8,+6,79%,141,38%,2,2,0,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tex,1818,LEVIATÁN,map,Gekko,1.14,242,19,18,12,+1,79%,157,23%,7,2,+5,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,C0M,619,LEVIATÁN,map,Skye,0.82,163,13,17,10,-4,63%,106,23%,1,2,-1,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,aspas,8480,LEVIATÁN,map,Raze,0.69,181,14,19,3,-5,71%,129,17%,3,3,0,Bind,LEVIATÁN
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Less,8447,LOUD,map,Viper,1.88,284,23,10,8,+13,83%,181,39%,2,1,+1,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tuyz,2408,LOUD,map,Omen,1.14,213,18,13,7,+5,83%,136,41%,3,1,+2,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,cauanzin,6193,LOUD,map,Breach,1.08,208,16,14,12,+2,78%,121,31%,4,0,+4,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Quick,1575,LOUD,map,Raze,0.82,190,16,16,2,0,65%,121,24%,4,1,+3,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,saadhak,727,LOUD,map,Skye,0.75,159,12,16,4,-4,65%,103,20%,3,3,0,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,kiNgg,8549,LEVIATÁN,map,Viper,1.16,255,22,16,3,+6,78%,161,25%,2,2,0,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,aspas,8480,LEVIATÁN,map,Jett,0.85,148,12,15,4,-3,57%,113,31%,1,3,-2,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,C0M,619,LEVIATÁN,map,Skye,0.79,185,14,17,9,-3,70%,105,10%,1,4,-3,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tex,1818,LEVIATÁN,map,Raze,0.61,163,13,19,5,-6,70%,109,31%,2,5,-3,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Mazino,7603,LEVIATÁN,map,Astra,0.41,118,8,18,5,-10,70%,77,28%,1,3,-2,Split,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Less,8447,LOUD,map,Viper,1.79,310,24,9,4,+15,100%,204,28%,5,0,+5,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tuyz,2408,LOUD,map,Omen,1.29,197,13,10,12,+3,75%,145,29%,1,0,+1,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Quick,1575,LOUD,map,Phoenix,1.09,234,17,13,4,+4,65%,159,41%,3,2,+1,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,cauanzin,6193,LOUD,map,Breach,0.77,152,11,14,4,-3,80%,102,30%,4,0,+4,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,saadhak,727,LOUD,map,Kayo,0.75,170,11,14,13,-3,75%,105,11%,3,2,+1,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,C0M,619,LEVIATÁN,map,Sova,1.23,253,14,14,8,0,85%,178,22%,2,1,+1,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,aspas,8480,LEVIATÁN,map,Jett,1.19,214,16,12,1,+4,70%,130,50%,0,2,-2,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,kiNgg,8549,LEVIATÁN,map,Kayo,0.76,191,13,16,3,-3,55%,131,38%,0,2,-2,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,Mazino,7603,LEVIATÁN,map,Omen,0.60,127,9,15,5,-6,65%,97,32%,0,5,-5,Ascent,LOUD
+295612,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-23 19:25:00,LOUD,LEVIATÁN,2 - 1,tex,1818,LEVIATÁN,map,Killjoy,0.47,134,8,19,3,-11,55%,96,19%,2,6,-4,Ascent,LOUD
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,leaf,7873,G2 Esports,overall,"Raze, Jett",1.15,253,44,37,8,+7,69%,161,30%,11,12,-1,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,JonahP,4581,G2 Esports,overall,Sova,1.09,195,37,34,15,+3,77%,138,38%,2,5,-3,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,trent,15500,G2 Esports,overall,Viper,0.96,190,34,36,18,-2,77%,132,26%,2,5,-3,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,valyn,3885,G2 Esports,overall,"Omen, Brimstone",0.89,188,33,39,20,-6,75%,119,24%,6,4,+2,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,neT,6582,G2 Esports,overall,"Cypher, Killjoy",0.67,155,31,39,8,-8,63%,109,38%,1,4,-3,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,overall,"Omen, Viper",1.28,249,42,36,18,+6,77%,150,34%,7,3,+4,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Apoth,5188,Evil Geniuses,overall,"Cypher, Killjoy",1.07,215,42,36,10,+6,63%,150,32%,4,10,-6,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,overall,"Fade, Gekko",1.05,202,41,35,4,+6,65%,132,46%,7,3,+4,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,jawgemo,3993,Evil Geniuses,overall,"Raze, Deadlock",0.94,197,33,37,18,-4,62%,137,19%,8,5,+3,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,overall,"Breach, Kayo",0.93,155,27,35,25,-8,79%,97,25%,4,1,+3,,
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,JonahP,4581,G2 Esports,map,Sova,1.09,201,20,19,7,+1,79%,142,39%,1,2,-1,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,leaf,7873,G2 Esports,map,Raze,1.06,264,24,21,5,+3,71%,167,28%,6,7,-1,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,trent,15500,G2 Esports,map,Viper,0.95,192,19,20,8,-1,75%,124,19%,1,4,-3,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,neT,6582,G2 Esports,map,Cypher,0.84,201,22,20,5,+2,71%,137,40%,1,2,-1,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,valyn,3885,G2 Esports,map,Omen,0.82,161,16,21,13,-5,71%,94,26%,3,1,+2,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,jawgemo,3993,Evil Geniuses,map,Raze,1.18,242,20,20,12,0,79%,168,17%,5,1,+4,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,map,Omen,1.08,207,20,21,6,-1,71%,116,38%,4,3,+1,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,map,Breach,1.02,181,18,19,10,-1,79%,113,35%,2,0,+2,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,map,Fade,1.00,197,22,20,2,+2,61%,131,46%,3,1,+2,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Apoth,5188,Evil Geniuses,map,Cypher,0.94,191,21,21,8,0,64%,144,38%,2,7,-5,Sunset,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,leaf,7873,G2 Esports,map,Jett,1.25,241,20,16,3,+4,67%,153,33%,5,5,0,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,JonahP,4581,G2 Esports,map,Sova,1.08,188,17,15,8,+2,75%,133,38%,1,3,-2,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,valyn,3885,G2 Esports,map,Brimstone,0.98,214,17,18,7,-1,79%,147,21%,3,3,0,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,trent,15500,G2 Esports,map,Viper,0.98,188,15,16,10,-1,79%,141,35%,1,1,0,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,neT,6582,G2 Esports,map,Killjoy,0.47,109,9,19,3,-10,54%,77,35%,0,2,-2,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,supamen,826,Evil Geniuses,map,Viper,1.51,290,22,15,12,+7,83%,189,29%,3,0,+3,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Apoth,5188,Evil Geniuses,map,Killjoy,1.22,238,21,15,2,+6,63%,158,27%,2,3,-1,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,Derrek,1533,Evil Geniuses,map,Gekko,1.11,207,19,15,2,+4,71%,133,44%,4,2,+2,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,NaturE,4927,Evil Geniuses,map,Kayo,0.81,129,9,16,15,-7,79%,79,16%,2,1,+1,Icebox,Evil Geniuses
+295617,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-24 17:00:00,G2 Esports,Evil Geniuses,0 - 2,jawgemo,3993,Evil Geniuses,map,Deadlock,0.66,151,13,17,6,-4,42%,100,25%,3,4,-1,Icebox,Evil Geniuses
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jakee,8742,Cloud9,overall,"Brimstone, Omen",1.19,194,36,32,16,+4,81%,125,42%,3,2,+1,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,Xeppaa,7871,Cloud9,overall,"Raze, Kayo",1.10,208,33,33,27,0,77%,137,19%,3,6,-3,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,vanity,7870,Cloud9,overall,"Skye, Sova",1.04,218,36,35,16,+1,69%,141,20%,6,2,+4,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,wippie,4373,Cloud9,overall,"Viper, Killjoy",0.80,170,25,33,12,-8,71%,116,20%,5,5,0,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,OXY,18796,Cloud9,overall,"Yoru, Jett",0.79,174,29,38,9,-9,67%,118,28%,9,7,+2,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,RgLMeister,5351,MIBR,overall,"Brimstone, Omen",1.25,233,39,31,22,+8,77%,162,31%,1,1,0,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,frz,651,MIBR,overall,"Viper, Cypher",1.18,206,36,28,6,+8,75%,134,35%,6,4,+2,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jzz,13093,MIBR,overall,Skye,1.10,222,38,32,15,+6,88%,134,31%,8,3,+5,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,mazin,8872,MIBR,overall,"Kayo, Viper",0.90,188,30,34,18,-4,69%,131,36%,5,7,-2,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,artzin,5957,MIBR,overall,"Raze, Jett",0.77,166,28,34,10,-6,60%,104,17%,2,11,-9,,
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,vanity,7870,Cloud9,map,Skye,1.28,239,23,16,10,+7,77%,150,25%,3,0,+3,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,OXY,18796,Cloud9,map,Yoru,1.18,219,21,16,6,+5,81%,147,26%,5,3,+2,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jakee,8742,Cloud9,map,Brimstone,0.98,162,16,17,9,-1,85%,107,48%,2,0,+2,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,wippie,4373,Cloud9,map,Viper,0.93,177,15,16,7,-1,81%,106,23%,4,2,+2,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,Xeppaa,7871,Cloud9,map,Raze,0.88,168,14,16,7,-2,77%,118,12%,1,6,-5,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,RgLMeister,5351,MIBR,map,Brimstone,1.20,216,18,17,8,+1,65%,157,33%,1,0,+1,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,frz,651,MIBR,map,Viper,1.03,188,19,17,0,+2,69%,112,33%,4,2,+2,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,mazin,8872,MIBR,map,Kayo,0.99,221,19,20,8,-1,65%,136,37%,5,3,+2,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jzz,13093,MIBR,map,Skye,0.84,153,14,17,7,-3,85%,100,37%,1,1,0,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,artzin,5957,MIBR,map,Raze,0.58,115,11,18,4,-7,50%,77,11%,0,9,-9,Bind,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jakee,8742,Cloud9,map,Omen,1.44,226,20,15,7,+5,77%,147,38%,1,2,-1,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,Xeppaa,7871,Cloud9,map,Kayo,1.36,248,19,17,20,+2,77%,160,27%,2,0,+2,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,vanity,7870,Cloud9,map,Sova,0.77,196,13,19,6,-6,59%,131,15%,3,2,+1,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,wippie,4373,Cloud9,map,Killjoy,0.63,163,10,17,5,-7,59%,127,17%,1,3,-2,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,OXY,18796,Cloud9,map,Jett,0.34,128,8,22,3,-14,50%,84,32%,4,4,0,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,jzz,13093,MIBR,map,Skye,1.40,290,24,15,8,+9,91%,174,27%,7,2,+5,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,frz,651,MIBR,map,Cypher,1.35,224,17,11,6,+6,82%,160,38%,2,2,0,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,RgLMeister,5351,MIBR,map,Omen,1.31,249,21,14,14,+7,91%,166,30%,0,1,-1,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,artzin,5957,MIBR,map,Jett,0.99,216,17,16,6,+1,73%,137,23%,2,2,0,Ascent,MIBR
+295609,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (A)",2024-02-25 15:00:00,Cloud9,MIBR,0 - 2,mazin,8872,MIBR,map,Viper,0.80,155,11,14,10,-3,73%,126,34%,0,4,-4,Ascent,MIBR
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,aspas,8480,LEVIATÁN,overall,"Jett, Raze",1.30,252,50,38,13,+12,75%,170,28%,7,8,-1,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,kiNgg,8549,LEVIATÁN,overall,Viper,1.20,226,45,36,13,+9,75%,142,29%,2,3,-1,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,C0M,619,LEVIATÁN,overall,"Skye, Sova",0.77,154,29,43,34,-14,68%,99,25%,2,10,-8,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Mazino,7603,LEVIATÁN,overall,"Astra, Kayo, Harbor",0.73,153,30,44,17,-14,63%,107,25%,5,6,-1,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,tex,1818,LEVIATÁN,overall,"Raze, Cypher, Gekko",0.70,186,37,49,12,-12,74%,124,23%,6,8,-2,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,zekken,4004,Sentinels,overall,"Raze, Jett",1.35,284,57,39,13,+18,79%,182,19%,12,7,+5,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Zellsis,729,Sentinels,overall,"Viper, Brimstone",1.06,197,39,40,28,-1,77%,126,13%,6,4,+2,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Sacy,659,Sentinels,overall,"Skye, Sova",1.06,196,41,34,23,+7,75%,132,29%,6,2,+4,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,johnqt,1265,Sentinels,overall,"Cypher, Viper",1.01,191,38,35,17,+3,86%,121,28%,6,4,+2,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,TenZ,9,Sentinels,overall,"Omen, Kayo, Yoru",0.85,177,34,43,24,-9,70%,115,18%,5,5,0,,
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,kiNgg,8549,LEVIATÁN,map,Viper,1.30,286,16,13,1,+3,69%,186,40%,0,1,-1,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,aspas,8480,LEVIATÁN,map,Jett,1.21,247,15,13,1,+2,75%,158,46%,1,2,-1,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,C0M,619,LEVIATÁN,map,Skye,0.58,148,6,15,17,-9,75%,93,28%,1,2,-1,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,tex,1818,LEVIATÁN,map,Raze,0.44,155,7,16,5,-9,69%,107,12%,2,5,-3,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Mazino,7603,LEVIATÁN,map,Astra,0.37,104,5,14,5,-9,63%,68,13%,1,1,0,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,zekken,4004,Sentinels,map,Raze,1.93,339,19,8,8,+11,94%,228,17%,2,0,+2,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Viper,1.50,265,15,9,10,+6,81%,185,12%,3,3,0,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Cypher,1.36,254,15,10,6,+5,100%,158,30%,3,0,+3,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,TenZ,9,Sentinels,map,Omen,0.90,172,11,11,7,0,69%,99,15%,2,1,+1,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Sacy,659,Sentinels,map,Skye,0.81,168,10,11,10,-1,75%,105,15%,1,1,0,Split,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,kiNgg,8549,LEVIATÁN,map,Viper,1.42,224,17,8,7,+9,79%,138,29%,1,1,0,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,aspas,8480,LEVIATÁN,map,Jett,1.42,285,19,12,5,+7,79%,189,24%,5,2,+3,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Mazino,7603,LEVIATÁN,map,Kayo,1.19,204,14,11,8,+3,79%,148,36%,2,3,-1,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,tex,1818,LEVIATÁN,map,Cypher,1.07,242,17,14,3,+3,79%,168,28%,2,0,+2,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,C0M,619,LEVIATÁN,map,Sova,0.77,114,6,10,10,-4,68%,85,14%,0,3,-3,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,zekken,4004,Sentinels,map,Jett,0.87,215,15,15,2,0,68%,120,38%,5,5,0,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Sacy,659,Sentinels,map,Sova,0.87,190,12,12,3,0,68%,123,45%,2,0,+2,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Cypher,0.68,163,10,14,5,-4,74%,116,20%,1,3,-2,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,TenZ,9,Sentinels,map,Kayo,0.66,154,9,16,7,-7,68%,95,19%,0,2,-2,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Viper,0.62,136,9,16,5,-7,74%,93,19%,1,0,+1,Breeze,LEVIATÁN
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,aspas,8480,LEVIATÁN,map,Raze,1.27,225,16,13,7,+3,73%,162,22%,1,4,-3,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,kiNgg,8549,LEVIATÁN,map,Viper,0.94,169,12,15,5,-3,77%,113,21%,1,1,0,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,C0M,619,LEVIATÁN,map,Skye,0.89,199,17,18,7,-1,64%,117,29%,1,5,-4,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Mazino,7603,LEVIATÁN,map,Harbor,0.60,150,11,19,4,-8,50%,98,21%,2,2,0,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,tex,1818,LEVIATÁN,map,Gekko,0.57,160,13,19,4,-6,73%,99,31%,2,3,-1,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Sacy,659,Sentinels,map,Skye,1.42,229,19,11,10,+8,82%,160,30%,3,1,+2,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,zekken,4004,Sentinels,map,Raze,1.35,298,23,16,3,+7,77%,202,15%,5,2,+3,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Brimstone,1.12,191,15,15,13,0,77%,113,10%,2,1,+1,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Viper,1.03,155,13,11,6,+2,86%,99,32%,2,1,+1,Bind,Sentinels
+295614,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (B)",2024-02-25 17:40:00,LEVIATÁN,Sentinels,1 - 2,TenZ,9,Sentinels,map,Yoru,0.97,206,14,16,10,-2,73%,144,20%,3,2,+1,Bind,Sentinels
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,leaf,7873,G2 Esports,overall,Raze,1.35,260,34,23,12,+11,81%,185,19%,10,11,-1,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,trent,15500,G2 Esports,overall,Viper,1.26,230,31,27,22,+4,81%,168,34%,5,2,+3,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,neT,6582,G2 Esports,overall,Cypher,1.23,255,37,29,15,+8,83%,165,35%,2,1,+1,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,valyn,3885,G2 Esports,overall,Omen,0.97,161,26,25,13,+1,79%,104,20%,4,2,+2,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,JonahP,4581,G2 Esports,overall,"Breach, Sova",0.96,153,27,26,17,+1,71%,99,18%,0,5,-5,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Shyy,24007,KRÜ Esports,overall,Viper,1.13,201,31,29,10,+2,69%,142,29%,3,2,+1,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,keznit,2462,KRÜ Esports,overall,"Jett, Chamber",1.05,234,36,31,5,+5,71%,154,29%,9,3,+6,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,mta,36169,KRÜ Esports,overall,Kayo,0.87,180,25,32,14,-7,67%,116,42%,4,7,-3,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Klaus,2610,KRÜ Esports,overall,"Skye, Fade",0.79,143,16,31,20,-15,71%,102,20%,3,3,0,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Melser,1311,KRÜ Esports,overall,"Astra, Omen",0.64,137,22,32,12,-10,62%,73,25%,2,6,-4,,
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,leaf,7873,G2 Esports,map,Raze,1.44,287,18,11,5,+7,71%,219,18%,5,6,-1,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,neT,6582,G2 Esports,map,Cypher,1.34,277,20,14,8,+6,86%,171,29%,2,0,+2,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,trent,15500,G2 Esports,map,Viper,1.21,237,16,14,8,+2,86%,162,38%,3,1,+2,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,valyn,3885,G2 Esports,map,Omen,1.02,141,12,11,6,+1,76%,98,21%,0,1,-1,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,JonahP,4581,G2 Esports,map,Breach,0.65,98,9,13,11,-4,71%,61,24%,0,3,-3,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Shyy,24007,KRÜ Esports,map,Viper,1.42,232,18,13,6,+5,86%,155,32%,2,0,+2,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,mta,36169,KRÜ Esports,map,Kayo,0.88,186,13,17,6,-4,62%,126,38%,2,3,-1,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,keznit,2462,KRÜ Esports,map,Jett,0.82,180,14,16,3,-2,67%,129,26%,4,1,+3,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Klaus,2610,KRÜ Esports,map,Skye,0.79,127,7,14,12,-7,71%,85,18%,2,2,0,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Melser,1311,KRÜ Esports,map,Astra,0.76,147,11,15,11,-4,76%,81,25%,1,4,-3,Split,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,trent,15500,G2 Esports,map,Viper,1.32,223,15,13,14,+2,76%,174,29%,2,1,+1,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,JonahP,4581,G2 Esports,map,Sova,1.28,207,18,13,6,+5,71%,137,16%,0,2,-2,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,leaf,7873,G2 Esports,map,Raze,1.27,232,16,12,7,+4,90%,151,20%,5,5,0,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,neT,6582,G2 Esports,map,Cypher,1.12,233,17,15,7,+2,81%,158,43%,0,1,-1,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,valyn,3885,G2 Esports,map,Omen,0.91,181,14,14,7,0,81%,109,19%,4,1,+3,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,keznit,2462,KRÜ Esports,map,Chamber,1.27,288,22,15,2,+7,76%,179,32%,5,2,+3,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,mta,36169,KRÜ Esports,map,Kayo,0.85,174,12,15,8,-3,71%,106,48%,2,4,-2,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Shyy,24007,KRÜ Esports,map,Viper,0.84,170,13,16,4,-3,52%,129,26%,1,2,-1,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Klaus,2610,KRÜ Esports,map,Fade,0.79,158,9,17,8,-8,71%,118,22%,1,1,0,Sunset,G2 Esports
+295619,Champions Tour 2024: Americas Kickoff,"Group Stage: 
+						Decider (C)",2024-02-25 20:55:00,G2 Esports,KRÜ Esports,2 - 0,Melser,1311,KRÜ Esports,map,Omen,0.52,127,11,17,1,-6,48%,65,25%,1,2,-1,Sunset,G2 Esports
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,artzin,5957,MIBR,overall,Jett,1.01,240,32,32,3,0,69%,160,33%,3,4,-1,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,frz,651,MIBR,overall,"Viper, Cypher",0.96,202,27,29,5,-2,62%,130,38%,2,2,0,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,RgLMeister,5351,MIBR,overall,"Astra, Omen",0.72,157,21,31,15,-10,62%,101,28%,3,2,+1,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,mazin,8872,MIBR,overall,"Skye, Viper",0.72,149,17,27,8,-10,56%,99,25%,3,7,-4,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,jzz,13093,MIBR,overall,"Raze, Skye",0.64,152,20,32,7,-12,64%,101,29%,4,9,-5,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,zekken,4004,Sentinels,overall,"Raze, Jett",1.47,297,41,23,8,+18,79%,193,25%,9,6,+3,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,TenZ,9,Sentinels,overall,Omen,1.23,235,37,24,14,+13,79%,145,40%,3,5,-2,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Zellsis,729,Sentinels,overall,"Viper, Kayo",1.16,210,25,24,25,+1,85%,135,16%,5,2,+3,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Sacy,659,Sentinels,overall,"Skye, Sova",1.10,192,23,24,23,-1,77%,131,24%,4,1,+3,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,johnqt,1265,Sentinels,overall,"Cypher, Killjoy",1.02,171,25,22,3,+3,72%,112,23%,3,1,+2,,
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,frz,651,MIBR,map,Viper,1.12,261,17,15,5,+2,65%,152,35%,2,0,+2,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,artzin,5957,MIBR,map,Jett,0.97,206,14,15,2,-1,65%,130,27%,1,2,-1,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,RgLMeister,5351,MIBR,map,Astra,0.76,180,12,16,10,-4,65%,120,24%,1,0,+1,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,jzz,13093,MIBR,map,Raze,0.73,175,12,17,2,-5,70%,123,25%,4,6,-2,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,mazin,8872,MIBR,map,Skye,0.69,131,8,13,4,-5,60%,88,15%,0,4,-4,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,zekken,4004,Sentinels,map,Raze,1.50,285,20,12,6,+8,80%,189,21%,3,3,0,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,TenZ,9,Sentinels,map,Omen,1.30,224,19,12,9,+7,80%,145,38%,1,1,0,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,johnqt,1265,Sentinels,map,Cypher,1.28,203,16,11,2,+5,70%,125,29%,2,1,+1,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Zellsis,729,Sentinels,map,Viper,1.06,229,12,14,14,-2,85%,151,20%,4,2,+2,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Sacy,659,Sentinels,map,Skye,0.89,146,9,14,17,-5,75%,93,22%,2,1,+1,Split,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,artzin,5957,MIBR,map,Jett,1.06,274,18,17,1,+1,74%,192,37%,2,2,0,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,frz,651,MIBR,map,Cypher,0.80,143,10,14,0,-4,58%,107,42%,0,2,-2,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,mazin,8872,MIBR,map,Viper,0.75,167,9,14,4,-5,53%,111,38%,3,3,0,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,RgLMeister,5351,MIBR,map,Omen,0.69,133,9,15,5,-6,58%,80,35%,2,2,0,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,jzz,13093,MIBR,map,Skye,0.55,128,8,15,5,-7,58%,79,33%,0,3,-3,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,zekken,4004,Sentinels,map,Jett,1.44,308,21,11,2,+10,79%,197,31%,6,3,+3,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Sacy,659,Sentinels,map,Sova,1.33,237,14,10,6,+4,79%,172,25%,2,0,+2,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,Zellsis,729,Sentinels,map,Kayo,1.27,190,13,10,11,+3,84%,118,11%,1,0,+1,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,TenZ,9,Sentinels,map,Omen,1.16,245,18,12,5,+6,79%,144,43%,2,4,-2,Ascent,Sentinels
+307572,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 15:00:00,MIBR,Sentinels,0 - 2,johnqt,1265,Sentinels,map,Killjoy,0.75,139,9,11,1,-2,74%,99,17%,1,0,+1,Ascent,Sentinels
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,leaf,7873,G2 Esports,overall,"Raze, Yoru",1.07,228,58,51,10,+7,70%,156,32%,13,11,+2,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,trent,15500,G2 Esports,overall,Viper,1.03,205,53,52,17,+1,75%,143,35%,9,6,+3,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,neT,6582,G2 Esports,overall,Cypher,0.96,206,50,52,14,-2,67%,136,48%,6,7,-1,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,JonahP,4581,G2 Esports,overall,"Sova, Breach",0.88,162,43,52,19,-9,73%,115,33%,4,6,-2,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,valyn,3885,G2 Esports,overall,"Omen, Harbor",0.75,149,37,56,19,-19,64%,91,18%,5,6,-1,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,jzz,13093,MIBR,overall,"Skye, Raze, Sova",1.26,258,68,49,14,+19,77%,172,33%,13,8,+5,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,artzin,5957,MIBR,overall,"Raze, Jett",1.10,235,58,53,14,+5,73%,149,30%,10,11,-1,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,frz,651,MIBR,overall,"Cypher, Viper",1.05,178,48,41,12,+7,71%,117,29%,5,8,-3,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,RgLMeister,5351,MIBR,overall,"Omen, Astra, Viper",1.00,191,51,49,30,+2,82%,135,30%,3,4,-1,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,mazin,8872,MIBR,overall,"Viper, Skye, Kayo",0.79,161,38,49,28,-11,63%,106,25%,5,6,-1,,
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,trent,15500,G2 Esports,map,Viper,1.31,212,17,13,2,+4,77%,144,42%,2,3,-1,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,leaf,7873,G2 Esports,map,Raze,1.03,229,18,17,4,+1,73%,150,25%,2,3,-1,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,valyn,3885,G2 Esports,map,Omen,0.93,183,14,18,4,-4,68%,110,30%,4,1,+3,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,neT,6582,G2 Esports,map,Cypher,0.74,182,14,17,1,-3,59%,125,48%,0,3,-3,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,JonahP,4581,G2 Esports,map,Sova,0.67,147,10,17,6,-7,77%,125,31%,1,3,-2,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,frz,651,MIBR,map,Cypher,1.42,225,19,10,3,+9,82%,154,33%,2,2,0,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,jzz,13093,MIBR,map,Skye,1.33,273,22,15,6,+7,77%,175,37%,6,2,+4,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,artzin,5957,MIBR,map,Raze,1.01,218,16,17,7,-1,77%,154,20%,2,3,-1,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,mazin,8872,MIBR,map,Viper,0.96,200,14,14,11,0,64%,126,29%,1,2,-1,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,RgLMeister,5351,MIBR,map,Omen,0.64,135,11,17,9,-6,82%,94,24%,2,0,+2,Sunset,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,leaf,7873,G2 Esports,map,Raze,1.31,267,26,17,3,+9,75%,193,32%,7,4,+3,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,trent,15500,G2 Esports,map,Viper,1.03,230,22,21,8,+1,79%,170,26%,4,2,+2,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,JonahP,4581,G2 Esports,map,Breach,1.00,170,18,19,8,-1,71%,104,33%,2,1,+1,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,neT,6582,G2 Esports,map,Cypher,0.90,150,15,17,8,-2,75%,105,56%,4,2,+2,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,valyn,3885,G2 Esports,map,Omen,0.88,152,14,19,10,-5,68%,94,13%,1,1,0,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,jzz,13093,MIBR,map,Raze,1.21,294,28,21,2,+7,68%,191,29%,4,3,+1,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,RgLMeister,5351,MIBR,map,Astra,1.13,222,23,18,13,+5,82%,144,30%,1,3,-2,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,frz,651,MIBR,map,Viper,1.00,161,16,16,5,0,71%,111,24%,2,3,-1,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,artzin,5957,MIBR,map,Jett,0.72,152,14,21,5,-7,61%,101,21%,2,6,-4,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,mazin,8872,MIBR,map,Skye,0.57,131,12,19,6,-7,54%,90,28%,1,3,-2,Split,G2 Esports
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,neT,6582,G2 Esports,map,Cypher,1.22,285,21,18,5,+3,65%,184,43%,2,2,0,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,JonahP,4581,G2 Esports,map,Sova,0.93,170,15,16,5,-1,70%,120,38%,1,2,-1,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,leaf,7873,G2 Esports,map,Yoru,0.81,189,14,17,3,-3,61%,117,43%,4,4,0,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,trent,15500,G2 Esports,map,Viper,0.77,172,14,18,7,-4,70%,107,46%,3,1,+2,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,valyn,3885,G2 Esports,map,Harbor,0.43,112,9,19,5,-10,57%,69,9%,0,4,-4,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,artzin,5957,MIBR,map,Jett,1.63,336,28,15,2,+13,83%,203,53%,6,2,+4,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,jzz,13093,MIBR,map,Sova,1.25,208,18,13,6,+5,87%,147,37%,3,3,0,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,RgLMeister,5351,MIBR,map,Viper,1.18,216,17,14,8,+3,83%,163,37%,0,1,-1,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,mazin,8872,MIBR,map,Kayo,0.91,151,12,16,11,-4,74%,106,18%,3,1,+2,Breeze,MIBR
+307573,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 17:10:00,G2 Esports,MIBR,1 - 2,frz,651,MIBR,map,Cypher,0.76,147,13,15,4,-2,61%,89,29%,1,3,-2,Breeze,MIBR
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Zellsis,729,Sentinels,overall,"Kayo, Viper",1.28,218,52,37,21,+15,74%,133,16%,5,3,+2,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Sacy,659,Sentinels,overall,"Gekko, Sova, Skye",1.00,203,43,48,22,-5,68%,134,24%,4,4,0,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,TenZ,9,Sentinels,overall,"Omen, Kayo",0.94,175,42,46,18,-4,69%,122,23%,6,5,+1,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,johnqt,1265,Sentinels,overall,Cypher,0.93,161,35,41,22,-6,68%,110,29%,5,4,+1,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,zekken,4004,Sentinels,overall,"Raze, Jett",0.85,216,48,53,12,-5,63%,152,33%,10,19,-9,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,neT,6582,G2 Esports,overall,Cypher,1.27,243,57,44,12,+13,68%,155,41%,9,3,+6,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,leaf,7873,G2 Esports,overall,"Raze, Yoru",1.04,249,60,50,10,+10,71%,153,27%,12,12,0,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,trent,15500,G2 Esports,overall,Viper,1.01,173,37,39,16,-2,68%,119,28%,4,6,-2,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,valyn,3885,G2 Esports,overall,"Omen, Harbor",0.88,166,39,45,26,-6,77%,105,18%,6,5,+1,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,JonahP,4581,G2 Esports,overall,"Sova, Breach",0.82,144,32,42,24,-10,75%,100,22%,4,4,0,,
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Zellsis,729,Sentinels,map,Kayo,1.47,231,19,10,10,+9,86%,141,20%,1,2,-1,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Sacy,659,Sentinels,map,Gekko,1.37,273,19,15,10,+4,86%,183,25%,0,0,0,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,zekken,4004,Sentinels,map,Raze,1.19,266,19,16,6,+3,76%,181,38%,6,5,+1,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,TenZ,9,Sentinels,map,Omen,1.03,211,17,14,5,+3,86%,119,21%,4,1,+3,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,johnqt,1265,Sentinels,map,Cypher,0.78,121,9,13,8,-4,76%,88,30%,1,1,0,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Raze,1.21,247,20,16,3,+4,81%,152,32%,4,7,-3,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Cypher,0.89,164,13,16,3,-3,67%,104,38%,1,1,0,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,0.83,171,12,15,4,-3,71%,110,12%,1,2,-1,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Sova,0.80,187,12,17,5,-5,71%,135,20%,0,1,-1,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,0.57,165,11,19,15,-8,86%,103,20%,3,1,+2,Sunset,Sentinels
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Zellsis,729,Sentinels,map,Viper,1.09,184,14,15,4,-1,55%,125,23%,1,0,+1,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,johnqt,1265,Sentinels,map,Cypher,0.96,189,13,16,5,-3,55%,127,24%,1,3,-2,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,TenZ,9,Sentinels,map,Kayo,0.96,185,15,18,7,-3,59%,148,32%,1,2,-1,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,zekken,4004,Sentinels,map,Jett,0.65,205,16,21,1,-5,59%,139,32%,3,7,-4,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Sacy,659,Sentinels,map,Sova,0.59,142,9,20,6,-11,55%,99,33%,2,2,0,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Cypher,1.68,306,25,12,4,+13,73%,199,35%,3,1,+2,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,1.18,193,16,12,2,+4,68%,134,68%,1,3,-2,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Yoru,1.15,295,23,17,5,+6,82%,188,31%,5,0,+5,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Sova,0.94,154,14,12,6,+2,82%,111,29%,3,2,+1,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Harbor,0.81,154,12,14,8,-2,73%,108,31%,2,2,0,Breeze,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Zellsis,729,Sentinels,map,Viper,1.28,239,19,12,7,+7,82%,133,9%,3,1,+2,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,Sacy,659,Sentinels,map,Skye,1.06,194,15,13,6,+2,64%,122,19%,2,2,0,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,johnqt,1265,Sentinels,map,Cypher,1.05,174,13,12,9,+1,73%,113,33%,3,0,+3,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,TenZ,9,Sentinels,map,Omen,0.84,129,10,14,6,-4,64%,98,16%,1,2,-1,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,zekken,4004,Sentinels,map,Raze,0.73,177,13,16,5,-3,55%,137,28%,1,7,-6,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,neT,6582,G2 Esports,map,Cypher,1.24,258,19,16,5,+3,64%,160,49%,5,1,+4,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,valyn,3885,G2 Esports,map,Omen,1.23,178,16,12,3,+4,73%,105,9%,1,2,-1,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,trent,15500,G2 Esports,map,Viper,1.01,155,9,12,10,-3,64%,112,23%,2,1,+1,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,leaf,7873,G2 Esports,map,Raze,0.79,206,17,17,2,0,50%,120,20%,3,5,-2,Split,G2 Esports
+307574,Champions Tour 2024: Americas Kickoff,"Play-Ins: 
+						Play-ins",2024-02-26 20:55:00,Sentinels,G2 Esports,1 - 2,JonahP,4581,G2 Esports,map,Breach,0.72,91,6,13,13,-7,73%,54,19%,1,1,0,Split,G2 Esports
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Derrek,1533,Evil Geniuses,overall,"Sova, Gekko, Fade",1.15,230,43,41,15,+2,72%,148,31%,6,2,+4,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Apoth,5188,Evil Geniuses,overall,"Cypher, Killjoy",0.99,219,43,43,12,0,59%,157,33%,4,11,-7,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,supamen,826,Evil Geniuses,overall,"Omen, Viper",0.99,152,30,36,16,-6,67%,102,33%,5,6,-1,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,jawgemo,3993,Evil Geniuses,overall,"Jett, Deadlock, Raze",0.95,212,44,47,11,-3,66%,140,24%,8,12,-4,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,NaturE,4927,Evil Geniuses,overall,"Kayo, Breach",0.64,144,28,48,20,-20,66%,91,28%,3,1,+2,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,tuyz,2408,LOUD,overall,"Omen, Harbor",1.23,211,46,33,18,+13,78%,145,31%,3,0,+3,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Less,8447,LOUD,overall,Viper,1.20,228,49,34,12,+15,81%,144,24%,4,3,+1,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,cauanzin,6193,LOUD,overall,"Breach, Sova",1.07,218,46,40,23,+6,76%,129,32%,10,5,+5,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,saadhak,727,LOUD,overall,"Kayo, Killjoy, Sova",0.98,206,42,41,21,+1,81%,126,15%,5,7,-2,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Quick,1575,LOUD,overall,"Phoenix, Jett",0.78,158,32,40,13,-8,66%,115,33%,10,11,-1,,
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,supamen,826,Evil Geniuses,map,Omen,1.84,256,19,7,12,+12,90%,154,39%,4,0,+4,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,jawgemo,3993,Evil Geniuses,map,Jett,1.40,287,21,13,7,+8,75%,194,22%,3,5,-2,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Derrek,1533,Evil Geniuses,map,Sova,1.28,231,15,12,10,+3,85%,158,24%,1,0,+1,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Apoth,5188,Evil Geniuses,map,Cypher,1.17,200,16,12,7,+4,75%,144,48%,1,3,-2,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,NaturE,4927,Evil Geniuses,map,Kayo,0.78,174,11,15,10,-4,80%,103,27%,3,0,+3,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,tuyz,2408,LOUD,map,Omen,0.97,220,15,16,3,-1,60%,155,45%,0,0,0,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,cauanzin,6193,LOUD,map,Breach,0.94,182,13,16,9,-3,75%,117,41%,1,0,+1,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,saadhak,727,LOUD,map,Kayo,0.81,214,14,19,10,-5,70%,128,13%,3,3,0,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Less,8447,LOUD,map,Viper,0.59,161,11,16,4,-5,65%,111,22%,1,3,-2,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Quick,1575,LOUD,map,Phoenix,0.46,93,6,15,1,-9,55%,65,35%,3,6,-3,Ascent,Evil Geniuses
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Apoth,5188,Evil Geniuses,map,Killjoy,1.10,271,18,16,4,+2,60%,179,24%,1,4,-3,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,jawgemo,3993,Evil Geniuses,map,Deadlock,0.92,242,17,18,1,-1,65%,144,28%,5,3,+2,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,supamen,826,Evil Geniuses,map,Viper,0.76,130,8,13,1,-5,55%,91,25%,0,3,-3,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Derrek,1533,Evil Geniuses,map,Gekko,0.71,141,8,16,5,-8,60%,96,26%,2,1,+1,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,NaturE,4927,Evil Geniuses,map,Kayo,0.51,118,8,17,6,-9,60%,77,28%,0,1,-1,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,tuyz,2408,LOUD,map,Harbor,1.44,225,19,10,7,+9,90%,150,28%,1,0,+1,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Less,8447,LOUD,map,Viper,1.37,235,18,10,4,+8,85%,147,20%,2,0,+2,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,cauanzin,6193,LOUD,map,Sova,1.32,251,20,10,4,+10,75%,147,22%,3,2,+1,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Quick,1575,LOUD,map,Jett,0.94,182,13,14,6,-1,85%,133,28%,5,3,+2,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,saadhak,727,LOUD,map,Killjoy,0.79,168,10,15,7,-5,85%,114,13%,1,3,-2,Icebox,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Derrek,1533,Evil Geniuses,map,Fade,1.50,319,20,13,0,+7,72%,194,49%,3,1,+2,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Apoth,5188,Evil Geniuses,map,Cypher,0.67,185,9,15,1,-6,39%,146,33%,2,4,-2,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,NaturE,4927,Evil Geniuses,map,Breach,0.64,140,9,16,4,-7,56%,93,29%,0,0,0,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,jawgemo,3993,Evil Geniuses,map,Raze,0.47,108,6,16,3,-10,56%,78,23%,0,4,-4,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,supamen,826,Evil Geniuses,map,Omen,0.29,70,3,16,3,-13,56%,56,30%,1,3,-2,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Less,8447,LOUD,map,Viper,1.68,287,20,8,4,+12,94%,178,31%,1,0,+1,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,saadhak,727,LOUD,map,Sova,1.39,236,18,7,4,+11,89%,138,22%,1,1,0,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,tuyz,2408,LOUD,map,Omen,1.29,188,12,7,8,+5,83%,128,21%,2,0,+2,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,Quick,1575,LOUD,map,Phoenix,0.97,199,13,11,6,+2,56%,149,36%,2,2,0,Sunset,LOUD
+303087,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 17:00:00,Evil Geniuses,LOUD,1 - 2,cauanzin,6193,LOUD,map,Breach,0.93,222,13,14,10,-1,78%,124,42%,6,3,+3,Sunset,LOUD
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Victor,261,NRG,overall,"Cypher, Killjoy, Raze",0.95,189,46,42,7,+4,69%,121,26%,5,8,-3,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Marved,263,NRG,overall,"Omen, Viper",0.90,203,44,52,20,-8,70%,124,30%,4,8,-4,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Ethan,11225,NRG,overall,"Skye, Kayo",0.90,196,42,48,30,-6,73%,123,27%,1,4,-3,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,crashies,4,NRG,overall,"Viper, Sova, Breach",0.84,162,39,47,21,-8,70%,104,25%,3,8,-5,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Demon1,26171,NRG,overall,"Jett, Omen",0.83,194,43,53,14,-10,67%,131,37%,11,15,-4,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,TenZ,9,Sentinels,overall,Omen,1.26,242,57,43,29,+14,85%,160,28%,12,2,+10,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Zellsis,729,Sentinels,overall,"Kayo, Viper",1.22,214,46,38,32,+8,78%,122,20%,8,3,+5,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,zekken,4004,Sentinels,overall,"Raze, Jett",1.12,233,57,48,9,+9,73%,162,31%,20,12,+8,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,johnqt,1265,Sentinels,overall,Cypher,1.03,180,41,40,19,+1,67%,117,27%,1,3,-2,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Sacy,659,Sentinels,overall,"Gekko, Sova, Skye",1.02,195,41,45,27,-4,70%,131,23%,2,4,-2,,
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Marved,263,NRG,map,Omen,1.04,199,22,21,7,+1,67%,126,31%,2,4,-2,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Victor,261,NRG,map,Cypher,0.92,176,19,19,5,0,67%,103,44%,3,1,+2,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,crashies,4,NRG,map,Viper,0.91,203,22,23,7,-1,70%,118,27%,1,2,-1,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Demon1,26171,NRG,map,Jett,0.81,182,17,23,5,-6,67%,127,39%,5,8,-3,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Ethan,11225,NRG,map,Skye,0.56,111,9,22,16,-13,73%,82,28%,0,4,-4,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,TenZ,9,Sentinels,map,Omen,1.52,287,30,17,15,+13,90%,185,43%,5,2,+3,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,zekken,4004,Sentinels,map,Raze,1.47,294,31,18,3,+13,73%,196,39%,10,7,+3,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Kayo,1.05,156,14,16,18,-2,77%,109,25%,1,0,+1,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Cypher,0.95,175,18,19,8,-1,70%,119,30%,1,1,0,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Sacy,659,Sentinels,map,Gekko,0.95,153,15,19,8,-4,73%,117,38%,2,1,+1,Sunset,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Ethan,11225,NRG,map,Kayo,1.66,333,27,12,9,+15,81%,187,28%,1,0,+1,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Victor,261,NRG,map,Killjoy,1.15,191,16,10,2,+6,76%,136,22%,2,1,+1,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Demon1,26171,NRG,map,Jett,0.92,216,16,16,3,0,71%,154,36%,4,4,0,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,crashies,4,NRG,map,Sova,0.83,147,10,11,6,-1,76%,96,25%,2,4,-2,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Marved,263,NRG,map,Omen,0.60,129,8,16,9,-8,81%,75,35%,1,2,-1,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Kayo,1.21,213,17,14,7,+3,71%,118,20%,3,3,0,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,zekken,4004,Sentinels,map,Jett,1.00,225,16,17,3,-1,76%,147,17%,6,3,+3,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,TenZ,9,Sentinels,map,Omen,0.93,210,14,15,8,-1,81%,137,18%,2,0,+2,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Sacy,659,Sentinels,map,Sova,0.91,208,13,17,11,-4,62%,142,12%,0,2,-2,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Cypher,0.55,78,5,14,6,-9,52%,58,36%,0,2,-2,Ascent,NRG
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Marved,263,NRG,map,Viper,1.03,281,14,15,4,-1,63%,184,27%,1,2,-1,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Victor,261,NRG,map,Raze,0.76,200,11,13,0,-2,63%,136,15%,0,6,-6,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Demon1,26171,NRG,map,Omen,0.75,183,10,14,6,-4,63%,108,33%,2,3,-1,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,crashies,4,NRG,map,Breach,0.72,137,7,13,8,-6,63%,87,22%,0,2,-2,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Ethan,11225,NRG,map,Skye,0.52,145,6,14,5,-8,63%,115,22%,0,0,0,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,johnqt,1265,Sentinels,map,Cypher,1.80,287,18,7,5,+11,81%,192,20%,0,0,0,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Zellsis,729,Sentinels,map,Viper,1.54,273,15,8,7,+7,88%,153,14%,4,0,+4,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,Sacy,659,Sentinels,map,Skye,1.32,224,13,9,8,+4,75%,145,21%,0,1,-1,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,TenZ,9,Sentinels,map,Omen,1.21,229,13,11,6,+2,81%,144,20%,5,0,+5,Split,Sentinels
+303088,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Semifinals",2024-03-02 20:00:00,NRG,Sentinels,1 - 2,zekken,4004,Sentinels,map,Raze,0.60,181,10,13,3,-3,69%,118,34%,4,2,+2,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,overall,"Omen, Harbor, Brimstone",1.09,200,72,66,49,+6,71%,133,27%,5,6,-1,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,overall,Viper,1.03,192,66,68,21,-2,69%,136,38%,5,8,-3,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,overall,"Phoenix, Raze, Jett",0.95,217,78,80,18,-2,67%,143,31%,18,16,+2,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,overall,"Breach, Sova",0.92,183,68,75,26,-7,68%,115,26%,13,12,+1,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,overall,"Sova, Skye, Killjoy, Kayo",0.76,168,52,80,37,-28,71%,117,19%,8,9,-1,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,overall,"Omen, Kayo, Yoru",1.22,246,84,70,48,+14,80%,157,22%,16,16,0,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,overall,"Raze, Jett",1.11,246,83,69,23,+14,74%,150,25%,19,10,+9,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,overall,"Cypher, Viper",1.09,195,72,58,26,+14,80%,129,25%,4,8,-4,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,overall,"Gekko, Skye, Fade",0.98,204,65,69,49,-4,77%,137,29%,6,5,+1,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,overall,"Kayo, Viper, Killjoy, Brimstone",0.88,176,65,70,33,-5,71%,116,14%,6,10,-4,,
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,map,Viper,0.99,190,16,17,6,-1,82%,144,52%,0,0,0,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,map,Omen,0.92,219,16,17,8,-1,59%,150,33%,2,2,0,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,map,Phoenix,0.76,202,17,20,4,-3,64%,142,39%,5,5,0,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,map,Breach,0.70,161,12,18,6,-6,68%,108,28%,2,2,0,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,map,Sova,0.63,164,10,19,8,-9,68%,113,10%,0,4,-4,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,map,Omen,1.55,289,24,13,8,+11,77%,202,23%,1,3,-2,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,map,Gekko,1.52,276,23,13,10,+10,86%,192,35%,2,0,+2,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.13,235,18,14,4,+4,68%,137,24%,7,3,+4,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Cypher,0.94,180,14,14,8,0,77%,115,22%,1,2,-1,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Kayo,0.83,183,12,17,14,-5,73%,122,10%,2,1,+1,Sunset,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,map,Viper,1.15,225,10,12,4,-2,56%,171,34%,1,2,-1,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,map,Omen,0.87,147,8,11,4,-3,69%,95,19%,1,0,+1,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,map,Breach,0.76,139,8,13,2,-5,56%,79,27%,2,1,+1,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,map,Raze,0.49,136,7,13,1,-6,50%,94,21%,1,4,-3,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,map,Skye,0.16,72,3,15,2,-12,44%,48,13%,1,3,-2,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.53,275,16,7,3,+9,88%,169,25%,3,0,+3,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,map,Omen,1.50,272,16,7,4,+9,75%,174,23%,3,1,+2,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,map,Skye,1.21,239,13,9,9,+4,94%,148,26%,2,1,+1,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Viper,1.14,178,11,8,6,+3,75%,129,23%,1,3,-2,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Cypher,1.11,133,8,5,2,+3,88%,98,16%,1,1,0,Split,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,map,Harbor,1.24,173,17,12,13,+5,75%,123,25%,0,2,-2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,map,Viper,1.23,216,18,14,3,+4,79%,154,40%,3,1,+2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,map,Sova,1.21,218,18,14,7,+4,71%,154,19%,1,5,-4,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,map,Killjoy,1.08,214,16,16,6,0,71%,143,24%,3,1,+2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,map,Jett,0.82,188,16,19,2,-3,79%,117,33%,5,3,+2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,map,Kayo,1.17,210,16,17,20,-1,79%,132,16%,2,4,-2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Viper,1.14,230,19,14,8,+5,75%,146,22%,2,3,-1,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Killjoy,0.94,174,17,17,5,0,75%,109,10%,3,1,+2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,map,Jett,0.66,192,16,20,2,-4,67%,118,34%,3,1,+2,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,map,Gekko,0.48,106,7,17,5,-10,63%,69,23%,2,3,-1,Icebox,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,map,Phoenix,1.50,297,24,14,6,+10,76%,195,30%,4,2,+2,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,map,Brimstone,1.45,251,19,12,16,+7,86%,158,32%,1,0,+1,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,map,Breach,1.08,198,16,14,5,+2,62%,101,54%,4,1,+3,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,map,Kayo,1.03,216,13,15,15,-2,86%,152,24%,4,1,+3,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,map,Viper,0.68,98,8,12,5,-4,52%,51,20%,1,3,-2,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Viper,1.07,202,15,13,3,+2,71%,130,32%,0,2,-2,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.05,222,15,15,6,0,71%,141,23%,2,4,-2,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Brimstone,0.94,183,15,15,2,0,57%,123,28%,0,2,-2,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,map,Yoru,0.88,220,14,19,7,-5,76%,139,29%,5,5,0,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,map,Skye,0.58,154,8,18,10,-10,62%,116,27%,0,1,-1,Bind,LOUD
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Less,8447,LOUD,map,Viper,1.13,233,14,13,3,+1,71%,171,38%,0,2,-2,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Quick,1575,LOUD,map,Phoenix,1.12,262,14,14,5,0,59%,164,32%,3,2,+1,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,tuyz,2408,LOUD,map,Omen,0.90,208,12,14,8,-2,65%,131,23%,1,2,-1,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,cauanzin,6193,LOUD,map,Breach,0.79,201,14,16,6,-2,82%,120,18%,4,3,+1,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,saadhak,727,LOUD,map,Skye,0.69,174,10,15,6,-5,82%,107,21%,0,0,0,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.42,307,18,13,8,+5,82%,205,22%,4,2,+2,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Sacy,659,Sentinels,map,Fade,1.27,247,14,12,15,+2,88%,181,28%,0,0,0,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Viper,1.19,229,16,12,5,+4,94%,152,38%,0,0,0,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,TenZ,9,Sentinels,map,Omen,1.04,239,14,14,9,0,94%,141,20%,5,3,+2,Lotus,Sentinels
+303086,Champions Tour 2024: Americas Kickoff,"Playoffs: 
+						Grand Final",2024-03-03 17:00:00,LOUD,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Killjoy,0.58,164,10,13,6,-3,76%,99,4%,0,3,-3,Lotus,Sentinels

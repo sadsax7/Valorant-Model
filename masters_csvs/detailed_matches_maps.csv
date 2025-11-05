@@ -1,4 +1,1021 @@
 match_id,map_name,map_order,score,winner,duration,picked_by,tournament_name
+295605,Breeze,1,13 - 10,NRG,55:08,FURIA,Champions Tour 2024 Americas Kickoff_csvs
+295605,Ascent,2,13 - 8,NRG,48:14,NRG,Champions Tour 2024 Americas Kickoff_csvs
+295606,Bind,1,13 - 11,Cloud9,1:06:54,Cloud9,Champions Tour 2024 Americas Kickoff_csvs
+295606,Split,2,8 - 13,MIBR,47:29,MIBR,Champions Tour 2024 Americas Kickoff_csvs
+295606,Lotus,3,13 - 10,Cloud9,57:07,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295610,Split,1,13 - 11,LOUD,1:12:09,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+295610,Ascent,2,13 - 9,LOUD,51:45,LOUD,Champions Tour 2024 Americas Kickoff_csvs
+295611,Bind,1,13 - 9,LEVIATÁN,1:03:18,100 Thieves,Champions Tour 2024 Americas Kickoff_csvs
+295611,Split,2,3 - 13,100 Thieves,36:37,LEVIATÁN,Champions Tour 2024 Americas Kickoff_csvs
+295611,Icebox,3,13 - 11,LEVIATÁN,53:07,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295615,Icebox,1,13 - 9,KRÜ Esports,1:06:10,G2 Esports,Champions Tour 2024 Americas Kickoff_csvs
+295615,Sunset,2,9 - 13,G2 Esports,53:13,KRÜ Esports,Champions Tour 2024 Americas Kickoff_csvs
+295615,Ascent,3,11 - 13,G2 Esports,56:40,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295608,Split,1,9 - 13,MIBR,1:14:12,MIBR,Champions Tour 2024 Americas Kickoff_csvs
+295608,Breeze,2,11 - 13,MIBR,56:26,FURIA,Champions Tour 2024 Americas Kickoff_csvs
+295613,Lotus,1,13 - 5,Sentinels,49:56,100 Thieves,Champions Tour 2024 Americas Kickoff_csvs
+295613,Bind,2,6 - 13,100 Thieves,44:57,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+295613,Split,3,13 - 8,Sentinels,45:29,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295607,Sunset,1,13 - 7,NRG,1:00:41,Cloud9,Champions Tour 2024 Americas Kickoff_csvs
+295607,Ascent,2,14 - 12,NRG,58:34,NRG,Champions Tour 2024 Americas Kickoff_csvs
+295612,Bind,1,11 - 13,LEVIATÁN,1:11:38,LEVIATÁN,Champions Tour 2024 Americas Kickoff_csvs
+295612,Split,2,13 - 10,LOUD,58:10,LOUD,Champions Tour 2024 Americas Kickoff_csvs
+295612,Ascent,3,13 - 7,LOUD,50:10,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295617,Sunset,1,13 - 15,Evil Geniuses,1:18:54,G2 Esports,Champions Tour 2024 Americas Kickoff_csvs
+295617,Icebox,2,11 - 13,Evil Geniuses,1:01:40,Evil Geniuses,Champions Tour 2024 Americas Kickoff_csvs
+295609,Bind,1,12 - 14,MIBR,1:16:03,Cloud9,Champions Tour 2024 Americas Kickoff_csvs
+295609,Ascent,2,9 - 13,MIBR,56:21,MIBR,Champions Tour 2024 Americas Kickoff_csvs
+295614,Split,1,3 - 13,Sentinels,50:11,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+295614,Breeze,2,13 - 6,LEVIATÁN,45:00,LEVIATÁN,Champions Tour 2024 Americas Kickoff_csvs
+295614,Bind,3,9 - 13,Sentinels,52:54,Decider,Champions Tour 2024 Americas Kickoff_csvs
+295619,Split,1,13 - 8,G2 Esports,58:24,KRÜ Esports,Champions Tour 2024 Americas Kickoff_csvs
+295619,Sunset,2,13 - 8,G2 Esports,45:29,G2 Esports,Champions Tour 2024 Americas Kickoff_csvs
+307572,Split,1,7 - 13,Sentinels,1:01:27,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+307572,Ascent,2,6 - 13,Sentinels,45:03,MIBR,Champions Tour 2024 Americas Kickoff_csvs
+307573,Sunset,1,9 - 13,MIBR,1:00:34,G2 Esports,Champions Tour 2024 Americas Kickoff_csvs
+307573,Split,2,15 - 13,G2 Esports,1:08:34,MIBR,Champions Tour 2024 Americas Kickoff_csvs
+307573,Breeze,3,10 - 13,MIBR,59:07,Decider,Champions Tour 2024 Americas Kickoff_csvs
+307574,Sunset,1,13 - 8,Sentinels,54:28,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+307574,Breeze,2,9 - 13,G2 Esports,47:08,G2 Esports,Champions Tour 2024 Americas Kickoff_csvs
+307574,Split,3,9 - 13,G2 Esports,52:50,Decider,Champions Tour 2024 Americas Kickoff_csvs
+303087,Ascent,1,13 - 7,Evil Geniuses,58:24,LOUD,Champions Tour 2024 Americas Kickoff_csvs
+303087,Icebox,2,7 - 13,LOUD,47:45,Evil Geniuses,Champions Tour 2024 Americas Kickoff_csvs
+303087,Sunset,3,5 - 13,LOUD,40:45,Decider,Champions Tour 2024 Americas Kickoff_csvs
+303088,Sunset,1,14 - 16,Sentinels,1:17:21,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+303088,Ascent,2,13 - 8,NRG,53:29,NRG,Champions Tour 2024 Americas Kickoff_csvs
+303088,Split,3,3 - 13,Sentinels,40:57,Decider,Champions Tour 2024 Americas Kickoff_csvs
+303086,Sunset,1,9 - 13,Sentinels,1:11:51,LOUD,Champions Tour 2024 Americas Kickoff_csvs
+303086,Split,2,3 - 13,Sentinels,41:08,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+303086,Icebox,3,13 - 11,LOUD,53:28,LOUD,Champions Tour 2024 Americas Kickoff_csvs
+303086,Bind,4,13 - 8,LOUD,51:03,Sentinels,Champions Tour 2024 Americas Kickoff_csvs
+303086,Lotus,5,4 - 13,Sentinels,44:02,Decider,Champions Tour 2024 Americas Kickoff_csvs
+314622,Icebox,1,7 - 13,LEVIATÁN,1:10:08,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314622,Sunset,2,13 - 7,Cloud9,46:48,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+314622,Ascent,3,18 - 16,Cloud9,1:24:47,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314623,Breeze,1,13 - 10,NRG,1:00:38,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314623,Sunset,2,13 - 2,NRG,34:00,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+314624,Lotus,1,13 - 8,G2 Esports,1:07:29,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314624,Icebox,2,13 - 3,G2 Esports,35:03,Evil Geniuses,Champions Tour 2024 Americas Stage 1_csvs
+314625,Icebox,1,13 - 10,Sentinels,58:12,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+314625,Split,2,13 - 6,Sentinels,42:13,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314626,Lotus,1,13 - 7,KRÜ Esports,1:04:32,FURIA,Champions Tour 2024 Americas Stage 1_csvs
+314626,Icebox,2,11 - 13,FURIA,57:28,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314626,Breeze,3,13 - 7,KRÜ Esports,46:56,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314628,Bind,1,9 - 13,100 Thieves,1:05:47,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+314628,Split,2,8 - 13,100 Thieves,51:54,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314629,Lotus,1,17 - 19,LEVIATÁN,1:34:28,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314629,Icebox,2,11 - 13,LEVIATÁN,57:07,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+314630,Icebox,1,13 - 6,KRÜ Esports,57:37,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314630,Sunset,2,13 - 8,KRÜ Esports,50:56,MIBR,Champions Tour 2024 Americas Stage 1_csvs
+314631,Split,1,13 - 2,NRG,39:25,FURIA,Champions Tour 2024 Americas Stage 1_csvs
+314631,Breeze,2,13 - 8,NRG,49:22,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314632,Lotus,1,9 - 13,Evil Geniuses,1:05:20,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314632,Sunset,2,13 - 8,Cloud9,47:01,Evil Geniuses,Champions Tour 2024 Americas Stage 1_csvs
+314632,Split,3,13 - 4,Cloud9,43:01,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314634,Lotus,1,13 - 3,Sentinels,1:12:29,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314634,Bind,2,13 - 7,Sentinels,47:40,MIBR,Champions Tour 2024 Americas Stage 1_csvs
+314635,Bind,1,11 - 13,LOUD,1:07:22,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314635,Icebox,2,13 - 4,Cloud9,42:07,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+314635,Lotus,3,13 - 9,Cloud9,53:49,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314636,Lotus,1,13 - 5,KRÜ Esports,59:35,Evil Geniuses,Champions Tour 2024 Americas Stage 1_csvs
+314636,Breeze,2,13 - 9,KRÜ Esports,47:45,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314637,Sunset,1,4 - 13,LEVIATÁN,45:35,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314637,Bind,2,4 - 13,LEVIATÁN,38:35,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+314638,Lotus,1,13 - 3,G2 Esports,47:55,FURIA,Champions Tour 2024 Americas Stage 1_csvs
+314638,Icebox,2,13 - 3,G2 Esports,38:36,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314639,Bind,1,7 - 13,100 Thieves,54:12,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+314639,Ascent,2,6 - 13,100 Thieves,41:26,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314640,Lotus,1,13 - 10,Sentinels,1:11:33,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314640,Bind,2,11 - 13,Evil Geniuses,59:51,Evil Geniuses,Champions Tour 2024 Americas Stage 1_csvs
+314640,Sunset,3,10 - 13,Evil Geniuses,49:10,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314641,Split,1,13 - 9,NRG,1:06:27,MIBR,Champions Tour 2024 Americas Stage 1_csvs
+314641,Breeze,2,13 - 3,NRG,41:47,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314642,Breeze,1,6 - 13,LEVIATÁN,56:54,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+314642,Icebox,2,13 - 8,G2 Esports,48:29,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314642,Lotus,3,9 - 13,LEVIATÁN,50:09,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314643,Split,1,13 - 8,KRÜ Esports,59:49,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314643,Ascent,2,13 - 8,KRÜ Esports,48:36,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+314644,Icebox,1,13 - 9,G2 Esports,1:05:19,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314644,Bind,2,13 - 3,G2 Esports,36:16,MIBR,Champions Tour 2024 Americas Stage 1_csvs
+314645,Lotus,1,7 - 13,LOUD,58:18,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314645,Icebox,2,8 - 13,LOUD,50:43,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+314646,Ascent,1,2 - 13,FURIA,55:52,FURIA,Champions Tour 2024 Americas Stage 1_csvs
+314646,Lotus,2,13 - 3,Cloud9,39:13,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314646,Bind,3,13 - 8,Cloud9,47:52,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314647,Ascent,1,6 - 13,Evil Geniuses,49:29,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314647,Lotus,2,16 - 14,NRG,1:10:07,Evil Geniuses,Champions Tour 2024 Americas Stage 1_csvs
+314647,Sunset,3,11 - 13,Evil Geniuses,52:42,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314648,Sunset,1,13 - 7,KRÜ Esports,1:01:22,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+314648,Breeze,2,11 - 13,100 Thieves,52:17,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314648,Split,3,13 - 8,KRÜ Esports,46:27,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314650,Split,1,13 - 5,Sentinels,55:35,Sentinels,Champions Tour 2024 Americas Stage 1_csvs
+314650,Icebox,2,13 - 9,Sentinels,49:45,FURIA,Champions Tour 2024 Americas Stage 1_csvs
+314651,Split,1,8 - 13,100 Thieves,1:07:23,NRG,Champions Tour 2024 Americas Stage 1_csvs
+314651,Bind,2,7 - 13,100 Thieves,41:28,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+314652,Ascent,1,4 - 13,LEVIATÁN,49:35,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+314652,Breeze,2,14 - 12,KRÜ Esports,57:36,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+314652,Lotus,3,10 - 13,LEVIATÁN,52:38,Decider,Champions Tour 2024 Americas Stage 1_csvs
+314653,Icebox,1,14 - 12,Cloud9,1:14:20,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+314653,Sunset,2,13 - 9,Cloud9,50:41,MIBR,Champions Tour 2024 Americas Stage 1_csvs
+314654,Bind,1,11 - 13,LOUD,1:03:19,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+314654,Icebox,2,4 - 13,LOUD,37:34,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+337407,Lotus,1,6 - 13,G2 Esports,1:00:00,Cloud9,Champions Tour 2024 Americas Stage 1_csvs
+337407,Ascent,2,13 - 15,G2 Esports,1:02:00,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337408,Bind,1,13 - 6,100 Thieves,49:02,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+337408,Icebox,2,13 - 4,100 Thieves,39:43,LOUD,Champions Tour 2024 Americas Stage 1_csvs
+337409,Icebox,1,5 - 13,G2 Esports,53:51,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+337409,Ascent,2,8 - 13,G2 Esports,44:12,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337410,Bind,1,3 - 13,100 Thieves,46:58,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+337410,Sunset,2,14 - 12,LEVIATÁN,55:17,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+337410,Icebox,3,10 - 13,100 Thieves,49:19,Decider,Champions Tour 2024 Americas Stage 1_csvs
+337411,Ascent,1,5 - 13,100 Thieves,51:44,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337411,Bind,2,13 - 8,G2 Esports,43:17,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+337411,Split,3,11 - 13,100 Thieves,51:20,Decider,Champions Tour 2024 Americas Stage 1_csvs
+337413,Lotus,1,13 - 6,KRÜ Esports,50:24,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+337413,Icebox,2,11 - 13,LEVIATÁN,51:16,KRÜ Esports,Champions Tour 2024 Americas Stage 1_csvs
+337413,Sunset,3,8 - 13,LEVIATÁN,52:15,Decider,Champions Tour 2024 Americas Stage 1_csvs
+337414,Bind,1,12 - 14,LEVIATÁN,1:13:17,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337414,Breeze,2,13 - 7,G2 Esports,1:17:44,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+337414,Icebox,3,12 - 14,LEVIATÁN,1:00:56,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337414,Lotus,4,13 - 10,G2 Esports,54:40,LEVIATÁN,Champions Tour 2024 Americas Stage 1_csvs
+337414,Ascent,5,13 - 11,G2 Esports,54:43,Decider,Champions Tour 2024 Americas Stage 1_csvs
+337412,Bind,1,13 - 9,100 Thieves,1:04:29,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+337412,Breeze,2,13 - 7,100 Thieves,47:17,G2 Esports,Champions Tour 2024 Americas Stage 1_csvs
+337412,Sunset,3,13 - 8,100 Thieves,42:51,100 Thieves,Champions Tour 2024 Americas Stage 1_csvs
+353177,Ascent,1,9 - 13,LEVIATÁN,1:05:24,MIBR,Champions Tour 2024 Americas Stage 2_csvs
+353177,Icebox,2,7 - 13,LEVIATÁN,45:04,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+353178,Lotus,1,13 - 8,Sentinels,59:21,NRG,Champions Tour 2024 Americas Stage 2_csvs
+353178,Sunset,2,14 - 12,Sentinels,1:00:54,Sentinels,Champions Tour 2024 Americas Stage 2_csvs
+353179,Icebox,1,14 - 12,FURIA,1:12:51,FURIA,Champions Tour 2024 Americas Stage 2_csvs
+353179,Haven,2,16 - 14,FURIA,1:00:50,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+353180,Lotus,1,13 - 7,LOUD,52:39,LOUD,Champions Tour 2024 Americas Stage 2_csvs
+353180,Sunset,2,6 - 13,Evil Geniuses,40:31,Evil Geniuses,Champions Tour 2024 Americas Stage 2_csvs
+353180,Icebox,3,11 - 13,Evil Geniuses,55:13,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353181,Ascent,1,13 - 11,G2 Esports,1:05:05,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+353181,Icebox,2,5 - 13,Cloud9,40:43,Cloud9,Champions Tour 2024 Americas Stage 2_csvs
+353181,Lotus,3,13 - 8,G2 Esports,48:18,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353182,Bind,1,13 - 5,Evil Geniuses,58:58,FURIA,Champions Tour 2024 Americas Stage 2_csvs
+353182,Lotus,2,13 - 4,Evil Geniuses,35:13,Evil Geniuses,Champions Tour 2024 Americas Stage 2_csvs
+353183,Lotus,1,13 - 11,Sentinels,1:06:41,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+353183,Split,2,13 - 10,Sentinels,55:13,Sentinels,Champions Tour 2024 Americas Stage 2_csvs
+353184,Ascent,1,13 - 7,LOUD,59:21,MIBR,Champions Tour 2024 Americas Stage 2_csvs
+353184,Lotus,2,11 - 13,MIBR,52:28,LOUD,Champions Tour 2024 Americas Stage 2_csvs
+353184,Sunset,3,13 - 9,LOUD,52:18,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353185,Bind,1,13 - 10,LEVIATÁN,59:38,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+353185,Haven,2,13 - 4,LEVIATÁN,36:19,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+353186,Haven,1,7 - 13,G2 Esports,1:02:34,NRG,Champions Tour 2024 Americas Stage 2_csvs
+353186,Bind,2,8 - 13,G2 Esports,50:39,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+353187,Haven,1,13 - 5,Sentinels,48:41,Cloud9,Champions Tour 2024 Americas Stage 2_csvs
+353187,Split,2,13 - 8,Sentinels,49:09,Sentinels,Champions Tour 2024 Americas Stage 2_csvs
+353188,Icebox,1,5 - 13,LEVIATÁN,53:43,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+353188,Sunset,2,10 - 13,LEVIATÁN,52:28,Evil Geniuses,Champions Tour 2024 Americas Stage 2_csvs
+353189,Haven,1,13 - 11,LOUD,1:00:10,LOUD,Champions Tour 2024 Americas Stage 2_csvs
+353189,Icebox,2,10 - 13,FURIA,53:14,FURIA,Champions Tour 2024 Americas Stage 2_csvs
+353189,Bind,3,9 - 13,FURIA,48:17,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353190,Icebox,1,5 - 13,100 Thieves,48:49,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+353190,Split,2,6 - 13,100 Thieves,42:19,MIBR,Champions Tour 2024 Americas Stage 2_csvs
+353191,Split,1,8 - 13,KRÜ Esports,1:02:24,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+353191,Ascent,2,13 - 8,NRG,44:41,NRG,Champions Tour 2024 Americas Stage 2_csvs
+353191,Sunset,3,13 - 7,NRG,46:52,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353192,Lotus,1,4 - 13,KRÜ Esports,54:52,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+353192,Ascent,2,16 - 14,G2 Esports,1:11:55,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+353192,Split,3,13 - 5,G2 Esports,45:04,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353193,Lotus,1,11 - 13,LEVIATÁN,59:52,LOUD,Champions Tour 2024 Americas Stage 2_csvs
+353193,Icebox,2,6 - 13,LEVIATÁN,44:17,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+353194,Sunset,1,10 - 13,FURIA,1:02:30,MIBR,Champions Tour 2024 Americas Stage 2_csvs
+353194,Icebox,2,7 - 13,FURIA,43:02,FURIA,Champions Tour 2024 Americas Stage 2_csvs
+353195,Ascent,1,13 - 3,NRG,43:47,NRG,Champions Tour 2024 Americas Stage 2_csvs
+353195,Icebox,2,10 - 13,Cloud9,49:20,Cloud9,Champions Tour 2024 Americas Stage 2_csvs
+353195,Sunset,3,12 - 14,Cloud9,59:18,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353196,Lotus,1,10 - 13,100 Thieves,1:06:50,Evil Geniuses,Champions Tour 2024 Americas Stage 2_csvs
+353196,Bind,2,13 - 10,Evil Geniuses,55:39,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+353196,Ascent,3,7 - 13,100 Thieves,46:01,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353197,Icebox,1,7 - 13,KRÜ Esports,56:41,Cloud9,Champions Tour 2024 Americas Stage 2_csvs
+353197,Split,2,10 - 13,KRÜ Esports,56:12,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+353198,Bind,1,9 - 13,MIBR,1:06:32,Evil Geniuses,Champions Tour 2024 Americas Stage 2_csvs
+353198,Lotus,2,2 - 13,MIBR,35:45,MIBR,Champions Tour 2024 Americas Stage 2_csvs
+353199,Sunset,1,13 - 6,LEVIATÁN,49:59,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+353199,Icebox,2,13 - 6,LEVIATÁN,46:19,FURIA,Champions Tour 2024 Americas Stage 2_csvs
+353200,Ascent,1,1 - 13,100 Thieves,41:31,LOUD,Champions Tour 2024 Americas Stage 2_csvs
+353200,Bind,2,13 - 8,LOUD,43:12,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+353200,Lotus,3,13 - 10,LOUD,52:22,Decider,Champions Tour 2024 Americas Stage 2_csvs
+353201,Bind,1,6 - 13,G2 Esports,1:31:34,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+353201,Lotus,2,9 - 13,G2 Esports,57:39,Sentinels,Champions Tour 2024 Americas Stage 2_csvs
+371266,Abyss,1,13 - 11,KRÜ Esports,1:08:52,Cloud9,Champions Tour 2024 Americas Stage 2_csvs
+371266,Lotus,2,11 - 13,Cloud9,54:08,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+371266,Haven,3,13 - 6,KRÜ Esports,42:28,Decider,Champions Tour 2024 Americas Stage 2_csvs
+371267,Haven,1,7 - 13,100 Thieves,53:06,Sentinels,Champions Tour 2024 Americas Stage 2_csvs
+371267,Ascent,2,10 - 13,100 Thieves,58:07,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+371268,Icebox,1,13 - 2,LEVIATÁN,45:43,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+371268,Sunset,2,13 - 4,LEVIATÁN,36:24,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+371269,Lotus,1,13 - 5,G2 Esports,54:34,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+371269,Abyss,2,13 - 10,G2 Esports,56:19,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+371270,Icebox,1,8 - 13,G2 Esports,47:26,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+371270,Bind,2,6 - 13,G2 Esports,42:44,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+371272,Icebox,1,9 - 13,100 Thieves,1:02:09,100 Thieves,Champions Tour 2024 Americas Stage 2_csvs
+371272,Lotus,2,13 - 11,KRÜ Esports,59:56,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+371272,Ascent,3,13 - 11,KRÜ Esports,1:02:45,Decider,Champions Tour 2024 Americas Stage 2_csvs
+371273,Icebox,1,13 - 3,LEVIATÁN,50:11,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+371273,Haven,2,11 - 13,KRÜ Esports,50:43,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+371273,Sunset,3,7 - 13,KRÜ Esports,46:10,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+371273,Abyss,4,13 - 10,LEVIATÁN,55:47,KRÜ Esports,Champions Tour 2024 Americas Stage 2_csvs
+371273,Ascent,5,13 - 10,LEVIATÁN,57:46,Decider,Champions Tour 2024 Americas Stage 2_csvs
+371271,Lotus,1,13 - 15,LEVIATÁN,1:16:53,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+371271,Haven,2,14 - 16,LEVIATÁN,1:07:32,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+371271,Bind,3,13 - 9,G2 Esports,51:37,G2 Esports,Champions Tour 2024 Americas Stage 2_csvs
+371271,Ascent,4,4 - 13,LEVIATÁN,40:13,LEVIATÁN,Champions Tour 2024 Americas Stage 2_csvs
+298687,Ascent,1,13 - 4,Trace Esports,-,TYLOO,Champions Tour 2024 China Kickoff_csvs
+298687,Sunset,2,13 - 3,Trace Esports,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298688,Lotus,1,13 - 5,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Kickoff_csvs
+298688,Sunset,2,13 - 10,FunPlus Phoenix,-,Nova Esports,Champions Tour 2024 China Kickoff_csvs
+298692,Lotus,1,8 - 13,Titan Esports Club,-,JDG Esports,Champions Tour 2024 China Kickoff_csvs
+298692,Bind,2,14 - 16,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Kickoff_csvs
+298693,Sunset,1,13 - 11,Dragon Ranger Gaming,-,All Gamers,Champions Tour 2024 China Kickoff_csvs
+298693,Ascent,2,13 - 4,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Kickoff_csvs
+298697,Ascent,1,9 - 13,Wolves Esports,-,Bilibili Gaming,Champions Tour 2024 China Kickoff_csvs
+298697,Icebox,2,7 - 13,Wolves Esports,-,Wolves Esports,Champions Tour 2024 China Kickoff_csvs
+298690,Ascent,1,11 - 13,Nova Esports,-,TYLOO,Champions Tour 2024 China Kickoff_csvs
+298690,Split,2,11 - 13,Nova Esports,-,Nova Esports,Champions Tour 2024 China Kickoff_csvs
+298695,Icebox,1,13 - 11,JDG Esports,-,All Gamers,Champions Tour 2024 China Kickoff_csvs
+298695,Sunset,2,13 - 8,JDG Esports,-,JDG Esports,Champions Tour 2024 China Kickoff_csvs
+298689,Sunset,1,11 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Kickoff_csvs
+298689,Bind,2,13 - 11,Trace Esports,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298689,Lotus,3,10 - 13,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298694,Icebox,1,11 - 13,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Kickoff_csvs
+298694,Split,2,13 - 8,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Kickoff_csvs
+298694,Bind,3,10 - 13,Dragon Ranger Gaming,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298698,Bind,1,10 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Kickoff_csvs
+298698,Ascent,2,13 - 10,Wolves Esports,-,Wolves Esports,Champions Tour 2024 China Kickoff_csvs
+298698,Breeze,3,11 - 13,EDward Gaming,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298691,Split,1,13 - 5,Trace Esports,-,Nova Esports,Champions Tour 2024 China Kickoff_csvs
+298691,Lotus,2,13 - 4,Trace Esports,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298696,Bind,1,5 - 13,JDG Esports,-,JDG Esports,Champions Tour 2024 China Kickoff_csvs
+298696,Icebox,2,14 - 12,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Kickoff_csvs
+298696,Lotus,3,13 - 10,Titan Esports Club,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298699,Sunset,1,9 - 13,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Kickoff_csvs
+298699,Icebox,2,10 - 13,Bilibili Gaming,-,Wolves Esports,Champions Tour 2024 China Kickoff_csvs
+298830,Breeze,1,16 - 18,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Kickoff_csvs
+298830,Lotus,2,13 - 6,Trace Esports,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298830,Split,3,13 - 8,Trace Esports,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298831,Lotus,1,13 - 3,Bilibili Gaming,-,Titan Esports Club,Champions Tour 2024 China Kickoff_csvs
+298831,Ascent,2,13 - 8,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Kickoff_csvs
+298832,Lotus,1,13 - 11,Bilibili Gaming,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298832,Sunset,2,13 - 15,Trace Esports,-,Bilibili Gaming,Champions Tour 2024 China Kickoff_csvs
+298832,Bind,3,12 - 14,Trace Esports,-,Decider,Champions Tour 2024 China Kickoff_csvs
+298833,Ascent,1,13 - 10,FunPlus Phoenix,-,Dragon Ranger Gaming,Champions Tour 2024 China Kickoff_csvs
+298833,Breeze,2,13 - 6,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Kickoff_csvs
+298834,Sunset,1,14 - 12,EDward Gaming,-,Trace Esports,Champions Tour 2024 China Kickoff_csvs
+298834,Bind,2,13 - 6,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Kickoff_csvs
+298835,Breeze,1,12 - 14,EDward Gaming,-,FunPlus Phoenix,Champions Tour 2024 China Kickoff_csvs
+298835,Split,2,6 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Kickoff_csvs
+298835,Icebox,3,13 - 8,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Kickoff_csvs
+298835,Ascent,4,14 - 16,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Kickoff_csvs
+319765,Bind,1,3 - 13,TYLOO,-,TYLOO,Champions Tour 2024 China Stage 1_csvs
+319765,Icebox,2,13 - 6,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319765,Lotus,3,13 - 6,Bilibili Gaming,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319766,Split,1,13 - 5,Wolves Esports,-,Titan Esports Club,Champions Tour 2024 China Stage 1_csvs
+319766,Bind,2,12 - 14,Titan Esports Club,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319766,Lotus,3,10 - 13,Titan Esports Club,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319767,Icebox,1,13 - 11,Dragon Ranger Gaming,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+319767,Sunset,2,11 - 13,All Gamers,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319767,Breeze,3,8 - 13,All Gamers,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319768,Ascent,1,13 - 5,EDward Gaming,-,JDG Esports,Champions Tour 2024 China Stage 1_csvs
+319768,Bind,2,9 - 13,JDG Esports,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+319768,Split,3,13 - 11,EDward Gaming,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319769,Lotus,1,5 - 13,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+319769,Ascent,2,9 - 13,Trace Esports,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319770,Ascent,1,13 - 8,FunPlus Phoenix,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319770,Lotus,2,13 - 7,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+319771,Sunset,1,13 - 8,JDG Esports,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319771,Bind,2,9 - 13,Nova Esports,-,JDG Esports,Champions Tour 2024 China Stage 1_csvs
+319771,Ascent,3,4 - 13,Nova Esports,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319772,Breeze,1,13 - 11,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+319772,Icebox,2,9 - 13,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319772,Sunset,3,13 - 3,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319773,Breeze,1,9 - 13,Wolves Esports,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+319773,Icebox,2,12 - 14,Wolves Esports,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319774,Split,1,11 - 13,Bilibili Gaming,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+319774,Breeze,2,13 - 7,Trace Esports,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319774,Bind,3,13 - 7,Trace Esports,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319775,Breeze,1,4 - 13,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Stage 1_csvs
+319775,Split,2,13 - 7,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319775,Icebox,3,13 - 5,Dragon Ranger Gaming,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319776,Sunset,1,5 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+319776,Bind,2,10 - 13,EDward Gaming,-,TYLOO,Champions Tour 2024 China Stage 1_csvs
+319777,Ascent,1,9 - 13,Trace Esports,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319777,Lotus,2,9 - 13,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+319778,Ascent,1,6 - 13,FunPlus Phoenix,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319778,Lotus,2,4 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+319779,Lotus,1,11 - 13,All Gamers,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319779,Bind,2,7 - 13,All Gamers,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+319780,Breeze,1,13 - 7,Dragon Ranger Gaming,-,JDG Esports,Champions Tour 2024 China Stage 1_csvs
+319780,Icebox,2,5 - 13,JDG Esports,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319780,Bind,3,14 - 12,Dragon Ranger Gaming,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319781,Icebox,1,10 - 13,Nova Esports,-,TYLOO,Champions Tour 2024 China Stage 1_csvs
+319781,Ascent,2,14 - 12,TYLOO,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319781,Split,3,13 - 9,TYLOO,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319782,Ascent,1,13 - 5,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+319782,Sunset,2,13 - 5,EDward Gaming,-,Titan Esports Club,Champions Tour 2024 China Stage 1_csvs
+319783,Sunset,1,13 - 11,Titan Esports Club,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319783,Bind,2,8 - 13,Bilibili Gaming,-,Titan Esports Club,Champions Tour 2024 China Stage 1_csvs
+319783,Icebox,3,13 - 6,Titan Esports Club,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319784,Breeze,1,7 - 13,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319784,Sunset,2,10 - 13,Dragon Ranger Gaming,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+319785,Sunset,1,11 - 13,Wolves Esports,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319785,Split,2,13 - 7,TYLOO,-,TYLOO,Champions Tour 2024 China Stage 1_csvs
+319785,Ascent,3,10 - 13,Wolves Esports,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319786,Breeze,1,4 - 13,EDward Gaming,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+319786,Bind,2,13 - 11,FunPlus Phoenix,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+319786,Ascent,3,13 - 4,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319787,Lotus,1,16 - 14,All Gamers,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+319787,Bind,2,10 - 13,Nova Esports,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319787,Split,3,13 - 7,All Gamers,-,Decider,Champions Tour 2024 China Stage 1_csvs
+319788,Icebox,1,13 - 8,Bilibili Gaming,-,JDG Esports,Champions Tour 2024 China Stage 1_csvs
+319788,Lotus,2,13 - 10,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319789,Sunset,1,13 - 6,EDward Gaming,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+319789,Icebox,2,13 - 5,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+319790,Lotus,1,8 - 13,JDG Esports,-,JDG Esports,Champions Tour 2024 China Stage 1_csvs
+319790,Ascent,2,1 - 13,JDG Esports,-,Wolves Esports,Champions Tour 2024 China Stage 1_csvs
+319791,Bind,1,10 - 13,TYLOO,-,TYLOO,Champions Tour 2024 China Stage 1_csvs
+319791,Breeze,2,8 - 13,TYLOO,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+319792,Icebox,1,2 - 13,FunPlus Phoenix,-,Bilibili Gaming,Champions Tour 2024 China Stage 1_csvs
+319792,Lotus,2,6 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+319793,Split,1,13 - 6,Nova Esports,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+319793,Lotus,2,13 - 6,Nova Esports,-,Titan Esports Club,Champions Tour 2024 China Stage 1_csvs
+319794,Sunset,1,13 - 15,EDward Gaming,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+319794,Breeze,2,12 - 14,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342356,Sunset,1,13 - 9,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+342356,Breeze,2,13 - 7,Trace Esports,-,All Gamers,Champions Tour 2024 China Stage 1_csvs
+342357,Bind,1,13 - 8,Dragon Ranger Gaming,-,Nova Esports,Champions Tour 2024 China Stage 1_csvs
+342357,Ascent,2,13 - 7,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+342358,Bind,1,13 - 10,FunPlus Phoenix,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+342358,Lotus,2,13 - 8,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+342359,Ascent,1,13 - 3,EDward Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+342359,Split,2,13 - 9,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342360,Icebox,1,13 - 10,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+342360,Breeze,2,14 - 12,FunPlus Phoenix,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342361,Sunset,1,13 - 6,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 1_csvs
+342361,Split,2,8 - 13,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+342361,Bind,3,7 - 13,Dragon Ranger Gaming,-,Decider,Champions Tour 2024 China Stage 1_csvs
+342362,Breeze,1,13 - 10,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342362,Split,2,13 - 3,EDward Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+342362,Ascent,3,2 - 13,Dragon Ranger Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342362,Bind,4,13 - 6,EDward Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 1_csvs
+342363,Lotus,1,13 - 6,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+342363,Bind,2,9 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+342363,Icebox,3,12 - 14,EDward Gaming,-,FunPlus Phoenix,Champions Tour 2024 China Stage 1_csvs
+342363,Breeze,4,8 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 1_csvs
+359603,Icebox,1,12 - 14,JDG Esports,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+359603,Lotus,2,11 - 13,JDG Esports,-,Titan Esports Club,Champions Tour 2024 China Stage 2_csvs
+359604,Sunset,1,13 - 10,All Gamers,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+359604,Icebox,2,13 - 4,All Gamers,-,TYLOO,Champions Tour 2024 China Stage 2_csvs
+359605,Sunset,1,13 - 5,Bilibili Gaming,-,Wolves Esports,Champions Tour 2024 China Stage 2_csvs
+359605,Bind,2,13 - 7,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+359606,Ascent,1,13 - 7,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 2_csvs
+359606,Lotus,2,12 - 14,Nova Esports,-,Nova Esports,Champions Tour 2024 China Stage 2_csvs
+359606,Sunset,3,5 - 13,Nova Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359607,Haven,1,13 - 5,FunPlus Phoenix,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+359607,Lotus,2,13 - 15,Trace Esports,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+359607,Sunset,3,6 - 13,Trace Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359608,Sunset,1,10 - 13,All Gamers,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+359608,Icebox,2,6 - 13,All Gamers,-,Titan Esports Club,Champions Tour 2024 China Stage 2_csvs
+359609,Split,1,13 - 7,EDward Gaming,-,Wolves Esports,Champions Tour 2024 China Stage 2_csvs
+359609,Bind,2,12 - 14,Wolves Esports,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+359609,Icebox,3,7 - 13,Wolves Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359610,Split,1,11 - 13,Trace Esports,-,TYLOO,Champions Tour 2024 China Stage 2_csvs
+359610,Sunset,2,13 - 7,TYLOO,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+359610,Haven,3,4 - 13,Trace Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359611,Split,1,16 - 14,Nova Esports,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+359611,Bind,2,9 - 13,Bilibili Gaming,-,Nova Esports,Champions Tour 2024 China Stage 2_csvs
+359611,Ascent,3,6 - 13,Bilibili Gaming,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359612,Sunset,1,8 - 13,FunPlus Phoenix,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+359612,Haven,2,12 - 14,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+359613,Lotus,1,11 - 13,Dragon Ranger Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+359613,Haven,2,5 - 13,Dragon Ranger Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 2_csvs
+359614,Icebox,1,14 - 12,Nova Esports,-,Wolves Esports,Champions Tour 2024 China Stage 2_csvs
+359614,Sunset,2,15 - 13,Nova Esports,-,Nova Esports,Champions Tour 2024 China Stage 2_csvs
+359615,Bind,1,13 - 2,JDG Esports,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+359615,Sunset,2,8 - 13,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+359615,Haven,3,13 - 6,JDG Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359616,Bind,1,11 - 13,TYLOO,-,Titan Esports Club,Champions Tour 2024 China Stage 2_csvs
+359616,Ascent,2,13 - 9,Titan Esports Club,-,TYLOO,Champions Tour 2024 China Stage 2_csvs
+359616,Icebox,3,9 - 13,TYLOO,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359617,Sunset,1,11 - 13,FunPlus Phoenix,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+359617,Haven,2,13 - 8,All Gamers,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+359617,Ascent,3,7 - 13,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359618,Lotus,1,13 - 11,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+359618,Ascent,2,13 - 11,Bilibili Gaming,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 2_csvs
+359619,Lotus,1,13 - 9,EDward Gaming,-,Nova Esports,Champions Tour 2024 China Stage 2_csvs
+359619,Bind,2,13 - 6,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+359621,Haven,1,6 - 13,Trace Esports,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+359621,Sunset,2,4 - 13,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+359622,Lotus,1,13 - 9,Titan Esports Club,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+359622,Sunset,2,13 - 6,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Stage 2_csvs
+359623,Haven,1,1 - 13,JDG Esports,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+359623,Icebox,2,9 - 13,JDG Esports,-,TYLOO,Champions Tour 2024 China Stage 2_csvs
+359624,Icebox,1,7 - 13,Wolves Esports,-,Wolves Esports,Champions Tour 2024 China Stage 2_csvs
+359624,Ascent,2,6 - 13,Wolves Esports,-,Dragon Ranger Gaming,Champions Tour 2024 China Stage 2_csvs
+359625,Lotus,1,13 - 11,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+359625,Bind,2,8 - 13,Titan Esports Club,-,Titan Esports Club,Champions Tour 2024 China Stage 2_csvs
+359625,Haven,3,13 - 10,Trace Esports,-,Decider,Champions Tour 2024 China Stage 2_csvs
+359626,Icebox,1,13 - 11,EDward Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+359626,Haven,2,13 - 8,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+359627,Haven,1,13 - 8,JDG Esports,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+359627,Icebox,2,13 - 3,JDG Esports,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+359628,Icebox,1,5 - 13,FunPlus Phoenix,-,TYLOO,Champions Tour 2024 China Stage 2_csvs
+359628,Haven,2,14 - 12,TYLOO,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+359628,Ascent,3,13 - 4,TYLOO,-,Decider,Champions Tour 2024 China Stage 2_csvs
+370723,Lotus,1,13 - 7,Trace Esports,-,All Gamers,Champions Tour 2024 China Stage 2_csvs
+370723,Sunset,2,13 - 10,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+370722,Sunset,1,9 - 13,Bilibili Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+370722,Icebox,2,7 - 13,Bilibili Gaming,-,JDG Esports,Champions Tour 2024 China Stage 2_csvs
+370725,Ascent,1,3 - 13,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+370725,Haven,2,11 - 13,Trace Esports,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370724,Sunset,1,13 - 5,EDward Gaming,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+370724,Bind,2,7 - 13,Bilibili Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+370724,Lotus,3,13 - 10,EDward Gaming,-,Decider,Champions Tour 2024 China Stage 2_csvs
+370726,Sunset,1,2 - 13,EDward Gaming,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+370726,Abyss,2,5 - 13,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+370728,Ascent,1,13 - 3,FunPlus Phoenix,-,Bilibili Gaming,Champions Tour 2024 China Stage 2_csvs
+370728,Icebox,2,12 - 14,Bilibili Gaming,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370728,Lotus,3,13 - 10,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Stage 2_csvs
+370729,Lotus,1,13 - 11,Trace Esports,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370729,Ascent,2,13 - 8,Trace Esports,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+370729,Abyss,3,8 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370729,Bind,4,9 - 13,FunPlus Phoenix,-,Trace Esports,Champions Tour 2024 China Stage 2_csvs
+370729,Haven,5,8 - 13,FunPlus Phoenix,-,Decider,Champions Tour 2024 China Stage 2_csvs
+370727,Sunset,1,13 - 9,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+370727,Abyss,2,8 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370727,Haven,3,13 - 7,EDward Gaming,-,EDward Gaming,Champions Tour 2024 China Stage 2_csvs
+370727,Icebox,4,9 - 13,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 China Stage 2_csvs
+370727,Bind,5,13 - 8,EDward Gaming,-,Decider,Champions Tour 2024 China Stage 2_csvs
+297401,Lotus,1,11 - 13,Team Heretics,59:29,Team Heretics,Champions Tour 2024 EMEA Kickoff_csvs
+297401,Bind,2,10 - 13,Team Heretics,50:07,FUT Esports,Champions Tour 2024 EMEA Kickoff_csvs
+297402,Split,1,11 - 13,Karmine Corp,1:01:38,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+297402,Sunset,2,13 - 10,GIANTX,48:18,GIANTX,Champions Tour 2024 EMEA Kickoff_csvs
+297402,Lotus,3,4 - 13,Karmine Corp,41:04,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+297406,Bind,1,8 - 13,BBL Esports,49:25,Natus Vincere,Champions Tour 2024 EMEA Kickoff_csvs
+297406,Ascent,2,13 - 6,Natus Vincere,40:33,BBL Esports,Champions Tour 2024 EMEA Kickoff_csvs
+297406,Breeze,3,13 - 6,Natus Vincere,38:05,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+297407,Icebox,1,13 - 10,Team Liquid,55:23,Team Liquid,Champions Tour 2024 EMEA Kickoff_csvs
+297407,Bind,2,13 - 11,Team Liquid,50:40,Movistar KOI(KOI),Champions Tour 2024 EMEA Kickoff_csvs
+297412,Sunset,1,13 - 10,Team Vitality,1:02:19,Team Vitality,Champions Tour 2024 EMEA Kickoff_csvs
+297412,Lotus,2,13 - 7,Team Vitality,45:09,Gentle Mates,Champions Tour 2024 EMEA Kickoff_csvs
+297403,Split,1,13 - 4,Team Heretics,47:37,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+297403,Lotus,2,13 - 4,Team Heretics,42:55,Team Heretics,Champions Tour 2024 EMEA Kickoff_csvs
+297404,Split,1,13 - 6,FUT Esports,43:40,GIANTX,Champions Tour 2024 EMEA Kickoff_csvs
+297404,Icebox,2,8 - 13,GIANTX,46:54,FUT Esports,Champions Tour 2024 EMEA Kickoff_csvs
+297404,Sunset,3,13 - 7,FUT Esports,42:03,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+297408,Split,1,13 - 7,Natus Vincere,45:54,Team Liquid,Champions Tour 2024 EMEA Kickoff_csvs
+297408,Breeze,2,13 - 7,Natus Vincere,41:49,Natus Vincere,Champions Tour 2024 EMEA Kickoff_csvs
+297409,Bind,1,5 - 13,Movistar KOI(KOI),48:18,BBL Esports,Champions Tour 2024 EMEA Kickoff_csvs
+297409,Split,2,10 - 13,Movistar KOI(KOI),50:52,Movistar KOI(KOI),Champions Tour 2024 EMEA Kickoff_csvs
+297414,Lotus,1,12 - 14,FNATIC,1:00:13,FNATIC,Champions Tour 2024 EMEA Kickoff_csvs
+297414,Ascent,2,5 - 13,FNATIC,41:27,Team Vitality,Champions Tour 2024 EMEA Kickoff_csvs
+297416,Breeze,1,4 - 13,Gentle Mates,59:21,Gentle Mates,Champions Tour 2024 EMEA Kickoff_csvs
+297416,Lotus,2,15 - 13,Team Vitality,1:05:02,Team Vitality,Champions Tour 2024 EMEA Kickoff_csvs
+297416,Sunset,3,13 - 3,Team Vitality,43:26,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+297405,Lotus,1,20 - 18,Karmine Corp,1:29:33,FUT Esports,Champions Tour 2024 EMEA Kickoff_csvs
+297405,Bind,2,4 - 13,FUT Esports,39:33,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+297405,Sunset,3,13 - 7,Karmine Corp,45:00,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+297410,Sunset,1,11 - 13,Movistar KOI(KOI),1:01:22,Movistar KOI(KOI),Champions Tour 2024 EMEA Kickoff_csvs
+297410,Icebox,2,14 - 12,Team Liquid,1:00:48,Team Liquid,Champions Tour 2024 EMEA Kickoff_csvs
+297410,Split,3,10 - 13,Movistar KOI(KOI),51:34,Decider,Champions Tour 2024 EMEA Kickoff_csvs
+307567,Sunset,1,13 - 8,Karmine Corp,1:08:42,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+307567,Ascent,2,15 - 13,Karmine Corp,1:14:01,Team Vitality,Champions Tour 2024 EMEA Kickoff_csvs
+307565,Sunset,1,9 - 13,Team Vitality,56:59,KOI,Champions Tour 2024 EMEA Kickoff_csvs
+307565,Breeze,2,6 - 13,Team Vitality,42:05,Team Vitality,Champions Tour 2024 EMEA Kickoff_csvs
+307564,Sunset,1,13 - 4,Karmine Corp,51:03,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+307564,Bind,2,13 - 7,Karmine Corp,44:57,KOI,Champions Tour 2024 EMEA Kickoff_csvs
+303093,Sunset,1,16 - 14,Team Heretics,1:24:32,Team Heretics,Champions Tour 2024 EMEA Kickoff_csvs
+303093,Breeze,2,13 - 4,Team Heretics,38:41,Natus Vincere,Champions Tour 2024 EMEA Kickoff_csvs
+303094,Lotus,1,10 - 13,Karmine Corp,1:04:42,FNATIC,Champions Tour 2024 EMEA Kickoff_csvs
+303094,Split,2,8 - 13,Karmine Corp,47:04,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+303095,Sunset,1,13 - 9,Team Heretics,1:07:06,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+303095,Lotus,2,7 - 13,Karmine Corp,43:40,Team Heretics,Champions Tour 2024 EMEA Kickoff_csvs
+303095,Icebox,3,7 - 13,Karmine Corp,42:55,Karmine Corp,Champions Tour 2024 EMEA Kickoff_csvs
+303095,Split,4,5 - 13,Karmine Corp,38:24,Team Heretics,Champions Tour 2024 EMEA Kickoff_csvs
+318911,Breeze,1,13 - 4,Karmine Corp,53:54,GIANTX,Champions Tour 2024 EMEA Stage 1_csvs
+318911,Sunset,2,13 - 9,Karmine Corp,48:14,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318913,Split,1,9 - 13,Team Liquid,1:06:03,Movistar KOI(KOI),Champions Tour 2024 EMEA Stage 1_csvs
+318913,Ascent,2,7 - 13,Team Liquid,44:37,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318914,Bind,1,9 - 13,Natus Vincere,1:09:47,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+318914,Lotus,2,4 - 13,Natus Vincere,39:45,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318915,Icebox,1,4 - 13,Team Heretics,46:51,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318915,Lotus,2,15 - 17,Team Heretics,1:17:17,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+318916,Split,1,5 - 13,FUT Esports,56:13,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318916,Icebox,2,8 - 13,FUT Esports,44:02,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318917,Ascent,1,7 - 13,Gentle Mates,55:02,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318917,Sunset,2,11 - 13,Gentle Mates,53:00,Gentle Mates,Champions Tour 2024 EMEA Stage 1_csvs
+318918,Bind,1,13 - 11,Karmine Corp,1:12:38,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318918,Lotus,2,8 - 13,FUT Esports,46:07,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318918,Breeze,3,7 - 13,FUT Esports,40:35,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318919,Breeze,1,13 - 9,Team Vitality,58:15,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318919,Sunset,2,11 - 13,Team Heretics,55:12,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+318919,Icebox,3,13 - 9,Team Vitality,52:30,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318920,Lotus,1,13 - 10,Team Liquid,1:09:44,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318920,Split,2,11 - 13,Natus Vincere,57:30,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+318920,Ascent,3,5 - 13,Natus Vincere,40:55,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318921,Breeze,1,13 - 4,BBL Esports,44:37,Movistar KOI(KOI),Champions Tour 2024 EMEA Stage 1_csvs
+318921,Icebox,2,13 - 3,BBL Esports,38:35,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318922,Bind,1,13 - 5,FNATIC,56:59,GIANTX,Champions Tour 2024 EMEA Stage 1_csvs
+318922,Breeze,2,5 - 13,GIANTX,37:46,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318922,Split,3,13 - 7,FNATIC,45:01,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318923,Split,1,13 - 6,Karmine Corp,57:05,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318923,Icebox,2,13 - 6,Karmine Corp,45:16,Gentle Mates,Champions Tour 2024 EMEA Stage 1_csvs
+318924,Breeze,1,6 - 13,FNATIC,1:00:37,Gentle Mates,Champions Tour 2024 EMEA Stage 1_csvs
+318924,Lotus,2,4 - 13,FNATIC,38:13,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318925,Bind,1,13 - 7,Karmine Corp,50:43,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+318925,Sunset,2,7 - 13,Natus Vincere,42:26,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318925,Split,3,6 - 13,Natus Vincere,42:25,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318926,Split,1,13 - 7,BBL Esports,1:01:43,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318926,Sunset,2,13 - 10,BBL Esports,47:17,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+318927,Ascent,1,7 - 13,FUT Esports,52:22,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318927,Icebox,2,13 - 9,Team Vitality,49:12,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318927,Sunset,3,13 - 9,Team Vitality,45:47,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318928,Lotus,1,14 - 16,GIANTX,1:17:41,GIANTX,Champions Tour 2024 EMEA Stage 1_csvs
+318928,Icebox,2,13 - 7,Team Liquid,42:13,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318928,Ascent,3,13 - 11,Team Liquid,53:10,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318929,Bind,1,13 - 11,FNATIC,1:08:29,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318929,Icebox,2,13 - 4,FNATIC,41:48,Movistar KOI(KOI),Champions Tour 2024 EMEA Stage 1_csvs
+318930,Sunset,1,2 - 13,Team Heretics,50:30,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+318930,Bind,2,7 - 13,Team Heretics,46:33,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318931,Icebox,1,5 - 13,Gentle Mates,44:26,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318931,Sunset,2,5 - 13,Gentle Mates,39:39,Gentle Mates,Champions Tour 2024 EMEA Stage 1_csvs
+318932,Split,1,7 - 13,FUT Esports,1:01:59,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318932,Lotus,2,13 - 15,FUT Esports,1:11:16,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318933,Ascent,1,8 - 13,Natus Vincere,56:13,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+318933,Sunset,2,13 - 8,BBL Esports,51:26,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318933,Split,3,13 - 9,BBL Esports,53:01,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318934,Lotus,1,14 - 16,GIANTX,1:24:40,GIANTX,Champions Tour 2024 EMEA Stage 1_csvs
+318934,Breeze,2,13 - 7,Team Vitality,44:41,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318934,Sunset,3,13 - 6,Team Vitality,40:37,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318935,Sunset,1,13 - 7,Karmine Corp,53:03,Movistar KOI(KOI),Champions Tour 2024 EMEA Stage 1_csvs
+318935,Icebox,2,7 - 13,Movistar KOI(KOI),45:41,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318935,Bind,3,15 - 13,Karmine Corp,59:59,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318936,Bind,1,6 - 13,GIANTX,58:01,GIANTX,Champions Tour 2024 EMEA Stage 1_csvs
+318936,Sunset,2,11 - 13,GIANTX,45:57,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318937,Icebox,1,12 - 14,Team Heretics,1:10:36,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+318937,Lotus,2,13 - 5,Karmine Corp,36:06,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+318937,Bind,3,9 - 13,Team Heretics,53:58,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318938,Split,1,5 - 13,Movistar KOI(KOI),49:57,Movistar KOI(KOI),Champions Tour 2024 EMEA Stage 1_csvs
+318938,Breeze,2,13 - 7,Team Vitality,44:39,Team Vitality,Champions Tour 2024 EMEA Stage 1_csvs
+318938,Icebox,3,4 - 13,Movistar KOI(KOI),37:33,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318939,Breeze,1,6 - 13,FNATIC,49:46,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+318939,Ascent,2,13 - 8,Natus Vincere,48:42,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+318939,Bind,3,13 - 3,Natus Vincere,40:23,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+318940,Lotus,1,13 - 4,Team Liquid,56:37,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+318940,Icebox,2,13 - 2,Team Liquid,31:54,Gentle Mates,Champions Tour 2024 EMEA Stage 1_csvs
+318941,Bind,1,9 - 13,FUT Esports,1:02:29,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+318941,Icebox,2,6 - 13,FUT Esports,39:42,BBL Esports,Champions Tour 2024 EMEA Stage 1_csvs
+341816,Ascent,1,13 - 11,FNATIC,1:06:41,Team Liquid,Champions Tour 2024 EMEA Stage 1_csvs
+341816,Icebox,2,12 - 14,Team Liquid,1:02:03,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341816,Lotus,3,13 - 5,FNATIC,38:37,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+341817,Lotus,1,11 - 13,Team Heretics,1:00:07,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+341817,Split,2,9 - 13,Team Heretics,54:02,Natus Vincere,Champions Tour 2024 EMEA Stage 1_csvs
+341818,Breeze,1,11 - 13,FNATIC,1:16:00,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341818,Bind,2,9 - 13,FNATIC,58:27,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+341819,Lotus,1,10 - 13,Team Heretics,1:05:40,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+341819,Split,2,13 - 15,Team Heretics,1:06:59,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+341820,Lotus,1,13 - 15,Team Heretics,1:32:38,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+341820,Breeze,2,4 - 13,Team Heretics,38:50,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341822,Icebox,1,3 - 13,FUT Esports,52:06,Karmine Corp,Champions Tour 2024 EMEA Stage 1_csvs
+341822,Sunset,2,10 - 13,FUT Esports,50:11,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+341823,Icebox,1,11 - 13,FUT Esports,1:15:01,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341823,Bind,2,13 - 6,FNATIC,39:56,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+341823,Breeze,3,13 - 11,FNATIC,59:08,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341823,Split,4,14 - 12,FNATIC,59:32,FUT Esports,Champions Tour 2024 EMEA Stage 1_csvs
+341821,Sunset,1,13 - 7,Team Heretics,1:04:00,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+341821,Bind,2,15 - 13,Team Heretics,1:06:09,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341821,Lotus,3,8 - 13,FNATIC,1:17:58,Team Heretics,Champions Tour 2024 EMEA Stage 1_csvs
+341821,Split,4,5 - 13,FNATIC,55:57,FNATIC,Champions Tour 2024 EMEA Stage 1_csvs
+341821,Breeze,5,8 - 13,FNATIC,47:39,Decider,Champions Tour 2024 EMEA Stage 1_csvs
+353153,Split,1,13 - 7,FUT Esports,59:15,KOI,Champions Tour 2024 EMEA Stage 2_csvs
+353153,Lotus,2,7 - 13,KOI,45:44,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353153,Sunset,3,13 - 6,FUT Esports,38:52,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353154,Ascent,1,9 - 13,FNATIC,1:05:35,BBL Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353154,Bind,2,13 - 11,BBL Esports,52:40,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+353154,Lotus,3,11 - 13,FNATIC,53:32,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353155,Sunset,1,13 - 3,Team Heretics,43:52,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+353155,Bind,2,13 - 5,Team Heretics,37:19,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+353157,Split,1,1 - 13,Gentle Mates,47:57,Gentle Mates,Champions Tour 2024 EMEA Stage 2_csvs
+353157,Sunset,2,13 - 11,GIANTX,50:46,GIANTX,Champions Tour 2024 EMEA Stage 2_csvs
+353157,Breeze,3,13 - 11,GIANTX,54:54,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353156,Lotus,1,13 - 10,Team Vitality,1:02:01,Team Liquid,Champions Tour 2024 EMEA Stage 2_csvs
+353156,Icebox,2,17 - 15,Team Vitality,1:16:19,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+353159,Lotus,1,6 - 13,Karmine Corp,56:28,Karmine Corp,Champions Tour 2024 EMEA Stage 2_csvs
+353159,Sunset,2,5 - 13,Karmine Corp,34:14,BBL Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353158,Ascent,1,11 - 13,FUT Esports,59:30,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+353158,Lotus,2,5 - 13,FUT Esports,46:10,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353202,Sunset,1,13 - 5,KOI,1:00:15,GIANTX,Champions Tour 2024 EMEA Stage 2_csvs
+353202,Icebox,2,14 - 12,KOI,1:05:58,KOI,Champions Tour 2024 EMEA Stage 2_csvs
+353161,Sunset,1,13 - 10,Team Heretics,1:11:15,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+353161,Split,2,13 - 6,Team Heretics,40:15,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353160,Haven,1,13 - 6,FNATIC,53:19,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+353160,Icebox,2,6 - 13,Team Vitality,47:10,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+353160,Lotus,3,13 - 7,FNATIC,43:36,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353162,Lotus,1,13 - 6,BBL Esports,56:05,Team Liquid,Champions Tour 2024 EMEA Stage 2_csvs
+353162,Ascent,2,13 - 5,BBL Esports,40:15,BBL Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353163,Lotus,1,9 - 13,GIANTX,51:38,GIANTX,Champions Tour 2024 EMEA Stage 2_csvs
+353163,Ascent,2,8 - 13,GIANTX,45:00,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+353164,Sunset,1,11 - 13,Gentle Mates,1:12:25,KOI,Champions Tour 2024 EMEA Stage 2_csvs
+353164,Split,2,11 - 13,Gentle Mates,54:45,Gentle Mates,Champions Tour 2024 EMEA Stage 2_csvs
+353165,Haven,1,13 - 3,FNATIC,40:18,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+353165,Lotus,2,13 - 8,FNATIC,50:32,Karmine Corp,Champions Tour 2024 EMEA Stage 2_csvs
+353166,Bind,1,13 - 9,Team Heretics,1:05:37,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+353166,Split,2,13 - 15,GIANTX,1:02:58,GIANTX,Champions Tour 2024 EMEA Stage 2_csvs
+353166,Haven,3,13 - 9,Team Heretics,51:28,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353167,Sunset,1,13 - 8,FUT Esports,54:31,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353167,Split,2,13 - 4,FUT Esports,37:22,Gentle Mates,Champions Tour 2024 EMEA Stage 2_csvs
+353168,Split,1,13 - 10,KOI,1:11:35,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+353168,Icebox,2,13 - 6,KOI,37:10,KOI,Champions Tour 2024 EMEA Stage 2_csvs
+353169,Bind,1,13 - 11,Team Liquid,1:04:44,Karmine Corp,Champions Tour 2024 EMEA Stage 2_csvs
+353169,Sunset,2,13 - 2,Team Liquid,31:02,Team Liquid,Champions Tour 2024 EMEA Stage 2_csvs
+353170,Ascent,1,7 - 13,Team Vitality,1:05:23,BBL Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353170,Sunset,2,13 - 6,BBL Esports,41:22,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+353170,Lotus,3,11 - 13,Team Vitality,46:20,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353171,Sunset,1,13 - 7,Team Heretics,52:52,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+353171,Icebox,2,10 - 13,Gentle Mates,53:26,Gentle Mates,Champions Tour 2024 EMEA Stage 2_csvs
+353171,Lotus,3,13 - 5,Team Heretics,40:49,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353172,Split,1,13 - 4,FUT Esports,52:35,GIANTX,Champions Tour 2024 EMEA Stage 2_csvs
+353172,Lotus,2,13 - 6,FUT Esports,43:18,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+353173,Icebox,1,11 - 13,KOI,1:12:55,KOI,Champions Tour 2024 EMEA Stage 2_csvs
+353173,Bind,2,13 - 9,Team Heretics,47:23,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+353173,Haven,3,13 - 10,Team Heretics,51:28,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353174,Icebox,1,13 - 2,FNATIC,40:09,Team Liquid,Champions Tour 2024 EMEA Stage 2_csvs
+353174,Haven,2,13 - 9,FNATIC,47:48,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+353175,Sunset,1,13 - 7,Natus Vincere,51:48,Gentle Mates,Champions Tour 2024 EMEA Stage 2_csvs
+353175,Ascent,2,8 - 13,Gentle Mates,47:15,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+353175,Split,3,13 - 11,Natus Vincere,52:17,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+353203,Icebox,1,13 - 4,Team Vitality,41:24,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+353203,Lotus,2,9 - 13,Karmine Corp,46:47,Karmine Corp,Champions Tour 2024 EMEA Stage 2_csvs
+353203,Sunset,3,14 - 12,Team Vitality,56:51,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+371278,Haven,1,8 - 13,Natus Vincere,59:29,Natus Vincere,Champions Tour 2024 EMEA Stage 2_csvs
+371278,Sunset,2,13 - 5,Team Vitality,37:35,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371278,Ascent,3,13 - 7,Team Vitality,44:53,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+371279,Icebox,1,7 - 13,Karmine Corp,55:37,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+371279,Sunset,2,15 - 13,FNATIC,1:03:50,Karmine Corp,Champions Tour 2024 EMEA Stage 2_csvs
+371279,Lotus,3,13 - 6,FNATIC,40:16,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+371280,Icebox,1,14 - 12,Team Heretics,1:16:39,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371280,Sunset,2,10 - 13,Team Vitality,52:14,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+371280,Bind,3,12 - 14,Team Vitality,58:07,Decider,Champions Tour 2024 EMEA Stage 2_csvs
+371281,Sunset,1,13 - 15,FNATIC,1:11:28,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+371281,Haven,2,5 - 13,FNATIC,38:10,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+371282,Lotus,1,11 - 13,FNATIC,1:14:55,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+371282,Sunset,2,6 - 13,FNATIC,42:04,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371284,Abyss,1,13 - 10,Team Heretics,1:00:49,FUT Esports,Champions Tour 2024 EMEA Stage 2_csvs
+371284,Sunset,2,13 - 11,Team Heretics,56:36,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+371285,Icebox,1,6 - 13,Team Heretics,58:55,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371285,Sunset,2,13 - 4,Team Vitality,36:49,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+371285,Lotus,3,13 - 3,Team Vitality,32:09,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371285,Haven,4,13 - 9,Team Vitality,45:29,Team Heretics,Champions Tour 2024 EMEA Stage 2_csvs
+371283,Haven,1,13 - 8,FNATIC,1:03:45,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+371283,Ascent,2,9 - 13,Team Vitality,48:24,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+371283,Lotus,3,13 - 9,FNATIC,47:54,FNATIC,Champions Tour 2024 EMEA Stage 2_csvs
+371283,Bind,4,13 - 3,FNATIC,33:47,Team Vitality,Champions Tour 2024 EMEA Stage 2_csvs
+312765,Icebox,1,13 - 8,Karmine Corp,59:51,FunPlus Phoenix,Champions Tour 2024 Masters Madrid_csvs
+312765,Lotus,2,13 - 10,Karmine Corp,52:09,Karmine Corp,Champions Tour 2024 Masters Madrid_csvs
+312766,Icebox,1,13 - 11,Gen.G,1:02:44,LOUD,Champions Tour 2024 Masters Madrid_csvs
+312766,Breeze,2,8 - 13,LOUD,56:26,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312766,Ascent,3,13 - 5,Gen.G,38:16,Decider,Champions Tour 2024 Masters Madrid_csvs
+312767,Sunset,1,8 - 13,Paper Rex,1:00:56,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312767,Bind,2,13 - 9,EDward Gaming,49:11,EDward Gaming,Champions Tour 2024 Masters Madrid_csvs
+312767,Split,3,13 - 9,EDward Gaming,43:49,Decider,Champions Tour 2024 Masters Madrid_csvs
+312768,Lotus,1,13 - 9,Sentinels,1:00:37,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312768,Sunset,2,5 - 13,Team Heretics,44:43,Team Heretics,Champions Tour 2024 Masters Madrid_csvs
+312768,Bind,3,13 - 11,Sentinels,55:14,Decider,Champions Tour 2024 Masters Madrid_csvs
+312798,Split,1,13 - 8,Sentinels,57:04,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312798,Lotus,2,13 - 11,Sentinels,56:49,Karmine Corp,Champions Tour 2024 Masters Madrid_csvs
+312797,Icebox,1,13 - 8,EDward Gaming,55:41,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312797,Split,2,5 - 13,Gen.G,39:50,EDward Gaming,Champions Tour 2024 Masters Madrid_csvs
+312797,Breeze,3,6 - 13,Gen.G,45:16,Decider,Champions Tour 2024 Masters Madrid_csvs
+312800,Sunset,1,5 - 13,LOUD,42:32,LOUD,Champions Tour 2024 Masters Madrid_csvs
+312800,Breeze,2,11 - 13,LOUD,53:05,FunPlus Phoenix,Champions Tour 2024 Masters Madrid_csvs
+312799,Sunset,1,10 - 13,Paper Rex,59:31,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312799,Lotus,2,13 - 10,Team Heretics,46:56,Team Heretics,Champions Tour 2024 Masters Madrid_csvs
+312799,Split,3,7 - 13,Paper Rex,39:37,Decider,Champions Tour 2024 Masters Madrid_csvs
+312803,Icebox,1,13 - 2,LOUD,43:42,EDward Gaming,Champions Tour 2024 Masters Madrid_csvs
+312803,Sunset,2,13 - 3,LOUD,35:21,LOUD,Champions Tour 2024 Masters Madrid_csvs
+312802,Bind,1,10 - 13,Paper Rex,59:49,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312802,Lotus,2,13 - 6,Karmine Corp,42:56,Karmine Corp,Champions Tour 2024 Masters Madrid_csvs
+312802,Ascent,3,12 - 14,Paper Rex,53:41,Decider,Champions Tour 2024 Masters Madrid_csvs
+312777,Split,1,13 - 8,Gen.G,55:37,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312777,Lotus,2,13 - 9,Gen.G,42:42,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312776,Split,1,13 - 4,Sentinels,48:34,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312776,Icebox,2,12 - 14,LOUD,59:35,LOUD,Champions Tour 2024 Masters Madrid_csvs
+312776,Sunset,3,14 - 12,Sentinels,1:02:35,Decider,Champions Tour 2024 Masters Madrid_csvs
+312778,Split,1,13 - 5,Gen.G,53:39,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312778,Lotus,2,7 - 13,Sentinels,48:49,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312778,Breeze,3,13 - 3,Gen.G,34:04,Decider,Champions Tour 2024 Masters Madrid_csvs
+312780,Ascent,1,13 - 11,Paper Rex,1:00:58,LOUD,Champions Tour 2024 Masters Madrid_csvs
+312780,Sunset,2,13 - 8,Paper Rex,46:09,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312781,Lotus,1,14 - 12,Sentinels,1:12:27,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312781,Ascent,2,13 - 6,Sentinels,41:11,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+312781,Split,3,5 - 13,Paper Rex,38:13,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312781,Sunset,4,13 - 3,Sentinels,33:56,Paper Rex,Champions Tour 2024 Masters Madrid_csvs
+321373,Ascent,1,8 - 13,Team Spain,-,Decider,Champions Tour 2024 Masters Madrid_csvs
+312779,Breeze,1,13 - 8,Gen.G,1:03:12,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312779,Bind,2,12 - 14,Sentinels,1:04:16,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312779,Ascent,3,13 - 8,Gen.G,46:25,Gen.G,Champions Tour 2024 Masters Madrid_csvs
+312779,Split,4,10 - 13,Sentinels,49:51,Sentinels,Champions Tour 2024 Masters Madrid_csvs
+312779,Icebox,5,6 - 13,Sentinels,42:05,Decider,Champions Tour 2024 Masters Madrid_csvs
+348063,Breeze,1,13 - 8,G2 Esports,-,T1,Champions Tour 2024 Masters Shanghai_csvs
+348063,Icebox,2,1 - 13,T1,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348063,Lotus,3,14 - 12,G2 Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348061,Sunset,1,13 - 7,FunPlus Phoenix,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348061,Lotus,2,12 - 14,FUT Esports,-,FunPlus Phoenix,Champions Tour 2024 Masters Shanghai_csvs
+348061,Icebox,3,13 - 10,FunPlus Phoenix,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348064,Icebox,1,7 - 13,LEVIATÁN,-,LEVIATÁN,Champions Tour 2024 Masters Shanghai_csvs
+348064,Lotus,2,13 - 5,Gen.G,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348064,Breeze,3,13 - 7,Gen.G,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348059,Icebox,1,13 - 5,Team Heretics,-,Dragon Ranger Gaming,Champions Tour 2024 Masters Shanghai_csvs
+348059,Sunset,2,13 - 5,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348458,Lotus,1,16 - 14,FunPlus Phoenix,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348458,Sunset,2,7 - 13,Gen.G,-,FunPlus Phoenix,Champions Tour 2024 Masters Shanghai_csvs
+348458,Ascent,3,11 - 13,Gen.G,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348457,Lotus,1,9 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348457,Bind,2,13 - 6,G2 Esports,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348457,Split,3,13 - 8,G2 Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348459,Breeze,1,13 - 9,LEVIATÁN,-,T1,Champions Tour 2024 Masters Shanghai_csvs
+348459,Sunset,2,13 - 7,LEVIATÁN,-,LEVIATÁN,Champions Tour 2024 Masters Shanghai_csvs
+348460,Bind,1,10 - 13,FUT Esports,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348460,Ascent,2,12 - 14,FUT Esports,-,Dragon Ranger Gaming,Champions Tour 2024 Masters Shanghai_csvs
+348462,Sunset,1,4 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348462,Lotus,2,13 - 6,FunPlus Phoenix,-,FunPlus Phoenix,Champions Tour 2024 Masters Shanghai_csvs
+348462,Icebox,3,15 - 17,Team Heretics,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348461,Sunset,1,13 - 1,FUT Esports,-,LEVIATÁN,Champions Tour 2024 Masters Shanghai_csvs
+348461,Lotus,2,11 - 13,LEVIATÁN,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348461,Bind,3,13 - 11,FUT Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348465,Icebox,1,13 - 2,100 Thieves,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348465,Bind,2,13 - 5,100 Thieves,-,100 Thieves,Champions Tour 2024 Masters Shanghai_csvs
+348466,Lotus,1,13 - 10,FNATIC,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348466,Bind,2,10 - 13,Gen.G,-,FNATIC,Champions Tour 2024 Masters Shanghai_csvs
+348466,Breeze,3,11 - 13,Gen.G,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348463,Split,1,13 - 7,Paper Rex,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348463,Lotus,2,10 - 13,G2 Esports,-,Paper Rex,Champions Tour 2024 Masters Shanghai_csvs
+348463,Bind,3,5 - 13,G2 Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348464,Sunset,1,6 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348464,Split,2,3 - 13,Team Heretics,-,EDward Gaming,Champions Tour 2024 Masters Shanghai_csvs
+348468,Split,1,5 - 13,FNATIC,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348468,Lotus,2,13 - 8,FUT Esports,-,FNATIC,Champions Tour 2024 Masters Shanghai_csvs
+348468,Ascent,3,13 - 3,FUT Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348467,Bind,1,13 - 11,Paper Rex,-,EDward Gaming,Champions Tour 2024 Masters Shanghai_csvs
+348467,Sunset,2,13 - 6,Paper Rex,-,Paper Rex,Champions Tour 2024 Masters Shanghai_csvs
+348470,Icebox,1,10 - 13,Gen.G,-,100 Thieves,Champions Tour 2024 Masters Shanghai_csvs
+348470,Ascent,2,10 - 13,Gen.G,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348469,Icebox,1,7 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348469,Ascent,2,13 - 11,G2 Esports,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348469,Lotus,3,13 - 4,G2 Esports,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348471,Breeze,1,13 - 5,100 Thieves,-,100 Thieves,Champions Tour 2024 Masters Shanghai_csvs
+348471,Sunset,2,10 - 13,Paper Rex,-,Paper Rex,Champions Tour 2024 Masters Shanghai_csvs
+348471,Icebox,3,14 - 12,100 Thieves,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348472,Bind,1,13 - 7,Team Heretics,-,FUT Esports,Champions Tour 2024 Masters Shanghai_csvs
+348472,Sunset,2,13 - 4,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348473,Lotus,1,8 - 13,Gen.G,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348473,Ascent,2,10 - 13,Gen.G,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348474,Bind,1,13 - 15,Team Heretics,-,100 Thieves,Champions Tour 2024 Masters Shanghai_csvs
+348474,Sunset,2,1 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348475,Bind,1,2 - 13,Team Heretics,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+348475,Icebox,2,6 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348475,Lotus,3,8 - 13,Team Heretics,-,G2 Esports,Champions Tour 2024 Masters Shanghai_csvs
+359463,Abyss,1,11 - 13,Team China,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+348476,Breeze,1,13 - 6,Gen.G,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348476,Icebox,2,9 - 13,Team Heretics,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348476,Ascent,3,9 - 13,Team Heretics,-,Gen.G,Champions Tour 2024 Masters Shanghai_csvs
+348476,Lotus,4,13 - 4,Gen.G,-,Team Heretics,Champions Tour 2024 Masters Shanghai_csvs
+348476,Split,5,13 - 3,Gen.G,-,Decider,Champions Tour 2024 Masters Shanghai_csvs
+296735,Breeze,1,18 - 16,T1,3:22:31,BLEED,Champions Tour 2024 Pacific Kickoff_csvs
+296735,Lotus,2,13 - 6,T1,47:45,T1,Champions Tour 2024 Pacific Kickoff_csvs
+296745,Icebox,1,13 - 11,Gen.G,50:50,Rex Regum Qeon,Champions Tour 2024 Pacific Kickoff_csvs
+296745,Split,2,11 - 13,Rex Regum Qeon,48:33,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+296745,Sunset,3,13 - 8,Gen.G,45:26,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+296730,Bind,1,13 - 10,ZETA DIVISION,52:23,Global Esports,Champions Tour 2024 Pacific Kickoff_csvs
+296730,Icebox,2,13 - 7,ZETA DIVISION,43:16,ZETA DIVISION,Champions Tour 2024 Pacific Kickoff_csvs
+296731,Breeze,1,8 - 13,TALON,53:43,TALON,Champions Tour 2024 Pacific Kickoff_csvs
+296731,Ascent,2,3 - 13,TALON,30:27,Team Secret,Champions Tour 2024 Pacific Kickoff_csvs
+296736,Lotus,1,13 - 8,DRX,1:01:21,DetonatioN FocusMe,Champions Tour 2024 Pacific Kickoff_csvs
+296736,Breeze,2,13 - 8,DRX,44:13,DRX,Champions Tour 2024 Pacific Kickoff_csvs
+296747,Breeze,1,13 - 10,Gen.G,1:02:09,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+296747,Lotus,2,10 - 13,Paper Rex,49:07,Paper Rex,Champions Tour 2024 Pacific Kickoff_csvs
+296747,Sunset,3,7 - 13,Paper Rex,40:11,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+296738,Sunset,1,9 - 13,Global Esports,58:19,Global Esports,Champions Tour 2024 Pacific Kickoff_csvs
+296738,Icebox,2,13 - 10,BLEED,53:56,BLEED,Champions Tour 2024 Pacific Kickoff_csvs
+296738,Split,3,11 - 13,Global Esports,55:06,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+296737,Ascent,1,11 - 13,ZETA DIVISION,1:06:46,ZETA DIVISION,Champions Tour 2024 Pacific Kickoff_csvs
+296737,Lotus,2,13 - 4,T1,42:44,T1,Champions Tour 2024 Pacific Kickoff_csvs
+296737,Sunset,3,13 - 7,T1,44:57,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+296733,Lotus,1,7 - 13,Team Secret,57:15,DetonatioN FocusMe,Champions Tour 2024 Pacific Kickoff_csvs
+296733,Breeze,2,11 - 13,Team Secret,52:48,Team Secret,Champions Tour 2024 Pacific Kickoff_csvs
+296732,Split,1,13 - 10,DRX,1:00:25,DRX,Champions Tour 2024 Pacific Kickoff_csvs
+296732,Ascent,2,13 - 8,DRX,46:12,TALON,Champions Tour 2024 Pacific Kickoff_csvs
+296749,Lotus,1,13 - 7,Gen.G,1:06:04,Rex Regum Qeon,Champions Tour 2024 Pacific Kickoff_csvs
+296749,Breeze,2,10 - 13,Rex Regum Qeon,53:06,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+296749,Icebox,3,13 - 11,Gen.G,50:20,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+296734,Breeze,1,8 - 13,Team Secret,53:46,Team Secret,Champions Tour 2024 Pacific Kickoff_csvs
+296734,Ascent,2,7 - 13,Team Secret,44:44,TALON,Champions Tour 2024 Pacific Kickoff_csvs
+296739,Bind,1,13 - 8,ZETA DIVISION,55:38,Global Esports,Champions Tour 2024 Pacific Kickoff_csvs
+296739,Lotus,2,13 - 3,ZETA DIVISION,36:39,ZETA DIVISION,Champions Tour 2024 Pacific Kickoff_csvs
+297254,Breeze,1,13 - 5,Team Secret,52:39,Team Secret,Champions Tour 2024 Pacific Kickoff_csvs
+297254,Lotus,2,9 - 13,Gen.G,53:25,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+297254,Icebox,3,13 - 15,Gen.G,1:00:12,Decider,Champions Tour 2024 Pacific Kickoff_csvs
+297253,Icebox,1,1 - 13,Team Secret,36:23,Team Secret,Champions Tour 2024 Pacific Kickoff_csvs
+297253,Ascent,2,8 - 13,Team Secret,46:02,ZETA DIVISION,Champions Tour 2024 Pacific Kickoff_csvs
+297255,Icebox,1,13 - 6,Gen.G,54:35,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+297255,Ascent,2,13 - 4,Gen.G,39:03,ZETA DIVISION,Champions Tour 2024 Pacific Kickoff_csvs
+297256,Split,1,14 - 16,Paper Rex,1:18:27,Paper Rex,Champions Tour 2024 Pacific Kickoff_csvs
+297256,Ascent,2,6 - 13,Paper Rex,41:48,T1,Champions Tour 2024 Pacific Kickoff_csvs
+297257,Bind,1,12 - 14,Gen.G,1:15:25,DRX,Champions Tour 2024 Pacific Kickoff_csvs
+297257,Lotus,2,8 - 13,Gen.G,45:52,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+297258,Ascent,1,5 - 13,Gen.G,57:17,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+297258,Split,2,13 - 4,Paper Rex,35:10,Paper Rex,Champions Tour 2024 Pacific Kickoff_csvs
+297258,Lotus,3,11 - 13,Gen.G,49:09,Gen.G,Champions Tour 2024 Pacific Kickoff_csvs
+297258,Bind,4,4 - 13,Gen.G,31:31,Paper Rex,Champions Tour 2024 Pacific Kickoff_csvs
+314301,Sunset,1,1 - 13,ZETA DIVISION,50:44,ZETA DIVISION,Champions Tour 2024 Pacific Stage 1_csvs
+314301,Icebox,2,13 - 10,Global Esports,49:39,Global Esports,Champions Tour 2024 Pacific Stage 1_csvs
+314301,Ascent,3,8 - 13,ZETA DIVISION,50:21,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314302,Sunset,1,8 - 13,DRX,55:38,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314302,Lotus,2,8 - 13,DRX,43:04,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+314303,Lotus,1,13 - 9,BLEED,1:07:26,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+314303,Bind,2,7 - 13,TALON,46:40,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314303,Icebox,3,6 - 13,TALON,44:25,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314304,Lotus,1,10 - 13,Paper Rex,1:14:34,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314304,Bind,2,12 - 14,Paper Rex,53:12,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+314305,Breeze,1,10 - 13,Rex Regum Qeon,1:02:28,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314305,Split,2,13 - 6,Team Secret,43:42,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 1_csvs
+314305,Icebox,3,12 - 14,Rex Regum Qeon,1:01:08,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314306,Ascent,1,8 - 13,DRX,54:18,Global Esports,Champions Tour 2024 Pacific Stage 1_csvs
+314306,Lotus,2,6 - 13,DRX,46:52,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+314307,Lotus,1,13 - 9,Gen.G,54:49,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314307,Ascent,2,13 - 8,Gen.G,45:05,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+314308,Ascent,1,10 - 13,DetonatioN FocusMe,1:01:35,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 1_csvs
+314308,Lotus,2,13 - 5,T1,43:30,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314308,Sunset,3,11 - 13,DetonatioN FocusMe,51:41,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314309,Lotus,1,13 - 11,Gen.G,1:05:26,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314309,Icebox,2,11 - 13,Paper Rex,46:40,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+314309,Bind,3,6 - 13,Paper Rex,41:46,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314310,Breeze,1,13 - 9,T1,53:18,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314310,Split,2,5 - 13,DRX,39:20,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+314310,Bind,3,6 - 13,DRX,42:03,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314311,Icebox,1,13 - 8,Team Secret,59:07,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314311,Lotus,2,6 - 13,ZETA DIVISION,41:51,ZETA DIVISION,Champions Tour 2024 Pacific Stage 1_csvs
+314311,Sunset,3,13 - 7,Team Secret,48:17,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314312,Lotus,1,2 - 13,Rex Regum Qeon,43:49,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314312,Icebox,2,5 - 13,Rex Regum Qeon,42:36,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 1_csvs
+314313,Split,1,13 - 8,Gen.G,1:00:31,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 1_csvs
+314313,Lotus,2,13 - 7,Gen.G,47:19,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314314,Icebox,1,13 - 4,Global Esports,45:38,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+314314,Breeze,2,12 - 14,TALON,1:01:14,Global Esports,Champions Tour 2024 Pacific Stage 1_csvs
+314314,Lotus,3,6 - 13,TALON,43:39,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314315,Ascent,1,13 - 6,T1,47:31,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 1_csvs
+314315,Lotus,2,13 - 8,T1,45:15,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314316,Sunset,1,9 - 13,ZETA DIVISION,56:30,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314316,Ascent,2,13 - 9,BLEED,49:21,ZETA DIVISION,Champions Tour 2024 Pacific Stage 1_csvs
+314316,Lotus,3,8 - 13,ZETA DIVISION,47:40,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314317,Bind,1,10 - 13,DRX,1:08:39,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+314317,Ascent,2,13 - 9,Gen.G,49:14,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314317,Split,3,7 - 13,DRX,44:30,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314318,Lotus,1,9 - 13,DetonatioN FocusMe,58:48,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314318,Split,2,13 - 7,BLEED,44:56,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 1_csvs
+314318,Ascent,3,13 - 4,BLEED,42:47,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314319,Lotus,1,13 - 10,Global Esports,1:03:36,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 1_csvs
+314319,Icebox,2,13 - 4,Global Esports,39:20,Global Esports,Champions Tour 2024 Pacific Stage 1_csvs
+314320,Icebox,1,13 - 9,Team Secret,52:40,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314320,Sunset,2,13 - 8,Team Secret,46:10,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+314321,Lotus,1,11 - 13,TALON,1:04:52,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314321,Bind,2,10 - 13,TALON,43:46,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+314322,Split,1,13 - 8,Gen.G,54:17,ZETA DIVISION,Champions Tour 2024 Pacific Stage 1_csvs
+314322,Ascent,2,14 - 12,Gen.G,1:02:50,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314323,Lotus,1,13 - 4,Team Secret,49:53,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 1_csvs
+314323,Breeze,2,9 - 13,DetonatioN FocusMe,51:52,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314323,Sunset,3,13 - 2,Team Secret,37:16,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314324,Sunset,1,4 - 13,Paper Rex,41:53,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+314324,Icebox,2,7 - 13,Paper Rex,41:50,Global Esports,Champions Tour 2024 Pacific Stage 1_csvs
+314325,Ascent,1,5 - 13,Paper Rex,48:05,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314325,Bind,2,6 - 13,Paper Rex,42:29,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+314327,Bind,1,11 - 13,ZETA DIVISION,1:02:00,ZETA DIVISION,Champions Tour 2024 Pacific Stage 1_csvs
+314327,Lotus,2,13 - 9,T1,43:54,T1,Champions Tour 2024 Pacific Stage 1_csvs
+314327,Sunset,3,13 - 10,T1,49:36,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314328,Sunset,1,13 - 11,Team Secret,1:00:53,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+314328,Lotus,2,11 - 13,TALON,56:09,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+314328,Breeze,3,10 - 13,TALON,52:49,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314329,Bind,1,9 - 13,DRX,1:02:13,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+314329,Breeze,2,4 - 13,DRX,40:37,BLEED,Champions Tour 2024 Pacific Stage 1_csvs
+314330,Breeze,1,13 - 3,Gen.G,42:51,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 1_csvs
+314330,Ascent,2,11 - 13,Rex Regum Qeon,58:52,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+314330,Split,3,10 - 13,Rex Regum Qeon,59:20,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329907,Lotus,1,7 - 13,T1,51:57,T1,Champions Tour 2024 Pacific Stage 1_csvs
+329907,Sunset,2,11 - 13,T1,48:52,Team Secret,Champions Tour 2024 Pacific Stage 1_csvs
+329908,Lotus,1,13 - 0,Paper Rex,32:57,TALON,Champions Tour 2024 Pacific Stage 1_csvs
+329908,Sunset,2,13 - 9,Paper Rex,48:57,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329908,Bind,3,7 - 13,TALON,43:47,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329909,Ascent,1,9 - 13,T1,1:02:04,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+329909,Sunset,2,13 - 8,Gen.G,42:54,T1,Champions Tour 2024 Pacific Stage 1_csvs
+329909,Breeze,3,7 - 13,T1,45:28,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329910,Lotus,1,6 - 13,Paper Rex,41:45,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+329910,Ascent,2,13 - 10,DRX,48:53,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+329910,Bind,3,6 - 13,Paper Rex,39:44,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329912,Lotus,1,3 - 13,Paper Rex,58:46,T1,Champions Tour 2024 Pacific Stage 1_csvs
+329912,Sunset,2,5 - 13,Paper Rex,35:05,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+329911,Bind,1,8 - 13,DRX,55:20,DRX,Champions Tour 2024 Pacific Stage 1_csvs
+329911,Sunset,2,13 - 11,Gen.G,53:23,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+329911,Ascent,3,13 - 8,Gen.G,53:16,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+329913,Lotus,1,2 - 13,Gen.G,42:10,T1,Champions Tour 2024 Pacific Stage 1_csvs
+329913,Icebox,2,11 - 13,Gen.G,45:46,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+329913,Bind,3,9 - 13,Gen.G,48:26,T1,Champions Tour 2024 Pacific Stage 1_csvs
+329914,Lotus,1,9 - 13,Gen.G,1:03:03,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+329914,Sunset,2,13 - 9,Paper Rex,45:51,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+329914,Icebox,3,13 - 11,Paper Rex,52:44,Paper Rex,Champions Tour 2024 Pacific Stage 1_csvs
+329914,Bind,4,9 - 13,Gen.G,45:57,Gen.G,Champions Tour 2024 Pacific Stage 1_csvs
+329914,Split,5,13 - 8,Paper Rex,45:13,Decider,Champions Tour 2024 Pacific Stage 1_csvs
+314340,Icebox,1,0 - 13,DRX,43:42,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+314340,Sunset,2,13 - 11,ZETA DIVISION,47:24,ZETA DIVISION,Champions Tour 2024 Pacific Stage 2_csvs
+314340,Breeze,3,4 - 13,DRX,38:12,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314341,Ascent,1,10 - 13,BLEED,51:45,BLEED,Champions Tour 2024 Pacific Stage 2_csvs
+314341,Sunset,2,13 - 8,Team Secret,47:55,Team Secret,Champions Tour 2024 Pacific Stage 2_csvs
+314341,Split,3,13 - 8,Team Secret,49:09,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314342,Split,1,13 - 15,Gen.G,1:20:50,T1,Champions Tour 2024 Pacific Stage 2_csvs
+314342,Lotus,2,13 - 5,T1,42:45,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+314342,Sunset,3,9 - 13,Gen.G,50:16,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314343,Icebox,1,13 - 4,Paper Rex,37:53,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+314343,Sunset,2,13 - 7,Paper Rex,40:01,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+314344,Icebox,1,15 - 13,Rex Regum Qeon,1:14:54,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+314344,Ascent,2,13 - 9,Rex Regum Qeon,48:36,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 2_csvs
+314345,Sunset,1,13 - 8,Team Secret,47:01,Team Secret,Champions Tour 2024 Pacific Stage 2_csvs
+314345,Ascent,2,13 - 10,Team Secret,52:24,Global Esports,Champions Tour 2024 Pacific Stage 2_csvs
+314346,Lotus,1,15 - 13,TALON,1:12:41,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+314346,Ascent,2,10 - 13,Rex Regum Qeon,52:04,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+314346,Icebox,3,13 - 10,TALON,1:11:32,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314347,Split,1,13 - 4,Paper Rex,35:36,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+314347,Haven,2,8 - 13,DRX,44:46,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+314347,Icebox,3,13 - 5,Paper Rex,39:41,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314348,Lotus,1,13 - 6,Global Esports,55:15,Global Esports,Champions Tour 2024 Pacific Stage 2_csvs
+314348,Sunset,2,13 - 6,Global Esports,48:33,BLEED,Champions Tour 2024 Pacific Stage 2_csvs
+314349,Haven,1,7 - 13,ZETA DIVISION,52:42,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 2_csvs
+314349,Sunset,2,13 - 9,DetonatioN FocusMe,54:06,ZETA DIVISION,Champions Tour 2024 Pacific Stage 2_csvs
+314349,Ascent,3,13 - 10,DetonatioN FocusMe,52:01,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314350,Split,1,12 - 14,Rex Regum Qeon,1:03:18,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+314350,Sunset,2,12 - 14,Rex Regum Qeon,52:09,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+314351,Haven,1,10 - 13,T1,52:44,Team Secret,Champions Tour 2024 Pacific Stage 2_csvs
+314351,Split,2,13 - 6,Team Secret,43:21,T1,Champions Tour 2024 Pacific Stage 2_csvs
+314351,Icebox,3,14 - 12,Team Secret,54:42,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314352,Lotus,1,13 - 7,TALON,52:08,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+314352,Sunset,2,13 - 10,TALON,54:33,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 2_csvs
+314353,Split,1,8 - 13,Rex Regum Qeon,50:13,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+314353,Sunset,2,10 - 13,Rex Regum Qeon,52:35,ZETA DIVISION,Champions Tour 2024 Pacific Stage 2_csvs
+314354,Icebox,1,13 - 10,Global Esports,57:42,Global Esports,Champions Tour 2024 Pacific Stage 2_csvs
+314354,Lotus,2,8 - 13,T1,49:04,T1,Champions Tour 2024 Pacific Stage 2_csvs
+314354,Ascent,3,8 - 13,T1,50:19,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314355,Ascent,1,6 - 13,Gen.G,46:33,BLEED,Champions Tour 2024 Pacific Stage 2_csvs
+314355,Sunset,2,13 - 10,BLEED,48:31,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+314355,Icebox,3,11 - 13,Gen.G,49:46,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314356,Icebox,1,13 - 4,Paper Rex,49:25,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 2_csvs
+314356,Sunset,2,13 - 8,Paper Rex,46:29,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+314357,Ascent,1,11 - 13,TALON,58:10,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+314357,Haven,2,13 - 10,DRX,50:21,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+314357,Icebox,3,13 - 5,DRX,37:18,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314358,Lotus,1,13 - 7,Paper Rex,52:37,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+314358,Ascent,2,7 - 13,Rex Regum Qeon,42:11,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+314358,Sunset,3,13 - 10,Paper Rex,47:50,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314359,Lotus,1,13 - 1,Gen.G,36:36,Global Esports,Champions Tour 2024 Pacific Stage 2_csvs
+314359,Ascent,2,13 - 6,Gen.G,46:43,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+314360,Icebox,1,13 - 7,DRX,56:31,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+314360,Ascent,2,6 - 13,DetonatioN FocusMe,38:39,DetonatioN FocusMe,Champions Tour 2024 Pacific Stage 2_csvs
+314360,Haven,3,13 - 2,DRX,34:27,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314361,Ascent,1,13 - 6,ZETA DIVISION,42:44,ZETA DIVISION,Champions Tour 2024 Pacific Stage 2_csvs
+314361,Lotus,2,8 - 13,TALON,50:44,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+314361,Haven,3,13 - 8,ZETA DIVISION,45:22,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314362,Sunset,1,6 - 13,Team Secret,47:26,Team Secret,Champions Tour 2024 Pacific Stage 2_csvs
+314362,Lotus,2,13 - 7,Gen.G,42:55,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+314362,Split,3,12 - 14,Team Secret,1:00:59,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314363,Ascent,1,9 - 13,ZETA DIVISION,50:16,ZETA DIVISION,Champions Tour 2024 Pacific Stage 2_csvs
+314363,Lotus,2,13 - 8,Paper Rex,45:25,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+314363,Sunset,3,13 - 4,Paper Rex,37:00,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+314364,Bind,1,13 - 11,T1,1:01:29,BLEED,Champions Tour 2024 Pacific Stage 2_csvs
+314364,Lotus,2,9 - 13,BLEED,50:20,T1,Champions Tour 2024 Pacific Stage 2_csvs
+314364,Ascent,3,13 - 8,T1,46:07,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+365316,Haven,1,13 - 8,Gen.G,1:01:06,Rex Regum Qeon,Champions Tour 2024 Pacific Stage 2_csvs
+365316,Bind,2,13 - 11,Gen.G,52:16,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+365317,Lotus,1,11 - 13,TALON,1:01:48,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+365317,Abyss,2,11 - 13,TALON,55:48,Team Secret,Champions Tour 2024 Pacific Stage 2_csvs
+365318,Ascent,1,10 - 13,Gen.G,59:34,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+365318,Icebox,2,5 - 13,Gen.G,39:00,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+365319,Ascent,1,13 - 8,DRX,55:20,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+365319,Abyss,2,13 - 4,DRX,39:41,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+365320,Haven,1,13 - 9,Gen.G,57:01,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+365320,Sunset,2,10 - 13,DRX,53:54,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+365320,Bind,3,13 - 6,Gen.G,46:10,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+365322,Ascent,1,13 - 3,Paper Rex,40:33,TALON,Champions Tour 2024 Pacific Stage 2_csvs
+365322,Sunset,2,13 - 3,Paper Rex,33:24,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+365323,Abyss,1,7 - 13,Paper Rex,47:52,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+365323,Lotus,2,10 - 13,Paper Rex,43:05,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+365323,Bind,3,13 - 10,DRX,48:48,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+365323,Icebox,4,13 - 10,DRX,48:59,Paper Rex,Champions Tour 2024 Pacific Stage 2_csvs
+365323,Ascent,5,13 - 7,DRX,43:32,Decider,Champions Tour 2024 Pacific Stage 2_csvs
+365321,Haven,1,6 - 13,DRX,45:13,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+365321,Bind,2,18 - 16,Gen.G,1:22:39,DRX,Champions Tour 2024 Pacific Stage 2_csvs
+365321,Lotus,3,14 - 12,Gen.G,57:55,Gen.G,Champions Tour 2024 Pacific Stage 2_csvs
+365321,Icebox,4,13 - 6,Gen.G,39:36,DRX,Champions Tour 2024 Pacific Stage 2_csvs
 427991,Split,1,12 - 14,LOUD,1:13:09,LOUD,VCT 2025 Americas Kickoff_csvs
 427991,Pearl,2,10 - 13,LOUD,53:34,Evil Geniuses,VCT 2025 Americas Kickoff_csvs
 427992,Lotus,1,4 - 13,100 Thieves,40:14,MIBR,VCT 2025 Americas Kickoff_csvs
@@ -1084,6 +2101,92 @@ match_id,map_name,map_order,score,winner,duration,picked_by,tournament_name
 530365,Lotus,2,6 - 13,Rex Regum Qeon,42:39,Paper Rex,VCT 2025 Pacific Stage 2_csvs
 530365,Haven,3,13 - 7,Paper Rex,41:43,Rex Regum Qeon,VCT 2025 Pacific Stage 2_csvs
 530365,Bind,4,13 - 8,Paper Rex,1:11:07,Paper Rex,VCT 2025 Pacific Stage 2_csvs
+378662,Haven,1,13 - 8,Gen.G,1:02:40,Sentinels,Valorant Champions 2024_csvs
+378662,Ascent,2,13 - 7,Gen.G,46:45,Gen.G,Valorant Champions 2024_csvs
+378663,Abyss,1,12 - 14,Team Heretics,1:10:12,FunPlus Phoenix,Valorant Champions 2024_csvs
+378663,Bind,2,13 - 9,FunPlus Phoenix,53:01,Team Heretics,Valorant Champions 2024_csvs
+378663,Lotus,3,13 - 15,Team Heretics,1:07:12,Decider,Valorant Champions 2024_csvs
+378657,Haven,1,2 - 13,KRÜ Esports,36:59,KRÜ Esports,Valorant Champions 2024_csvs
+378657,Abyss,2,13 - 6,DRX,51:08,DRX,Valorant Champions 2024_csvs
+378657,Bind,3,13 - 6,DRX,45:53,Decider,Valorant Champions 2024_csvs
+378656,Bind,1,13 - 9,FNATIC,1:02:06,Bilibili Gaming,Valorant Champions 2024_csvs
+378656,Lotus,2,13 - 4,FNATIC,36:53,FNATIC,Valorant Champions 2024_csvs
+378667,Bind,1,13 - 11,LEVIATÁN,1:05:39,TALON,Valorant Champions 2024_csvs
+378667,Ascent,2,13 - 8,LEVIATÁN,54:02,LEVIATÁN,Valorant Champions 2024_csvs
+378669,Ascent,1,13 - 15,Trace Esports,1:09:22,Trace Esports,Valorant Champions 2024_csvs
+378669,Sunset,2,13 - 7,Team Vitality,46:50,Team Vitality,Valorant Champions 2024_csvs
+378669,Bind,3,7 - 13,Trace Esports,45:26,Decider,Valorant Champions 2024_csvs
+378674,Icebox,1,13 - 8,G2 Esports,55:32,Paper Rex,Valorant Champions 2024_csvs
+378674,Lotus,2,13 - 9,G2 Esports,49:03,G2 Esports,Valorant Champions 2024_csvs
+378673,Lotus,1,13 - 9,EDward Gaming,55:13,FUT Esports,Valorant Champions 2024_csvs
+378673,Bind,2,13 - 10,EDward Gaming,54:58,EDward Gaming,Valorant Champions 2024_csvs
+378664,Abyss,1,13 - 11,Gen.G,1:05:59,Team Heretics,Valorant Champions 2024_csvs
+378664,Lotus,2,11 - 13,Team Heretics,57:29,Gen.G,Valorant Champions 2024_csvs
+378664,Bind,3,10 - 13,Team Heretics,53:15,Decider,Valorant Champions 2024_csvs
+378658,Abyss,1,11 - 13,DRX,1:06:50,DRX,Valorant Champions 2024_csvs
+378658,Lotus,2,6 - 13,DRX,47:03,FNATIC,Valorant Champions 2024_csvs
+378670,Bind,1,10 - 13,Trace Esports,1:06:05,Trace Esports,Valorant Champions 2024_csvs
+378670,Sunset,2,13 - 9,LEVIATÁN,46:53,LEVIATÁN,Valorant Champions 2024_csvs
+378670,Ascent,3,5 - 13,Trace Esports,46:02,Decider,Valorant Champions 2024_csvs
+378675,Icebox,1,13 - 8,EDward Gaming,56:46,G2 Esports,Valorant Champions 2024_csvs
+378675,Haven,2,11 - 13,G2 Esports,55:17,EDward Gaming,Valorant Champions 2024_csvs
+378675,Bind,3,11 - 13,G2 Esports,58:00,Decider,Valorant Champions 2024_csvs
+378665,Bind,1,13 - 8,Sentinels,58:00,FunPlus Phoenix,Valorant Champions 2024_csvs
+378665,Lotus,2,13 - 5,Sentinels,41:57,Sentinels,Valorant Champions 2024_csvs
+378659,Lotus,1,9 - 13,KRÜ Esports,1:01:06,KRÜ Esports,Valorant Champions 2024_csvs
+378659,Icebox,2,4 - 13,KRÜ Esports,36:20,Bilibili Gaming,Valorant Champions 2024_csvs
+378671,Lotus,1,6 - 13,Team Vitality,1:06:04,TALON,Valorant Champions 2024_csvs
+378671,Sunset,2,8 - 13,Team Vitality,48:54,Team Vitality,Valorant Champions 2024_csvs
+378676,Sunset,1,11 - 13,Paper Rex,1:02:48,FUT Esports,Valorant Champions 2024_csvs
+378676,Bind,2,6 - 13,Paper Rex,40:05,Paper Rex,Valorant Champions 2024_csvs
+378666,Lotus,1,9 - 13,Sentinels,57:51,Sentinels,Valorant Champions 2024_csvs
+378666,Icebox,2,6 - 13,Sentinels,44:05,Gen.G,Valorant Champions 2024_csvs
+378660,Sunset,1,11 - 13,KRÜ Esports,1:05:29,KRÜ Esports,Valorant Champions 2024_csvs
+378660,Haven,2,13 - 9,FNATIC,59:08,FNATIC,Valorant Champions 2024_csvs
+378660,Lotus,3,13 - 5,FNATIC,45:59,Decider,Valorant Champions 2024_csvs
+378672,Icebox,1,14 - 12,LEVIATÁN,1:09:37,LEVIATÁN,Valorant Champions 2024_csvs
+378672,Sunset,2,13 - 4,LEVIATÁN,36:30,Team Vitality,Valorant Champions 2024_csvs
+378677,Icebox,1,3 - 13,Paper Rex,45:00,EDward Gaming,Valorant Champions 2024_csvs
+378677,Sunset,2,13 - 8,EDward Gaming,46:54,Paper Rex,Valorant Champions 2024_csvs
+378677,Lotus,3,13 - 4,EDward Gaming,33:10,Decider,Valorant Champions 2024_csvs
+378822,Sunset,1,13 - 15,Sentinels,1:08:46,Sentinels,Valorant Champions 2024_csvs
+378822,Haven,2,8 - 13,Sentinels,43:10,DRX,Valorant Champions 2024_csvs
+378823,Bind,1,7 - 13,EDward Gaming,50:40,Trace Esports,Valorant Champions 2024_csvs
+378823,Sunset,2,10 - 13,EDward Gaming,52:32,EDward Gaming,Valorant Champions 2024_csvs
+378824,Icebox,1,14 - 16,LEVIATÁN,1:20:59,LEVIATÁN,Valorant Champions 2024_csvs
+378824,Abyss,2,5 - 13,LEVIATÁN,44:03,G2 Esports,Valorant Champions 2024_csvs
+378825,Lotus,1,13 - 3,Team Heretics,48:20,FNATIC,Valorant Champions 2024_csvs
+378825,Abyss,2,14 - 12,Team Heretics,1:01:50,Team Heretics,Valorant Champions 2024_csvs
+378831,Lotus,1,13 - 3,DRX,42:52,Trace Esports,Valorant Champions 2024_csvs
+378831,Abyss,2,13 - 5,DRX,40:41,DRX,Valorant Champions 2024_csvs
+378832,Haven,1,3 - 13,FNATIC,43:29,FNATIC,Valorant Champions 2024_csvs
+378832,Bind,2,11 - 13,FNATIC,58:10,G2 Esports,Valorant Champions 2024_csvs
+378826,Haven,1,13 - 9,Sentinels,1:01:57,EDward Gaming,Valorant Champions 2024_csvs
+378826,Lotus,2,9 - 13,EDward Gaming,53:44,Sentinels,Valorant Champions 2024_csvs
+378826,Sunset,3,6 - 13,EDward Gaming,42:04,Decider,Valorant Champions 2024_csvs
+378827,Icebox,1,15 - 13,LEVIATÁN,1:14:55,LEVIATÁN,Valorant Champions 2024_csvs
+378827,Lotus,2,13 - 10,LEVIATÁN,57:45,Team Heretics,Valorant Champions 2024_csvs
+378834,Sunset,1,13 - 11,Sentinels,1:08:23,Sentinels,Valorant Champions 2024_csvs
+378834,Bind,2,9 - 13,FNATIC,52:23,FNATIC,Valorant Champions 2024_csvs
+378834,Lotus,3,13 - 6,Sentinels,51:27,Decider,Valorant Champions 2024_csvs
+378833,Abyss,1,5 - 13,DRX,52:44,DRX,Valorant Champions 2024_csvs
+378833,Sunset,2,13 - 5,Team Heretics,43:42,Team Heretics,Valorant Champions 2024_csvs
+378833,Icebox,3,13 - 10,Team Heretics,57:50,Decider,Valorant Champions 2024_csvs
+378828,Icebox,1,14 - 16,LEVIATÁN,1:28:03,LEVIATÁN,Valorant Champions 2024_csvs
+378828,Lotus,2,13 - 4,EDward Gaming,39:45,EDward Gaming,Valorant Champions 2024_csvs
+378828,Abyss,3,13 - 11,EDward Gaming,1:01:34,Decider,Valorant Champions 2024_csvs
+378835,Haven,1,8 - 13,Sentinels,1:01:41,Sentinels,Valorant Champions 2024_csvs
+378835,Icebox,2,13 - 9,Team Heretics,54:53,Team Heretics,Valorant Champions 2024_csvs
+378835,Abyss,3,13 - 7,Team Heretics,47:52,Decider,Valorant Champions 2024_csvs
+378836,Icebox,1,7 - 13,Team Heretics,1:03:01,LEVIATÁN,Valorant Champions 2024_csvs
+378836,Sunset,2,13 - 15,Team Heretics,1:07:58,Team Heretics,Valorant Champions 2024_csvs
+378836,Abyss,3,13 - 9,LEVIATÁN,55:08,LEVIATÁN,Valorant Champions 2024_csvs
+378836,Lotus,4,3 - 13,Team Heretics,38:44,Team Heretics,Valorant Champions 2024_csvs
+378829,Haven,1,6 - 13,Team Heretics,1:16:43,EDward Gaming,Valorant Champions 2024_csvs
+378829,Sunset,2,13 - 4,EDward Gaming,45:11,Team Heretics,Valorant Champions 2024_csvs
+378829,Lotus,3,13 - 9,EDward Gaming,55:30,EDward Gaming,Valorant Champions 2024_csvs
+378829,Bind,4,11 - 13,Team Heretics,1:01:45,Team Heretics,Valorant Champions 2024_csvs
+378829,Abyss,5,13 - 9,EDward Gaming,51:55,Decider,Valorant Champions 2024_csvs
 542195,Bind,1,13 - 9,Paper Rex,48:56,Xi Lai Gaming,Valorant Champions 2025_csvs
 542195,Sunset,2,13 - 5,Paper Rex,39:04,Paper Rex,Valorant Champions 2025_csvs
 542196,Corrode,1,6 - 13,Sentinels,41:17,Sentinels,Valorant Champions 2025_csvs

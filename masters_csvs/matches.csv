@@ -1,4 +1,406 @@
 date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage,tournament_name
+"Sat, February 17, 2024",295605,3:30 AM,NRG,2,FURIA,0,2-0,NRG,Completed,Opening (A),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sat, February 17, 2024",295606,6:30 AM,Cloud9,2,MIBR,1,2-1,Cloud9,Completed,Opening (A),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, February 18, 2024",295610,3:30 AM,LOUD,2,Sentinels,0,2-0,LOUD,Completed,Opening (B),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, February 18, 2024",295611,6:05 AM,LEVIATÁN,2,100 Thieves,1,2-1,LEVIATÁN,Completed,Opening (B),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Mon, February 19, 2024",295615,3:30 AM,KRÜ Esports,1,G2 Esports,2,1-2,G2 Esports,Completed,Opening (C),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Tue, February 20, 2024",295608,3:30 AM,FURIA,0,MIBR,2,0-2,MIBR,Completed,Elimination (A),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Tue, February 20, 2024",295613,6:15 AM,Sentinels,2,100 Thieves,1,2-1,Sentinels,Completed,Elimination (B),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sat, February 24, 2024",295607,3:30 AM,NRG,2,Cloud9,0,2-0,NRG,Completed,Winner's (A),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sat, February 24, 2024",295612,5:55 AM,LOUD,2,LEVIATÁN,1,2-1,LOUD,Completed,Winner's (B),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, February 25, 2024",295617,3:30 AM,G2 Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Winner's (C),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Mon, February 26, 2024",295609,1:30 AM,Cloud9,0,MIBR,2,0-2,MIBR,Completed,Decider (A),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Mon, February 26, 2024",295614,4:10 AM,LEVIATÁN,1,Sentinels,2,1-2,Sentinels,Completed,Decider (B),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Mon, February 26, 2024",295619,7:25 AM,G2 Esports,2,KRÜ Esports,0,2-0,G2 Esports,Completed,Decider (C),Group Stage,Champions Tour 2024 Americas Kickoff_csvs
+"Tue, February 27, 2024",307572,1:30 AM,MIBR,0,Sentinels,2,0-2,Sentinels,Completed,Play-ins,Play-Ins,Champions Tour 2024 Americas Kickoff_csvs
+"Tue, February 27, 2024",307573,3:40 AM,G2 Esports,1,MIBR,2,1-2,MIBR,Completed,Play-ins,Play-Ins,Champions Tour 2024 Americas Kickoff_csvs
+"Tue, February 27, 2024",307574,7:25 AM,Sentinels,1,G2 Esports,2,1-2,G2 Esports,Completed,Play-ins,Play-Ins,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, March 3, 2024",303087,3:30 AM,Evil Geniuses,1,LOUD,2,1-2,LOUD,Completed,Semifinals,Playoffs,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, March 3, 2024",303088,6:30 AM,NRG,1,Sentinels,2,1-2,Sentinels,Completed,Semifinals,Playoffs,Champions Tour 2024 Americas Kickoff_csvs
+"Mon, March 4, 2024",303086,3:30 AM,LOUD,2,Sentinels,3,2-3,Sentinels,Completed,Grand Final,Playoffs,Champions Tour 2024 Americas Kickoff_csvs
+"Sun, April 7, 2024",314622,2:30 AM,Cloud9,2,LEVIATÁN,1,2-1,Cloud9,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 7, 2024",314623,6:30 AM,NRG,2,LOUD,0,2-0,NRG,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 8, 2024",314624,2:30 AM,G2 Esports,2,Evil Geniuses,0,2-0,G2 Esports,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 8, 2024",314625,4:40 AM,Sentinels,2,100 Thieves,0,2-0,Sentinels,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Tue, April 9, 2024",314626,2:30 AM,KRÜ Esports,2,FURIA,1,2-1,KRÜ Esports,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 14, 2024",314628,2:30 AM,G2 Esports,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 14, 2024",314629,4:55 AM,Sentinels,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 15, 2024",314630,2:30 AM,KRÜ Esports,2,MIBR,0,2-0,KRÜ Esports,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 15, 2024",314631,4:50 AM,NRG,2,FURIA,0,2-0,NRG,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Tue, April 16, 2024",314632,2:30 AM,Cloud9,2,Evil Geniuses,1,2-1,Cloud9,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 21, 2024",314634,2:30 AM,Sentinels,2,MIBR,0,2-0,Sentinels,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 21, 2024",314635,5:00 AM,Cloud9,2,LOUD,1,2-1,Cloud9,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 22, 2024",314636,2:30 AM,KRÜ Esports,2,Evil Geniuses,0,2-0,KRÜ Esports,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 22, 2024",314637,4:45 AM,NRG,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Tue, April 23, 2024",314638,2:30 AM,G2 Esports,2,FURIA,0,2-0,G2 Esports,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Tue, April 23, 2024",314639,4:30 AM,Cloud9,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Wed, April 24, 2024",314640,2:30 AM,Sentinels,1,Evil Geniuses,2,1-2,Evil Geniuses,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Wed, April 24, 2024",314641,6:00 AM,NRG,2,MIBR,0,2-0,NRG,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Thu, April 25, 2024",314642,2:30 AM,G2 Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Thu, April 25, 2024",314643,5:45 AM,KRÜ Esports,2,LOUD,0,2-0,KRÜ Esports,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 28, 2024",314644,2:30 AM,G2 Esports,2,MIBR,0,2-0,G2 Esports,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, April 28, 2024",314645,4:35 AM,Sentinels,0,LOUD,2,0-2,LOUD,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 29, 2024",314646,2:30 AM,Cloud9,2,FURIA,1,2-1,Cloud9,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, April 29, 2024",314647,5:25 AM,NRG,1,Evil Geniuses,2,1-2,Evil Geniuses,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Tue, April 30, 2024",314648,2:30 AM,KRÜ Esports,2,100 Thieves,1,2-1,KRÜ Esports,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sat, May 4, 2024",314650,5:30 AM,Sentinels,2,FURIA,0,2-0,Sentinels,Completed,Week 5,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, May 5, 2024",314651,2:30 AM,NRG,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 5,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, May 5, 2024",314652,4:50 AM,KRÜ Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Week 5,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, May 6, 2024",314653,2:30 AM,Cloud9,2,MIBR,0,2-0,Cloud9,Completed,Week 5,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, May 6, 2024",314654,5:05 AM,G2 Esports,0,LOUD,2,0-2,LOUD,Completed,Week 5,Regular Season,Champions Tour 2024 Americas Stage 1_csvs
+"Thu, May 9, 2024",337407,2:30 AM,Cloud9,0,G2 Esports,2,0-2,G2 Esports,Completed,Knockout Round,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Thu, May 9, 2024",337408,4:55 AM,100 Thieves,2,LOUD,0,2-0,100 Thieves,Completed,Knockout Round,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Fri, May 10, 2024",337409,2:30 AM,KRÜ Esports,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Fri, May 10, 2024",337410,4:35 AM,LEVIATÁN,1,100 Thieves,2,1-2,100 Thieves,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Sat, May 11, 2024",337411,2:30 AM,G2 Esports,1,100 Thieves,2,1-2,100 Thieves,Completed,Upper Final,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Sat, May 11, 2024",337413,5:30 AM,KRÜ Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, May 12, 2024",337414,2:30 AM,G2 Esports,3,LEVIATÁN,2,3-2,G2 Esports,Completed,Lower Final,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Mon, May 13, 2024",337412,2:30 AM,100 Thieves,3,G2 Esports,0,3-0,100 Thieves,Completed,Grand Final,Playoffs,Champions Tour 2024 Americas Stage 1_csvs
+"Sun, June 23, 2024",353177,2:30 AM,MIBR,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, June 23, 2024",353178,4:45 AM,Sentinels,2,NRG,0,2-0,Sentinels,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, June 24, 2024",353179,2:30 AM,FURIA,2,100 Thieves,0,2-0,FURIA,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, June 24, 2024",353180,5:15 AM,LOUD,1,Evil Geniuses,2,1-2,Evil Geniuses,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Tue, June 25, 2024",353181,2:30 AM,G2 Esports,2,Cloud9,1,2-1,G2 Esports,Completed,Week 1,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, June 30, 2024",353182,2:30 AM,Evil Geniuses,2,FURIA,0,2-0,Evil Geniuses,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, June 30, 2024",353183,4:30 AM,Sentinels,2,KRÜ Esports,0,2-0,Sentinels,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 1, 2024",353184,2:30 AM,LOUD,2,MIBR,1,2-1,LOUD,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 1, 2024",353185,5:50 AM,LEVIATÁN,2,100 Thieves,0,2-0,LEVIATÁN,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Tue, July 2, 2024",353186,2:30 AM,NRG,0,G2 Esports,2,0-2,G2 Esports,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Tue, July 2, 2024",353187,4:55 AM,Sentinels,2,Cloud9,0,2-0,Sentinels,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Wed, July 3, 2024",353188,2:30 AM,Evil Geniuses,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Wed, July 3, 2024",353189,4:45 AM,LOUD,1,FURIA,2,1-2,FURIA,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Thu, July 4, 2024",353190,2:30 AM,MIBR,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Thu, July 4, 2024",353191,4:35 AM,NRG,2,KRÜ Esports,1,2-1,NRG,Completed,Week 2,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, July 7, 2024",353192,2:30 AM,G2 Esports,2,KRÜ Esports,1,2-1,G2 Esports,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, July 7, 2024",353193,6:05 AM,LOUD,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 8, 2024",353194,2:30 AM,MIBR,0,FURIA,2,0-2,FURIA,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 8, 2024",353195,4:45 AM,NRG,1,Cloud9,2,1-2,Cloud9,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Tue, July 9, 2024",353196,2:30 AM,Evil Geniuses,1,100 Thieves,2,1-2,100 Thieves,Completed,Week 3,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sat, July 13, 2024",353197,5:30 AM,Cloud9,0,KRÜ Esports,2,0-2,KRÜ Esports,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, July 14, 2024",353198,2:30 AM,Evil Geniuses,0,MIBR,2,0-2,MIBR,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, July 14, 2024",353199,4:40 AM,LEVIATÁN,2,FURIA,0,2-0,LEVIATÁN,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 15, 2024",353200,2:30 AM,LOUD,2,100 Thieves,1,2-1,LOUD,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 15, 2024",353201,5:30 AM,Sentinels,0,G2 Esports,2,0-2,G2 Esports,Completed,Week 4,Regular Season,Champions Tour 2024 Americas Stage 2_csvs
+"Thu, July 18, 2024",371266,2:30 AM,KRÜ Esports,2,Cloud9,1,2-1,KRÜ Esports,Completed,Knockout Round,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Thu, July 18, 2024",371267,6:00 AM,Sentinels,0,100 Thieves,2,0-2,100 Thieves,Completed,Knockout Round,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Fri, July 19, 2024",371268,2:30 AM,LEVIATÁN,2,KRÜ Esports,0,2-0,LEVIATÁN,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Fri, July 19, 2024",371269,4:25 AM,G2 Esports,2,100 Thieves,0,2-0,G2 Esports,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Sat, July 20, 2024",371270,2:30 AM,LEVIATÁN,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Final,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Sat, July 20, 2024",371272,4:40 AM,KRÜ Esports,2,100 Thieves,1,2-1,KRÜ Esports,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Sun, July 21, 2024",371273,2:30 AM,LEVIATÁN,3,KRÜ Esports,2,3-2,LEVIATÁN,Completed,Lower Final,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Mon, July 22, 2024",371271,2:30 AM,G2 Esports,1,LEVIATÁN,3,1-3,LEVIATÁN,Completed,Grand Final,Playoffs,Champions Tour 2024 Americas Stage 2_csvs
+"Thu, February 22, 2024",298687,2:30 PM,Trace Esports,2,TYLOO,0,2-0,Trace Esports,Completed,Opening (A),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Thu, February 22, 2024",298688,4:35 PM,FunPlus Phoenix,2,Nova Esports,0,2-0,FunPlus Phoenix,Completed,Opening (A),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Fri, February 23, 2024",298692,12:30 PM,JDG Esports,0,Titan Esports Club,2,0-2,Titan Esports Club,Completed,Opening (B),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Fri, February 23, 2024",298693,3:25 PM,Dragon Ranger Gaming,2,All Gamers,0,2-0,Dragon Ranger Gaming,Completed,Opening (B),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Fri, February 23, 2024",298697,5:35 PM,Bilibili Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Opening (C),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Sat, February 24, 2024",298690,2:30 PM,TYLOO,0,Nova Esports,2,0-2,Nova Esports,Completed,Elimination (A),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Sat, February 24, 2024",298695,4:55 PM,JDG Esports,2,All Gamers,0,2-0,JDG Esports,Completed,Elimination (B),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Sun, February 25, 2024",298689,12:30 PM,Trace Esports,1,FunPlus Phoenix,2,1-2,FunPlus Phoenix,Completed,Winner's (A),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Sun, February 25, 2024",298694,4:00 PM,Titan Esports Club,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Winner's (B),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Sun, February 25, 2024",298698,7:30 PM,Wolves Esports,1,EDward Gaming,2,1-2,EDward Gaming,Completed,Winner's (C),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Mon, February 26, 2024",298691,12:30 PM,Trace Esports,2,Nova Esports,0,2-0,Trace Esports,Completed,Decider (A),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Mon, February 26, 2024",298696,2:35 PM,Titan Esports Club,2,JDG Esports,1,2-1,Titan Esports Club,Completed,Decider (B),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Mon, February 26, 2024",298699,6:10 PM,Wolves Esports,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Decider (C),Group Stage,Champions Tour 2024 China Kickoff_csvs
+"Tue, February 27, 2024",298830,12:30 PM,Trace Esports,2,Titan Esports Club,1,2-1,Trace Esports,Completed,Round-Robin,Play-Ins,Champions Tour 2024 China Kickoff_csvs
+"Tue, February 27, 2024",298831,4:05 PM,Bilibili Gaming,2,Titan Esports Club,0,2-0,Bilibili Gaming,Completed,Round-Robin,Play-Ins,Champions Tour 2024 China Kickoff_csvs
+"Tue, February 27, 2024",298832,6:05 PM,Bilibili Gaming,1,Trace Esports,2,1-2,Trace Esports,Completed,Round-Robin,Play-Ins,Champions Tour 2024 China Kickoff_csvs
+"Fri, March 1, 2024",298833,2:30 PM,FunPlus Phoenix,2,Dragon Ranger Gaming,0,2-0,FunPlus Phoenix,Completed,Semifinals,Playoffs,Champions Tour 2024 China Kickoff_csvs
+"Fri, March 1, 2024",298834,4:45 PM,EDward Gaming,2,Trace Esports,0,2-0,EDward Gaming,Completed,Semifinals,Playoffs,Champions Tour 2024 China Kickoff_csvs
+"Sat, March 2, 2024",298835,2:30 PM,FunPlus Phoenix,1,EDward Gaming,3,1-3,EDward Gaming,Completed,Grand Final,Playoffs,Champions Tour 2024 China Kickoff_csvs
+"Fri, April 5, 2024",319765,2:30 PM,Bilibili Gaming,2,TYLOO,1,2-1,Bilibili Gaming,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 5, 2024",319766,5:40 PM,Wolves Esports,1,Titan Esports Club,2,1-2,Titan Esports Club,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 6, 2024",319767,2:30 PM,Dragon Ranger Gaming,1,All Gamers,2,1-2,All Gamers,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 6, 2024",319768,6:15 PM,EDward Gaming,2,JDG Esports,1,2-1,EDward Gaming,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 7, 2024",319769,2:30 PM,Nova Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 7, 2024",319770,4:45 PM,FunPlus Phoenix,2,Wolves Esports,0,2-0,FunPlus Phoenix,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 12, 2024",319771,2:30 PM,JDG Esports,1,Nova Esports,2,1-2,Nova Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 12, 2024",319772,5:45 PM,FunPlus Phoenix,2,Dragon Ranger Gaming,1,2-1,FunPlus Phoenix,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 13, 2024",319773,2:30 PM,All Gamers,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 13, 2024",319774,5:15 PM,Trace Esports,2,Bilibili Gaming,1,2-1,Trace Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 14, 2024",319775,2:30 PM,Dragon Ranger Gaming,2,Titan Esports Club,1,2-1,Dragon Ranger Gaming,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 14, 2024",319776,5:20 PM,TYLOO,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 19, 2024",319777,2:30 PM,Wolves Esports,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 19, 2024",319778,4:55 PM,Nova Esports,0,FunPlus Phoenix,2,0-2,FunPlus Phoenix,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 20, 2024",319779,2:30 PM,Bilibili Gaming,0,All Gamers,2,0-2,All Gamers,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 20, 2024",319780,5:10 PM,Dragon Ranger Gaming,2,JDG Esports,1,2-1,Dragon Ranger Gaming,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 21, 2024",319781,2:30 PM,TYLOO,2,Nova Esports,1,2-1,TYLOO,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 21, 2024",319782,6:30 PM,EDward Gaming,2,Titan Esports Club,0,2-0,EDward Gaming,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 26, 2024",319783,2:30 PM,Titan Esports Club,2,Bilibili Gaming,1,2-1,Titan Esports Club,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, April 26, 2024",319784,5:35 PM,Trace Esports,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 27, 2024",319785,2:30 PM,TYLOO,1,Wolves Esports,2,1-2,Wolves Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, April 27, 2024",319786,6:00 PM,FunPlus Phoenix,2,EDward Gaming,1,2-1,FunPlus Phoenix,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 28, 2024",319787,2:30 PM,All Gamers,2,Nova Esports,1,2-1,All Gamers,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, April 28, 2024",319788,6:10 PM,Bilibili Gaming,2,JDG Esports,0,2-0,Bilibili Gaming,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Thu, May 2, 2024",319789,4:30 PM,EDward Gaming,2,All Gamers,0,2-0,EDward Gaming,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Fri, May 3, 2024",319790,4:30 PM,Wolves Esports,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, May 4, 2024",319791,2:30 PM,Dragon Ranger Gaming,0,TYLOO,2,0-2,TYLOO,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sat, May 4, 2024",319792,5:00 PM,Bilibili Gaming,0,FunPlus Phoenix,2,0-2,FunPlus Phoenix,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, May 5, 2024",319793,2:30 PM,Nova Esports,2,Titan Esports Club,0,2-0,Nova Esports,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Sun, May 5, 2024",319794,4:35 PM,Trace Esports,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Week 5,Regular Season,Champions Tour 2024 China Stage 1_csvs
+"Wed, May 8, 2024",342356,2:30 PM,Trace Esports,2,All Gamers,0,2-0,Trace Esports,Completed,Knockout Round,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Wed, May 8, 2024",342357,4:45 PM,Dragon Ranger Gaming,2,Nova Esports,0,2-0,Dragon Ranger Gaming,Completed,Knockout Round,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Thu, May 9, 2024",342358,2:30 PM,FunPlus Phoenix,2,Trace Esports,0,2-0,FunPlus Phoenix,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Thu, May 9, 2024",342359,5:00 PM,EDward Gaming,2,Dragon Ranger Gaming,0,2-0,EDward Gaming,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Fri, May 10, 2024",342360,2:30 PM,FunPlus Phoenix,2,EDward Gaming,0,2-0,FunPlus Phoenix,Completed,Upper Final,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Fri, May 10, 2024",342361,5:15 PM,Trace Esports,1,Dragon Ranger Gaming,2,1-2,Dragon Ranger Gaming,Completed,Lower Round 1,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Sat, May 11, 2024",342362,2:30 PM,EDward Gaming,3,Dragon Ranger Gaming,1,3-1,EDward Gaming,Completed,Lower Final,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Sun, May 12, 2024",342363,2:30 PM,FunPlus Phoenix,1,EDward Gaming,3,1-3,EDward Gaming,Completed,Grand Final,Playoffs,Champions Tour 2024 China Stage 1_csvs
+"Sat, June 15, 2024",359603,4:30 PM,Titan Esports Club,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 16, 2024",359604,2:30 PM,All Gamers,2,TYLOO,0,2-0,All Gamers,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 16, 2024",359605,4:35 PM,Bilibili Gaming,2,Wolves Esports,0,2-0,Bilibili Gaming,Completed,Week 1,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, June 21, 2024",359606,2:30 PM,Dragon Ranger Gaming,1,Nova Esports,2,1-2,Nova Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, June 21, 2024",359607,5:45 PM,FunPlus Phoenix,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, June 22, 2024",359608,2:30 PM,Titan Esports Club,0,All Gamers,2,0-2,All Gamers,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, June 22, 2024",359609,4:30 PM,EDward Gaming,1,Wolves Esports,2,1-2,Wolves Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 23, 2024",359610,2:30 PM,TYLOO,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 23, 2024",359611,5:35 PM,Nova Esports,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Week 2,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Wed, June 26, 2024",359612,4:30 PM,JDG Esports,0,FunPlus Phoenix,2,0-2,FunPlus Phoenix,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Thu, June 27, 2024",359613,4:30 PM,EDward Gaming,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, June 28, 2024",359614,2:30 PM,Nova Esports,2,Wolves Esports,0,2-0,Nova Esports,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, June 28, 2024",359615,5:05 PM,JDG Esports,2,Trace Esports,1,2-1,JDG Esports,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, June 29, 2024",359616,2:30 PM,Titan Esports Club,1,TYLOO,2,1-2,TYLOO,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, June 29, 2024",359617,6:00 PM,All Gamers,1,FunPlus Phoenix,2,1-2,FunPlus Phoenix,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 30, 2024",359618,2:30 PM,Bilibili Gaming,2,Dragon Ranger Gaming,0,2-0,Bilibili Gaming,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, June 30, 2024",359619,4:50 PM,EDward Gaming,2,Nova Esports,0,2-0,EDward Gaming,Completed,Week 3,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Wed, July 3, 2024",359621,4:30 PM,All Gamers,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Thu, July 4, 2024",359622,4:30 PM,Titan Esports Club,2,FunPlus Phoenix,0,2-0,Titan Esports Club,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, July 5, 2024",359623,2:30 PM,TYLOO,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Fri, July 5, 2024",359624,4:30 PM,Dragon Ranger Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, July 6, 2024",359625,2:30 PM,Trace Esports,2,Titan Esports Club,1,2-1,Trace Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sat, July 6, 2024",359626,5:50 PM,EDward Gaming,2,Bilibili Gaming,0,2-0,EDward Gaming,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, July 7, 2024",359627,2:30 PM,JDG Esports,2,All Gamers,0,2-0,JDG Esports,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Sun, July 7, 2024",359628,4:30 PM,TYLOO,2,FunPlus Phoenix,1,2-1,TYLOO,Completed,Week 4,Regular Season,Champions Tour 2024 China Stage 2_csvs
+"Tue, July 16, 2024",370723,1:30 PM,Trace Esports,2,All Gamers,0,2-0,Trace Esports,Completed,Knockout Round,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Tue, July 16, 2024",370722,3:55 PM,JDG Esports,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Knockout Round,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Wed, July 17, 2024",370725,1:30 PM,FunPlus Phoenix,0,Trace Esports,2,0-2,Trace Esports,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Wed, July 17, 2024",370724,3:40 PM,EDward Gaming,2,Bilibili Gaming,1,2-1,EDward Gaming,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Thu, July 18, 2024",370726,1:30 PM,Trace Esports,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Upper Final,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Thu, July 18, 2024",370728,3:20 PM,FunPlus Phoenix,2,Bilibili Gaming,1,2-1,FunPlus Phoenix,Completed,Lower Round 1,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Fri, July 19, 2024",370729,1:30 PM,Trace Esports,2,FunPlus Phoenix,3,2-3,FunPlus Phoenix,Completed,Lower Final,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Sat, July 20, 2024",370727,2:00 PM,EDward Gaming,3,FunPlus Phoenix,2,3-2,EDward Gaming,Completed,Grand Final,Playoffs,Champions Tour 2024 China Stage 2_csvs
+"Tue, February 20, 2024",297401,9:30 PM,FUT Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Opening (A),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Wed, February 21, 2024",297402,12:05 AM,GIANTX,1,Karmine Corp,2,1-2,Karmine Corp,Completed,Opening (A),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Wed, February 21, 2024",297406,6:30 PM,Natus Vincere,2,BBL Esports,1,2-1,Natus Vincere,Completed,Opening (B),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Wed, February 21, 2024",297407,9:30 PM,Team Liquid,2,KOI,0,2-0,Team Liquid,Completed,Opening (B),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Thu, February 22, 2024",297412,12:15 AM,Team Vitality,2,Gentle Mates,0,2-0,Team Vitality,Completed,Opening (C),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Thu, February 22, 2024",297403,9:30 PM,Team Heretics,2,Karmine Corp,0,2-0,Team Heretics,Completed,Winner's (A),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Thu, February 22, 2024",297404,11:40 PM,FUT Esports,2,GIANTX,1,2-1,FUT Esports,Completed,Elimination (A),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Fri, February 23, 2024",297408,6:30 PM,Natus Vincere,2,Team Liquid,0,2-0,Natus Vincere,Completed,Winner's (B),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Fri, February 23, 2024",297409,8:40 PM,BBL Esports,0,KOI,2,0-2,KOI,Completed,Elimination (B),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Fri, February 23, 2024",297414,10:50 PM,Team Vitality,0,FNATIC,2,0-2,FNATIC,Completed,Winner's (C),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Sun, February 25, 2024",297416,6:35 PM,Team Vitality,2,Gentle Mates,1,2-1,Team Vitality,Completed,Decider (C),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Sun, February 25, 2024",297405,9:45 PM,Karmine Corp,2,FUT Esports,1,2-1,Karmine Corp,Completed,Decider (A),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Mon, February 26, 2024",297410,1:15 AM,Team Liquid,1,KOI,2,1-2,KOI,Completed,Decider (B),Group Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Mon, February 26, 2024",307567,6:30 PM,Karmine Corp,2,Team Vitality,0,2-0,Karmine Corp,Completed,Play-ins,Play-In Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Mon, February 26, 2024",307565,9:15 PM,KOI,0,Team Vitality,2,0-2,Team Vitality,Completed,Play-ins,Play-In Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Mon, February 26, 2024",307564,11:15 PM,Karmine Corp,2,KOI,0,2-0,Karmine Corp,Completed,Play-ins,Play-In Stage,Champions Tour 2024 EMEA Kickoff_csvs
+"Thu, February 29, 2024",303093,9:30 PM,Team Heretics,2,Natus Vincere,0,2-0,Team Heretics,Completed,Semifinals,Playoffs,Champions Tour 2024 EMEA Kickoff_csvs
+"Thu, February 29, 2024",303094,11:50 PM,FNATIC,0,Karmine Corp,2,0-2,Karmine Corp,Completed,Semifinals,Playoffs,Champions Tour 2024 EMEA Kickoff_csvs
+"Fri, March 1, 2024",303095,9:30 PM,Team Heretics,1,Karmine Corp,3,1-3,Karmine Corp,Completed,Grand Final,Playoffs,Champions Tour 2024 EMEA Kickoff_csvs
+"Wed, April 3, 2024",318911,8:30 PM,Karmine Corp,2,GIANTX,0,2-0,Karmine Corp,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 3, 2024",318913,10:35 PM,KOI,0,Team Liquid,2,0-2,Team Liquid,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 4, 2024",318914,8:30 PM,Team Vitality,0,Natus Vincere,2,0-2,Natus Vincere,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 4, 2024",318915,10:40 PM,FNATIC,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 5, 2024",318916,8:30 PM,Team Liquid,0,FUT Esports,2,0-2,FUT Esports,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 5, 2024",318917,10:30 PM,BBL Esports,0,Gentle Mates,2,0-2,Gentle Mates,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 10, 2024",318918,8:30 PM,Karmine Corp,1,FUT Esports,2,1-2,FUT Esports,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 10, 2024",318919,11:40 PM,Team Vitality,2,Team Heretics,1,2-1,Team Vitality,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 11, 2024",318920,8:30 PM,Team Liquid,1,Natus Vincere,2,1-2,Natus Vincere,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 11, 2024",318921,11:50 PM,BBL Esports,2,KOI,0,2-0,BBL Esports,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 12, 2024",318922,8:30 PM,FNATIC,2,GIANTX,1,2-1,FNATIC,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 12, 2024",318923,11:15 PM,Karmine Corp,2,Gentle Mates,0,2-0,Karmine Corp,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 17, 2024",318924,8:30 PM,Gentle Mates,0,FNATIC,2,0-2,FNATIC,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 17, 2024",318925,10:30 PM,Karmine Corp,1,Natus Vincere,2,1-2,Natus Vincere,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 18, 2024",318926,8:30 PM,BBL Esports,2,Team Heretics,0,2-0,BBL Esports,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 18, 2024",318927,10:45 PM,Team Vitality,2,FUT Esports,1,2-1,Team Vitality,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 19, 2024",318928,8:30 PM,Team Liquid,2,GIANTX,1,2-1,Team Liquid,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Sat, April 20, 2024",318929,12:25 AM,FNATIC,2,KOI,0,2-0,FNATIC,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 24, 2024",318930,8:30 PM,Team Liquid,0,Team Heretics,2,0-2,Team Heretics,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, April 24, 2024",318931,10:30 PM,Team Vitality,0,Gentle Mates,2,0-2,Gentle Mates,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 25, 2024",318932,8:30 PM,FNATIC,0,FUT Esports,2,0-2,FUT Esports,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, April 25, 2024",318933,11:00 PM,BBL Esports,2,Natus Vincere,1,2-1,BBL Esports,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 26, 2024",318934,8:30 PM,Team Vitality,2,GIANTX,1,2-1,Team Vitality,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, April 26, 2024",318935,11:40 PM,Karmine Corp,2,KOI,1,2-1,Karmine Corp,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, May 1, 2024",318936,8:30 PM,BBL Esports,0,GIANTX,2,0-2,GIANTX,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, May 1, 2024",318937,10:30 PM,Karmine Corp,1,Team Heretics,2,1-2,Team Heretics,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, May 2, 2024",318938,8:30 PM,Team Vitality,1,KOI,2,1-2,KOI,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, May 2, 2024",318939,11:25 PM,Natus Vincere,2,FNATIC,1,2-1,Natus Vincere,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, May 3, 2024",318940,8:30 PM,Team Liquid,2,Gentle Mates,0,2-0,Team Liquid,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, May 3, 2024",318941,10:20 PM,BBL Esports,0,FUT Esports,2,0-2,FUT Esports,Completed,Week 5,Regular Season,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, May 8, 2024",341816,8:30 PM,FNATIC,2,Team Liquid,1,2-1,FNATIC,Completed,Knockout Round,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Wed, May 8, 2024",341817,11:50 PM,Natus Vincere,0,Team Heretics,2,0-2,Team Heretics,Completed,Knockout Round,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, May 9, 2024",341818,8:30 PM,Karmine Corp,0,FNATIC,2,0-2,FNATIC,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Thu, May 9, 2024",341819,11:00 PM,FUT Esports,0,Team Heretics,2,0-2,Team Heretics,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, May 10, 2024",341820,8:30 PM,FNATIC,0,Team Heretics,2,0-2,Team Heretics,Completed,Upper Final,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Fri, May 10, 2024",341822,11:00 PM,Karmine Corp,0,FUT Esports,2,0-2,FUT Esports,Completed,Lower Round 1,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Sat, May 11, 2024",341823,8:30 PM,FNATIC,3,FUT Esports,1,3-1,FNATIC,Completed,Lower Final,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Sun, May 12, 2024",341821,8:30 PM,Team Heretics,2,FNATIC,3,2-3,FNATIC,Completed,Grand Final,Playoffs,Champions Tour 2024 EMEA Stage 1_csvs
+"Tue, June 18, 2024",353153,11:30 PM,FUT Esports,2,KOI,1,2-1,FUT Esports,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, June 19, 2024",353154,9:30 PM,BBL Esports,1,FNATIC,2,1-2,FNATIC,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, June 20, 2024",353155,1:00 AM,Team Heretics,2,Natus Vincere,0,2-0,Team Heretics,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, June 20, 2024",353157,9:30 PM,GIANTX,2,Gentle Mates,1,2-1,GIANTX,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, June 21, 2024",353156,12:40 AM,Team Vitality,2,Team Liquid,0,2-0,Team Vitality,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, June 21, 2024",353159,9:30 PM,BBL Esports,0,Karmine Corp,2,0-2,Karmine Corp,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, June 21, 2024",353158,11:20 PM,Natus Vincere,0,FUT Esports,2,0-2,FUT Esports,Completed,Week 1,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Tue, June 25, 2024",353202,11:30 PM,KOI,2,GIANTX,0,2-0,KOI,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, June 26, 2024",353161,9:30 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, June 26, 2024",353160,11:45 PM,FNATIC,2,Team Vitality,1,2-1,FNATIC,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, June 27, 2024",353162,9:30 PM,BBL Esports,2,Team Liquid,0,2-0,BBL Esports,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, June 27, 2024",353163,11:30 PM,Natus Vincere,0,GIANTX,2,0-2,GIANTX,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, June 28, 2024",353164,9:30 PM,KOI,0,Gentle Mates,2,0-2,Gentle Mates,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Sat, June 29, 2024",353165,12:00 AM,FNATIC,2,Karmine Corp,0,2-0,FNATIC,Completed,Week 2,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, July 3, 2024",353166,9:30 PM,Team Heretics,2,GIANTX,1,2-1,Team Heretics,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, July 4, 2024",353167,12:55 AM,FUT Esports,2,Gentle Mates,0,2-0,FUT Esports,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, July 4, 2024",353168,9:30 PM,KOI,2,Natus Vincere,0,2-0,KOI,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, July 4, 2024",353169,11:35 PM,Team Liquid,2,Karmine Corp,0,2-0,Team Liquid,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, July 5, 2024",353170,9:30 PM,BBL Esports,1,Team Vitality,2,1-2,Team Vitality,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Sat, July 6, 2024",353171,12:30 AM,Team Heretics,2,Gentle Mates,1,2-1,Team Heretics,Completed,Week 3,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Tue, July 9, 2024",353172,11:30 PM,FUT Esports,2,GIANTX,0,2-0,FUT Esports,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, July 10, 2024",353173,9:30 PM,Team Heretics,2,KOI,1,2-1,Team Heretics,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, July 11, 2024",353174,12:50 AM,FNATIC,2,Team Liquid,0,2-0,FNATIC,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, July 11, 2024",353175,9:30 PM,Natus Vincere,2,Gentle Mates,1,2-1,Natus Vincere,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, July 12, 2024",353203,12:40 AM,Team Vitality,2,Karmine Corp,1,2-1,Team Vitality,Completed,Week 4,Regular Season,Champions Tour 2024 EMEA Stage 2_csvs
+"Mon, July 15, 2024",371278,9:30 PM,Team Vitality,2,Natus Vincere,1,2-1,Team Vitality,Completed,Knockout Round,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Tue, July 16, 2024",371279,12:20 AM,FNATIC,2,Karmine Corp,1,2-1,FNATIC,Completed,Knockout Round,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Tue, July 16, 2024",371280,9:30 PM,Team Heretics,1,Team Vitality,2,1-2,Team Vitality,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, July 17, 2024",371281,1:15 AM,FUT Esports,0,FNATIC,2,0-2,FNATIC,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, July 17, 2024",371282,9:30 PM,Team Vitality,0,FNATIC,2,0-2,FNATIC,Completed,Upper Final,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Wed, July 17, 2024",371284,11:45 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Lower Round 1,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Fri, July 19, 2024",371285,9:30 PM,Team Vitality,3,Team Heretics,1,3-1,Team Vitality,Completed,Lower Final,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Sat, July 20, 2024",371283,9:30 PM,FNATIC,3,Team Vitality,1,3-1,FNATIC,Completed,Grand Final,Playoffs,Champions Tour 2024 EMEA Stage 2_csvs
+"Thu, March 14, 2024",312765,8:30 PM,Karmine Corp,2,FunPlus Phoenix,0,2-0,Karmine Corp,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Thu, March 14, 2024",312766,10:55 PM,Gen.G,2,LOUD,1,2-1,Gen.G,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Fri, March 15, 2024",312767,8:30 PM,EDward Gaming,2,Paper Rex,1,2-1,EDward Gaming,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Fri, March 15, 2024",312768,11:45 PM,Sentinels,2,Team Heretics,1,2-1,Sentinels,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Sat, March 16, 2024",312798,8:30 PM,Sentinels,2,Karmine Corp,0,2-0,Sentinels,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Sat, March 16, 2024",312797,10:55 PM,EDward Gaming,1,Gen.G,2,1-2,Gen.G,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Sun, March 17, 2024",312800,8:30 PM,FunPlus Phoenix,0,LOUD,2,0-2,LOUD,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Sun, March 17, 2024",312799,10:50 PM,Team Heretics,1,Paper Rex,2,1-2,Paper Rex,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Mon, March 18, 2024",312803,8:30 PM,LOUD,2,EDward Gaming,0,2-0,LOUD,Completed,Round 3,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Mon, March 18, 2024",312802,10:25 PM,Karmine Corp,1,Paper Rex,2,1-2,Paper Rex,Completed,Round 3,Swiss Stage,Champions Tour 2024 Masters Madrid_csvs
+"Thu, March 21, 2024",312777,8:30 PM,Gen.G,2,Paper Rex,0,2-0,Gen.G,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Thu, March 21, 2024",312776,10:40 PM,Sentinels,2,LOUD,1,2-1,Sentinels,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Fri, March 22, 2024",312778,8:30 PM,Gen.G,2,Sentinels,1,2-1,Gen.G,Completed,Upper Final,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Fri, March 22, 2024",312780,11:25 PM,Paper Rex,2,LOUD,0,2-0,Paper Rex,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Sat, March 23, 2024",312781,8:30 PM,Sentinels,3,Paper Rex,1,3-1,Sentinels,Completed,Lower Final,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Sun, March 24, 2024",321373,8:30 PM,Team International,8,Team Spain,13,8-13,Team Spain,Completed,Showmatch,,Champions Tour 2024 Masters Madrid_csvs
+"Sun, March 24, 2024",312779,9:45 PM,Gen.G,2,Sentinels,3,2-3,Sentinels,Completed,Grand Final,Playoffs,Champions Tour 2024 Masters Madrid_csvs
+"Thu, May 23, 2024",348063,1:30 PM,G2 Esports,2,T1,1,2-1,G2 Esports,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Thu, May 23, 2024",348061,4:40 PM,FunPlus Phoenix,2,FUT Esports,1,2-1,FunPlus Phoenix,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, May 24, 2024",348064,1:30 PM,Gen.G,2,LEVIATÁN,1,2-1,Gen.G,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, May 24, 2024",348059,4:30 PM,Team Heretics,2,Dragon Ranger Gaming,0,2-0,Team Heretics,Completed,Round 1,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, May 25, 2024",348458,1:30 PM,FunPlus Phoenix,1,Gen.G,2,1-2,Gen.G,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, May 25, 2024",348457,5:10 PM,G2 Esports,2,Team Heretics,1,2-1,G2 Esports,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, May 26, 2024",348459,1:30 PM,LEVIATÁN,2,T1,0,2-0,LEVIATÁN,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, May 26, 2024",348460,3:40 PM,Dragon Ranger Gaming,0,FUT Esports,2,0-2,FUT Esports,Completed,Round 2,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Mon, May 27, 2024",348462,1:30 PM,FunPlus Phoenix,1,Team Heretics,2,1-2,Team Heretics,Completed,Round 3,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Mon, May 27, 2024",348461,5:05 PM,FUT Esports,2,LEVIATÁN,1,2-1,FUT Esports,Completed,Round 3,Swiss Stage,Champions Tour 2024 Masters Shanghai_csvs
+"Thu, May 30, 2024",348465,1:30 PM,100 Thieves,2,FUT Esports,0,2-0,100 Thieves,Completed,Upper Quarterfinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Thu, May 30, 2024",348466,3:30 PM,FNATIC,1,Gen.G,2,1-2,Gen.G,Completed,Upper Quarterfinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, May 31, 2024",348463,1:30 PM,Paper Rex,1,G2 Esports,2,1-2,G2 Esports,Completed,Upper Quarterfinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, May 31, 2024",348464,4:30 PM,EDward Gaming,0,Team Heretics,2,0-2,Team Heretics,Completed,Upper Quarterfinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, June 1, 2024",348468,1:30 PM,FUT Esports,2,FNATIC,1,2-1,FUT Esports,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, June 1, 2024",348467,4:30 PM,Paper Rex,2,EDward Gaming,0,2-0,Paper Rex,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, June 2, 2024",348470,1:30 PM,100 Thieves,0,Gen.G,2,0-2,Gen.G,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, June 2, 2024",348469,3:45 PM,G2 Esports,2,Team Heretics,1,2-1,G2 Esports,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Mon, June 3, 2024",348471,1:30 PM,100 Thieves,2,Paper Rex,1,2-1,100 Thieves,Completed,Lower Round 2,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Mon, June 3, 2024",348472,4:40 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Lower Round 2,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, June 7, 2024",348473,12:30 PM,G2 Esports,0,Gen.G,2,0-2,Gen.G,Completed,Upper Final,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Fri, June 7, 2024",348474,2:55 PM,100 Thieves,0,Team Heretics,2,0-2,Team Heretics,Completed,Lower Round 3,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, June 8, 2024",348475,12:30 PM,G2 Esports,0,Team Heretics,3,0-3,Team Heretics,Completed,Lower Final,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, June 9, 2024",359463,12:30 PM,Team International,11,Team China,13,11-13,Team China,Completed,Showmatch,,Champions Tour 2024 Masters Shanghai_csvs
+"Sun, June 9, 2024",348476,1:45 PM,Gen.G,3,Team Heretics,2,3-2,Gen.G,Completed,Grand Final,Playoffs,Champions Tour 2024 Masters Shanghai_csvs
+"Sat, February 17, 2024",296735,11:30 AM,T1,2,BLEED,0,2-0,T1,Completed,Opening (A),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Sat, February 17, 2024",296745,7:15 PM,Gen.G,2,Rex Regum Qeon,1,2-1,Gen.G,Completed,Opening (C),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Sun, February 18, 2024",296730,11:30 AM,ZETA DIVISION,2,Global Esports,0,2-0,ZETA DIVISION,Completed,Opening (A),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Sun, February 18, 2024",296731,2:00 PM,Team Secret,0,TALON,2,0-2,TALON,Completed,Opening (B),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Sun, February 18, 2024",296736,4:00 PM,DRX,2,DetonatioN FocusMe,0,2-0,DRX,Completed,Opening (B),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Mon, February 19, 2024",296747,11:30 AM,Gen.G,1,Paper Rex,2,1-2,Paper Rex,Completed,Winner's (C),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Mon, February 19, 2024",296738,2:45 PM,BLEED,1,Global Esports,2,1-2,Global Esports,Completed,Elimination (A),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Mon, February 19, 2024",296737,6:30 PM,T1,2,ZETA DIVISION,1,2-1,T1,Completed,Winner's (A),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Tue, February 20, 2024",296733,1:30 PM,DetonatioN FocusMe,0,Team Secret,2,0-2,Team Secret,Completed,Elimination (B),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Tue, February 20, 2024",296732,3:50 PM,DRX,2,TALON,0,2-0,DRX,Completed,Winner's (B),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Wed, February 21, 2024",296749,11:30 AM,Gen.G,2,Rex Regum Qeon,1,2-1,Gen.G,Completed,Decider (C),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Wed, February 21, 2024",296734,3:00 PM,TALON,0,Team Secret,2,0-2,Team Secret,Completed,Decider (B),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Wed, February 21, 2024",296739,5:45 PM,ZETA DIVISION,2,Global Esports,0,2-0,ZETA DIVISION,Completed,Decider (A),Group Stage,Champions Tour 2024 Pacific Kickoff_csvs
+"Thu, February 22, 2024",297254,11:30 AM,Team Secret,1,Gen.G,2,1-2,Gen.G,Completed,Play-ins,Play-Ins,Champions Tour 2024 Pacific Kickoff_csvs
+"Thu, February 22, 2024",297253,2:50 PM,ZETA DIVISION,0,Team Secret,2,0-2,Team Secret,Completed,Play-ins,Play-Ins,Champions Tour 2024 Pacific Kickoff_csvs
+"Thu, February 22, 2024",297255,5:00 PM,Gen.G,2,ZETA DIVISION,0,2-0,Gen.G,Completed,Play-ins,Play-Ins,Champions Tour 2024 Pacific Kickoff_csvs
+"Sat, February 24, 2024",297256,1:30 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Semifinals,Playoffs,Champions Tour 2024 Pacific Kickoff_csvs
+"Sat, February 24, 2024",297257,3:55 PM,DRX,0,Gen.G,2,0-2,Gen.G,Completed,Semifinals,Playoffs,Champions Tour 2024 Pacific Kickoff_csvs
+"Sun, February 25, 2024",297258,1:30 PM,Paper Rex,1,Gen.G,3,1-3,Gen.G,Completed,Grand Final,Playoffs,Champions Tour 2024 Pacific Kickoff_csvs
+"Sat, April 6, 2024",314301,1:30 PM,Global Esports,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 6, 2024",314302,4:30 PM,Team Secret,0,DRX,2,0-2,DRX,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 7, 2024",314303,1:30 PM,BLEED,1,TALON,2,1-2,TALON,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 7, 2024",314304,4:45 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 8, 2024",314305,1:30 PM,Team Secret,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 8, 2024",314306,4:50 PM,Global Esports,0,DRX,2,0-2,DRX,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 9, 2024",314307,1:30 PM,Gen.G,2,TALON,0,2-0,Gen.G,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 9, 2024",314308,3:40 PM,T1,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 13, 2024",314309,1:30 PM,Gen.G,1,Paper Rex,2,1-2,Paper Rex,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 13, 2024",314310,4:40 PM,T1,1,DRX,2,1-2,DRX,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 14, 2024",314311,1:30 PM,Team Secret,2,ZETA DIVISION,1,2-1,Team Secret,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 14, 2024",314312,4:30 PM,BLEED,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 15, 2024",314313,1:30 PM,Gen.G,2,DetonatioN FocusMe,0,2-0,Gen.G,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 15, 2024",314314,3:40 PM,Global Esports,1,TALON,2,1-2,TALON,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 16, 2024",314315,1:30 PM,T1,2,Rex Regum Qeon,0,2-0,T1,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 16, 2024",314316,3:30 PM,BLEED,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 20, 2024",314317,1:30 PM,Gen.G,1,DRX,2,1-2,DRX,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 20, 2024",314318,4:45 PM,BLEED,2,DetonatioN FocusMe,1,2-1,BLEED,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 21, 2024",314319,1:30 PM,Global Esports,2,Rex Regum Qeon,0,2-0,Global Esports,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 21, 2024",314320,4:30 PM,Team Secret,2,Paper Rex,0,2-0,Team Secret,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 22, 2024",314321,1:30 PM,T1,0,TALON,2,0-2,TALON,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 22, 2024",314322,3:45 PM,Gen.G,2,ZETA DIVISION,0,2-0,Gen.G,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 23, 2024",314323,1:30 PM,Team Secret,2,DetonatioN FocusMe,1,2-1,Team Secret,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Tue, April 23, 2024",314324,4:20 PM,Global Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 27, 2024",314325,1:30 PM,BLEED,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, April 27, 2024",314326,3:30 PM,Global Esports,2,DetonatioN FocusMe,1,2-1,Global Esports,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 28, 2024",314327,1:30 PM,T1,2,ZETA DIVISION,1,2-1,T1,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, April 28, 2024",314328,4:40 PM,Team Secret,1,TALON,2,1-2,TALON,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 29, 2024",314329,1:30 PM,BLEED,0,DRX,2,0-2,DRX,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Mon, April 29, 2024",314330,3:35 PM,Gen.G,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 1_csvs
+"Fri, May 3, 2024",329907,1:30 PM,Team Secret,0,T1,2,0-2,T1,Completed,Knockout Round,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Fri, May 3, 2024",329908,3:40 PM,Paper Rex,2,TALON,1,2-1,Paper Rex,Completed,Knockout Round,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, May 4, 2024",329909,1:30 PM,Gen.G,1,T1,2,1-2,T1,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, May 4, 2024",329910,4:40 PM,DRX,1,Paper Rex,2,1-2,Paper Rex,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, May 5, 2024",329912,1:30 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Final,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, May 5, 2024",329911,3:30 PM,Gen.G,2,DRX,1,2-1,Gen.G,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, May 11, 2024",329913,1:30 PM,T1,0,Gen.G,3,0-3,Gen.G,Completed,Lower Final,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sun, May 12, 2024",329914,1:30 PM,Paper Rex,3,Gen.G,2,3-2,Paper Rex,Completed,Grand Final,Playoffs,Champions Tour 2024 Pacific Stage 1_csvs
+"Sat, June 15, 2024",314340,1:30 PM,ZETA DIVISION,1,DRX,2,1-2,DRX,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, June 15, 2024",314341,4:10 PM,Team Secret,2,BLEED,1,2-1,Team Secret,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 16, 2024",314342,1:30 PM,T1,1,Gen.G,2,1-2,Gen.G,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 16, 2024",314343,5:00 PM,Paper Rex,2,TALON,0,2-0,Paper Rex,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, June 17, 2024",314344,1:30 PM,Rex Regum Qeon,2,DetonatioN FocusMe,0,2-0,Rex Regum Qeon,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, June 17, 2024",314345,4:05 PM,Team Secret,2,Global Esports,0,2-0,Team Secret,Completed,Week 1,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, June 22, 2024",314346,1:30 PM,TALON,2,Rex Regum Qeon,1,2-1,TALON,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, June 22, 2024",314347,5:20 PM,Paper Rex,2,DRX,1,2-1,Paper Rex,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 23, 2024",314348,1:30 PM,Global Esports,2,BLEED,0,2-0,Global Esports,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 23, 2024",314349,3:35 PM,DetonatioN FocusMe,2,ZETA DIVISION,1,2-1,DetonatioN FocusMe,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, June 24, 2024",314350,1:30 PM,DRX,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, June 24, 2024",314351,3:50 PM,Team Secret,2,T1,1,2-1,Team Secret,Completed,Week 2,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, June 29, 2024",314352,1:30 PM,TALON,2,DetonatioN FocusMe,0,2-0,TALON,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, June 29, 2024",314353,3:40 PM,ZETA DIVISION,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 30, 2024",314354,1:30 PM,Global Esports,1,T1,2,1-2,T1,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, June 30, 2024",314355,4:45 PM,BLEED,1,Gen.G,2,1-2,Gen.G,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, July 1, 2024",314356,1:30 PM,Paper Rex,2,DetonatioN FocusMe,0,2-0,Paper Rex,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, July 1, 2024",314357,3:30 PM,DRX,2,TALON,1,2-1,DRX,Completed,Week 3,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Fri, July 5, 2024",314358,1:30 PM,Paper Rex,2,Rex Regum Qeon,1,2-1,Paper Rex,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Fri, July 5, 2024",314359,4:30 PM,Gen.G,2,Global Esports,0,2-0,Gen.G,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, July 6, 2024",314360,1:30 PM,DRX,2,DetonatioN FocusMe,1,2-1,DRX,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, July 6, 2024",314361,4:15 PM,ZETA DIVISION,2,TALON,1,2-1,ZETA DIVISION,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, July 7, 2024",314362,1:30 PM,Gen.G,1,Team Secret,2,1-2,Team Secret,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, July 7, 2024",314363,4:30 PM,Paper Rex,2,ZETA DIVISION,1,2-1,Paper Rex,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Mon, July 8, 2024",314364,1:30 PM,T1,2,BLEED,1,2-1,T1,Completed,Week 4,Regular Season,Champions Tour 2024 Pacific Stage 2_csvs
+"Fri, July 12, 2024",365316,1:30 PM,Gen.G,2,Rex Regum Qeon,0,2-0,Gen.G,Completed,Knockout Round,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Fri, July 12, 2024",365317,3:45 PM,Team Secret,0,TALON,2,0-2,TALON,Completed,Knockout Round,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, July 13, 2024",365318,1:30 PM,Paper Rex,0,Gen.G,2,0-2,Gen.G,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, July 13, 2024",365319,3:35 PM,DRX,2,TALON,0,2-0,DRX,Completed,Upper Semifinals,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, July 14, 2024",365320,1:30 PM,Gen.G,2,DRX,1,2-1,Gen.G,Completed,Upper Final,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, July 14, 2024",365322,4:45 PM,Paper Rex,2,TALON,0,2-0,Paper Rex,Completed,Lower Round 1,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sat, July 20, 2024",365323,1:30 PM,DRX,3,Paper Rex,2,3-2,DRX,Completed,Lower Final,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
+"Sun, July 21, 2024",365321,1:30 PM,Gen.G,3,DRX,1,3-1,Gen.G,Completed,Grand Final,Playoffs,Champions Tour 2024 Pacific Stage 2_csvs
 "Fri, January 17, 2025",427991,3:30 AM,Evil Geniuses,0,LOUD,2,0-2,LOUD,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
 "Fri, January 17, 2025",427992,6:15 AM,MIBR,0,100 Thieves,2,0-2,100 Thieves,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
 "Sat, January 18, 2025",427994,3:30 AM,2Game Esports,0,FURIA,2,0-2,FURIA,Completed,Upper Round 1,Main Event,VCT 2025 Americas Kickoff_csvs
@@ -427,6 +829,40 @@ date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage,tour
 "Sat, August 30, 2025",530514,10:30 AM,Team World,13,Glory Once Again,8,13-8,Team World,Completed,Main Event,Showmatch,VCT 2025 Pacific Stage 2_csvs
 "Sat, August 30, 2025",530364,11:30 AM,TALON,2,Rex Regum Qeon,3,2-3,Rex Regum Qeon,Completed,Lower Final,Playoffs,VCT 2025 Pacific Stage 2_csvs
 "Sun, August 31, 2025Yesterday",530365,11:20 AM,Paper Rex,3,Rex Regum Qeon,1,3-1,Paper Rex,Completed,Grand Final,Playoffs,VCT 2025 Pacific Stage 2_csvs
+"Thu, August 1, 2024",378662,1:30 PM,Gen.G,2,Sentinels,0,2-0,Gen.G,Completed,Opening (B),Group Stage,Valorant Champions 2024_csvs
+"Thu, August 1, 2024",378663,3:55 PM,FunPlus Phoenix,1,Team Heretics,2,1-2,Team Heretics,Completed,Opening (B),Group Stage,Valorant Champions 2024_csvs
+"Fri, August 2, 2024",378657,1:30 PM,DRX,2,KRÜ Esports,1,2-1,DRX,Completed,Opening (A),Group Stage,Valorant Champions 2024_csvs
+"Fri, August 2, 2024",378656,4:30 PM,FNATIC,2,Bilibili Gaming,0,2-0,FNATIC,Completed,Opening (A),Group Stage,Valorant Champions 2024_csvs
+"Sat, August 3, 2024",378667,1:30 PM,LEVIATÁN,2,TALON,0,2-0,LEVIATÁN,Completed,Opening (C),Group Stage,Valorant Champions 2024_csvs
+"Sat, August 3, 2024",378669,4:00 PM,Team Vitality,1,Trace Esports,2,1-2,Trace Esports,Completed,Opening (C),Group Stage,Valorant Champions 2024_csvs
+"Sun, August 4, 2024",378674,1:30 PM,G2 Esports,2,Paper Rex,0,2-0,G2 Esports,Completed,Opening (D),Group Stage,Valorant Champions 2024_csvs
+"Sun, August 4, 2024",378673,3:45 PM,EDward Gaming,2,FUT Esports,0,2-0,EDward Gaming,Completed,Opening (D),Group Stage,Valorant Champions 2024_csvs
+"Tue, August 6, 2024",378664,1:30 PM,Gen.G,1,Team Heretics,2,1-2,Team Heretics,Completed,Winner's (B),Group Stage,Valorant Champions 2024_csvs
+"Tue, August 6, 2024",378658,5:05 PM,FNATIC,0,DRX,2,0-2,DRX,Completed,Winner's (A),Group Stage,Valorant Champions 2024_csvs
+"Wed, August 7, 2024",378670,1:30 PM,LEVIATÁN,1,Trace Esports,2,1-2,Trace Esports,Completed,Winner's (C),Group Stage,Valorant Champions 2024_csvs
+"Wed, August 7, 2024",378675,4:45 PM,EDward Gaming,1,G2 Esports,2,1-2,G2 Esports,Completed,Winner's (D),Group Stage,Valorant Champions 2024_csvs
+"Thu, August 8, 2024",378665,1:30 PM,Sentinels,2,FunPlus Phoenix,0,2-0,Sentinels,Completed,Elimination (B),Group Stage,Valorant Champions 2024_csvs
+"Thu, August 8, 2024",378659,3:40 PM,Bilibili Gaming,0,KRÜ Esports,2,0-2,KRÜ Esports,Completed,Elimination (A),Group Stage,Valorant Champions 2024_csvs
+"Fri, August 9, 2024",378671,1:30 PM,TALON,0,Team Vitality,2,0-2,Team Vitality,Completed,Elimination (C),Group Stage,Valorant Champions 2024_csvs
+"Fri, August 9, 2024",378676,3:55 PM,FUT Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Elimination (D),Group Stage,Valorant Champions 2024_csvs
+"Sat, August 10, 2024",378666,1:30 PM,Gen.G,0,Sentinels,2,0-2,Sentinels,Completed,Decider (B),Group Stage,Valorant Champions 2024_csvs
+"Sat, August 10, 2024",378660,3:45 PM,FNATIC,2,KRÜ Esports,1,2-1,FNATIC,Completed,Decider (A),Group Stage,Valorant Champions 2024_csvs
+"Sun, August 11, 2024",378672,1:30 PM,LEVIATÁN,2,Team Vitality,0,2-0,LEVIATÁN,Completed,Decider (C),Group Stage,Valorant Champions 2024_csvs
+"Sun, August 11, 2024",378677,3:45 PM,EDward Gaming,2,Paper Rex,1,2-1,EDward Gaming,Completed,Decider (D),Group Stage,Valorant Champions 2024_csvs
+"Wed, August 14, 2024",378822,1:30 PM,DRX,0,Sentinels,2,0-2,Sentinels,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2024_csvs
+"Wed, August 14, 2024",378823,3:55 PM,Trace Esports,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2024_csvs
+"Thu, August 15, 2024",378824,1:30 PM,G2 Esports,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2024_csvs
+"Thu, August 15, 2024",378825,4:05 PM,Team Heretics,2,FNATIC,0,2-0,Team Heretics,Completed,Upper Quarterfinals,Playoffs,Valorant Champions 2024_csvs
+"Fri, August 16, 2024",378831,1:30 PM,DRX,2,Trace Esports,0,2-0,DRX,Completed,Lower Round 1,Playoffs,Valorant Champions 2024_csvs
+"Fri, August 16, 2024",378832,3:20 PM,G2 Esports,0,FNATIC,2,0-2,FNATIC,Completed,Lower Round 1,Playoffs,Valorant Champions 2024_csvs
+"Sat, August 17, 2024",378826,1:30 PM,Sentinels,1,EDward Gaming,2,1-2,EDward Gaming,Completed,Upper Semifinals,Playoffs,Valorant Champions 2024_csvs
+"Sat, August 17, 2024",378827,4:45 PM,LEVIATÁN,2,Team Heretics,0,2-0,LEVIATÁN,Completed,Upper Semifinals,Playoffs,Valorant Champions 2024_csvs
+"Sun, August 18, 2024",378834,1:30 PM,Sentinels,2,FNATIC,1,2-1,Sentinels,Completed,Lower Round 2,Playoffs,Valorant Champions 2024_csvs
+"Sun, August 18, 2024",378833,4:55 PM,Team Heretics,2,DRX,1,2-1,Team Heretics,Completed,Lower Round 2,Playoffs,Valorant Champions 2024_csvs
+"Fri, August 23, 2024",378828,12:30 PM,EDward Gaming,2,LEVIATÁN,1,2-1,EDward Gaming,Completed,Upper Final,Playoffs,Valorant Champions 2024_csvs
+"Fri, August 23, 2024",378835,4:15 PM,Team Heretics,2,Sentinels,1,2-1,Team Heretics,Completed,Lower Round 3,Playoffs,Valorant Champions 2024_csvs
+"Sat, August 24, 2024",378836,12:30 PM,LEVIATÁN,1,Team Heretics,3,1-3,Team Heretics,Completed,Lower Final,Playoffs,Valorant Champions 2024_csvs
+"Sun, August 25, 2024",378829,12:30 PM,EDward Gaming,3,Team Heretics,2,3-2,EDward Gaming,Completed,Grand Final,Playoffs,Valorant Champions 2024_csvs
 "Fri, September 12, 2025",542195,6:30 PM,Paper Rex,2,Xi Lai Gaming,0,2-0,Paper Rex,Completed,Opening (A),Group Stage,Valorant Champions 2025_csvs
 "Fri, September 12, 2025",542196,8:55 PM,GIANTX,2,Sentinels,1,2-1,GIANTX,Completed,Opening (A),Group Stage,Valorant Champions 2025_csvs
 "Sat, September 13, 2025",542207,6:30 PM,NRG,2,EDward Gaming,0,2-0,NRG,Completed,Opening (C),Group Stage,Valorant Champions 2025_csvs

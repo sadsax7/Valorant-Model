@@ -1,0 +1,1301 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Flex1n,4705,Trace Esports,overall,Omen,N/A,274,34,19,15,+15,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,FengF,4770,Trace Esports,overall,"Sova, Raze",N/A,271,30,18,12,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,heybay,4712,Trace Esports,overall,"Kayo, Breach",N/A,228,27,24,21,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,YOU,4710,Trace Esports,overall,"Killjoy, Sova",N/A,216,26,19,7,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Kai,37494,Trace Esports,overall,"Jett, Cypher",N/A,210,27,23,7,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Ninebody,3547,TYLOO,overall,"Phoenix, Raze",N/A,209,21,29,16,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,LuoK1ng,3045,TYLOO,overall,Omen,N/A,203,23,28,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,ICEKING,4771,TYLOO,overall,"Cypher, Kayo",N/A,183,19,29,11,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,zjc,7135,TYLOO,overall,"Sova, Gekko",N/A,181,22,29,5,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,AAK,4773,TYLOO,overall,"Jett, Cypher",N/A,144,17,29,8,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,heybay,4712,Trace Esports,map,Kayo,N/A,308,17,15,12,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,YOU,4710,Trace Esports,map,Killjoy,N/A,251,14,11,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Flex1n,4705,Trace Esports,map,Omen,N/A,242,16,10,9,+6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Kai,37494,Trace Esports,map,Jett,N/A,193,14,12,2,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,FengF,4770,Trace Esports,map,Sova,N/A,168,9,9,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,LuoK1ng,3045,TYLOO,map,Omen,N/A,226,14,13,2,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,AAK,4773,TYLOO,map,Jett,N/A,209,13,14,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,ICEKING,4771,TYLOO,map,Cypher,N/A,187,10,15,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Ninebody,3547,TYLOO,map,Phoenix,N/A,178,9,14,11,-5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,zjc,7135,TYLOO,map,Sova,N/A,171,10,14,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,373,21,9,6,+12,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Flex1n,4705,Trace Esports,map,Omen,N/A,306,18,9,6,+9,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Kai,37494,Trace Esports,map,Cypher,N/A,227,13,11,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,YOU,4710,Trace Esports,map,Sova,N/A,181,12,8,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,heybay,4712,Trace Esports,map,Breach,N/A,147,10,9,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,Ninebody,3547,TYLOO,map,Raze,N/A,240,12,15,5,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,zjc,7135,TYLOO,map,Gekko,N/A,191,12,15,0,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,LuoK1ng,3045,TYLOO,map,Omen,N/A,179,9,15,3,-6,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,ICEKING,4771,TYLOO,map,Kayo,N/A,179,9,14,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298687,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 04:00:00,Trace Esports,TYLOO,2 - 0,AAK,4773,TYLOO,map,Cypher,N/A,79,4,15,4,-11,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Lysoar,37489,FunPlus Phoenix,overall,Viper,N/A,249,34,24,14,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,AAAAY,19530,FunPlus Phoenix,overall,"Gekko, Sova",N/A,237,36,22,9,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Life,3028,FunPlus Phoenix,overall,Chamber,N/A,214,33,29,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Autumn,872,FunPlus Phoenix,overall,"Raze, Phoenix",N/A,212,29,29,12,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,BerLIN,7857,FunPlus Phoenix,overall,"Omen, Harbor",N/A,158,27,27,11,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,GuanG,41054,Nova Esports,overall,"Jett, Neon",N/A,284,40,32,11,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,overall,"Raze, Breach",N/A,219,31,34,11,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,OBONE,36670,Nova Esports,overall,Omen,N/A,193,30,32,11,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,CB,39697,Nova Esports,overall,"Breach, Fade",N/A,114,15,32,19,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,PangH,4727,Nova Esports,overall,Killjoy,N/A,111,14,30,6,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,313,20,10,6,+10,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,255,18,8,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Autumn,872,FunPlus Phoenix,map,Raze,N/A,215,13,11,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Life,3028,FunPlus Phoenix,map,Chamber,N/A,164,11,11,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,155,12,13,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Raze,N/A,233,14,18,2,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Jett,N/A,210,11,15,6,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,OBONE,36670,Nova Esports,map,Omen,N/A,185,12,14,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,PangH,4727,Nova Esports,map,Killjoy,N/A,123,7,14,1,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Breach,N/A,110,8,14,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Life,3028,FunPlus Phoenix,map,Chamber,N/A,263,22,18,6,+4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Sova,N/A,218,18,14,6,+4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Autumn,872,FunPlus Phoenix,map,Phoenix,N/A,209,16,18,7,-2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,185,14,14,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Harbor,N/A,160,15,14,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Neon,N/A,357,29,17,5,+12,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Breach,N/A,204,17,16,9,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,OBONE,36670,Nova Esports,map,Omen,N/A,201,18,18,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Fade,N/A,118,7,18,10,-11,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298688,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (A)",2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,2 - 0,PangH,4727,Nova Esports,map,Killjoy,N/A,99,7,16,5,-9,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,stew,16924,JDG Esports,overall,Raze,N/A,321,59,38,7,+21,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Viva,36415,JDG Esports,overall,"Viper, Sova",N/A,193,33,36,13,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,MarT1n,36668,JDG Esports,overall,"Killjoy, Viper",N/A,175,29,39,7,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,YiHao,4320,JDG Esports,overall,"Astra, Brimstone",N/A,161,29,36,15,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,jkuro,3519,JDG Esports,overall,"Fade, Skye",N/A,138,24,41,13,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,kawaii,4778,Titan Esports Club,overall,"Omen, Brimstone",N/A,225,40,32,26,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,overall,"Fade, Cypher",N/A,222,42,32,12,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,QiuYe,19531,Titan Esports Club,overall,"Killjoy, Skye",N/A,203,35,34,19,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,overall,Raze,N/A,197,39,38,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,LockM,25339,Titan Esports Club,overall,Viper,N/A,193,34,38,16,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,stew,16924,JDG Esports,map,Raze,N/A,314,24,15,4,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,MarT1n,36668,JDG Esports,map,Killjoy,N/A,198,14,16,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Viva,36415,JDG Esports,map,Viper,N/A,170,11,15,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,jkuro,3519,JDG Esports,map,Fade,N/A,131,10,15,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,YiHao,4320,JDG Esports,map,Astra,N/A,106,7,16,7,-9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,QiuYe,19531,Titan Esports Club,map,Killjoy,N/A,241,18,11,3,+7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,kawaii,4778,Titan Esports Club,map,Omen,N/A,238,19,12,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,map,Fade,N/A,202,16,12,6,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,LockM,25339,Titan Esports Club,map,Viper,N/A,192,13,16,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,map,Raze,N/A,143,11,15,1,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,stew,16924,JDG Esports,map,Raze,N/A,328,35,23,3,+12,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,YiHao,4320,JDG Esports,map,Brimstone,N/A,216,22,20,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Viva,36415,JDG Esports,map,Sova,N/A,215,22,21,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,MarT1n,36668,JDG Esports,map,Viper,N/A,152,15,23,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,jkuro,3519,JDG Esports,map,Skye,N/A,145,14,26,7,-12,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Abo,5011,Titan Esports Club,map,Raze,N/A,251,28,23,2,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,Rb,488,Titan Esports Club,map,Cypher,N/A,242,26,20,6,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,kawaii,4778,Titan Esports Club,map,Brimstone,N/A,212,21,20,18,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,LockM,25339,Titan Esports Club,map,Viper,N/A,194,21,22,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298692,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 02:00:00,JDG Esports,Titan Esports Club,0 - 2,QiuYe,19531,Titan Esports Club,map,Skye,N/A,164,17,23,16,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Titan Esports Club
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,overall,"Cypher, Killjoy",N/A,303,45,26,18,+19,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,overall,"Neon, Jett",N/A,225,28,34,14,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Nicc,11524,Dragon Ranger Gaming,overall,"Breach, Kayo",N/A,210,33,25,21,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,overall,Omen,N/A,205,33,24,19,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Dingwei,42513,Dragon Ranger Gaming,overall,Sova,N/A,154,21,27,12,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,bunt,25949,All Gamers,overall,Omen,N/A,266,39,32,19,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,monk,14431,All Gamers,overall,"Breach, Killjoy",N/A,222,30,32,10,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,sword9,3049,All Gamers,overall,Sova,N/A,164,22,29,8,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Spitfires,4881,All Gamers,overall,"Cypher, Jett",N/A,163,24,34,9,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,deLb,10821,All Gamers,overall,"Raze, Reyna",N/A,147,21,33,8,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,320,27,16,12,+11,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,map,Omen,N/A,233,20,15,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,169,18,15,10,+3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Dingwei,42513,Dragon Ranger Gaming,map,Sova,N/A,167,12,17,9,-5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Neon,N/A,129,10,19,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,bunt,25949,All Gamers,map,Omen,N/A,336,28,18,11,+10,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,monk,14431,All Gamers,map,Breach,N/A,217,18,17,8,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,deLb,10821,All Gamers,map,Raze,N/A,181,14,18,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Spitfires,4881,All Gamers,map,Cypher,N/A,149,13,18,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,sword9,3049,All Gamers,map,Sova,N/A,110,9,16,4,-7,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,320,18,15,8,+3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Killjoy,N/A,285,18,10,6,+8,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,251,15,10,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,map,Omen,N/A,176,13,9,12,+4,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Dingwei,42513,Dragon Ranger Gaming,map,Sova,N/A,141,9,10,3,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,monk,14431,All Gamers,map,Killjoy,N/A,226,12,15,2,-3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,sword9,3049,All Gamers,map,Sova,N/A,217,13,13,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,bunt,25949,All Gamers,map,Omen,N/A,195,11,14,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,Spitfires,4881,All Gamers,map,Jett,N/A,177,11,16,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298693,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (B)",2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,2 - 0,deLb,10821,All Gamers,map,Reyna,N/A,112,7,15,3,-8,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Dragon Ranger Gaming
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Knight,4774,Bilibili Gaming,overall,"Kayo, Killjoy",N/A,239,31,31,13,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,whzy,4885,Bilibili Gaming,overall,Jett,N/A,197,30,31,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Biank,3021,Bilibili Gaming,overall,Sova,N/A,169,24,28,12,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,yosemite,6022,Bilibili Gaming,overall,"Killjoy, Viper",N/A,156,20,28,15,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,B3ar,25329,Bilibili Gaming,overall,"Omen, Harbor",N/A,125,20,30,11,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,pl1xx,871,Wolves Esports,overall,"Kayo, Viper",N/A,258,36,26,18,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,overall,Cypher,N/A,239,35,24,11,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,balua,14441,Wolves Esports,overall,"Omen, Killjoy",N/A,199,30,24,14,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,coldfish,3020,Wolves Esports,overall,Sova,N/A,177,30,23,11,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,overall,Jett,N/A,122,17,28,8,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Knight,4774,Bilibili Gaming,map,Kayo,N/A,249,16,17,10,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,whzy,4885,Bilibili Gaming,map,Jett,N/A,176,14,15,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Biank,3021,Bilibili Gaming,map,Sova,N/A,165,12,14,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,yosemite,6022,Bilibili Gaming,map,Killjoy,N/A,118,9,14,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,B3ar,25329,Bilibili Gaming,map,Omen,N/A,90,8,16,7,-8,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,pl1xx,871,Wolves Esports,map,Kayo,N/A,284,21,14,13,+7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,225,17,12,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,194,17,10,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,balua,14441,Wolves Esports,map,Omen,N/A,190,15,10,10,+5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Jett,N/A,102,6,13,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Knight,4774,Bilibili Gaming,map,Killjoy,N/A,229,15,14,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,whzy,4885,Bilibili Gaming,map,Jett,N/A,218,16,16,0,0,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,yosemite,6022,Bilibili Gaming,map,Viper,N/A,194,11,14,10,-3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Biank,3021,Bilibili Gaming,map,Sova,N/A,172,12,14,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,B3ar,25329,Bilibili Gaming,map,Harbor,N/A,159,12,14,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,252,18,12,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,pl1xx,871,Wolves Esports,map,Viper,N/A,231,15,12,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,balua,14441,Wolves Esports,map,Killjoy,N/A,207,15,14,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,159,13,13,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298697,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Opening (C)",2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,0 - 2,Spring,14125,Wolves Esports,map,Jett,N/A,142,11,15,1,-4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Wolves Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,Ninebody,3547,TYLOO,overall,"Phoenix, Raze",N/A,256,42,32,15,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,ICEKING,4771,TYLOO,overall,"Cypher, Viper",N/A,234,37,34,14,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,LuoK1ng,3045,TYLOO,overall,Omen,N/A,215,38,32,19,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,AAK,4773,TYLOO,overall,"Jett, Cypher",N/A,202,37,36,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,zjc,7135,TYLOO,overall,"Sova, Skye",N/A,124,19,37,16,-18,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,PangH,4727,Nova Esports,overall,"Jett, Raze",N/A,238,42,35,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,GuanG,41054,Nova Esports,overall,"Killjoy, Jett",N/A,236,37,37,11,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,overall,"Breach, Viper",N/A,220,41,34,16,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,CB,39697,Nova Esports,overall,"Sova, Skye",N/A,179,28,34,20,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,OBONE,36670,Nova Esports,overall,Omen,N/A,153,23,33,19,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,Ninebody,3547,TYLOO,map,Phoenix,N/A,260,22,15,10,+7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,LuoK1ng,3045,TYLOO,map,Omen,N/A,252,23,13,9,+10,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,AAK,4773,TYLOO,map,Jett,N/A,192,18,21,3,-3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,ICEKING,4771,TYLOO,map,Cypher,N/A,184,14,18,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,zjc,7135,TYLOO,map,Sova,N/A,164,13,18,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,GuanG,41054,Nova Esports,map,Killjoy,N/A,257,20,19,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,map,Breach,N/A,248,23,17,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,PangH,4727,Nova Esports,map,Jett,N/A,196,17,19,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,OBONE,36670,Nova Esports,map,Omen,N/A,173,14,18,7,-4,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,CB,39697,Nova Esports,map,Sova,N/A,163,11,17,12,-6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,ICEKING,4771,TYLOO,map,Viper,N/A,284,23,16,7,+7,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,Ninebody,3547,TYLOO,map,Raze,N/A,251,20,17,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,AAK,4773,TYLOO,map,Cypher,N/A,212,19,15,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,LuoK1ng,3045,TYLOO,map,Omen,N/A,177,15,19,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,zjc,7135,TYLOO,map,Skye,N/A,84,6,19,9,-13,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,PangH,4727,Nova Esports,map,Raze,N/A,280,25,16,2,+9,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,GuanG,41054,Nova Esports,map,Jett,N/A,214,17,18,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,CB,39697,Nova Esports,map,Skye,N/A,195,17,17,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,o0o0o,4402,Nova Esports,map,Viper,N/A,192,18,17,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298690,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (A)",2024-02-24 04:00:00,TYLOO,Nova Esports,0 - 2,OBONE,36670,Nova Esports,map,Omen,N/A,133,9,15,12,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Nova Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,jkuro,3519,JDG Esports,overall,"Viper, Cypher",N/A,233,39,32,10,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,MarT1n,36668,JDG Esports,overall,"Killjoy, Viper",N/A,233,38,33,5,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Viva,36415,JDG Esports,overall,Sova,N/A,223,35,27,10,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,stew,16924,JDG Esports,overall,"Jett, Raze",N/A,212,32,32,11,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,YiHao,4320,JDG Esports,overall,"Harbor, Omen",N/A,145,24,30,17,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,deLb,10821,All Gamers,overall,Raze,N/A,231,34,33,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,bunt,25949,All Gamers,overall,"Viper, Omen",N/A,216,36,32,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Spitfires,4881,All Gamers,overall,"Killjoy, Cypher",N/A,190,33,34,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,sword9,3049,All Gamers,overall,"Kayo, Sova",N/A,159,24,32,19,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,monk,14431,All Gamers,overall,"Harbor, Breach",N/A,157,27,37,6,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,jkuro,3519,JDG Esports,map,Viper,N/A,257,21,20,6,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,MarT1n,36668,JDG Esports,map,Killjoy,N/A,257,22,19,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,stew,16924,JDG Esports,map,Jett,N/A,186,16,18,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Viva,36415,JDG Esports,map,Sova,N/A,182,15,20,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,YiHao,4320,JDG Esports,map,Harbor,N/A,141,13,19,7,-6,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,bunt,25949,All Gamers,map,Viper,N/A,305,28,16,6,+12,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,deLb,10821,All Gamers,map,Raze,N/A,247,19,17,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Spitfires,4881,All Gamers,map,Killjoy,N/A,228,21,17,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,monk,14431,All Gamers,map,Harbor,N/A,168,17,19,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,sword9,3049,All Gamers,map,Kayo,N/A,143,11,18,18,-7,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Viva,36415,JDG Esports,map,Sova,N/A,263,20,7,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,stew,16924,JDG Esports,map,Raze,N/A,237,16,14,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,jkuro,3519,JDG Esports,map,Cypher,N/A,209,18,12,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,MarT1n,36668,JDG Esports,map,Viper,N/A,208,16,14,3,+2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,YiHao,4320,JDG Esports,map,Omen,N/A,148,11,11,10,0,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,deLb,10821,All Gamers,map,Raze,N/A,214,15,16,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,sword9,3049,All Gamers,map,Sova,N/A,174,13,14,1,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,Spitfires,4881,All Gamers,map,Cypher,N/A,152,12,17,2,-5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,monk,14431,All Gamers,map,Breach,N/A,146,10,18,1,-8,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298695,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Elimination (B)",2024-02-24 06:25:00,JDG Esports,All Gamers,2 - 0,bunt,25949,All Gamers,map,Omen,N/A,126,8,16,4,-8,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,JDG Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,FengF,4770,Trace Esports,overall,Raze,N/A,235,56,55,18,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,YOU,4710,Trace Esports,overall,"Sova, Skye, Fade",N/A,216,54,51,20,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,heybay,4712,Trace Esports,overall,"Breach, Brimstone, Viper",N/A,200,48,49,31,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Kai,37494,Trace Esports,overall,"Cypher, Jett, Killjoy",N/A,197,50,45,7,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Flex1n,4705,Trace Esports,overall,"Omen, Viper",N/A,156,38,52,30,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Life,3028,FunPlus Phoenix,overall,"Chamber, Yoru",N/A,269,67,55,10,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Autumn,872,FunPlus Phoenix,overall,"Phoenix, Raze",N/A,214,51,46,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,AAAAY,19530,FunPlus Phoenix,overall,"Sova, Gekko",N/A,195,54,50,12,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,BerLIN,7857,FunPlus Phoenix,overall,"Harbor, Omen",N/A,180,44,44,21,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Lysoar,37489,FunPlus Phoenix,overall,Viper,N/A,151,36,52,19,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,YOU,4710,Trace Esports,map,Sova,N/A,292,24,17,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,242,22,18,1,+4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Kai,37494,Trace Esports,map,Cypher,N/A,183,14,15,3,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,heybay,4712,Trace Esports,map,Breach,N/A,168,14,16,10,-2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Flex1n,4705,Trace Esports,map,Omen,N/A,116,9,20,14,-11,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Life,3028,FunPlus Phoenix,map,Chamber,N/A,343,28,16,3,+12,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Autumn,872,FunPlus Phoenix,map,Phoenix,N/A,245,22,14,4,+8,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Sova,N/A,173,16,19,2,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Harbor,N/A,170,14,15,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,86,6,19,6,-13,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,YOU,4710,Trace Esports,map,Skye,N/A,224,20,18,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Kai,37494,Trace Esports,map,Jett,N/A,208,19,16,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,heybay,4712,Trace Esports,map,Brimstone,N/A,200,17,14,10,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,192,13,19,11,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Flex1n,4705,Trace Esports,map,Viper,N/A,161,13,16,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,220,21,16,5,+5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,219,17,16,10,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,200,17,15,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Life,3028,FunPlus Phoenix,map,Yoru,N/A,192,16,20,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Autumn,872,FunPlus Phoenix,map,Raze,N/A,166,12,16,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,271,21,18,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,heybay,4712,Trace Esports,map,Viper,N/A,232,17,19,11,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Kai,37494,Trace Esports,map,Killjoy,N/A,201,17,14,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Flex1n,4705,Trace Esports,map,Omen,N/A,190,16,16,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,YOU,4710,Trace Esports,map,Fade,N/A,132,10,16,8,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Life,3028,FunPlus Phoenix,map,Chamber,N/A,273,23,19,2,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Autumn,872,FunPlus Phoenix,map,Raze,N/A,232,17,16,3,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,193,17,15,5,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,169,13,14,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298689,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (A)",2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,1 - 2,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,147,13,17,3,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,FunPlus Phoenix
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Abo,5011,Titan Esports Club,overall,"Jett, Raze",N/A,275,66,50,12,+16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Rb,488,Titan Esports Club,overall,"Killjoy, Raze, Cypher",N/A,223,54,45,22,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,kawaii,4778,Titan Esports Club,overall,"Viper, Astra, Brimstone",N/A,197,48,47,29,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,LockM,25339,Titan Esports Club,overall,"Sova, Viper",N/A,171,38,47,24,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,QiuYe,19531,Titan Esports Club,overall,"Harbor, Skye",N/A,168,42,54,17,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,overall,"Killjoy, Cypher",N/A,286,66,52,20,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Dingwei,42513,Dragon Ranger Gaming,overall,"Sova, Skye, Viper",N/A,200,47,47,22,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,overall,"Jett, Raze",N/A,186,41,57,12,-16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,nizhaoTZH,4880,Dragon Ranger Gaming,overall,"Viper, Omen, Brimstone",N/A,180,44,47,21,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,overall,"Gekko, Breach, Skye",N/A,173,45,47,21,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Abo,5011,Titan Esports Club,map,Jett,N/A,261,21,18,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Rb,488,Titan Esports Club,map,Killjoy,N/A,239,22,16,5,+6,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,kawaii,4778,Titan Esports Club,map,Viper,N/A,198,16,17,9,-1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,QiuYe,19531,Titan Esports Club,map,Harbor,N/A,171,16,20,3,-4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,LockM,25339,Titan Esports Club,map,Sova,N/A,144,10,21,11,-11,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Killjoy,N/A,280,21,19,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,nizhaoTZH,4880,Dragon Ranger Gaming,map,Viper,N/A,272,22,15,7,+7,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Gekko,N/A,220,21,16,3,+5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Dingwei,42513,Dragon Ranger Gaming,map,Sova,N/A,187,16,15,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,141,12,21,0,-9,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Abo,5011,Titan Esports Club,map,Jett,N/A,354,28,14,2,+14,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Rb,488,Titan Esports Club,map,Raze,N/A,276,19,14,10,+5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,QiuYe,19531,Titan Esports Club,map,Skye,N/A,237,19,13,9,+6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,kawaii,4778,Titan Esports Club,map,Astra,N/A,153,12,14,11,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,LockM,25339,Titan Esports Club,map,Viper,N/A,123,9,11,9,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,291,22,17,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Dingwei,42513,Dragon Ranger Gaming,map,Skye,N/A,249,18,16,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Breach,N/A,140,10,17,8,-7,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Raze,N/A,139,8,18,3,-10,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,nizhaoTZH,4880,Dragon Ranger Gaming,map,Omen,N/A,102,8,19,4,-11,N/A,N/A,N/A,N/A,N/A,N/A,Split,Titan Esports Club
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,LockM,25339,Titan Esports Club,map,Viper,N/A,247,19,15,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,kawaii,4778,Titan Esports Club,map,Brimstone,N/A,240,20,16,9,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Abo,5011,Titan Esports Club,map,Raze,N/A,211,17,18,6,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Rb,488,Titan Esports Club,map,Cypher,N/A,153,13,15,7,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,QiuYe,19531,Titan Esports Club,map,Skye,N/A,95,7,21,5,-14,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,287,23,16,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,TvirusLuke,7841,Dragon Ranger Gaming,map,Raze,N/A,279,21,18,9,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,nizhaoTZH,4880,Dragon Ranger Gaming,map,Brimstone,N/A,167,14,13,10,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Dingwei,42513,Dragon Ranger Gaming,map,Viper,N/A,164,13,16,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298694,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (B)",2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,1 - 2,Nicc,11524,Dragon Ranger Gaming,map,Skye,N/A,159,14,14,10,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Dragon Ranger Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Spring,14125,Wolves Esports,overall,"Omen, Jett",N/A,269,68,47,16,+21,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Yuicaw,11218,Wolves Esports,overall,"Raze, Cypher",N/A,212,50,55,25,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,balua,14441,Wolves Esports,overall,"Skye, Omen, Viper",N/A,192,46,48,32,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,pl1xx,871,Wolves Esports,overall,"Yoru, Kayo",N/A,191,47,51,27,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,coldfish,3020,Wolves Esports,overall,"Viper, Sova",N/A,158,41,43,15,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,ZmjjKK,3520,EDward Gaming,overall,"Kayo, Jett",N/A,246,57,54,22,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,nobody,3017,EDward Gaming,overall,Sova,N/A,225,55,50,17,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,CHICHOO,15559,EDward Gaming,overall,"Brimstone, Viper, Cypher",N/A,214,55,51,14,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Smoggy,4742,EDward Gaming,overall,"Raze, Breach, Kayo",N/A,176,43,51,32,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Haodong,4720,EDward Gaming,overall,"Cypher, Omen, Viper",N/A,147,34,46,23,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Spring,14125,Wolves Esports,map,Omen,N/A,252,21,14,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Yuicaw,11218,Wolves Esports,map,Raze,N/A,222,17,17,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,pl1xx,871,Wolves Esports,map,Yoru,N/A,198,14,17,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,balua,14441,Wolves Esports,map,Skye,N/A,189,15,18,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,coldfish,3020,Wolves Esports,map,Viper,N/A,114,10,15,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,CHICHOO,15559,EDward Gaming,map,Brimstone,N/A,245,20,18,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,nobody,3017,EDward Gaming,map,Sova,N/A,198,16,16,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Haodong,4720,EDward Gaming,map,Cypher,N/A,189,17,11,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Smoggy,4742,EDward Gaming,map,Raze,N/A,186,16,15,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,ZmjjKK,3520,EDward Gaming,map,Kayo,N/A,184,12,17,15,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Spring,14125,Wolves Esports,map,Jett,N/A,309,26,15,5,+11,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,balua,14441,Wolves Esports,map,Omen,N/A,217,17,15,16,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,pl1xx,871,Wolves Esports,map,Kayo,N/A,204,18,16,12,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,183,14,20,10,-6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,169,13,14,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,nobody,3017,EDward Gaming,map,Sova,N/A,248,21,15,6,+6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,CHICHOO,15559,EDward Gaming,map,Viper,N/A,233,19,18,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,232,17,19,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Haodong,4720,EDward Gaming,map,Omen,N/A,167,11,18,10,-7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Smoggy,4742,EDward Gaming,map,Breach,N/A,141,12,18,14,-6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Wolves Esports
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Spring,14125,Wolves Esports,map,Jett,N/A,246,21,18,3,+3,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,232,19,18,10,+1,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,192,18,14,2,+4,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,pl1xx,871,Wolves Esports,map,Yoru,N/A,172,15,18,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,balua,14441,Wolves Esports,map,Viper,N/A,171,14,15,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,321,28,18,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,nobody,3017,EDward Gaming,map,Sova,N/A,228,18,19,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Smoggy,4742,EDward Gaming,map,Kayo,N/A,202,15,18,13,-3,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,163,16,15,1,+1,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298698,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Winner's (C)",2024-02-25 09:00:00,Wolves Esports,EDward Gaming,1 - 2,Haodong,4720,EDward Gaming,map,Viper,N/A,84,6,17,9,-11,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,FengF,4770,Trace Esports,overall,Raze,N/A,338,42,23,11,+19,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Kai,37494,Trace Esports,overall,"Cypher, Killjoy",N/A,261,36,17,4,+19,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,heybay,4712,Trace Esports,overall,Viper,N/A,202,25,17,14,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Flex1n,4705,Trace Esports,overall,Omen,N/A,182,23,20,23,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,YOU,4710,Trace Esports,overall,"Skye, Fade",N/A,180,23,16,19,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,CB,39697,Nova Esports,overall,"Skye, Breach",N/A,228,26,28,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,GuanG,41054,Nova Esports,overall,"Jett, Neon",N/A,211,25,30,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,OBONE,36670,Nova Esports,overall,Omen,N/A,143,17,28,12,-11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,overall,"Viper, Raze",N/A,122,14,31,7,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,PangH,4727,Nova Esports,overall,"Raze, Killjoy",N/A,120,11,32,6,-21,N/A,N/A,N/A,N/A,N/A,N/A,,
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,326,22,14,4,+8,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,YOU,4710,Trace Esports,map,Skye,N/A,287,19,9,14,+10,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Kai,37494,Trace Esports,map,Cypher,N/A,266,18,8,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,heybay,4712,Trace Esports,map,Viper,N/A,175,11,9,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Flex1n,4705,Trace Esports,map,Omen,N/A,119,7,10,13,-3,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Skye,N/A,236,13,15,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Jett,N/A,230,15,14,1,+1,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Viper,N/A,176,10,15,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,OBONE,36670,Nova Esports,map,Omen,N/A,136,9,15,5,-6,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,PangH,4727,Nova Esports,map,Raze,N/A,87,3,18,4,-15,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,349,20,9,7,+11,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Kai,37494,Trace Esports,map,Killjoy,N/A,255,18,9,1,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,Flex1n,4705,Trace Esports,map,Omen,N/A,244,16,10,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,heybay,4712,Trace Esports,map,Viper,N/A,229,14,8,6,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,YOU,4710,Trace Esports,map,Fade,N/A,73,4,7,5,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,CB,39697,Nova Esports,map,Breach,N/A,220,13,13,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,GuanG,41054,Nova Esports,map,Neon,N/A,192,10,16,4,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,PangH,4727,Nova Esports,map,Killjoy,N/A,153,8,14,2,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,OBONE,36670,Nova Esports,map,Omen,N/A,149,8,13,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298691,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (A)",2024-02-26 02:00:00,Trace Esports,Nova Esports,2 - 0,o0o0o,4402,Nova Esports,map,Raze,N/A,67,4,16,1,-12,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Rb,488,Titan Esports Club,overall,"Cypher, Killjoy, Fade",N/A,206,50,51,12,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,LockM,25339,Titan Esports Club,overall,"Viper, Sova",N/A,188,43,47,18,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Abo,5011,Titan Esports Club,overall,"Raze, Jett",N/A,183,42,47,10,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,kawaii,4778,Titan Esports Club,overall,"Brimstone, Viper, Omen",N/A,180,43,43,18,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,QiuYe,19531,Titan Esports Club,overall,"Skye, Harbor, Killjoy",N/A,169,41,48,11,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,stew,16924,JDG Esports,overall,"Raze, Jett",N/A,265,61,45,12,+16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Viva,36415,JDG Esports,overall,"Sova, Viper",N/A,223,54,38,15,+16,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,MarT1n,36668,JDG Esports,overall,"Viper, Killjoy",N/A,193,42,45,10,-3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,jkuro,3519,JDG Esports,overall,"Skye, Viper, Fade",N/A,174,41,47,15,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,YiHao,4320,JDG Esports,overall,"Brimstone, Harbor, Astra",N/A,160,38,45,25,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Abo,5011,Titan Esports Club,map,Raze,N/A,237,14,14,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,kawaii,4778,Titan Esports Club,map,Brimstone,N/A,197,13,13,2,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Rb,488,Titan Esports Club,map,Cypher,N/A,178,10,16,5,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,LockM,25339,Titan Esports Club,map,Viper,N/A,166,9,14,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,QiuYe,19531,Titan Esports Club,map,Skye,N/A,90,5,16,6,-11,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,stew,16924,JDG Esports,map,Raze,N/A,315,20,13,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,MarT1n,36668,JDG Esports,map,Viper,N/A,291,19,11,4,+8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Viva,36415,JDG Esports,map,Sova,N/A,237,17,7,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,YiHao,4320,JDG Esports,map,Brimstone,N/A,140,8,12,10,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,jkuro,3519,JDG Esports,map,Skye,N/A,134,9,9,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,JDG Esports
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Rb,488,Titan Esports Club,map,Killjoy,N/A,251,24,21,1,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,LockM,25339,Titan Esports Club,map,Sova,N/A,194,18,17,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Abo,5011,Titan Esports Club,map,Jett,N/A,172,16,20,3,-4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,kawaii,4778,Titan Esports Club,map,Viper,N/A,158,15,17,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,QiuYe,19531,Titan Esports Club,map,Harbor,N/A,144,13,18,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,stew,16924,JDG Esports,map,Jett,N/A,277,26,14,3,+12,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Viva,36415,JDG Esports,map,Sova,N/A,230,20,17,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,jkuro,3519,JDG Esports,map,Viper,N/A,207,18,21,4,-3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,YiHao,4320,JDG Esports,map,Harbor,N/A,160,16,16,8,0,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,MarT1n,36668,JDG Esports,map,Killjoy,N/A,148,13,18,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,QiuYe,19531,Titan Esports Club,map,Killjoy,N/A,273,23,14,4,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,LockM,25339,Titan Esports Club,map,Viper,N/A,203,16,16,9,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Rb,488,Titan Esports Club,map,Fade,N/A,188,16,14,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,kawaii,4778,Titan Esports Club,map,Omen,N/A,186,15,13,10,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Abo,5011,Titan Esports Club,map,Raze,N/A,141,12,13,2,-1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,stew,16924,JDG Esports,map,Raze,N/A,204,15,18,5,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,Viva,36415,JDG Esports,map,Viper,N/A,202,17,14,8,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,jkuro,3519,JDG Esports,map,Fade,N/A,181,14,17,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,YiHao,4320,JDG Esports,map,Astra,N/A,180,14,17,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298696,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (B)",2024-02-26 04:05:00,Titan Esports Club,JDG Esports,2 - 1,MarT1n,36668,JDG Esports,map,Killjoy,N/A,140,10,16,1,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Titan Esports Club
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,coldfish,3020,Wolves Esports,overall,Sova,N/A,228,38,31,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,pl1xx,871,Wolves Esports,overall,"Phoenix, Viper",N/A,212,34,35,10,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Yuicaw,11218,Wolves Esports,overall,Cypher,N/A,182,28,33,11,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Spring,14125,Wolves Esports,overall,"Raze, Jett",N/A,178,26,31,9,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,balua,14441,Wolves Esports,overall,"Omen, Killjoy",N/A,175,27,32,14,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,whzy,4885,Bilibili Gaming,overall,"Raze, Jett",N/A,255,39,38,11,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Biank,3021,Bilibili Gaming,overall,"Fade, Sova",N/A,229,35,31,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Knight,4774,Bilibili Gaming,overall,"Breach, Killjoy",N/A,219,36,29,19,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,yosemite,6022,Bilibili Gaming,overall,"Cypher, Viper",N/A,184,27,29,15,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,B3ar,25329,Bilibili Gaming,overall,"Omen, Harbor",N/A,156,25,26,18,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,pl1xx,871,Wolves Esports,map,Phoenix,N/A,219,17,17,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,213,17,15,6,+2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,balua,14441,Wolves Esports,map,Omen,N/A,200,16,16,10,0,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Spring,14125,Wolves Esports,map,Raze,N/A,180,11,14,7,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,143,10,15,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,305,23,17,4,+6,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Biank,3021,Bilibili Gaming,map,Fade,N/A,271,19,14,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Knight,4774,Bilibili Gaming,map,Breach,N/A,213,17,14,16,+3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,B3ar,25329,Bilibili Gaming,map,Omen,N/A,145,11,12,9,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,yosemite,6022,Bilibili Gaming,map,Cypher,N/A,110,7,14,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,coldfish,3020,Wolves Esports,map,Sova,N/A,243,21,16,2,+5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Yuicaw,11218,Wolves Esports,map,Cypher,N/A,220,18,18,7,0,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,pl1xx,871,Wolves Esports,map,Viper,N/A,204,17,18,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Spring,14125,Wolves Esports,map,Jett,N/A,176,15,17,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,balua,14441,Wolves Esports,map,Killjoy,N/A,150,11,16,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,yosemite,6022,Bilibili Gaming,map,Viper,N/A,257,20,15,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Knight,4774,Bilibili Gaming,map,Killjoy,N/A,225,19,15,3,+4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,whzy,4885,Bilibili Gaming,map,Jett,N/A,205,16,21,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,Biank,3021,Bilibili Gaming,map,Sova,N/A,187,16,17,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298699,Champions Tour 2024: China Kickoff,"Group Stage: 
+						Decider (C)",2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,0 - 2,B3ar,25329,Bilibili Gaming,map,Harbor,N/A,167,14,14,9,0,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,Bilibili Gaming
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,FengF,4770,Trace Esports,overall,"Cypher, Raze",N/A,297,76,49,24,+27,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Kai,37494,Trace Esports,overall,"Jett, Killjoy, Cypher",N/A,218,61,50,11,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Flex1n,4705,Trace Esports,overall,"Viper, Omen",N/A,204,50,52,28,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,heybay,4712,Trace Esports,overall,"Kayo, Viper",N/A,196,52,48,29,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,YOU,4710,Trace Esports,overall,"Sova, Fade, Skye",N/A,175,45,47,30,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,overall,"Cypher, Fade, Raze",N/A,286,73,53,21,+20,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,kawaii,4778,Titan Esports Club,overall,"Viper, Omen, Astra",N/A,197,53,59,29,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,LockM,25339,Titan Esports Club,overall,"Sova, Viper",N/A,181,48,52,15,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,overall,"Jett, Raze",N/A,172,43,60,14,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,QiuYe,19531,Titan Esports Club,overall,"Kayo, Killjoy, Skye",N/A,120,29,60,31,-31,N/A,N/A,N/A,N/A,N/A,N/A,,
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,FengF,4770,Trace Esports,map,Cypher,N/A,336,40,24,15,+16,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Kai,37494,Trace Esports,map,Jett,N/A,242,31,26,2,+5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,heybay,4712,Trace Esports,map,Kayo,N/A,177,20,26,18,-6,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,YOU,4710,Trace Esports,map,Sova,N/A,153,17,23,13,-6,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Flex1n,4705,Trace Esports,map,Viper,N/A,140,15,26,13,-11,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,kawaii,4778,Titan Esports Club,map,Viper,N/A,262,30,25,15,+5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Cypher,N/A,241,29,25,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Jett,N/A,192,23,27,6,-4,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,LockM,25339,Titan Esports Club,map,Sova,N/A,184,25,20,8,+5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,QiuYe,19531,Titan Esports Club,map,Kayo,N/A,162,18,26,17,-8,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,Titan Esports Club
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,FengF,4770,Trace Esports,map,Raze,N/A,309,19,11,4,+8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Flex1n,4705,Trace Esports,map,Omen,N/A,230,16,12,10,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,heybay,4712,Trace Esports,map,Viper,N/A,216,15,12,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,YOU,4710,Trace Esports,map,Fade,N/A,198,15,11,8,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Kai,37494,Trace Esports,map,Killjoy,N/A,152,10,12,3,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Fade,N/A,294,20,14,7,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,LockM,25339,Titan Esports Club,map,Viper,N/A,199,13,13,1,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Raze,N/A,191,10,15,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,kawaii,4778,Titan Esports Club,map,Omen,N/A,157,10,16,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,QiuYe,19531,Titan Esports Club,map,Killjoy,N/A,83,5,17,2,-12,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Kai,37494,Trace Esports,map,Cypher,N/A,260,20,12,6,+8,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,FengF,4770,Trace Esports,map,Raze,N/A,247,17,14,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Flex1n,4705,Trace Esports,map,Omen,N/A,241,19,14,5,+5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,heybay,4712,Trace Esports,map,Viper,N/A,194,17,10,5,+7,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,YOU,4710,Trace Esports,map,Skye,N/A,173,13,13,9,0,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Rb,488,Titan Esports Club,map,Raze,N/A,322,24,14,4,+10,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,kawaii,4778,Titan Esports Club,map,Astra,N/A,172,13,18,5,-5,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,LockM,25339,Titan Esports Club,map,Viper,N/A,160,10,19,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,Abo,5011,Titan Esports Club,map,Jett,N/A,133,10,18,2,-8,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298830,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 02:00:00,Trace Esports,Titan Esports Club,2 - 1,QiuYe,19531,Titan Esports Club,map,Skye,N/A,114,6,17,12,-11,N/A,N/A,N/A,N/A,N/A,N/A,Split,Trace Esports
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,whzy,4885,Bilibili Gaming,overall,"Raze, Jett",N/A,319,44,23,7,+21,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,yosemite,6022,Bilibili Gaming,overall,"Viper, Killjoy",N/A,258,36,22,10,+14,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Biank,3021,Bilibili Gaming,overall,"Fade, Sova",N/A,228,27,27,11,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Knight,4774,Bilibili Gaming,overall,"Killjoy, Kayo",N/A,206,26,23,20,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,B3ar,25329,Bilibili Gaming,overall,Omen,N/A,131,19,19,26,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Rb,488,Titan Esports Club,overall,"Fade, Cypher",N/A,228,31,28,3,+3,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,QiuYe,19531,Titan Esports Club,overall,"Killjoy, Kayo",N/A,195,23,33,12,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,LockM,25339,Titan Esports Club,overall,"Viper, Sova",N/A,178,21,31,7,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,kawaii,4778,Titan Esports Club,overall,Omen,N/A,173,23,30,11,-7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Abo,5011,Titan Esports Club,overall,"Raze, Jett",N/A,139,16,30,6,-14,N/A,N/A,N/A,N/A,N/A,N/A,,
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,whzy,4885,Bilibili Gaming,map,Raze,N/A,324,19,10,2,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,yosemite,6022,Bilibili Gaming,map,Viper,N/A,298,19,6,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Biank,3021,Bilibili Gaming,map,Fade,N/A,229,12,11,4,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Knight,4774,Bilibili Gaming,map,Killjoy,N/A,202,13,9,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,B3ar,25329,Bilibili Gaming,map,Omen,N/A,112,7,7,13,0,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Rb,488,Titan Esports Club,map,Fade,N/A,230,14,13,1,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,kawaii,4778,Titan Esports Club,map,Omen,N/A,173,9,14,3,-5,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,QiuYe,19531,Titan Esports Club,map,Killjoy,N/A,173,8,15,3,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Abo,5011,Titan Esports Club,map,Raze,N/A,131,6,14,1,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,LockM,25339,Titan Esports Club,map,Viper,N/A,126,6,14,2,-8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,whzy,4885,Bilibili Gaming,map,Jett,N/A,314,25,13,5,+12,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Biank,3021,Bilibili Gaming,map,Sova,N/A,227,15,16,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,yosemite,6022,Bilibili Gaming,map,Killjoy,N/A,217,17,16,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Knight,4774,Bilibili Gaming,map,Kayo,N/A,210,13,14,16,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,B3ar,25329,Bilibili Gaming,map,Omen,N/A,150,12,12,13,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,LockM,25339,Titan Esports Club,map,Sova,N/A,229,15,17,5,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Rb,488,Titan Esports Club,map,Cypher,N/A,225,17,15,2,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,QiuYe,19531,Titan Esports Club,map,Kayo,N/A,216,15,18,9,-3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,kawaii,4778,Titan Esports Club,map,Omen,N/A,172,14,16,8,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298831,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,2 - 0,Abo,5011,Titan Esports Club,map,Jett,N/A,147,10,16,5,-6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,yosemite,6022,Bilibili Gaming,overall,"Viper, Cypher",N/A,269,73,51,20,+22,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,overall,"Killjoy, Breach, Cypher",N/A,227,64,53,20,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,overall,Raze,N/A,220,59,57,16,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Bilibili Gaming,overall,"Fade, Skye",N/A,157,40,57,28,-17,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,B3ar,25329,Bilibili Gaming,overall,"Omen, Brimstone",N/A,123,31,54,33,-23,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Flex1n,4705,Trace Esports,overall,"Omen, Viper",N/A,264,72,54,24,+18,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,overall,"Killjoy, Cypher, Jett",N/A,227,64,53,15,+11,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,overall,Raze,N/A,197,52,58,19,-6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,YOU,4710,Trace Esports,overall,"Fade, Sova, Skye",N/A,160,45,53,21,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,overall,"Viper, Breach, Brimstone",N/A,149,39,49,33,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,yosemite,6022,Bilibili Gaming,map,Viper,N/A,268,22,14,9,+8,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Killjoy,N/A,245,21,15,2,+6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,238,20,18,4,+2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Bilibili Gaming,map,Fade,N/A,194,17,16,7,+1,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,B3ar,25329,Bilibili Gaming,map,Omen,N/A,140,11,17,9,-6,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Flex1n,4705,Trace Esports,map,Omen,N/A,308,27,18,6,+9,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,YOU,4710,Trace Esports,map,Fade,N/A,177,16,18,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Killjoy,N/A,170,15,19,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Viper,N/A,149,11,18,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,140,11,18,7,-7,N/A,N/A,N/A,N/A,N/A,N/A,Lotus,Bilibili Gaming
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,yosemite,6022,Bilibili Gaming,map,Cypher,N/A,266,28,21,4,+7,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Breach,N/A,229,24,19,9,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,222,19,23,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,B3ar,25329,Bilibili Gaming,map,Omen,N/A,124,11,20,17,-9,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Bilibili Gaming,map,Fade,N/A,123,10,22,11,-12,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,287,28,20,3,+8,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Flex1n,4705,Trace Esports,map,Omen,N/A,253,25,19,12,+6,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Cypher,N/A,189,20,19,5,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Breach,N/A,169,16,15,20,+1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,YOU,4710,Trace Esports,map,Sova,N/A,160,16,19,6,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,yosemite,6022,Bilibili Gaming,map,Viper,N/A,273,23,16,7,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Knight,4774,Bilibili Gaming,map,Cypher,N/A,207,19,19,9,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,whzy,4885,Bilibili Gaming,map,Raze,N/A,201,20,16,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Biank,3021,Bilibili Gaming,map,Skye,N/A,155,13,19,10,-6,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,B3ar,25329,Bilibili Gaming,map,Brimstone,N/A,105,9,17,7,-8,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Kai,37494,Trace Esports,map,Jett,N/A,322,29,15,6,+14,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,Flex1n,4705,Trace Esports,map,Viper,N/A,232,20,17,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,FengF,4770,Trace Esports,map,Raze,N/A,163,13,20,9,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,YOU,4710,Trace Esports,map,Skye,N/A,144,13,16,11,-3,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298832,Champions Tour 2024: China Kickoff,"Play-Ins: 
+						Round-Robin",2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,1 - 2,heybay,4712,Trace Esports,map,Brimstone,N/A,128,12,16,6,-4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,Trace Esports
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Life,3028,FunPlus Phoenix,overall,"Yoru, Jett",N/A,297,46,28,9,+18,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,AAAAY,19530,FunPlus Phoenix,overall,"Fade, Sova",N/A,214,33,28,13,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,BerLIN,7857,FunPlus Phoenix,overall,"Omen, Astra",N/A,206,32,24,21,+8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Autumn,872,FunPlus Phoenix,overall,"Jett, Yoru",N/A,192,28,26,8,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Lysoar,37489,FunPlus Phoenix,overall,"Cypher, Viper",N/A,164,25,19,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,overall,Jett,N/A,217,30,35,4,-5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,overall,Kayo,N/A,216,29,31,25,-2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,overall,"Omen, Viper",N/A,198,31,31,17,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,overall,"Killjoy, Cypher",N/A,140,21,34,4,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Dingwei,42513,Dragon Ranger Gaming,overall,Sova,N/A,107,14,33,11,-19,N/A,N/A,N/A,N/A,N/A,N/A,,
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Life,3028,FunPlus Phoenix,map,Yoru,N/A,269,22,17,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Autumn,872,FunPlus Phoenix,map,Jett,N/A,228,18,14,4,+4,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,178,14,16,7,-2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,170,15,15,11,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Cypher,N/A,169,14,11,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,245,19,17,3,+2,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,map,Omen,N/A,237,21,16,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,199,14,15,18,-1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Dingwei,42513,Dragon Ranger Gaming,map,Sova,N/A,130,9,17,7,-8,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Killjoy,N/A,121,10,18,3,-8,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Life,3028,FunPlus Phoenix,map,Jett,N/A,325,24,11,3,+13,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Sova,N/A,249,19,12,6,+7,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,242,17,9,10,+8,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,158,11,8,4,+3,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Autumn,872,FunPlus Phoenix,map,Yoru,N/A,155,10,12,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Nicc,11524,Dragon Ranger Gaming,map,Kayo,N/A,233,15,16,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,TvirusLuke,7841,Dragon Ranger Gaming,map,Jett,N/A,188,11,18,1,-7,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,vo0kashu,3741,Dragon Ranger Gaming,map,Cypher,N/A,158,11,16,1,-5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,nizhaoTZH,4880,Dragon Ranger Gaming,map,Viper,N/A,158,10,15,6,-5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298833,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,2 - 0,Dingwei,42513,Dragon Ranger Gaming,map,Sova,N/A,83,5,16,4,-11,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,FunPlus Phoenix
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,ZmjjKK,3520,EDward Gaming,overall,"Raze, Kayo",N/A,311,47,35,11,+12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,nobody,3017,EDward Gaming,overall,Sova,N/A,201,32,31,15,+1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,CHICHOO,15559,EDward Gaming,overall,"Cypher, Brimstone",N/A,201,32,27,16,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Smoggy,4742,EDward Gaming,overall,"Kayo, Raze",N/A,173,29,27,15,+2,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Haodong,4720,EDward Gaming,overall,"Omen, Cypher",N/A,170,26,30,19,-4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Kai,37494,Trace Esports,overall,"Cypher, Jett",N/A,229,39,32,8,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,YOU,4710,Trace Esports,overall,"Sova, Skye",N/A,199,31,32,11,-1,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,FengF,4770,Trace Esports,overall,Raze,N/A,198,27,37,14,-10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,heybay,4712,Trace Esports,overall,"Breach, Brimstone",N/A,180,30,30,20,0,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Flex1n,4705,Trace Esports,overall,"Omen, Viper",N/A,147,23,35,10,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,308,26,21,2,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,nobody,3017,EDward Gaming,map,Sova,N/A,210,19,17,7,+2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,179,19,14,4,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Smoggy,4742,EDward Gaming,map,Kayo,N/A,165,14,16,14,-2,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Haodong,4720,EDward Gaming,map,Omen,N/A,140,12,16,14,-4,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Cypher,N/A,224,21,18,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,216,17,20,8,-3,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Breach,N/A,187,19,14,9,+5,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,YOU,4710,Trace Esports,map,Sova,N/A,175,16,17,5,-1,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Flex1n,4705,Trace Esports,map,Omen,N/A,129,11,21,6,-10,N/A,N/A,N/A,N/A,N/A,N/A,Sunset,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,ZmjjKK,3520,EDward Gaming,map,Kayo,N/A,314,21,14,9,+7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,CHICHOO,15559,EDward Gaming,map,Brimstone,N/A,222,13,13,12,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Haodong,4720,EDward Gaming,map,Cypher,N/A,200,14,14,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,nobody,3017,EDward Gaming,map,Sova,N/A,191,13,14,8,-1,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Smoggy,4742,EDward Gaming,map,Raze,N/A,180,15,11,1,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Kai,37494,Trace Esports,map,Jett,N/A,233,18,14,2,+4,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,YOU,4710,Trace Esports,map,Skye,N/A,223,15,15,6,0,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,FengF,4770,Trace Esports,map,Raze,N/A,179,10,17,6,-7,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,heybay,4712,Trace Esports,map,Brimstone,N/A,172,11,16,11,-5,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298834,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Semifinals",2024-03-01 06:15:00,EDward Gaming,Trace Esports,2 - 0,Flex1n,4705,Trace Esports,map,Viper,N/A,165,12,14,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Bind,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Autumn,872,FunPlus Phoenix,overall,"Yoru, Raze, Jett",N/A,230,78,69,14,+9,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,AAAAY,19530,FunPlus Phoenix,overall,"Sova, Breach, Gekko, Fade",N/A,224,78,74,17,+4,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,BerLIN,7857,FunPlus Phoenix,overall,"Astra, Omen",N/A,195,62,70,31,-8,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Life,3028,FunPlus Phoenix,overall,"Jett, Yoru, Reyna",N/A,191,63,72,14,-9,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Lysoar,37489,FunPlus Phoenix,overall,"Viper, Cypher",N/A,147,52,64,20,-12,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,overall,"Jett, Raze",N/A,263,85,75,14,+10,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,overall,"Cypher, Viper, Killjoy",N/A,216,74,67,19,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,overall,"Sova, Skye",N/A,211,72,65,21,+7,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,overall,"Kayo, Breach",N/A,205,67,62,50,+5,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Haodong,4720,EDward Gaming,overall,"Viper, Omen",N/A,146,51,64,32,-13,N/A,N/A,N/A,N/A,N/A,N/A,,
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,BerLIN,7857,FunPlus Phoenix,map,Astra,N/A,284,26,16,3,+10,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Autumn,872,FunPlus Phoenix,map,Yoru,N/A,268,24,19,6,+5,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,AAAAY,19530,FunPlus Phoenix,map,Sova,N/A,210,19,19,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Life,3028,FunPlus Phoenix,map,Jett,N/A,137,12,22,2,-10,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,105,10,19,6,-9,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,328,30,18,3,+12,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Cypher,N/A,245,24,17,3,+7,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Kayo,N/A,167,14,21,16,-7,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,164,14,18,5,-4,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Haodong,4720,EDward Gaming,map,Viper,N/A,140,13,17,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Breeze,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,AAAAY,19530,FunPlus Phoenix,map,Breach,N/A,219,14,16,6,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Autumn,872,FunPlus Phoenix,map,Raze,N/A,202,13,15,2,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Life,3028,FunPlus Phoenix,map,Yoru,N/A,197,13,15,4,-2,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,183,11,15,8,-4,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Lysoar,37489,FunPlus Phoenix,map,Cypher,N/A,169,12,15,2,-3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Raze,N/A,285,18,16,4,+2,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Haodong,4720,EDward Gaming,map,Omen,N/A,211,14,11,11,+3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Skye,N/A,207,15,12,5,+3,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Viper,N/A,196,14,15,7,-1,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Breach,N/A,187,15,9,10,+6,N/A,N/A,N/A,N/A,N/A,N/A,Split,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Autumn,872,FunPlus Phoenix,map,Jett,N/A,291,25,13,1,+12,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,AAAAY,19530,FunPlus Phoenix,map,Gekko,N/A,242,19,16,6,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Life,3028,FunPlus Phoenix,map,Reyna,N/A,225,16,13,3,+3,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,156,11,16,7,-5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Lysoar,37489,FunPlus Phoenix,map,Viper,N/A,125,11,12,4,-1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Kayo,N/A,287,20,15,11,+5,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,238,16,20,4,-4,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Killjoy,N/A,203,14,16,0,-2,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,202,16,15,2,+1,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Haodong,4720,EDward Gaming,map,Viper,N/A,58,4,16,4,-12,N/A,N/A,N/A,N/A,N/A,N/A,Icebox,FunPlus Phoenix
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,AAAAY,19530,FunPlus Phoenix,map,Fade,N/A,226,26,23,2,+3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Life,3028,FunPlus Phoenix,map,Yoru,N/A,203,22,22,5,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Lysoar,37489,FunPlus Phoenix,map,Cypher,N/A,187,19,18,8,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Autumn,872,FunPlus Phoenix,map,Jett,N/A,159,16,22,5,-6,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,BerLIN,7857,FunPlus Phoenix,map,Omen,N/A,155,14,23,13,-9,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,nobody,3017,EDward Gaming,map,Sova,N/A,271,27,20,9,+7,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,CHICHOO,15559,EDward Gaming,map,Viper,N/A,221,22,19,9,+3,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,ZmjjKK,3520,EDward Gaming,map,Jett,N/A,200,21,21,3,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Smoggy,4742,EDward Gaming,map,Breach,N/A,179,18,17,13,+1,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming
+298835,Champions Tour 2024: China Kickoff,"Playoffs: 
+						Grand Final",2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,1 - 3,Haodong,4720,EDward Gaming,map,Omen,N/A,176,20,20,13,0,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,EDward Gaming

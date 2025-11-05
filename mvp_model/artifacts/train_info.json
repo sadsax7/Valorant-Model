@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-10-23T21:02:06.728036+00:00",
-  "n_total": 504,
-  "n_train": 403,
-  "n_test": 101,
+  "timestamp": "2025-11-05T06:11:28.794465+00:00",
+  "n_total": 940,
+  "n_train": 752,
+  "n_test": 188,
   "elo_k": 32.0,
   "elo_base": 1500.0,
   "features": [

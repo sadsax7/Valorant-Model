@@ -1,0 +1,34 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, June 15, 2024",359603,4:30 PM,Titan Esports Club,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 1,Regular Season
+"Sun, June 16, 2024",359604,2:30 PM,All Gamers,2,TYLOO,0,2-0,All Gamers,Completed,Week 1,Regular Season
+"Sun, June 16, 2024",359605,4:35 PM,Bilibili Gaming,2,Wolves Esports,0,2-0,Bilibili Gaming,Completed,Week 1,Regular Season
+"Fri, June 21, 2024",359606,2:30 PM,Dragon Ranger Gaming,1,Nova Esports,2,1-2,Nova Esports,Completed,Week 2,Regular Season
+"Fri, June 21, 2024",359607,5:45 PM,FunPlus Phoenix,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 2,Regular Season
+"Sat, June 22, 2024",359608,2:30 PM,Titan Esports Club,0,All Gamers,2,0-2,All Gamers,Completed,Week 2,Regular Season
+"Sat, June 22, 2024",359609,4:30 PM,EDward Gaming,1,Wolves Esports,2,1-2,Wolves Esports,Completed,Week 2,Regular Season
+"Sun, June 23, 2024",359610,2:30 PM,TYLOO,1,Trace Esports,2,1-2,Trace Esports,Completed,Week 2,Regular Season
+"Sun, June 23, 2024",359611,5:35 PM,Nova Esports,1,Bilibili Gaming,2,1-2,Bilibili Gaming,Completed,Week 2,Regular Season
+"Wed, June 26, 2024",359612,4:30 PM,JDG Esports,0,FunPlus Phoenix,2,0-2,FunPlus Phoenix,Completed,Week 3,Regular Season
+"Thu, June 27, 2024",359613,4:30 PM,EDward Gaming,0,Dragon Ranger Gaming,2,0-2,Dragon Ranger Gaming,Completed,Week 3,Regular Season
+"Fri, June 28, 2024",359614,2:30 PM,Nova Esports,2,Wolves Esports,0,2-0,Nova Esports,Completed,Week 3,Regular Season
+"Fri, June 28, 2024",359615,5:05 PM,JDG Esports,2,Trace Esports,1,2-1,JDG Esports,Completed,Week 3,Regular Season
+"Sat, June 29, 2024",359616,2:30 PM,Titan Esports Club,1,TYLOO,2,1-2,TYLOO,Completed,Week 3,Regular Season
+"Sat, June 29, 2024",359617,6:00 PM,All Gamers,1,FunPlus Phoenix,2,1-2,FunPlus Phoenix,Completed,Week 3,Regular Season
+"Sun, June 30, 2024",359618,2:30 PM,Bilibili Gaming,2,Dragon Ranger Gaming,0,2-0,Bilibili Gaming,Completed,Week 3,Regular Season
+"Sun, June 30, 2024",359619,4:50 PM,EDward Gaming,2,Nova Esports,0,2-0,EDward Gaming,Completed,Week 3,Regular Season
+"Wed, July 3, 2024",359621,4:30 PM,All Gamers,0,Trace Esports,2,0-2,Trace Esports,Completed,Week 4,Regular Season
+"Thu, July 4, 2024",359622,4:30 PM,Titan Esports Club,2,FunPlus Phoenix,0,2-0,Titan Esports Club,Completed,Week 4,Regular Season
+"Fri, July 5, 2024",359623,2:30 PM,TYLOO,0,JDG Esports,2,0-2,JDG Esports,Completed,Week 4,Regular Season
+"Fri, July 5, 2024",359624,4:30 PM,Dragon Ranger Gaming,0,Wolves Esports,2,0-2,Wolves Esports,Completed,Week 4,Regular Season
+"Sat, July 6, 2024",359625,2:30 PM,Trace Esports,2,Titan Esports Club,1,2-1,Trace Esports,Completed,Week 4,Regular Season
+"Sat, July 6, 2024",359626,5:50 PM,EDward Gaming,2,Bilibili Gaming,0,2-0,EDward Gaming,Completed,Week 4,Regular Season
+"Sun, July 7, 2024",359627,2:30 PM,JDG Esports,2,All Gamers,0,2-0,JDG Esports,Completed,Week 4,Regular Season
+"Sun, July 7, 2024",359628,4:30 PM,TYLOO,2,FunPlus Phoenix,1,2-1,TYLOO,Completed,Week 4,Regular Season
+"Tue, July 16, 2024",370723,1:30 PM,Trace Esports,2,All Gamers,0,2-0,Trace Esports,Completed,Knockout Round,Playoffs
+"Tue, July 16, 2024",370722,3:55 PM,JDG Esports,0,Bilibili Gaming,2,0-2,Bilibili Gaming,Completed,Knockout Round,Playoffs
+"Wed, July 17, 2024",370725,1:30 PM,FunPlus Phoenix,0,Trace Esports,2,0-2,Trace Esports,Completed,Upper Semifinals,Playoffs
+"Wed, July 17, 2024",370724,3:40 PM,EDward Gaming,2,Bilibili Gaming,1,2-1,EDward Gaming,Completed,Upper Semifinals,Playoffs
+"Thu, July 18, 2024",370726,1:30 PM,Trace Esports,0,EDward Gaming,2,0-2,EDward Gaming,Completed,Upper Final,Playoffs
+"Thu, July 18, 2024",370728,3:20 PM,FunPlus Phoenix,2,Bilibili Gaming,1,2-1,FunPlus Phoenix,Completed,Lower Round 1,Playoffs
+"Fri, July 19, 2024",370729,1:30 PM,Trace Esports,2,FunPlus Phoenix,3,2-3,FunPlus Phoenix,Completed,Lower Final,Playoffs
+"Sat, July 20, 2024",370727,2:00 PM,EDward Gaming,3,FunPlus Phoenix,2,3-2,EDward Gaming,Completed,Grand Final,Playoffs

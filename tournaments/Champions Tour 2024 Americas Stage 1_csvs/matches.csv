@@ -1,0 +1,39 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sun, April 7, 2024",314622,2:30 AM,Cloud9,2,LEVIATÁN,1,2-1,Cloud9,Completed,Week 1,Regular Season
+"Sun, April 7, 2024",314623,6:30 AM,NRG,2,LOUD,0,2-0,NRG,Completed,Week 1,Regular Season
+"Mon, April 8, 2024",314624,2:30 AM,G2 Esports,2,Evil Geniuses,0,2-0,G2 Esports,Completed,Week 1,Regular Season
+"Mon, April 8, 2024",314625,4:40 AM,Sentinels,2,100 Thieves,0,2-0,Sentinels,Completed,Week 1,Regular Season
+"Tue, April 9, 2024",314626,2:30 AM,KRÜ Esports,2,FURIA,1,2-1,KRÜ Esports,Completed,Week 1,Regular Season
+"Sun, April 14, 2024",314628,2:30 AM,G2 Esports,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 2,Regular Season
+"Sun, April 14, 2024",314629,4:55 AM,Sentinels,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 2,Regular Season
+"Mon, April 15, 2024",314630,2:30 AM,KRÜ Esports,2,MIBR,0,2-0,KRÜ Esports,Completed,Week 2,Regular Season
+"Mon, April 15, 2024",314631,4:50 AM,NRG,2,FURIA,0,2-0,NRG,Completed,Week 2,Regular Season
+"Tue, April 16, 2024",314632,2:30 AM,Cloud9,2,Evil Geniuses,1,2-1,Cloud9,Completed,Week 2,Regular Season
+"Sun, April 21, 2024",314634,2:30 AM,Sentinels,2,MIBR,0,2-0,Sentinels,Completed,Week 3,Regular Season
+"Sun, April 21, 2024",314635,5:00 AM,Cloud9,2,LOUD,1,2-1,Cloud9,Completed,Week 3,Regular Season
+"Mon, April 22, 2024",314636,2:30 AM,KRÜ Esports,2,Evil Geniuses,0,2-0,KRÜ Esports,Completed,Week 3,Regular Season
+"Mon, April 22, 2024",314637,4:45 AM,NRG,0,LEVIATÁN,2,0-2,LEVIATÁN,Completed,Week 3,Regular Season
+"Tue, April 23, 2024",314638,2:30 AM,G2 Esports,2,FURIA,0,2-0,G2 Esports,Completed,Week 3,Regular Season
+"Tue, April 23, 2024",314639,4:30 AM,Cloud9,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 3,Regular Season
+"Wed, April 24, 2024",314640,2:30 AM,Sentinels,1,Evil Geniuses,2,1-2,Evil Geniuses,Completed,Week 3,Regular Season
+"Wed, April 24, 2024",314641,6:00 AM,NRG,2,MIBR,0,2-0,NRG,Completed,Week 3,Regular Season
+"Thu, April 25, 2024",314642,2:30 AM,G2 Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Week 3,Regular Season
+"Thu, April 25, 2024",314643,5:45 AM,KRÜ Esports,2,LOUD,0,2-0,KRÜ Esports,Completed,Week 3,Regular Season
+"Sun, April 28, 2024",314644,2:30 AM,G2 Esports,2,MIBR,0,2-0,G2 Esports,Completed,Week 4,Regular Season
+"Sun, April 28, 2024",314645,4:35 AM,Sentinels,0,LOUD,2,0-2,LOUD,Completed,Week 4,Regular Season
+"Mon, April 29, 2024",314646,2:30 AM,Cloud9,2,FURIA,1,2-1,Cloud9,Completed,Week 4,Regular Season
+"Mon, April 29, 2024",314647,5:25 AM,NRG,1,Evil Geniuses,2,1-2,Evil Geniuses,Completed,Week 4,Regular Season
+"Tue, April 30, 2024",314648,2:30 AM,KRÜ Esports,2,100 Thieves,1,2-1,KRÜ Esports,Completed,Week 4,Regular Season
+"Sat, May 4, 2024",314650,5:30 AM,Sentinels,2,FURIA,0,2-0,Sentinels,Completed,Week 5,Regular Season
+"Sun, May 5, 2024",314651,2:30 AM,NRG,0,100 Thieves,2,0-2,100 Thieves,Completed,Week 5,Regular Season
+"Sun, May 5, 2024",314652,4:50 AM,KRÜ Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Week 5,Regular Season
+"Mon, May 6, 2024",314653,2:30 AM,Cloud9,2,MIBR,0,2-0,Cloud9,Completed,Week 5,Regular Season
+"Mon, May 6, 2024",314654,5:05 AM,G2 Esports,0,LOUD,2,0-2,LOUD,Completed,Week 5,Regular Season
+"Thu, May 9, 2024",337407,2:30 AM,Cloud9,0,G2 Esports,2,0-2,G2 Esports,Completed,Knockout Round,Playoffs
+"Thu, May 9, 2024",337408,4:55 AM,100 Thieves,2,LOUD,0,2-0,100 Thieves,Completed,Knockout Round,Playoffs
+"Fri, May 10, 2024",337409,2:30 AM,KRÜ Esports,0,G2 Esports,2,0-2,G2 Esports,Completed,Upper Semifinals,Playoffs
+"Fri, May 10, 2024",337410,4:35 AM,LEVIATÁN,1,100 Thieves,2,1-2,100 Thieves,Completed,Upper Semifinals,Playoffs
+"Sat, May 11, 2024",337411,2:30 AM,G2 Esports,1,100 Thieves,2,1-2,100 Thieves,Completed,Upper Final,Playoffs
+"Sat, May 11, 2024",337413,5:30 AM,KRÜ Esports,1,LEVIATÁN,2,1-2,LEVIATÁN,Completed,Lower Round 1,Playoffs
+"Sun, May 12, 2024",337414,2:30 AM,G2 Esports,3,LEVIATÁN,2,3-2,G2 Esports,Completed,Lower Final,Playoffs
+"Mon, May 13, 2024",337412,2:30 AM,100 Thieves,3,G2 Esports,0,3-0,100 Thieves,Completed,Grand Final,Playoffs

@@ -1,0 +1,26 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Thu, May 23, 2024",348063,1:30 PM,G2 Esports,2,T1,1,2-1,G2 Esports,Completed,Round 1,Swiss Stage
+"Thu, May 23, 2024",348061,4:40 PM,FunPlus Phoenix,2,FUT Esports,1,2-1,FunPlus Phoenix,Completed,Round 1,Swiss Stage
+"Fri, May 24, 2024",348064,1:30 PM,Gen.G,2,LEVIATÁN,1,2-1,Gen.G,Completed,Round 1,Swiss Stage
+"Fri, May 24, 2024",348059,4:30 PM,Team Heretics,2,Dragon Ranger Gaming,0,2-0,Team Heretics,Completed,Round 1,Swiss Stage
+"Sat, May 25, 2024",348458,1:30 PM,FunPlus Phoenix,1,Gen.G,2,1-2,Gen.G,Completed,Round 2,Swiss Stage
+"Sat, May 25, 2024",348457,5:10 PM,G2 Esports,2,Team Heretics,1,2-1,G2 Esports,Completed,Round 2,Swiss Stage
+"Sun, May 26, 2024",348459,1:30 PM,LEVIATÁN,2,T1,0,2-0,LEVIATÁN,Completed,Round 2,Swiss Stage
+"Sun, May 26, 2024",348460,3:40 PM,Dragon Ranger Gaming,0,FUT Esports,2,0-2,FUT Esports,Completed,Round 2,Swiss Stage
+"Mon, May 27, 2024",348462,1:30 PM,FunPlus Phoenix,1,Team Heretics,2,1-2,Team Heretics,Completed,Round 3,Swiss Stage
+"Mon, May 27, 2024",348461,5:05 PM,FUT Esports,2,LEVIATÁN,1,2-1,FUT Esports,Completed,Round 3,Swiss Stage
+"Thu, May 30, 2024",348465,1:30 PM,100 Thieves,2,FUT Esports,0,2-0,100 Thieves,Completed,Upper Quarterfinals,Playoffs
+"Thu, May 30, 2024",348466,3:30 PM,FNATIC,1,Gen.G,2,1-2,Gen.G,Completed,Upper Quarterfinals,Playoffs
+"Fri, May 31, 2024",348463,1:30 PM,Paper Rex,1,G2 Esports,2,1-2,G2 Esports,Completed,Upper Quarterfinals,Playoffs
+"Fri, May 31, 2024",348464,4:30 PM,EDward Gaming,0,Team Heretics,2,0-2,Team Heretics,Completed,Upper Quarterfinals,Playoffs
+"Sat, June 1, 2024",348468,1:30 PM,FUT Esports,2,FNATIC,1,2-1,FUT Esports,Completed,Lower Round 1,Playoffs
+"Sat, June 1, 2024",348467,4:30 PM,Paper Rex,2,EDward Gaming,0,2-0,Paper Rex,Completed,Lower Round 1,Playoffs
+"Sun, June 2, 2024",348470,1:30 PM,100 Thieves,0,Gen.G,2,0-2,Gen.G,Completed,Upper Semifinals,Playoffs
+"Sun, June 2, 2024",348469,3:45 PM,G2 Esports,2,Team Heretics,1,2-1,G2 Esports,Completed,Upper Semifinals,Playoffs
+"Mon, June 3, 2024",348471,1:30 PM,100 Thieves,2,Paper Rex,1,2-1,100 Thieves,Completed,Lower Round 2,Playoffs
+"Mon, June 3, 2024",348472,4:40 PM,Team Heretics,2,FUT Esports,0,2-0,Team Heretics,Completed,Lower Round 2,Playoffs
+"Fri, June 7, 2024",348473,12:30 PM,G2 Esports,0,Gen.G,2,0-2,Gen.G,Completed,Upper Final,Playoffs
+"Fri, June 7, 2024",348474,2:55 PM,100 Thieves,0,Team Heretics,2,0-2,Team Heretics,Completed,Lower Round 3,Playoffs
+"Sat, June 8, 2024",348475,12:30 PM,G2 Esports,0,Team Heretics,3,0-3,Team Heretics,Completed,Lower Final,Playoffs
+"Sun, June 9, 2024",359463,12:30 PM,Team International,11,Team China,13,11-13,Team China,Completed,Showmatch,
+"Sun, June 9, 2024",348476,1:45 PM,Gen.G,3,Team Heretics,2,3-2,Gen.G,Completed,Grand Final,Playoffs

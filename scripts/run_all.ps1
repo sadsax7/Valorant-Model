@@ -43,16 +43,17 @@ python -m mvp_model.train_mvp --csv-path $CsvPath --model-out $ModelPath --metri
 Assert-LastExit "train_mvp"
 
 Write-Host "[4/5] Exportando bloque de test a CSV" -ForegroundColor Cyan
+# Por defecto usamos TODO el test, a menos que el usuario pase -LastN explícitamente
+$UseAllTest = $true
+if ($PSBoundParameters.ContainsKey('LastN')) { $UseAllTest = $false }
+if ($PSBoundParameters.ContainsKey('AllTest')) { $UseAllTest = [bool]$AllTest }
+
 $tailArgs = @('--csv-path', $CsvPath, '--model', $ModelPath, '--out', $TailCsv, '--threshold', "$Threshold")
 if ($UseAllTest) { $tailArgs += '--all-test' } else { $tailArgs += @('--last-n', "$LastN") }
 python -m mvp_model.print_test_tail @tailArgs
 Assert-LastExit "print_test_tail"
 
 Write-Host "[5/5] Generando gráficas" -ForegroundColor Cyan
-# Por defecto usamos TODO el test, a menos que el usuario pase -LastN explícitamente
-$UseAllTest = $true
-if ($PSBoundParameters.ContainsKey('LastN')) { $UseAllTest = $false }
-if ($PSBoundParameters.ContainsKey('AllTest')) { $UseAllTest = [bool]$AllTest }
 
 $plotArgs = @('--csv-path', $CsvPath, '--model', $ModelPath, '--out-dir', $PlotsDir, '--test-size', '0.2')
 if ($UseAllTest) { $plotArgs += '--all-test' } else { $plotArgs += @('--last-n', "$LastN") }

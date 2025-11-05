@@ -1,0 +1,1261 @@
+match_id,event_name,event_stage,match_date,team1,team2,score_overall,player_name,player_id,player_team,stat_type,agent,rating,acs,k,d,a,kd_diff,kast,adr,hs_percent,fk,fd,fk_fd_diff,map_name,map_winner
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,N4RRATE,36245,Karmine Corp,overall,"Gekko, Fade",1.62,300,47,28,20,+19,73%,206,34%,6,5,+1,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,MAGNUM,2173,Karmine Corp,overall,Killjoy,1.19,225,35,28,8,+7,73%,160,24%,1,5,-4,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,sh1n,2625,Karmine Corp,overall,"Sage, Omen",1.07,208,36,31,12,+5,80%,133,41%,3,3,0,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,marteen,10307,Karmine Corp,overall,"Jett, Raze",0.95,203,29,32,9,-3,77%,132,19%,4,9,-5,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,tomaszy,19691,Karmine Corp,overall,Viper,0.85,147,23,30,12,-7,64%,109,42%,3,5,-2,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,overall,"Reyna, Chamber",1.24,250,41,31,5,+10,73%,169,37%,6,5,+1,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,overall,Gekko,0.94,198,30,35,17,-5,73%,137,37%,1,1,0,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,overall,"Jett, Raze",0.85,214,30,38,9,-8,70%,140,19%,9,1,+8,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,overall,Omen,0.76,168,25,34,19,-9,68%,107,30%,7,6,+1,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Lysoar,37489,FunPlus Phoenix,overall,Viper,0.68,156,23,32,5,-9,61%,115,32%,4,4,0,,
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,N4RRATE,36245,Karmine Corp,map,Gekko,1.47,281,20,14,9,+6,67%,212,32%,1,5,-4,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,marteen,10307,Karmine Corp,map,Jett,1.34,266,20,14,4,+6,86%,160,29%,3,3,0,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,MAGNUM,2173,Karmine Corp,map,Killjoy,1.17,231,18,14,2,+4,71%,165,29%,0,2,-2,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,sh1n,2625,Karmine Corp,map,Sage,0.98,182,15,15,7,0,86%,116,38%,2,1,+1,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.64,117,8,15,3,-7,57%,94,44%,1,3,-2,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,map,Reyna,1.55,318,25,15,3,+10,86%,217,48%,5,3,+2,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Gekko,0.97,196,15,16,9,-1,81%,132,42%,0,0,0,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,map,Jett,0.72,186,12,18,2,-6,71%,120,24%,4,1,+3,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Omen,0.69,165,11,17,8,-6,52%,111,27%,3,3,0,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Viper,0.56,138,9,15,2,-6,57%,100,24%,2,0,+2,Icebox,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,N4RRATE,36245,Karmine Corp,map,Fade,1.75,319,27,14,11,+13,78%,201,35%,5,0,+5,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,MAGNUM,2173,Karmine Corp,map,Killjoy,1.20,219,17,14,6,+3,74%,155,19%,1,3,-2,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,sh1n,2625,Karmine Corp,map,Omen,1.15,234,21,16,5,+5,74%,149,43%,1,2,-1,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,1.04,176,15,15,9,0,70%,122,40%,2,2,0,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,marteen,10307,Karmine Corp,map,Raze,0.59,140,9,18,5,-9,70%,106,10%,1,6,-5,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Life,3028,FunPlus Phoenix,map,Chamber,0.96,182,16,16,2,0,61%,126,22%,1,2,-1,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Autumn,872,FunPlus Phoenix,map,Raze,0.96,241,18,20,7,-2,70%,159,17%,5,0,+5,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,AAAAY,19530,FunPlus Phoenix,map,Gekko,0.91,200,15,19,8,-4,65%,140,33%,1,1,0,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,BerLIN,7857,FunPlus Phoenix,map,Omen,0.82,171,14,17,11,-3,83%,103,32%,4,3,+1,Lotus,Karmine Corp
+312765,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,2 - 0,Lysoar,37489,FunPlus Phoenix,map,Viper,0.80,173,14,17,3,-3,65%,130,38%,2,4,-2,Lotus,Karmine Corp
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,t3xture,9196,Gen.G,overall,Jett,1.21,247,56,44,13,+12,68%,158,23%,11,5,+6,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Karon,34974,Gen.G,overall,"Viper, Astra, Omen",1.20,216,48,40,14,+8,71%,151,32%,7,5,+2,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Munchkin,2489,Gen.G,overall,"Kayo, Viper",1.09,189,44,43,26,+1,63%,118,25%,7,5,+2,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Meteor,13039,Gen.G,overall,"Killjoy, Yoru",0.87,209,42,49,13,-7,65%,137,24%,5,7,-2,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Lakia,773,Gen.G,overall,"Gekko, Sova",0.52,104,22,48,16,-26,59%,73,25%,4,6,-2,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Less,8447,LOUD,overall,"Viper, Cypher",1.35,243,57,38,16,+19,83%,175,31%,7,4,+3,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,tuyz,2408,LOUD,overall,"Harbor, Viper, Omen",1.24,205,49,37,20,+12,70%,132,35%,3,2,+1,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,saadhak,727,LOUD,overall,"Killjoy, Kayo",0.90,178,36,43,27,-7,75%,126,15%,5,10,-5,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Quick,1575,LOUD,overall,"Jett, Yoru",0.88,209,46,48,5,-2,59%,134,34%,10,12,-2,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,cauanzin,6193,LOUD,overall,"Sova, Breach",0.75,156,36,47,18,-11,76%,108,24%,4,7,-3,,
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,t3xture,9196,Gen.G,map,Jett,1.35,241,20,15,5,+5,63%,162,25%,4,1,+3,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Karon,34974,Gen.G,map,Viper,1.14,212,19,17,3,+2,67%,148,25%,3,1,+2,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Munchkin,2489,Gen.G,map,Kayo,1.12,209,17,18,15,-1,71%,146,37%,4,3,+1,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Meteor,13039,Gen.G,map,Killjoy,0.75,178,14,19,4,-5,54%,125,23%,1,0,+1,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Lakia,773,Gen.G,map,Gekko,0.54,117,10,19,6,-9,58%,78,20%,2,4,-2,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Less,8447,LOUD,map,Viper,1.66,326,27,14,8,+13,83%,226,42%,1,3,-2,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,saadhak,727,LOUD,map,Killjoy,1.09,240,18,17,8,+1,71%,163,10%,2,4,-2,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,tuyz,2408,LOUD,map,Harbor,0.88,126,12,14,5,-2,67%,95,22%,0,1,-1,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,cauanzin,6193,LOUD,map,Sova,0.77,177,17,19,4,-2,79%,115,26%,4,1,+3,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Quick,1575,LOUD,map,Jett,0.73,165,14,17,1,-3,58%,110,46%,3,6,-3,Icebox,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Munchkin,2489,Gen.G,map,Viper,1.11,192,16,15,3,+1,57%,101,23%,2,2,0,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,t3xture,9196,Gen.G,map,Jett,1.09,283,21,18,3,+3,67%,170,18%,5,3,+2,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Karon,34974,Gen.G,map,Astra,0.75,142,9,16,8,-7,67%,106,31%,0,3,-3,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Lakia,773,Gen.G,map,Sova,0.55,92,7,16,3,-9,48%,63,70%,1,1,0,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Meteor,13039,Gen.G,map,Yoru,0.54,155,9,18,7,-9,62%,115,32%,1,3,-2,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,tuyz,2408,LOUD,map,Viper,1.82,292,22,10,12,+12,76%,188,49%,1,0,+1,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Less,8447,LOUD,map,Cypher,1.22,225,19,12,4,+7,86%,152,22%,3,0,+3,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Quick,1575,LOUD,map,Jett,1.07,229,18,15,2,+3,62%,159,38%,6,4,+2,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,saadhak,727,LOUD,map,Kayo,0.99,151,10,11,12,-1,86%,109,20%,2,2,0,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,cauanzin,6193,LOUD,map,Sova,0.93,191,14,14,6,0,76%,137,22%,0,3,-3,Breeze,LOUD
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Karon,34974,Gen.G,map,Omen,1.82,293,20,7,3,+13,83%,206,42%,4,1,+3,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Meteor,13039,Gen.G,map,Killjoy,1.42,293,19,12,2,+7,83%,179,21%,3,4,-1,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,t3xture,9196,Gen.G,map,Jett,1.16,216,15,11,5,+4,78%,137,25%,2,1,+1,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Munchkin,2489,Gen.G,map,Kayo,1.01,165,11,10,8,+1,61%,101,14%,1,0,+1,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Lakia,773,Gen.G,map,Sova,0.45,104,5,13,7,-8,72%,77,16%,1,1,0,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Less,8447,LOUD,map,Viper,1.07,178,11,12,4,-1,78%,134,26%,3,1,+2,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,tuyz,2408,LOUD,map,Omen,1.05,198,15,13,3,+2,67%,117,32%,2,1,+1,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,Quick,1575,LOUD,map,Yoru,0.86,233,14,16,2,-2,56%,136,24%,1,2,-1,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,saadhak,727,LOUD,map,Kayo,0.54,144,8,15,7,-7,67%,97,19%,1,4,-3,Ascent,Gen.G
+312766,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-14 13:25:00,Gen.G,LOUD,2 - 1,cauanzin,6193,LOUD,map,Breach,0.50,101,5,14,8,-9,72%,65,25%,0,3,-3,Ascent,Gen.G
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Smoggy,4742,EDward Gaming,overall,"Kayo, Raze, Breach",1.15,215,53,44,20,+9,75%,148,32%,9,4,+5,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,CHICHOO,15559,EDward Gaming,overall,"Cypher, Brimstone, Viper",1.13,205,49,45,20,+4,77%,139,30%,8,2,+6,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Haodong,4720,EDward Gaming,overall,"Omen, Cypher",1.08,175,42,41,16,+1,72%,117,26%,4,5,-1,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,ZmjjKK,3520,EDward Gaming,overall,"Raze, Kayo",1.05,256,55,51,26,+4,72%,168,21%,13,4,+9,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,nobody,3017,EDward Gaming,overall,"Sova, Skye",0.95,173,37,42,20,-5,66%,120,34%,6,9,-3,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,f0rsakeN,9801,Paper Rex,overall,"Kayo, Harbor, Yoru",1.19,252,56,46,26,+10,69%,151,32%,8,5,+3,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,mindfreak,9800,Paper Rex,overall,"Viper, Brimstone, Omen",0.98,197,48,45,11,+3,72%,130,41%,2,9,-7,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,d4v41,9803,Paper Rex,overall,"Sage, Fade, Viper",0.87,182,41,48,21,-7,68%,128,33%,4,5,-1,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,something,17086,Paper Rex,overall,"Gekko, Reyna, Jett",0.86,175,38,46,12,-8,66%,116,24%,6,10,-4,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Monyet,8497,Paper Rex,overall,"Omen, Raze",0.73,175,39,52,16,-13,68%,110,23%,5,12,-7,,
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Smoggy,4742,EDward Gaming,map,Kayo,1.21,202,16,14,9,+2,71%,149,30%,1,1,0,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,nobody,3017,EDward Gaming,map,Sova,1.03,202,15,16,4,-1,62%,130,38%,2,5,-3,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Haodong,4720,EDward Gaming,map,Omen,0.99,177,13,15,6,-2,67%,110,29%,1,2,-1,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,CHICHOO,15559,EDward Gaming,map,Cypher,0.90,164,13,16,4,-3,71%,106,26%,2,1,+1,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,ZmjjKK,3520,EDward Gaming,map,Raze,0.48,160,10,20,5,-10,57%,111,14%,3,3,0,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,d4v41,9803,Paper Rex,map,Sage,1.20,215,17,12,9,+5,90%,142,39%,3,1,+2,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,something,17086,Paper Rex,map,Gekko,1.20,195,15,10,8,+5,86%,115,21%,3,0,+3,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,mindfreak,9800,Paper Rex,map,Viper,1.16,281,21,16,3,+5,81%,185,42%,1,3,-2,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Monyet,8497,Paper Rex,map,Omen,1.14,226,17,14,11,+3,86%,133,31%,1,2,-1,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,f0rsakeN,9801,Paper Rex,map,Kayo,0.78,162,11,15,16,-4,81%,103,28%,4,3,+1,Sunset,Paper Rex
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,CHICHOO,15559,EDward Gaming,map,Brimstone,1.57,271,23,14,9,+9,82%,186,28%,1,1,0,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Haodong,4720,EDward Gaming,map,Cypher,1.43,237,19,14,6,+5,73%,162,28%,3,2,+1,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,ZmjjKK,3520,EDward Gaming,map,Kayo,1.12,221,15,15,16,0,77%,144,25%,3,0,+3,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Smoggy,4742,EDward Gaming,map,Raze,1.00,217,19,17,3,+2,77%,142,26%,6,3,+3,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,nobody,3017,EDward Gaming,map,Sova,0.38,73,2,15,8,-13,59%,61,21%,0,2,-2,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,f0rsakeN,9801,Paper Rex,map,Harbor,1.18,261,20,15,7,+5,68%,160,28%,3,2,+1,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,something,17086,Paper Rex,map,Reyna,1.08,212,17,16,1,+1,68%,137,35%,2,4,-2,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,d4v41,9803,Paper Rex,map,Fade,0.92,196,15,16,7,-1,68%,145,40%,0,1,-1,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,mindfreak,9800,Paper Rex,map,Brimstone,0.73,131,10,14,3,-4,68%,87,56%,1,3,-2,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Monyet,8497,Paper Rex,map,Raze,0.55,158,12,18,1,-6,64%,99,16%,3,4,-1,Bind,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,ZmjjKK,3520,EDward Gaming,map,Raze,1.53,387,30,16,5,+14,82%,245,21%,7,1,+6,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,nobody,3017,EDward Gaming,map,Skye,1.45,245,20,11,8,+9,77%,170,36%,4,2,+2,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Smoggy,4742,EDward Gaming,map,Breach,1.24,227,18,13,8,+5,77%,152,40%,2,0,+2,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,CHICHOO,15559,EDward Gaming,map,Viper,0.90,180,13,15,7,-2,77%,124,41%,5,0,+5,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Haodong,4720,EDward Gaming,map,Omen,0.81,110,10,12,4,-2,77%,80,21%,0,1,-1,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,f0rsakeN,9801,Paper Rex,map,Yoru,1.60,333,25,16,3,+9,59%,188,36%,1,0,+1,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,mindfreak,9800,Paper Rex,map,Omen,1.07,180,17,15,5,+2,68%,121,33%,0,3,-3,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,d4v41,9803,Paper Rex,map,Viper,0.52,135,9,20,5,-11,45%,98,19%,1,3,-2,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,Monyet,8497,Paper Rex,map,Raze,0.52,142,10,20,4,-10,55%,99,23%,1,6,-5,Split,EDward Gaming
+312767,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 11:00:00,EDward Gaming,Paper Rex,2 - 1,something,17086,Paper Rex,map,Jett,0.32,119,6,20,3,-14,45%,95,15%,1,6,-5,Split,EDward Gaming
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,zekken,4004,Sentinels,overall,Raze,1.25,290,64,50,13,+14,75%,186,22%,17,11,+6,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Zellsis,729,Sentinels,overall,"Killjoy, Kayo, Brimstone",1.05,184,44,43,24,+1,70%,124,18%,4,5,-1,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,TenZ,9,Sentinels,overall,"Omen, Gekko",0.98,194,49,50,28,-1,73%,123,25%,6,5,+1,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,johnqt,1265,Sentinels,overall,"Viper, Cypher",0.92,169,32,43,19,-11,66%,124,19%,2,5,-3,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Sacy,659,Sentinels,overall,"Fade, Gekko, Skye",0.87,171,35,48,27,-13,69%,114,28%,1,8,-7,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,MiniBoo,18350,Team Heretics,overall,"Neon, Yoru",1.24,270,65,46,17,+19,78%,168,29%,11,7,+4,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,RieNs,10971,Team Heretics,overall,"Gekko, Sova",1.22,243,52,44,23,+8,81%,163,33%,7,3,+4,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,paTiTek,309,Team Heretics,overall,"Viper, Kayo",0.97,182,39,43,34,-4,77%,117,15%,7,5,+2,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,benjyfishy,29873,Team Heretics,overall,"Killjoy, Cypher, Viper",0.85,176,39,45,20,-6,75%,106,22%,5,9,-4,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Boo,1144,Team Heretics,overall,"Omen, Astra",0.80,155,37,46,26,-9,73%,95,33%,4,6,-2,,
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Zellsis,729,Sentinels,map,Killjoy,1.19,211,17,12,4,+5,73%,138,16%,2,2,0,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,TenZ,9,Sentinels,map,Omen,1.16,240,20,17,16,+3,73%,140,36%,2,1,+1,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Sacy,659,Sentinels,map,Fade,1.13,211,17,16,10,+1,82%,159,28%,0,2,-2,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,zekken,4004,Sentinels,map,Raze,1.12,264,20,18,6,+2,77%,155,18%,7,4,+3,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,johnqt,1265,Sentinels,map,Viper,1.11,203,12,13,11,-1,73%,147,18%,1,1,0,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,MiniBoo,18350,Team Heretics,map,Neon,1.46,319,25,18,7,+7,82%,208,29%,4,2,+2,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Boo,1144,Team Heretics,map,Omen,0.86,188,15,18,8,-3,73%,116,31%,1,2,-1,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,benjyfishy,29873,Team Heretics,map,Killjoy,0.77,150,12,16,5,-4,64%,99,31%,1,4,-3,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,RieNs,10971,Team Heretics,map,Gekko,0.69,150,11,17,5,-6,77%,101,28%,3,1,+2,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,paTiTek,309,Team Heretics,map,Viper,0.69,168,13,17,6,-4,68%,106,6%,1,3,-2,Lotus,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,zekken,4004,Sentinels,map,Raze,1.18,276,17,14,2,+3,67%,185,20%,4,3,+1,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Sacy,659,Sentinels,map,Gekko,0.85,195,10,16,7,-6,61%,118,24%,1,3,-2,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,johnqt,1265,Sentinels,map,Cypher,0.65,176,10,17,4,-7,50%,130,23%,0,2,-2,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,TenZ,9,Sentinels,map,Omen,0.55,118,8,16,4,-8,67%,78,19%,0,3,-3,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Zellsis,729,Sentinels,map,Kayo,0.47,91,6,16,8,-10,61%,54,14%,0,2,-2,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,RieNs,10971,Team Heretics,map,Sova,1.75,320,21,11,9,+10,100%,229,43%,2,0,+2,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,MiniBoo,18350,Team Heretics,map,Neon,1.45,271,20,10,6,+10,78%,165,23%,2,2,0,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,paTiTek,309,Team Heretics,map,Kayo,1.23,200,12,9,12,+3,89%,137,19%,5,1,+4,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,benjyfishy,29873,Team Heretics,map,Cypher,1.22,231,15,10,5,+5,94%,145,15%,2,0,+2,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Boo,1144,Team Heretics,map,Omen,0.67,140,10,11,10,-1,83%,75,37%,2,2,0,Sunset,Team Heretics
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,zekken,4004,Sentinels,map,Raze,1.42,329,27,18,5,+9,79%,214,28%,6,4,+2,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Zellsis,729,Sentinels,map,Brimstone,1.34,251,21,15,12,+6,75%,163,22%,2,1,+1,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,TenZ,9,Sentinels,map,Gekko,1.13,225,21,17,8,+4,79%,141,19%,4,1,+3,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,johnqt,1265,Sentinels,map,Viper,0.94,127,10,13,4,-3,71%,99,18%,1,2,-1,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Sacy,659,Sentinels,map,Skye,0.65,107,8,16,10,-8,63%,69,31%,0,3,-3,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,RieNs,10971,Team Heretics,map,Sova,1.30,259,20,16,9,+4,71%,169,27%,2,2,0,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,paTiTek,309,Team Heretics,map,Kayo,1.04,178,14,17,16,-3,75%,112,20%,1,1,0,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,MiniBoo,18350,Team Heretics,map,Yoru,0.87,221,20,18,4,+2,75%,133,36%,5,3,+2,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,Boo,1144,Team Heretics,map,Astra,0.84,138,12,17,8,-5,67%,91,33%,1,2,-1,Bind,Sentinels
+312768,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 1",2024-03-15 14:15:00,Sentinels,Team Heretics,2 - 1,benjyfishy,29873,Team Heretics,map,Viper,0.63,148,12,19,10,-7,71%,84,21%,2,5,-3,Bind,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,TenZ,9,Sentinels,overall,Omen,1.47,260,42,21,28,+21,84%,159,20%,5,4,+1,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,johnqt,1265,Sentinels,overall,"Cypher, Viper",1.30,216,33,21,14,+12,91%,141,20%,6,1,+5,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,zekken,4004,Sentinels,overall,Raze,1.14,254,41,30,7,+11,73%,156,20%,8,8,0,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Zellsis,729,Sentinels,overall,"Viper, Killjoy",0.89,182,29,28,9,+1,76%,118,18%,2,5,-3,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Sacy,659,Sentinels,overall,"Skye, Fade",0.82,115,16,23,32,-7,78%,75,20%,1,5,-4,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,overall,"Astra, Omen",1.02,170,26,27,15,-1,84%,102,21%,1,1,0,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,overall,"Raze, Fade",0.98,198,30,31,13,-1,62%,137,24%,4,5,-1,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,overall,"Yoru, Raze",0.87,172,27,33,5,-6,58%,107,28%,10,9,+1,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,overall,"Fade, Killjoy",0.79,158,24,35,11,-11,64%,110,25%,5,3,+2,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,overall,"Omen, Viper",0.57,116,16,35,13,-19,60%,73,15%,3,4,-1,,
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,zekken,4004,Sentinels,map,Raze,1.60,333,26,12,3,+14,81%,209,20%,6,3,+3,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,TenZ,9,Sentinels,map,Omen,1.57,268,20,9,15,+11,90%,170,26%,1,1,0,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,johnqt,1265,Sentinels,map,Cypher,1.12,165,12,9,5,+3,90%,103,19%,2,0,+2,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Sacy,659,Sentinels,map,Skye,0.88,117,7,9,17,-2,81%,63,21%,1,3,-2,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Zellsis,729,Sentinels,map,Viper,0.87,170,13,14,5,-1,71%,109,24%,1,3,-2,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,map,Astra,1.14,179,14,11,4,+3,86%,102,20%,0,0,0,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,map,Yoru,1.01,175,13,14,3,-1,57%,110,39%,5,3,+2,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,map,Raze,0.79,206,14,18,4,-4,62%,139,14%,3,5,-2,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,map,Fade,0.47,100,6,18,8,-12,67%,67,15%,1,2,-1,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,map,Omen,0.41,93,6,17,5,-11,57%,60,13%,1,1,0,Split,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,johnqt,1265,Sentinels,map,Viper,1.45,266,21,12,9,+9,92%,174,20%,4,1,+3,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,TenZ,9,Sentinels,map,Omen,1.39,251,22,12,13,+10,79%,149,15%,4,3,+1,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Zellsis,729,Sentinels,map,Killjoy,0.92,194,16,14,4,+2,79%,125,15%,1,2,-1,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,Sacy,659,Sentinels,map,Fade,0.76,112,9,14,15,-5,75%,86,19%,0,2,-2,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,zekken,4004,Sentinels,map,Raze,0.74,174,15,18,4,-3,67%,109,19%,2,5,-3,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,N4RRATE,36245,Karmine Corp,map,Fade,1.14,190,16,13,9,+3,63%,135,41%,1,0,+1,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,MAGNUM,2173,Karmine Corp,map,Killjoy,1.08,215,18,17,3,+1,63%,148,32%,4,1,+3,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,sh1n,2625,Karmine Corp,map,Omen,0.93,161,12,16,11,-4,83%,102,23%,1,1,0,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,marteen,10307,Karmine Corp,map,Raze,0.75,168,14,19,2,-5,58%,104,21%,5,6,-1,Lotus,Sentinels
+312798,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 11:00:00,Sentinels,Karmine Corp,2 - 0,tomaszy,19691,Karmine Corp,map,Viper,0.71,138,10,18,8,-8,63%,84,17%,2,3,-1,Lotus,Sentinels
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,ZmjjKK,3520,EDward Gaming,overall,"Jett, Raze",1.38,312,63,45,13,+18,79%,194,32%,12,8,+4,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,nobody,3017,EDward Gaming,overall,"Sova, Skye",0.90,181,39,43,16,-4,72%,129,29%,3,11,-8,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Smoggy,4742,EDward Gaming,overall,"Kayo, Breach",0.87,161,34,43,27,-9,79%,103,27%,3,1,+2,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,CHICHOO,15559,EDward Gaming,overall,"Killjoy, Viper, Cypher",0.76,150,30,44,11,-14,60%,109,28%,2,5,-3,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Haodong,4720,EDward Gaming,overall,"Viper, Omen",0.75,163,32,45,15,-13,74%,115,25%,6,7,-1,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Meteor,13039,Gen.G,overall,"Killjoy, Jett, Yoru",1.29,268,58,39,8,+19,81%,174,39%,9,7,+2,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Karon,34974,Gen.G,overall,"Viper, Omen, Astra",1.12,230,48,43,19,+5,74%,161,33%,4,3,+1,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Munchkin,2489,Gen.G,overall,"Kayo, Viper",1.02,182,34,34,27,0,81%,121,18%,4,4,0,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,t3xture,9196,Gen.G,overall,"Jett, Raze",0.98,221,49,45,3,+4,66%,131,31%,11,8,+3,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Lakia,773,Gen.G,overall,"Gekko, Skye, Sova",0.87,160,31,37,12,-6,72%,103,30%,4,4,0,,
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,1.51,320,25,15,5,+10,90%,206,24%,6,2,+4,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,nobody,3017,EDward Gaming,map,Sova,1.28,240,20,12,5,+8,86%,168,29%,1,3,-2,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,CHICHOO,15559,EDward Gaming,map,Killjoy,1.13,220,16,13,5,+3,81%,156,34%,2,3,-1,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Smoggy,4742,EDward Gaming,map,Kayo,1.13,167,14,12,15,+2,86%,106,26%,1,0,+1,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Haodong,4720,EDward Gaming,map,Viper,0.95,188,13,14,8,-1,81%,139,21%,2,1,+1,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Karon,34974,Gen.G,map,Viper,1.20,251,19,18,5,+1,76%,184,36%,1,1,0,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Killjoy,1.05,243,18,17,1,+1,67%,162,43%,1,4,-3,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Kayo,0.90,206,13,18,10,-5,76%,142,20%,3,2,+1,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Jett,0.81,162,13,17,2,-4,62%,101,29%,3,2,+1,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Lakia,773,Gen.G,map,Gekko,0.11,56,3,18,1,-15,48%,41,27%,1,3,-2,Icebox,EDward Gaming
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,ZmjjKK,3520,EDward Gaming,map,Raze,1.78,401,22,15,6,+7,83%,251,36%,2,2,0,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Smoggy,4742,EDward Gaming,map,Breach,0.69,149,10,15,6,-5,78%,92,26%,1,0,+1,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Haodong,4720,EDward Gaming,map,Omen,0.51,163,10,16,3,-6,78%,99,30%,2,4,-2,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,nobody,3017,EDward Gaming,map,Skye,0.50,133,8,16,8,-8,56%,98,19%,1,5,-4,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,CHICHOO,15559,EDward Gaming,map,Viper,0.44,103,6,16,4,-10,44%,72,13%,0,1,-1,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Jett,1.50,315,22,11,2,+11,94%,183,38%,6,2,+4,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Raze,1.46,317,22,13,1,+9,72%,180,30%,6,3,+3,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Lakia,773,Gen.G,map,Skye,1.23,195,12,9,8,+3,94%,139,26%,0,1,-1,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.00,171,9,10,9,-1,78%,112,14%,0,0,0,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Karon,34974,Gen.G,map,Omen,0.90,189,13,13,8,0,72%,124,30%,0,0,0,Split,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,ZmjjKK,3520,EDward Gaming,map,Jett,0.86,214,16,15,2,+1,63%,128,36%,4,4,0,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,nobody,3017,EDward Gaming,map,Sova,0.86,170,11,15,3,-4,74%,117,46%,1,3,-2,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Haodong,4720,EDward Gaming,map,Viper,0.76,138,9,15,4,-6,63%,105,28%,2,2,0,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Smoggy,4742,EDward Gaming,map,Kayo,0.76,166,10,16,6,-6,74%,111,30%,1,1,0,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,CHICHOO,15559,EDward Gaming,map,Cypher,0.66,128,8,15,2,-7,53%,91,31%,0,1,-1,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Lakia,773,Gen.G,map,Sova,1.36,228,16,10,3,+6,79%,136,35%,3,0,+3,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Meteor,13039,Gen.G,map,Yoru,1.35,246,18,11,5,+7,84%,180,38%,2,1,+1,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Karon,34974,Gen.G,map,Astra,1.23,250,16,12,6,+4,74%,171,33%,3,2,+1,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,Munchkin,2489,Gen.G,map,Viper,1.19,168,12,6,8,+6,89%,106,19%,1,2,-1,Breeze,Gen.G
+312797,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-16 13:25:00,EDward Gaming,Gen.G,1 - 2,t3xture,9196,Gen.G,map,Jett,0.70,184,14,15,0,-1,63%,120,34%,2,3,-1,Breeze,Gen.G
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Autumn,872,FunPlus Phoenix,overall,"Phoenix, Yoru",1.21,250,38,33,7,+5,67%,170,38%,10,6,+4,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Lysoar,37489,FunPlus Phoenix,overall,Viper,0.91,150,21,29,12,-8,52%,106,28%,1,0,+1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Life,3028,FunPlus Phoenix,overall,"Chamber, Jett",0.73,212,30,37,5,-7,55%,145,41%,7,8,-1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,BerLIN,7857,FunPlus Phoenix,overall,"Harbor, Astra",0.69,132,21,32,8,-11,62%,91,43%,4,5,-1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,AAAAY,19530,FunPlus Phoenix,overall,Sova,0.47,124,18,35,6,-17,60%,87,23%,0,1,-1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Less,8447,LOUD,overall,"Viper, Cypher",1.41,231,36,22,14,+14,86%,162,21%,3,2,+1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,saadhak,727,LOUD,overall,"Sova, Kayo",1.37,259,37,24,19,+13,81%,153,14%,4,2,+2,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,tuyz,2408,LOUD,overall,"Omen, Viper",1.20,187,29,23,20,+6,83%,131,27%,2,3,-1,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,cauanzin,6193,LOUD,overall,"Breach, Sova",1.15,229,36,27,13,+9,74%,149,24%,3,5,-2,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Quick,1575,LOUD,overall,"Phoenix, Jett",0.77,197,28,32,4,-4,60%,115,33%,8,10,-2,,
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Autumn,872,FunPlus Phoenix,map,Phoenix,0.91,202,13,15,3,-2,67%,143,40%,3,4,-1,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Life,3028,FunPlus Phoenix,map,Chamber,0.68,209,14,16,1,-2,61%,133,50%,3,4,-1,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,BerLIN,7857,FunPlus Phoenix,map,Harbor,0.62,130,8,15,1,-7,56%,85,45%,2,2,0,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Lysoar,37489,FunPlus Phoenix,map,Viper,0.57,122,6,15,5,-9,39%,78,30%,0,0,0,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,AAAAY,19530,FunPlus Phoenix,map,Sova,0.40,122,7,16,1,-9,44%,84,37%,0,0,0,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,saadhak,727,LOUD,map,Sova,1.67,288,18,7,7,+11,83%,181,11%,1,1,0,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,tuyz,2408,LOUD,map,Omen,1.38,188,13,8,7,+5,83%,131,26%,2,1,+1,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Less,8447,LOUD,map,Viper,1.24,207,12,9,7,+3,83%,160,13%,2,2,0,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,cauanzin,6193,LOUD,map,Breach,1.24,244,17,12,8,+5,72%,162,26%,1,3,-2,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Quick,1575,LOUD,map,Phoenix,1.12,247,17,12,1,+5,72%,140,44%,4,1,+3,Sunset,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Autumn,872,FunPlus Phoenix,map,Yoru,1.44,298,25,18,4,+7,67%,190,37%,7,2,+5,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Lysoar,37489,FunPlus Phoenix,map,Viper,1.16,178,15,14,7,+1,63%,127,26%,1,0,+1,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Life,3028,FunPlus Phoenix,map,Jett,0.77,214,16,21,4,-5,50%,154,38%,4,4,0,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,BerLIN,7857,FunPlus Phoenix,map,Astra,0.74,134,13,17,7,-4,67%,95,42%,2,3,-1,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,AAAAY,19530,FunPlus Phoenix,map,Sova,0.52,126,11,19,5,-8,71%,88,16%,0,1,-1,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Less,8447,LOUD,map,Cypher,1.53,255,24,13,7,+11,88%,164,27%,1,0,+1,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,saadhak,727,LOUD,map,Kayo,1.14,230,19,17,12,+2,79%,131,18%,3,1,+2,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,cauanzin,6193,LOUD,map,Sova,1.09,214,19,15,5,+4,75%,139,23%,2,2,0,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,tuyz,2408,LOUD,map,Viper,1.06,186,16,15,13,+1,83%,130,28%,0,2,-2,Breeze,LOUD
+312800,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 11:00:00,FunPlus Phoenix,LOUD,0 - 2,Quick,1575,LOUD,map,Jett,0.51,146,11,20,3,-9,50%,96,24%,4,9,-5,Breeze,LOUD
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,benjyfishy,29873,Team Heretics,overall,"Cypher, Killjoy",1.27,257,62,45,10,+17,70%,173,35%,9,3,+6,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,RieNs,10971,Team Heretics,overall,"Sova, Gekko, Breach",1.13,218,51,46,21,+5,74%,152,41%,7,4,+3,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,MiniBoo,18350,Team Heretics,overall,"Neon, Raze",1.11,220,49,46,20,+3,76%,140,34%,11,11,0,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Boo,1144,Team Heretics,overall,Omen,0.94,169,42,45,21,-3,64%,114,32%,1,10,-9,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,paTiTek,309,Team Heretics,overall,"Kayo, Viper",0.56,118,22,51,29,-29,65%,84,17%,5,5,0,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,something,17086,Paper Rex,overall,"Gekko, Jett",1.33,267,61,40,13,+21,82%,167,27%,14,4,+10,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,overall,"Kayo, Cypher, Raze",1.09,230,52,48,23,+4,64%,140,27%,9,10,-1,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,d4v41,9803,Paper Rex,overall,"Sage, Skye",0.96,169,40,44,29,-4,76%,111,25%,2,2,0,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Monyet,8497,Paper Rex,overall,"Omen, Raze",0.94,188,44,50,32,-6,71%,123,26%,6,9,-3,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,overall,"Viper, Omen",0.78,145,36,44,12,-8,67%,99,37%,2,8,-6,,
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,RieNs,10971,Team Heretics,map,Sova,1.25,273,22,18,11,+4,87%,193,50%,1,1,0,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,MiniBoo,18350,Team Heretics,map,Neon,1.11,270,20,18,7,+2,83%,163,38%,5,5,0,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,benjyfishy,29873,Team Heretics,map,Cypher,1.02,201,17,17,5,0,65%,146,35%,4,2,+2,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Boo,1144,Team Heretics,map,Omen,0.98,155,15,15,6,0,65%,112,26%,0,3,-3,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,paTiTek,309,Team Heretics,map,Kayo,0.52,122,8,20,15,-12,70%,92,23%,1,1,0,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,something,17086,Paper Rex,map,Gekko,1.25,231,19,14,7,+5,87%,156,20%,3,1,+2,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Kayo,1.12,225,20,17,7,+3,65%,135,23%,3,2,+1,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Omen,1.03,223,18,19,11,-1,78%,158,29%,3,4,-1,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Viper,1.01,196,17,15,3,+2,74%,126,38%,2,2,0,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Sage,0.86,174,14,17,4,-3,78%,117,22%,1,2,-1,Sunset,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,MiniBoo,18350,Team Heretics,map,Neon,1.61,290,23,14,10,+9,87%,183,36%,4,3,+1,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,benjyfishy,29873,Team Heretics,map,Killjoy,1.45,269,24,13,2,+11,83%,178,36%,2,0,+2,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,RieNs,10971,Team Heretics,map,Gekko,1.23,209,18,13,4,+5,74%,139,44%,4,1,+3,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Boo,1144,Team Heretics,map,Omen,0.89,178,14,15,9,-1,61%,120,26%,0,4,-4,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,paTiTek,309,Team Heretics,map,Viper,0.73,132,9,15,7,-6,70%,81,11%,3,2,+1,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,something,17086,Paper Rex,map,Jett,1.45,298,24,14,2,+10,78%,185,33%,6,0,+6,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Skye,0.77,152,12,18,10,-6,74%,104,24%,1,0,+1,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Omen,0.68,146,12,18,7,-6,61%,104,40%,0,4,-4,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Cypher,0.68,144,10,19,9,-9,52%,92,18%,1,4,-3,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Raze,0.64,162,12,19,8,-7,52%,113,21%,2,5,-3,Lotus,Team Heretics
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,benjyfishy,29873,Team Heretics,map,Cypher,1.35,302,21,15,3,+6,60%,199,33%,3,1,+2,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Boo,1144,Team Heretics,map,Omen,0.95,175,13,15,6,-2,65%,108,54%,1,3,-2,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,RieNs,10971,Team Heretics,map,Breach,0.87,171,11,15,6,-4,60%,120,26%,2,2,0,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,MiniBoo,18350,Team Heretics,map,Raze,0.55,99,6,14,3,-8,55%,63,19%,2,3,-1,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,paTiTek,309,Team Heretics,map,Viper,0.41,99,5,16,7,-11,55%,77,18%,1,2,-1,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Raze,1.52,322,22,12,7,+10,75%,201,37%,5,4,+1,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Skye,1.31,181,14,9,15,+5,75%,114,30%,0,0,0,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,something,17086,Paper Rex,map,Jett,1.28,272,18,12,4,+6,80%,160,30%,5,3,+2,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Omen,1.17,180,14,12,13,+2,85%,96,29%,1,0,+1,Split,Paper Rex
+312799,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 2",2024-03-17 13:20:00,Team Heretics,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Viper,0.62,92,7,11,2,-4,65%,62,28%,0,2,-2,Split,Paper Rex
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Quick,1575,LOUD,overall,"Jett, Phoenix",1.52,315,38,19,3,+19,81%,215,38%,7,2,+5,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,cauanzin,6193,LOUD,overall,"Sova, Breach",1.41,276,32,19,14,+13,94%,186,26%,7,3,+4,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Less,8447,LOUD,overall,Viper,1.34,189,21,13,11,+8,87%,142,34%,4,1,+3,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,tuyz,2408,LOUD,overall,"Harbor, Omen",1.25,152,21,13,9,+8,77%,112,31%,1,1,0,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,saadhak,727,LOUD,overall,"Killjoy, Sova",1.20,194,23,15,8,+8,77%,129,24%,3,2,+1,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,overall,Kayo,1.03,214,23,24,9,-1,58%,133,27%,2,4,-2,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,overall,Sova,0.71,161,16,27,4,-11,55%,123,39%,2,5,-3,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,overall,"Killjoy, Cypher",0.62,143,14,26,5,-12,52%,99,26%,1,4,-3,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,overall,"Jett, Raze",0.54,157,17,29,0,-12,42%,100,26%,4,5,-1,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Haodong,4720,EDward Gaming,overall,"Viper, Omen",0.32,103,9,29,10,-20,52%,85,32%,0,4,-4,,
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Less,8447,LOUD,map,Viper,1.60,226,13,6,4,+7,93%,175,46%,1,0,+1,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,cauanzin,6193,LOUD,map,Sova,1.48,276,16,9,7,+7,93%,200,29%,3,2,+1,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,saadhak,727,LOUD,map,Killjoy,1.25,236,14,8,2,+6,73%,154,22%,2,2,0,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,tuyz,2408,LOUD,map,Harbor,1.12,131,8,6,6,+2,80%,110,40%,0,0,0,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Quick,1575,LOUD,map,Jett,0.95,249,14,12,0,+2,73%,156,27%,4,1,+3,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,map,Kayo,1.43,276,14,11,4,+3,53%,170,24%,2,1,+1,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,map,Sova,0.81,185,9,13,3,-4,67%,144,34%,1,2,-1,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,map,Killjoy,0.76,159,8,12,2,-4,60%,111,22%,1,1,0,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Haodong,4720,EDward Gaming,map,Viper,0.43,127,6,14,5,-8,60%,102,30%,0,3,-3,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,map,Jett,0.18,77,4,15,0,-11,27%,41,18%,1,3,-2,Icebox,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Quick,1575,LOUD,map,Phoenix,2.04,380,24,7,3,+17,88%,270,44%,3,1,+2,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,tuyz,2408,LOUD,map,Omen,1.38,172,13,7,3,+6,75%,114,24%,1,1,0,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,cauanzin,6193,LOUD,map,Breach,1.36,276,16,10,7,+6,94%,173,24%,4,1,+3,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,saadhak,727,LOUD,map,Sova,1.15,152,9,7,6,+2,81%,105,26%,1,0,+1,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Less,8447,LOUD,map,Viper,1.10,151,8,7,7,+1,81%,110,20%,3,1,+2,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,ZmjjKK,3520,EDward Gaming,map,Raze,0.89,236,13,14,0,-1,56%,156,28%,3,2,+1,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Smoggy,4742,EDward Gaming,map,Kayo,0.66,151,9,13,5,-4,63%,99,32%,0,3,-3,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,nobody,3017,EDward Gaming,map,Sova,0.62,137,7,14,1,-7,44%,102,47%,1,3,-2,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,CHICHOO,15559,EDward Gaming,map,Cypher,0.48,127,6,14,3,-8,44%,87,33%,0,3,-3,Sunset,LOUD
+312803,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 11:00:00,LOUD,EDward Gaming,2 - 0,Haodong,4720,EDward Gaming,map,Omen,0.23,78,3,15,5,-12,44%,70,33%,0,1,-1,Sunset,LOUD
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,N4RRATE,36245,Karmine Corp,overall,"Raze, Fade, Kayo",1.29,241,55,45,32,+10,81%,154,22%,9,6,+3,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,marteen,10307,Karmine Corp,overall,"Yoru, Raze, Jett",1.17,251,62,51,18,+11,79%,164,25%,11,11,0,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,MAGNUM,2173,Karmine Corp,overall,"Skye, Killjoy, Breach",1.11,200,47,43,26,+4,71%,122,22%,9,5,+4,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,sh1n,2625,Karmine Corp,overall,Omen,0.85,163,39,45,29,-6,79%,100,28%,5,6,-1,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,tomaszy,19691,Karmine Corp,overall,"Viper, Fade",0.81,149,34,45,21,-11,65%,109,37%,1,5,-4,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,d4v41,9803,Paper Rex,overall,"Skye, Omen",1.02,188,43,44,27,-1,63%,129,33%,2,2,0,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,overall,"Harbor, Raze, Fade",1.01,213,49,49,23,0,78%,144,29%,9,7,+2,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,something,17086,Paper Rex,overall,"Reyna, Jett, Gekko",1.00,199,50,45,7,+5,68%,122,21%,10,7,+3,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,Monyet,8497,Paper Rex,overall,"Raze, Astra",0.95,212,49,52,16,-3,60%,150,25%,10,15,-5,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,overall,"Brimstone, Omen, Viper",0.81,160,38,47,18,-9,71%,103,36%,2,4,-2,,
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,N4RRATE,36245,Karmine Corp,map,Raze,1.26,268,20,18,7,+2,65%,176,14%,4,3,+1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,MAGNUM,2173,Karmine Corp,map,Skye,1.23,230,18,16,10,+2,61%,145,32%,2,3,-1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,marteen,10307,Karmine Corp,map,Yoru,0.97,183,16,18,5,-2,78%,126,33%,2,3,-1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,sh1n,2625,Karmine Corp,map,Omen,0.71,155,12,16,7,-4,74%,96,24%,2,2,0,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,tomaszy,19691,Karmine Corp,map,Viper,0.69,130,9,16,8,-7,65%,108,38%,0,2,-2,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Raze,1.28,259,20,17,7,+3,70%,185,21%,2,3,-1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Skye,1.09,158,14,11,4,+3,65%,109,28%,1,1,0,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Brimstone,1.00,224,18,16,8,+2,83%,138,45%,2,1,+1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,something,17086,Paper Rex,map,Reyna,0.95,186,16,16,4,0,70%,114,32%,5,1,+4,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Harbor,0.89,195,16,15,5,+1,87%,132,35%,3,4,-1,Bind,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,N4RRATE,36245,Karmine Corp,map,Fade,1.80,272,18,9,7,+9,95%,192,30%,3,0,+3,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,MAGNUM,2173,Karmine Corp,map,Killjoy,1.12,203,14,11,2,+3,74%,118,13%,5,1,+4,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,sh1n,2625,Karmine Corp,map,Omen,1.00,182,13,11,11,+2,79%,108,27%,1,2,-1,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,marteen,10307,Karmine Corp,map,Raze,0.96,243,17,14,5,+3,79%,151,16%,3,2,+1,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,tomaszy,19691,Karmine Corp,map,Viper,0.91,153,10,12,6,-2,74%,123,47%,0,2,-2,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Skye,1.19,235,13,14,13,-1,68%,167,35%,1,0,+1,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,something,17086,Paper Rex,map,Jett,0.86,201,14,13,0,+1,58%,107,18%,2,3,-1,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Omen,0.63,125,8,13,5,-5,63%,76,30%,0,3,-3,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Raze,0.62,182,11,16,3,-5,58%,122,24%,2,2,0,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Astra,0.60,166,11,16,4,-5,53%,114,29%,2,4,-2,Lotus,Karmine Corp
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,marteen,10307,Karmine Corp,map,Jett,1.52,327,29,19,8,+10,81%,206,26%,6,6,0,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,MAGNUM,2173,Karmine Corp,map,Breach,1.00,168,15,16,14,-1,77%,105,20%,2,1,+1,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,N4RRATE,36245,Karmine Corp,map,Kayo,0.93,184,17,18,18,-1,85%,107,24%,2,3,-1,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,sh1n,2625,Karmine Corp,map,Omen,0.85,153,14,18,11,-4,85%,99,33%,2,2,0,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,tomaszy,19691,Karmine Corp,map,Fade,0.83,164,15,17,7,-2,58%,98,30%,1,1,0,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,f0rsakeN,9801,Paper Rex,map,Fade,1.41,261,22,18,15,+4,85%,170,28%,4,1,+3,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,something,17086,Paper Rex,map,Gekko,1.14,210,20,16,3,+4,73%,140,14%,3,3,0,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,Monyet,8497,Paper Rex,map,Raze,0.91,210,18,19,5,-1,58%,144,29%,6,8,-2,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,d4v41,9803,Paper Rex,map,Omen,0.84,172,16,19,10,-3,58%,118,36%,0,1,-1,Ascent,Paper Rex
+312802,Champions Tour 2024: Masters Madrid,"Swiss Stage: 
+						Round 3",2024-03-18 12:55:00,Karmine Corp,Paper Rex,1 - 2,mindfreak,9800,Paper Rex,map,Viper,0.79,131,12,18,5,-6,65%,91,31%,0,0,0,Ascent,Paper Rex
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Munchkin,2489,Gen.G,overall,Viper,1.24,231,36,24,14,+12,86%,152,18%,1,3,-2,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,t3xture,9196,Gen.G,overall,Raze,1.19,230,35,30,16,+5,81%,164,21%,8,3,+5,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Meteor,13039,Gen.G,overall,"Jett, Killjoy",1.05,206,36,29,3,+7,79%,146,28%,7,2,+5,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Lakia,773,Gen.G,overall,"Skye, Fade",1.01,191,32,29,14,+3,72%,127,23%,4,7,-3,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Karon,34974,Gen.G,overall,Omen,1.00,215,30,31,23,-1,77%,142,27%,7,1,+6,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,d4v41,9803,Paper Rex,overall,Skye,1.40,238,39,29,13,+10,72%,150,32%,1,1,0,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,f0rsakeN,9801,Paper Rex,overall,"Raze, Cypher",0.97,201,30,33,8,-3,70%,144,33%,5,6,-1,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,something,17086,Paper Rex,overall,Jett,0.91,200,30,37,14,-7,67%,136,26%,5,7,-2,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Monyet,8497,Paper Rex,overall,"Omen, Raze",0.91,210,31,36,19,-5,74%,143,38%,4,7,-3,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,mindfreak,9800,Paper Rex,overall,"Viper, Omen",0.53,114,13,34,17,-21,60%,82,31%,1,6,-5,,
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Munchkin,2489,Gen.G,map,Viper,1.42,234,18,10,8,+8,86%,155,22%,1,1,0,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,t3xture,9196,Gen.G,map,Raze,1.22,208,14,12,12,+2,81%,156,18%,2,1,+1,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Lakia,773,Gen.G,map,Skye,1.13,211,17,14,8,+3,71%,141,20%,4,3,+1,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Karon,34974,Gen.G,map,Omen,1.00,215,13,16,15,-3,76%,139,25%,3,0,+3,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Meteor,13039,Gen.G,map,Jett,0.78,172,16,15,0,+1,67%,124,26%,4,2,+2,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Monyet,8497,Paper Rex,map,Omen,1.20,272,20,17,12,+3,86%,174,40%,2,2,0,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,f0rsakeN,9801,Paper Rex,map,Raze,1.15,235,16,16,5,0,62%,166,28%,3,3,0,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,d4v41,9803,Paper Rex,map,Skye,1.11,173,14,14,5,0,67%,105,38%,1,1,0,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,something,17086,Paper Rex,map,Jett,0.86,158,12,16,7,-4,71%,115,26%,1,5,-4,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,mindfreak,9800,Paper Rex,map,Viper,0.57,95,5,15,10,-10,67%,71,22%,0,3,-3,Split,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Meteor,13039,Gen.G,map,Killjoy,1.30,240,20,14,3,+6,91%,167,30%,3,0,+3,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,t3xture,9196,Gen.G,map,Raze,1.16,252,21,18,4,+3,82%,172,24%,6,2,+4,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Munchkin,2489,Gen.G,map,Viper,1.06,227,18,14,6,+4,86%,149,15%,0,2,-2,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Karon,34974,Gen.G,map,Omen,0.99,214,17,15,8,+2,77%,144,28%,4,1,+3,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Lakia,773,Gen.G,map,Fade,0.90,170,15,15,6,0,73%,113,26%,0,4,-4,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,d4v41,9803,Paper Rex,map,Skye,1.67,302,25,15,8,+10,77%,193,29%,0,0,0,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,something,17086,Paper Rex,map,Jett,0.96,241,18,21,7,-3,64%,155,27%,4,2,+2,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,f0rsakeN,9801,Paper Rex,map,Cypher,0.80,167,14,17,3,-3,77%,122,42%,2,3,-1,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,Monyet,8497,Paper Rex,map,Raze,0.63,148,11,19,7,-8,64%,113,33%,2,5,-3,Lotus,Gen.G
+312777,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 11:00:00,Gen.G,Paper Rex,2 - 0,mindfreak,9800,Paper Rex,map,Omen,0.49,133,8,19,7,-11,55%,92,38%,1,3,-2,Lotus,Gen.G
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,johnqt,1265,Sentinels,overall,"Cypher, Viper",1.17,232,57,45,15,+12,77%,155,28%,8,3,+5,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,TenZ,9,Sentinels,overall,"Omen, Kayo",1.00,197,47,52,41,-5,71%,124,29%,2,4,-2,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Zellsis,729,Sentinels,overall,"Viper, Killjoy, Kayo",0.97,214,46,51,29,-5,68%,132,16%,3,7,-4,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,zekken,4004,Sentinels,overall,"Raze, Jett",0.89,212,47,54,16,-7,68%,137,20%,15,13,+2,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Sacy,659,Sentinels,overall,"Skye, Gekko",0.74,160,37,51,15,-14,62%,106,20%,5,9,-4,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,tuyz,2408,LOUD,overall,"Omen, Harbor",1.19,192,51,40,22,+11,71%,129,27%,3,3,0,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Quick,1575,LOUD,overall,"Raze, Jett, Phoenix",1.07,232,60,53,16,+7,77%,154,25%,14,7,+7,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,saadhak,727,LOUD,overall,"Skye, Killjoy, Sova",1.01,192,47,47,23,0,71%,135,22%,8,11,-3,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,cauanzin,6193,LOUD,overall,"Breach, Sova",1.01,230,51,50,16,+1,70%,145,25%,4,5,-1,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Less,8447,LOUD,overall,Viper,1.00,178,44,44,26,0,78%,136,31%,7,7,0,,
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Zellsis,729,Sentinels,map,Viper,1.70,294,19,8,6,+11,88%,186,24%,1,0,+1,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,TenZ,9,Sentinels,map,Omen,1.42,217,15,9,13,+6,88%,136,29%,1,0,+1,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,johnqt,1265,Sentinels,map,Cypher,1.22,230,15,10,5,+5,82%,128,31%,3,1,+2,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,zekken,4004,Sentinels,map,Raze,1.03,246,13,13,11,0,82%,160,15%,6,1,+5,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Sacy,659,Sentinels,map,Skye,0.88,178,10,12,8,-2,88%,108,27%,4,0,+4,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,cauanzin,6193,LOUD,map,Breach,1.56,340,18,14,6,+4,82%,224,29%,0,2,-2,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,tuyz,2408,LOUD,map,Omen,1.05,178,11,12,4,-1,65%,122,31%,0,1,-1,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Quick,1575,LOUD,map,Raze,0.54,168,10,16,2,-6,65%,109,19%,1,3,-2,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Less,8447,LOUD,map,Viper,0.47,114,6,15,7,-9,59%,92,21%,0,3,-3,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,saadhak,727,LOUD,map,Skye,0.45,126,7,15,4,-8,53%,85,12%,1,6,-5,Split,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,johnqt,1265,Sentinels,map,Viper,1.26,231,21,16,6,+5,73%,160,20%,1,1,0,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,zekken,4004,Sentinels,map,Jett,0.97,223,20,20,0,0,73%,135,22%,6,5,+1,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Zellsis,729,Sentinels,map,Killjoy,0.78,187,14,20,6,-6,58%,128,13%,0,4,-4,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,TenZ,9,Sentinels,map,Kayo,0.70,168,14,23,18,-9,65%,103,30%,0,3,-3,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Sacy,659,Sentinels,map,Gekko,0.43,87,9,20,1,-11,42%,61,19%,0,6,-6,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Less,8447,LOUD,map,Viper,1.30,210,21,13,9,+8,85%,136,32%,3,2,+1,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,tuyz,2408,LOUD,map,Harbor,1.18,199,20,15,10,+5,69%,129,30%,2,0,+2,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,saadhak,727,LOUD,map,Killjoy,1.16,225,19,15,9,+4,81%,153,24%,3,3,0,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Quick,1575,LOUD,map,Jett,1.15,249,23,18,7,+5,81%,166,30%,8,2,+6,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,cauanzin,6193,LOUD,map,Sova,0.91,185,16,17,4,-1,69%,128,22%,3,0,+3,Icebox,LOUD
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,johnqt,1265,Sentinels,map,Cypher,1.06,235,21,19,4,+2,77%,169,34%,4,1,+3,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,TenZ,9,Sentinels,map,Omen,1.01,207,18,20,10,-2,65%,136,28%,1,1,0,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Sacy,659,Sentinels,map,Gekko,0.95,215,18,19,6,-1,65%,150,18%,1,3,-2,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,zekken,4004,Sentinels,map,Raze,0.73,166,14,21,5,-7,54%,122,25%,3,7,-4,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Zellsis,729,Sentinels,map,Kayo,0.67,160,13,23,17,-10,65%,100,12%,2,3,-1,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Quick,1575,LOUD,map,Phoenix,1.33,280,27,19,7,+8,81%,173,24%,5,2,+3,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,tuyz,2408,LOUD,map,Omen,1.29,198,20,13,8,+7,77%,135,20%,1,2,-1,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,saadhak,727,LOUD,map,Sova,1.23,226,21,17,10,+4,73%,149,25%,4,2,+2,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,Less,8447,LOUD,map,Viper,1.04,210,17,16,10,+1,85%,164,36%,4,2,+2,Sunset,Sentinels
+312776,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Semifinals",2024-03-21 13:10:00,Sentinels,LOUD,2 - 1,cauanzin,6193,LOUD,map,Breach,0.76,166,17,19,6,-2,62%,109,21%,1,3,-2,Sunset,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Meteor,13039,Gen.G,overall,"Jett, Killjoy, Yoru",1.40,286,56,35,15,+21,83%,195,36%,7,8,-1,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Munchkin,2489,Gen.G,overall,Viper,1.18,180,35,27,17,+8,69%,127,28%,4,1,+3,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Karon,34974,Gen.G,overall,"Omen, Astra",0.99,182,37,37,21,0,76%,122,22%,4,3,+1,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,t3xture,9196,Gen.G,overall,"Raze, Jett",0.99,217,42,40,9,+2,76%,140,17%,12,9,+3,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Lakia,773,Gen.G,overall,"Skye, Fade, Sova",0.68,132,24,36,17,-12,63%,85,20%,2,4,-2,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,johnqt,1265,Sentinels,overall,"Cypher, Viper",1.24,214,45,31,12,+14,81%,129,30%,4,1,+3,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Zellsis,729,Sentinels,overall,"Viper, Killjoy",1.03,197,34,37,20,-3,65%,128,18%,4,3,+1,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,zekken,4004,Sentinels,overall,"Raze, Jett",1.02,211,40,40,12,0,70%,138,18%,11,13,-2,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Sacy,659,Sentinels,overall,"Skye, Fade, Sova",1.02,203,36,41,23,-5,69%,139,30%,3,5,-2,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,TenZ,9,Sentinels,overall,"Omen, Kayo",0.47,115,20,45,30,-25,72%,74,30%,3,7,-4,,
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Munchkin,2489,Gen.G,map,Viper,1.49,224,14,9,10,+5,67%,153,19%,1,0,+1,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Meteor,13039,Gen.G,map,Jett,1.34,261,16,11,6,+5,78%,171,33%,3,2,+1,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,t3xture,9196,Gen.G,map,Raze,1.13,263,18,14,5,+4,72%,168,18%,4,4,0,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Karon,34974,Gen.G,map,Omen,0.71,139,10,13,6,-3,72%,65,11%,2,1,+1,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Lakia,773,Gen.G,map,Skye,0.52,91,6,12,3,-6,50%,57,24%,0,1,-1,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Viper,1.35,271,15,12,10,+3,72%,175,18%,2,1,+1,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Cypher,1.33,265,18,10,4,+8,89%,141,27%,3,0,+3,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Sacy,659,Sentinels,map,Skye,0.67,142,8,13,7,-5,50%,100,11%,0,2,-2,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,TenZ,9,Sentinels,map,Omen,0.64,139,8,14,13,-6,67%,89,39%,1,3,-2,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,zekken,4004,Sentinels,map,Raze,0.57,167,10,15,3,-5,56%,108,13%,2,4,-2,Split,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Meteor,13039,Gen.G,map,Killjoy,1.33,291,21,15,1,+6,85%,204,31%,2,4,-2,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Karon,34974,Gen.G,map,Omen,1.08,202,14,15,7,-1,70%,142,25%,0,1,-1,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Munchkin,2489,Gen.G,map,Viper,0.71,128,8,13,5,-5,55%,89,36%,1,1,0,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Lakia,773,Gen.G,map,Fade,0.55,109,8,15,4,-7,60%,80,16%,1,2,-1,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,t3xture,9196,Gen.G,map,Raze,0.49,141,9,18,2,-9,70%,93,13%,5,3,+2,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,zekken,4004,Sentinels,map,Raze,1.77,315,23,10,5,+13,85%,197,18%,6,2,+4,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Viper,1.51,240,18,9,6,+9,90%,147,29%,1,0,+1,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Sacy,659,Sentinels,map,Fade,1.05,196,13,14,13,-1,75%,146,30%,1,3,-2,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Killjoy,1.01,186,14,12,3,+2,70%,108,12%,2,2,0,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,TenZ,9,Sentinels,map,Omen,0.53,119,8,15,8,-7,75%,78,33%,1,2,-1,Lotus,Sentinels
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Meteor,13039,Gen.G,map,Yoru,1.54,307,19,9,8,+10,88%,212,49%,2,2,0,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,t3xture,9196,Gen.G,map,Jett,1.46,248,15,8,2,+7,88%,168,19%,3,2,+1,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Munchkin,2489,Gen.G,map,Viper,1.41,188,13,5,2,+8,88%,144,41%,2,0,+2,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Karon,34974,Gen.G,map,Astra,1.20,206,13,9,8,+4,88%,160,37%,2,1,+1,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Lakia,773,Gen.G,map,Sova,1.04,197,10,9,10,+1,81%,124,23%,1,1,0,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Sacy,659,Sentinels,map,Sova,1.37,272,15,14,3,+1,81%,173,50%,2,0,+2,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,johnqt,1265,Sentinels,map,Cypher,0.79,137,9,12,2,-3,63%,92,42%,0,1,-1,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,Zellsis,729,Sentinels,map,Viper,0.71,134,5,13,7,-8,50%,101,35%,0,0,0,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,zekken,4004,Sentinels,map,Jett,0.58,150,7,15,4,-8,69%,96,25%,3,7,-4,Breeze,Gen.G
+312778,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Upper Final",2024-03-22 11:00:00,Gen.G,Sentinels,2 - 1,TenZ,9,Sentinels,map,Kayo,0.19,87,4,16,9,-12,75%,53,13%,1,2,-1,Breeze,Gen.G
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,something,17086,Paper Rex,overall,Gekko,1.46,269,44,27,13,+17,78%,167,25%,7,2,+5,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,f0rsakeN,9801,Paper Rex,overall,"Fade, Kayo",1.07,226,34,31,18,+3,71%,142,27%,9,2,+7,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,mindfreak,9800,Paper Rex,overall,Viper,0.99,184,31,29,9,+2,67%,122,38%,3,4,-1,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,d4v41,9803,Paper Rex,overall,"Omen, Sage",0.93,182,30,34,22,-4,76%,118,23%,3,1,+2,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Monyet,8497,Paper Rex,overall,"Raze, Omen",0.89,179,27,32,17,-5,71%,119,19%,7,7,0,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,tuyz,2408,LOUD,overall,Omen,1.19,209,36,31,9,+5,76%,128,31%,4,3,+1,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,cauanzin,6193,LOUD,overall,Breach,1.17,255,40,35,11,+5,67%,156,24%,6,5,+1,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Less,8447,LOUD,overall,Viper,1.12,228,37,31,13,+6,71%,160,33%,2,6,-4,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,saadhak,727,LOUD,overall,"Kayo, Sova",0.67,139,19,34,17,-15,62%,97,13%,2,8,-6,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Quick,1575,LOUD,overall,Phoenix,0.57,138,21,35,11,-14,62%,103,31%,2,7,-5,,
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,something,17086,Paper Rex,map,Gekko,1.44,261,22,14,6,+8,79%,156,19%,7,1,+6,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,f0rsakeN,9801,Paper Rex,map,Fade,1.17,210,17,14,7,+3,75%,133,30%,4,0,+4,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,d4v41,9803,Paper Rex,map,Omen,1.01,204,19,19,7,0,71%,128,32%,2,0,+2,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Monyet,8497,Paper Rex,map,Raze,0.79,176,13,17,10,-4,75%,122,13%,2,5,-3,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,mindfreak,9800,Paper Rex,map,Viper,0.79,150,13,17,6,-4,58%,110,39%,1,2,-1,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,tuyz,2408,LOUD,map,Omen,1.39,225,20,14,6,+6,79%,144,32%,1,2,-1,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,cauanzin,6193,LOUD,map,Breach,1.00,206,18,19,5,-1,67%,128,17%,4,1,+3,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Less,8447,LOUD,map,Viper,0.93,184,16,17,7,-1,71%,145,28%,1,4,-3,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,saadhak,727,LOUD,map,Kayo,0.82,163,12,17,9,-5,63%,110,14%,1,5,-4,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Quick,1575,LOUD,map,Phoenix,0.73,166,15,17,4,-2,58%,120,31%,1,4,-3,Ascent,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,something,17086,Paper Rex,map,Gekko,1.48,277,22,13,7,+9,76%,180,30%,0,1,-1,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,mindfreak,9800,Paper Rex,map,Viper,1.22,218,18,12,3,+6,76%,135,37%,2,2,0,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Monyet,8497,Paper Rex,map,Omen,1.01,182,14,15,7,-1,67%,115,28%,5,2,+3,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,f0rsakeN,9801,Paper Rex,map,Kayo,0.96,241,17,17,11,0,67%,154,24%,5,2,+3,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,d4v41,9803,Paper Rex,map,Sage,0.84,160,11,15,15,-4,81%,108,13%,1,1,0,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,cauanzin,6193,LOUD,map,Breach,1.36,303,22,16,6,+6,67%,187,32%,2,4,-2,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Less,8447,LOUD,map,Viper,1.35,272,21,14,6,+7,71%,177,40%,1,2,-1,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,tuyz,2408,LOUD,map,Omen,0.96,192,16,17,3,-1,71%,110,30%,3,1,+2,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,saadhak,727,LOUD,map,Sova,0.50,115,7,17,8,-10,62%,82,11%,1,3,-2,Sunset,Paper Rex
+312780,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Round 1",2024-03-22 13:55:00,Paper Rex,LOUD,2 - 0,Quick,1575,LOUD,map,Phoenix,0.39,110,6,18,7,-12,67%,83,31%,1,3,-2,Sunset,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,zekken,4004,Sentinels,overall,"Raze, Jett",1.38,308,88,55,13,+33,77%,199,26%,18,16,+2,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,TenZ,9,Sentinels,overall,Omen,1.28,255,73,54,45,+19,78%,159,38%,8,3,+5,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,johnqt,1265,Sentinels,overall,"Viper, Killjoy, Cypher",1.18,199,56,44,24,+12,81%,128,22%,7,2,+5,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Sacy,659,Sentinels,overall,"Fade, Sova, Skye, Gekko",0.98,172,47,49,35,-2,80%,107,22%,5,8,-3,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Zellsis,729,Sentinels,overall,"Killjoy, Kayo, Viper",0.91,172,42,53,42,-11,72%,108,16%,6,6,0,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,something,17086,Paper Rex,overall,"Jett, Gekko",0.92,188,51,59,20,-8,62%,124,27%,12,12,0,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,f0rsakeN,9801,Paper Rex,overall,"Cypher, Fade, Skye, Kayo",0.90,186,52,61,34,-9,65%,126,32%,4,8,-4,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,mindfreak,9800,Paper Rex,overall,"Omen, Viper",0.86,167,51,59,16,-8,57%,110,36%,2,4,-2,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Monyet,8497,Paper Rex,overall,"Raze, Omen",0.84,223,60,67,10,-7,59%,134,20%,13,14,-1,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,d4v41,9803,Paper Rex,overall,"Skye, Omen, Viper, Sage",0.82,161,41,60,31,-19,67%,105,24%,4,6,-2,,
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,zekken,4004,Sentinels,map,Raze,1.58,326,32,16,2,+16,85%,205,27%,8,4,+4,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,TenZ,9,Sentinels,map,Omen,1.39,271,25,16,15,+9,77%,167,44%,1,0,+1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,johnqt,1265,Sentinels,map,Viper,1.30,211,19,13,14,+6,81%,133,22%,2,1,+1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Sacy,659,Sentinels,map,Fade,0.87,158,13,17,14,-4,81%,110,21%,1,2,-1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Zellsis,729,Sentinels,map,Killjoy,0.81,169,13,18,8,-5,77%,114,15%,4,3,+1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,something,17086,Paper Rex,map,Jett,1.05,218,21,18,1,+3,54%,137,31%,5,6,-1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,mindfreak,9800,Paper Rex,map,Omen,0.95,206,20,21,4,-1,50%,130,31%,0,2,-2,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,d4v41,9803,Paper Rex,map,Skye,0.87,138,11,17,9,-6,65%,91,17%,0,0,0,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,f0rsakeN,9801,Paper Rex,map,Cypher,0.74,193,16,21,9,-5,54%,129,54%,2,3,-1,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Monyet,8497,Paper Rex,map,Raze,0.40,153,12,25,2,-13,54%,100,20%,3,5,-2,Lotus,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,zekken,4004,Sentinels,map,Jett,1.71,351,25,10,3,+15,74%,223,32%,5,5,0,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,TenZ,9,Sentinels,map,Omen,1.28,225,16,11,13,+5,74%,140,35%,4,1,+3,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Sacy,659,Sentinels,map,Sova,1.26,216,14,10,6,+4,84%,133,18%,1,1,0,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,johnqt,1265,Sentinels,map,Killjoy,1.26,176,13,8,4,+5,84%,120,16%,1,0,+1,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Zellsis,729,Sentinels,map,Kayo,0.90,131,7,12,19,-5,68%,82,13%,1,0,+1,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,f0rsakeN,9801,Paper Rex,map,Fade,0.85,182,13,14,6,-1,68%,121,57%,0,3,-3,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Monyet,8497,Paper Rex,map,Raze,0.85,212,13,17,2,-4,58%,137,16%,3,4,-1,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,mindfreak,9800,Paper Rex,map,Viper,0.83,173,12,13,3,-1,58%,112,33%,0,1,-1,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,something,17086,Paper Rex,map,Gekko,0.78,143,8,14,6,-6,53%,88,22%,3,1,+2,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,d4v41,9803,Paper Rex,map,Omen,0.39,94,5,17,6,-12,47%,65,25%,1,3,-2,Ascent,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,zekken,4004,Sentinels,map,Raze,0.85,238,13,17,6,-4,67%,172,25%,0,4,-4,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Sacy,659,Sentinels,map,Skye,0.80,177,12,16,7,-4,67%,100,29%,2,4,-2,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Zellsis,729,Sentinels,map,Viper,0.80,181,11,15,3,-4,50%,109,19%,0,3,-3,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,johnqt,1265,Sentinels,map,Cypher,0.70,163,9,15,2,-6,67%,107,23%,2,1,+1,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,TenZ,9,Sentinels,map,Omen,0.52,179,10,18,7,-8,72%,119,29%,0,2,-2,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Monyet,8497,Paper Rex,map,Raze,1.63,340,24,10,3,+14,89%,193,18%,6,2,+4,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,f0rsakeN,9801,Paper Rex,map,Skye,1.37,239,15,12,14,+3,89%,161,15%,2,0,+2,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,mindfreak,9800,Paper Rex,map,Omen,1.36,198,15,9,7,+6,83%,121,48%,2,0,+2,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,d4v41,9803,Paper Rex,map,Viper,1.18,223,15,12,9,+3,83%,144,33%,2,0,+2,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,something,17086,Paper Rex,map,Jett,0.93,175,12,12,5,0,78%,113,27%,2,2,0,Split,Paper Rex
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,TenZ,9,Sentinels,map,Omen,1.97,345,22,9,10,+13,94%,214,42%,3,0,+3,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,johnqt,1265,Sentinels,map,Cypher,1.43,247,15,8,4,+7,94%,153,28%,2,0,+2,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,zekken,4004,Sentinels,map,Raze,1.25,318,18,12,2,+6,81%,192,21%,5,3,+2,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Zellsis,729,Sentinels,map,Kayo,1.19,205,11,8,12,+3,94%,126,17%,1,0,+1,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Sacy,659,Sentinels,map,Gekko,1.03,138,8,6,8,+2,88%,78,21%,1,1,0,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,something,17086,Paper Rex,map,Gekko,0.87,217,10,15,8,-5,69%,158,27%,2,3,-1,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,d4v41,9803,Paper Rex,map,Sage,0.86,187,10,14,7,-4,75%,129,26%,1,3,-2,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,f0rsakeN,9801,Paper Rex,map,Kayo,0.71,129,8,14,5,-6,50%,88,15%,0,2,-2,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,Monyet,8497,Paper Rex,map,Omen,0.65,185,11,15,3,-4,38%,119,26%,1,3,-2,Sunset,Sentinels
+312781,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Lower Final",2024-03-23 11:00:00,Sentinels,Paper Rex,3 - 1,mindfreak,9800,Paper Rex,map,Viper,0.19,89,4,16,2,-12,38%,63,36%,0,1,-1,Sunset,Sentinels
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Kyedae,37656,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,yjjINTL,,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,mimi,17323,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,jisouINTL,,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,fuguINTL,,Team International,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Mixwell,93,Team Spain,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,HITBOXKING,534,Team Spain,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Leviathan,495,Team Spain,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,blackelespanolito,536,Team Spain,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,sergioferraTeam,,Team Spain,overall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Kyedae,37656,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,yjjINTL,,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,mimi,17323,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,jisouINTL,,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,fuguINTL,,Team International,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Mixwell,93,Team Spain,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,HITBOXKING,534,Team Spain,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,Leviathan,495,Team Spain,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,blackelespanolito,536,Team Spain,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+321373,Champions Tour 2024: Masters Madrid,"Showmatch: 
+						Showmatch",2024-03-24 11:00:00,Team International,Team Spain,0 - 1,sergioferraTeam,,Team Spain,map,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ascent,Team Spain
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,overall,"Astra, Brimstone, Omen, Viper",1.01,201,79,78,42,+1,74%,132,28%,10,7,+3,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,overall,"Viper, Kayo",0.98,184,71,73,47,-2,66%,121,21%,4,14,-10,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,overall,"Sova, Skye, Gekko",0.91,176,68,78,28,-10,72%,123,23%,7,10,-3,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,overall,"Jett, Raze",0.90,214,82,87,12,-5,68%,138,26%,12,16,-4,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,overall,"Yoru, Cypher, Killjoy, Jett",0.88,196,76,84,22,-8,65%,130,24%,12,17,-5,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,overall,"Jett, Raze",1.18,263,101,85,29,+16,75%,171,21%,27,20,+7,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,overall,"Kayo, Gekko, Omen",1.13,221,83,78,54,+5,81%,137,29%,12,9,+3,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,overall,"Sova, Skye, Gekko",1.06,191,78,77,37,+1,76%,127,25%,10,3,+7,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,overall,"Cypher, Viper, Killjoy",1.04,178,70,67,33,+3,80%,118,24%,9,6,+3,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,overall,"Viper, Brimstone, Kayo, Killjoy",1.01,186,68,70,48,-2,76%,124,24%,7,8,-1,,
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,map,Astra,1.30,207,17,13,8,+4,71%,153,34%,0,1,-1,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,map,Viper,1.06,244,19,15,2,+4,67%,164,33%,0,5,-5,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,map,Sova,1.00,169,12,13,7,-1,76%,127,19%,3,1,+2,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,map,Yoru,0.87,172,13,14,4,-1,62%,109,28%,1,5,-4,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,map,Jett,0.81,200,15,17,1,-2,57%,130,36%,2,3,-1,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,map,Kayo,1.24,235,16,15,12,+1,76%,141,28%,3,0,+3,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,map,Jett,1.20,260,20,16,3,+4,67%,152,29%,7,4,+3,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Viper,0.88,164,12,14,5,-2,62%,106,30%,1,0,+1,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Cypher,0.75,164,12,15,3,-3,71%,102,28%,3,2,+1,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,map,Sova,0.68,161,12,16,2,-4,67%,104,24%,1,0,+1,Breeze,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,map,Cypher,1.17,245,22,17,8,+5,69%,158,31%,3,4,-1,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,map,Brimstone,1.11,211,20,18,7,+2,77%,137,25%,3,1,+2,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,map,Viper,1.08,196,15,17,16,-2,69%,138,22%,2,2,0,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,map,Skye,1.07,201,19,18,9,+1,77%,122,30%,1,2,-1,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,map,Raze,0.56,115,11,18,3,-7,58%,93,28%,1,7,-6,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,map,Skye,1.38,245,23,18,14,+5,73%,154,27%,4,1,+3,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Brimstone,1.11,175,15,15,19,0,81%,118,26%,1,2,-1,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.02,253,21,21,7,0,85%,168,13%,6,3,+3,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,map,Gekko,0.95,178,16,18,9,-2,73%,110,28%,4,3,+1,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Viper,0.89,144,13,15,7,-2,77%,94,24%,1,1,0,Bind,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,map,Kayo,1.32,207,18,11,9,+7,81%,133,16%,1,0,+1,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,map,Sova,1.18,213,15,13,7,+2,81%,153,15%,0,2,-2,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,map,Jett,1.03,247,19,17,3,+2,81%,157,27%,6,3,+3,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,map,Killjoy,0.91,194,14,16,5,-2,76%,129,22%,0,3,-3,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,map,Omen,0.90,177,13,14,10,-1,76%,108,31%,4,2,+2,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,map,Omen,1.21,225,19,16,6,+3,76%,151,40%,1,2,-1,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,map,Sova,1.04,191,12,15,8,-3,71%,133,19%,2,0,+2,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,map,Jett,1.03,251,19,18,5,+1,62%,157,23%,4,4,0,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Killjoy,0.89,164,12,14,4,-2,76%,122,15%,2,2,0,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Kayo,0.62,141,9,16,12,-7,76%,92,19%,1,3,-2,Ascent,Gen.G
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,map,Raze,1.29,288,22,19,2,+3,74%,179,17%,3,2,+1,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,map,Jett,0.94,230,20,20,2,0,57%,140,27%,5,2,+3,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,map,Omen,0.90,210,18,18,9,0,70%,134,29%,1,2,-1,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,map,Viper,0.53,104,6,16,12,-10,48%,71,15%,0,3,-3,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,map,Skye,0.49,102,9,18,4,-9,65%,68,31%,1,3,-2,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,map,Raze,1.73,366,29,16,10,+13,83%,240,24%,4,4,0,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Cypher,1.33,228,19,14,11,+5,87%,148,29%,1,0,+1,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,map,Omen,1.08,189,16,15,11,+1,87%,113,46%,2,3,-1,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,map,Skye,1.00,155,14,15,10,-1,87%,118,33%,3,1,+2,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Viper,0.87,184,13,16,9,-3,74%,126,28%,3,3,0,Split,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Munchkin,2489,Gen.G,map,Kayo,0.94,171,13,14,8,-1,68%,99,17%,1,4,-3,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,t3xture,9196,Gen.G,map,Jett,0.86,221,15,16,3,-1,74%,136,30%,0,1,-1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Karon,34974,Gen.G,map,Viper,0.82,198,11,15,8,-4,74%,127,22%,2,1,+1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Lakia,773,Gen.G,map,Gekko,0.80,194,13,16,1,-3,58%,155,26%,2,2,0,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Meteor,13039,Gen.G,map,Killjoy,0.40,138,7,17,3,-10,63%,104,10%,3,3,0,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Zellsis,729,Sentinels,map,Killjoy,1.59,268,19,9,3,+10,89%,183,20%,1,0,+1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,johnqt,1265,Sentinels,map,Viper,1.37,190,14,9,8,+5,89%,129,28%,2,1,+1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,TenZ,9,Sentinels,map,Kayo,1.24,278,16,14,16,+2,95%,185,17%,2,1,+1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,Sacy,659,Sentinels,map,Gekko,1.13,202,17,13,3,+4,84%,118,22%,0,1,-1,Icebox,Sentinels
+312779,Champions Tour 2024: Masters Madrid,"Playoffs: 
+						Grand Final",2024-03-24 12:15:00,Gen.G,Sentinels,2 - 3,zekken,4004,Sentinels,map,Jett,0.85,183,12,14,4,-2,79%,129,21%,6,5,+1,Icebox,Sentinels

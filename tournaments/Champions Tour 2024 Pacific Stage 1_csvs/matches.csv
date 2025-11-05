@@ -1,0 +1,39 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, April 6, 2024",314301,1:30 PM,Global Esports,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 1,Regular Season
+"Sat, April 6, 2024",314302,4:30 PM,Team Secret,0,DRX,2,0-2,DRX,Completed,Week 1,Regular Season
+"Sun, April 7, 2024",314303,1:30 PM,BLEED,1,TALON,2,1-2,TALON,Completed,Week 1,Regular Season
+"Sun, April 7, 2024",314304,4:45 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 1,Regular Season
+"Mon, April 8, 2024",314305,1:30 PM,Team Secret,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Week 1,Regular Season
+"Mon, April 8, 2024",314306,4:50 PM,Global Esports,0,DRX,2,0-2,DRX,Completed,Week 1,Regular Season
+"Tue, April 9, 2024",314307,1:30 PM,Gen.G,2,TALON,0,2-0,Gen.G,Completed,Week 1,Regular Season
+"Tue, April 9, 2024",314308,3:40 PM,T1,1,DetonatioN FocusMe,2,1-2,DetonatioN FocusMe,Completed,Week 1,Regular Season
+"Sat, April 13, 2024",314309,1:30 PM,Gen.G,1,Paper Rex,2,1-2,Paper Rex,Completed,Week 2,Regular Season
+"Sat, April 13, 2024",314310,4:40 PM,T1,1,DRX,2,1-2,DRX,Completed,Week 2,Regular Season
+"Sun, April 14, 2024",314311,1:30 PM,Team Secret,2,ZETA DIVISION,1,2-1,Team Secret,Completed,Week 2,Regular Season
+"Sun, April 14, 2024",314312,4:30 PM,BLEED,0,Rex Regum Qeon,2,0-2,Rex Regum Qeon,Completed,Week 2,Regular Season
+"Mon, April 15, 2024",314313,1:30 PM,Gen.G,2,DetonatioN FocusMe,0,2-0,Gen.G,Completed,Week 2,Regular Season
+"Mon, April 15, 2024",314314,3:40 PM,Global Esports,1,TALON,2,1-2,TALON,Completed,Week 2,Regular Season
+"Tue, April 16, 2024",314315,1:30 PM,T1,2,Rex Regum Qeon,0,2-0,T1,Completed,Week 2,Regular Season
+"Tue, April 16, 2024",314316,3:30 PM,BLEED,1,ZETA DIVISION,2,1-2,ZETA DIVISION,Completed,Week 2,Regular Season
+"Sat, April 20, 2024",314317,1:30 PM,Gen.G,1,DRX,2,1-2,DRX,Completed,Week 3,Regular Season
+"Sat, April 20, 2024",314318,4:45 PM,BLEED,2,DetonatioN FocusMe,1,2-1,BLEED,Completed,Week 3,Regular Season
+"Sun, April 21, 2024",314319,1:30 PM,Global Esports,2,Rex Regum Qeon,0,2-0,Global Esports,Completed,Week 3,Regular Season
+"Sun, April 21, 2024",314320,4:30 PM,Team Secret,2,Paper Rex,0,2-0,Team Secret,Completed,Week 3,Regular Season
+"Mon, April 22, 2024",314321,1:30 PM,T1,0,TALON,2,0-2,TALON,Completed,Week 3,Regular Season
+"Mon, April 22, 2024",314322,3:45 PM,Gen.G,2,ZETA DIVISION,0,2-0,Gen.G,Completed,Week 3,Regular Season
+"Tue, April 23, 2024",314323,1:30 PM,Team Secret,2,DetonatioN FocusMe,1,2-1,Team Secret,Completed,Week 3,Regular Season
+"Tue, April 23, 2024",314324,4:20 PM,Global Esports,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 3,Regular Season
+"Sat, April 27, 2024",314325,1:30 PM,BLEED,0,Paper Rex,2,0-2,Paper Rex,Completed,Week 4,Regular Season
+"Sat, April 27, 2024",314326,3:30 PM,Global Esports,2,DetonatioN FocusMe,1,2-1,Global Esports,Completed,Week 4,Regular Season
+"Sun, April 28, 2024",314327,1:30 PM,T1,2,ZETA DIVISION,1,2-1,T1,Completed,Week 4,Regular Season
+"Sun, April 28, 2024",314328,4:40 PM,Team Secret,1,TALON,2,1-2,TALON,Completed,Week 4,Regular Season
+"Mon, April 29, 2024",314329,1:30 PM,BLEED,0,DRX,2,0-2,DRX,Completed,Week 4,Regular Season
+"Mon, April 29, 2024",314330,3:35 PM,Gen.G,1,Rex Regum Qeon,2,1-2,Rex Regum Qeon,Completed,Week 4,Regular Season
+"Fri, May 3, 2024",329907,1:30 PM,Team Secret,0,T1,2,0-2,T1,Completed,Knockout Round,Playoffs
+"Fri, May 3, 2024",329908,3:40 PM,Paper Rex,2,TALON,1,2-1,Paper Rex,Completed,Knockout Round,Playoffs
+"Sat, May 4, 2024",329909,1:30 PM,Gen.G,1,T1,2,1-2,T1,Completed,Upper Semifinals,Playoffs
+"Sat, May 4, 2024",329910,4:40 PM,DRX,1,Paper Rex,2,1-2,Paper Rex,Completed,Upper Semifinals,Playoffs
+"Sun, May 5, 2024",329912,1:30 PM,T1,0,Paper Rex,2,0-2,Paper Rex,Completed,Upper Final,Playoffs
+"Sun, May 5, 2024",329911,3:30 PM,Gen.G,2,DRX,1,2-1,Gen.G,Completed,Lower Round 1,Playoffs
+"Sat, May 11, 2024",329913,1:30 PM,T1,0,Gen.G,3,0-3,Gen.G,Completed,Lower Final,Playoffs
+"Sun, May 12, 2024",329914,1:30 PM,Paper Rex,3,Gen.G,2,3-2,Paper Rex,Completed,Grand Final,Playoffs

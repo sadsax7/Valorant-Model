@@ -1,0 +1,20 @@
+date,match_id,time,team1,score1,team2,score2,score,winner,status,week,stage
+"Sat, February 17, 2024",295605,3:30 AM,NRG,2,FURIA,0,2-0,NRG,Completed,Opening (A),Group Stage
+"Sat, February 17, 2024",295606,6:30 AM,Cloud9,2,MIBR,1,2-1,Cloud9,Completed,Opening (A),Group Stage
+"Sun, February 18, 2024",295610,3:30 AM,LOUD,2,Sentinels,0,2-0,LOUD,Completed,Opening (B),Group Stage
+"Sun, February 18, 2024",295611,6:05 AM,LEVIATÁN,2,100 Thieves,1,2-1,LEVIATÁN,Completed,Opening (B),Group Stage
+"Mon, February 19, 2024",295615,3:30 AM,KRÜ Esports,1,G2 Esports,2,1-2,G2 Esports,Completed,Opening (C),Group Stage
+"Tue, February 20, 2024",295608,3:30 AM,FURIA,0,MIBR,2,0-2,MIBR,Completed,Elimination (A),Group Stage
+"Tue, February 20, 2024",295613,6:15 AM,Sentinels,2,100 Thieves,1,2-1,Sentinels,Completed,Elimination (B),Group Stage
+"Sat, February 24, 2024",295607,3:30 AM,NRG,2,Cloud9,0,2-0,NRG,Completed,Winner's (A),Group Stage
+"Sat, February 24, 2024",295612,5:55 AM,LOUD,2,LEVIATÁN,1,2-1,LOUD,Completed,Winner's (B),Group Stage
+"Sun, February 25, 2024",295617,3:30 AM,G2 Esports,0,Evil Geniuses,2,0-2,Evil Geniuses,Completed,Winner's (C),Group Stage
+"Mon, February 26, 2024",295609,1:30 AM,Cloud9,0,MIBR,2,0-2,MIBR,Completed,Decider (A),Group Stage
+"Mon, February 26, 2024",295614,4:10 AM,LEVIATÁN,1,Sentinels,2,1-2,Sentinels,Completed,Decider (B),Group Stage
+"Mon, February 26, 2024",295619,7:25 AM,G2 Esports,2,KRÜ Esports,0,2-0,G2 Esports,Completed,Decider (C),Group Stage
+"Tue, February 27, 2024",307572,1:30 AM,MIBR,0,Sentinels,2,0-2,Sentinels,Completed,Play-ins,Play-Ins
+"Tue, February 27, 2024",307573,3:40 AM,G2 Esports,1,MIBR,2,1-2,MIBR,Completed,Play-ins,Play-Ins
+"Tue, February 27, 2024",307574,7:25 AM,Sentinels,1,G2 Esports,2,1-2,G2 Esports,Completed,Play-ins,Play-Ins
+"Sun, March 3, 2024",303087,3:30 AM,Evil Geniuses,1,LOUD,2,1-2,LOUD,Completed,Semifinals,Playoffs
+"Sun, March 3, 2024",303088,6:30 AM,NRG,1,Sentinels,2,1-2,Sentinels,Completed,Semifinals,Playoffs
+"Mon, March 4, 2024",303086,3:30 AM,LOUD,2,Sentinels,3,2-3,Sentinels,Completed,Grand Final,Playoffs
