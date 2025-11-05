@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T06:11:28.794465+00:00",
+  "timestamp": "2025-11-05T07:21:59.618182+00:00",
   "n_total": 940,
   "n_train": 752,
   "n_test": 188,
@@ -8,8 +8,11 @@
   "features": [
     "elo1_before",
     "elo2_before",
-    "elo_diff"
+    "elo_diff",
+    "diff_acs_mean",
+    "diff_kast_mean"
   ],
   "model_type": "LogisticRegression",
-  "csv_path": "masters_csvs/matches.csv"
+  "csv_path": "masters_csvs/matches.csv",
+  "players_stats_path": "masters_csvs/detailed_matches_player_stats.csv"
 }

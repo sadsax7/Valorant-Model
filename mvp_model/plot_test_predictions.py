@@ -9,7 +9,7 @@ import pandas as pd
 from sklearn.metrics import log_loss, roc_auc_score, brier_score_loss
 from sklearn.calibration import calibration_curve
 
-from mvp_model.utils.elo import build_elo_features
+from mvp_model.utils.features import build_full_features
 
 
 def parse_args() -> argparse.Namespace:
@@ -22,6 +22,8 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--all-test", action="store_true", help="Use entire test block and ignore --last-n")
     p.add_argument("--elo-k", type=float, default=32.0, help="Elo K-factor (must match training)")
     p.add_argument("--elo-base", type=float, default=1500.0, help="Elo base rating (must match training)")
+    p.add_argument("--players-stats-path", default="masters_csvs/detailed_matches_player_stats.csv", help="Path to detailed_matches_player_stats.csv")
+    p.add_argument("--train-info", default="mvp_model/artifacts/train_info.json", help="Path to train_info.json to align feature columns")
     p.add_argument("--style", default="seaborn-v0_8", help="Matplotlib style to use")
     p.add_argument("--dpi", type=int, default=140, help="Figure DPI for saved images")
     p.add_argument("--threshold", type=float, default=0.5, help="Threshold for discrete metrics (confusion matrix)")
@@ -70,14 +72,22 @@ def main():
     import matplotlib.pyplot as plt
 
     df = load_and_prepare(args.csv_path)
-    feats = build_elo_features(
-        df, team1_col="team1", team2_col="team2", label_col="team1_win", elo_k=args.elo_k, elo_base=args.elo_base
-    )
-    X = feats[["elo1_before", "elo2_before", "elo_diff"]]
+    # Determinar columnas de features desde train_info
+    try:
+        with open(args.train_info, "r", encoding="utf-8") as f:
+            train_info = json.load(f)
+        feature_names = train_info.get("features", ["elo1_before", "elo2_before", "elo_diff"])  # fallback
+    except FileNotFoundError:
+        feature_names = ["elo1_before", "elo2_before", "elo_diff"]
+
+    # Construir todas las features y luego seleccionar las del entrenamiento
+    df_players = pd.read_csv(args.players_stats_path)
+    df_all, feats = build_full_features(df, df_players, elo_k=args.elo_k, elo_base=args.elo_base)
+    X = feats[feature_names]
 
     last_n = None if args.all_test else args.last_n
     idx = compute_test_slice(len(df), args.test_size, last_n)
-    df_test = df.iloc[idx].copy()
+    df_test = df_all.iloc[idx].copy()
     X_test = X.iloc[idx]
     y_test = df_test["team1_win"].astype(int).values
 

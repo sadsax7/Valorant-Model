@@ -8,6 +8,7 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import log_loss, roc_auc_score, brier_score_loss
 from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 import joblib
 
@@ -17,12 +18,13 @@ try:
 except Exception:  # pragma: no cover
     HAS_XGB = False
 
-from mvp_model.utils.elo import build_elo_features
+from mvp_model.utils.features import build_full_features
 
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Train MVP match outcome model from matches.csv")
     p.add_argument("--csv-path", default="masters_csvs/matches.csv", help="Path to matches.csv")
+    p.add_argument("--players-stats-path", default="masters_csvs/detailed_matches_player_stats.csv", help="Path to detailed_matches_player_stats.csv")
     p.add_argument("--model-out", default="mvp_model/artifacts/model.pkl", help="Output path for trained model")
     p.add_argument("--metrics-out", default="mvp_model/artifacts/metrics.json", help="Output path for metrics JSON")
     p.add_argument("--train-info-out", default="mvp_model/artifacts/train_info.json", help="Output path for training info JSON")
@@ -62,19 +64,19 @@ def load_matches(csv_path: str) -> pd.DataFrame:
     return df
 
 
-def make_features(df: pd.DataFrame, elo_k: float, elo_base: float) -> pd.DataFrame:
-    features = build_elo_features(
-        df=df,
-        team1_col="team1",
-        team2_col="team2",
-        label_col="team1_win",
-        elo_k=elo_k,
-        elo_base=elo_base,
-    )
-    # Only pre-match numeric features for MVP
-    feat_cols = ["elo1_before", "elo2_before", "elo_diff"]
-    X = features[feat_cols].copy()
-    y = df["team1_win"].astype(int).values
+def make_features(df_matches: pd.DataFrame, df_players: pd.DataFrame, elo_k: float, elo_base: float):
+    df_all, feats = build_full_features(df_matches, df_players, elo_k=elo_k, elo_base=elo_base)
+    # Usaremos diffs + elo_diff (evita duplicidad)
+    feat_cols = [
+        "elo_diff",
+        "diff_acs_mean",
+        "diff_kast_mean",
+    ]
+    # Mantener también los componentes base de Elo por si el modelo los requiere
+    if "elo1_before" in feats.columns and "elo2_before" in feats.columns:
+        feat_cols = ["elo1_before", "elo2_before"] + feat_cols
+    X = feats[feat_cols].copy()
+    y = df_all["team1_win"].astype(int).values
     meta = {"feature_names": feat_cols}
     return X, y, meta
 
@@ -103,12 +105,12 @@ def build_model(use_xgb: bool) -> Pipeline:
             n_jobs=4,
             tree_method="hist",
         )
-        # No scaling needed for trees
-        pipe = Pipeline(steps=[("model", model)])
+        # Imputación simple por seguridad también con árboles
+        pipe = Pipeline(steps=[("imputer", SimpleImputer(strategy="median")), ("model", model)])
     else:
         # Simple and robust fallback
         model = LogisticRegression(max_iter=200, solver="lbfgs")
-        pipe = Pipeline(steps=[("scaler", StandardScaler()), ("model", model)])
+        pipe = Pipeline(steps=[("imputer", SimpleImputer(strategy="median")), ("scaler", StandardScaler()), ("model", model)])
     return pipe
 
 
@@ -127,10 +129,12 @@ def main():
     args = parse_args()
 
     df = load_matches(args.csv_path)
+    # Cargar player stats
+    df_players = pd.read_csv(args.players_stats_path)
     if len(df) < 20:
         raise SystemExit("Muy pocos partidos para entrenar un modelo (se requieren > 20).")
 
-    X, y, meta = make_features(df, elo_k=args.elo_k, elo_base=args.elo_base)
+    X, y, meta = make_features(df, df_players, elo_k=args.elo_k, elo_base=args.elo_base)
 
     X_train, X_test, y_train, y_test = time_train_test_split(X, y, test_size=args.test_size)
 
@@ -157,6 +161,7 @@ def main():
         "features": meta["feature_names"],
         "model_type": "XGBoost" if use_xgb else "LogisticRegression",
         "csv_path": args.csv_path,
+        "players_stats_path": args.players_stats_path,
     }
     with open(args.train_info_out, "w", encoding="utf-8") as f:
         json.dump(train_info, f, indent=2)

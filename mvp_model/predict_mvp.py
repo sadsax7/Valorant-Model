@@ -6,7 +6,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-from mvp_model.utils.elo import build_elo_features
+from mvp_model.utils.features import build_full_features
 
 
 def parse_args() -> argparse.Namespace:
@@ -14,12 +14,14 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--model", required=True, help="Path to trained model .pkl")
     p.add_argument("--csv", required=True, help="Path to matches.csv-like file")
     p.add_argument("--out", default=None, help="Optional output CSV for predictions")
+    p.add_argument("--players-stats-path", default="masters_csvs/detailed_matches_player_stats.csv", help="Path to detailed_matches_player_stats.csv")
+    p.add_argument("--train-info", default="mvp_model/artifacts/train_info.json", help="Path to train_info.json to align feature columns")
     p.add_argument("--elo-k", type=float, default=32.0, help="Elo K-factor (must match training)")
     p.add_argument("--elo-base", type=float, default=1500.0, help="Elo base rating (must match training)")
     return p.parse_args()
 
 
-def load_and_prepare(csv_path: str, elo_k: float, elo_base: float) -> pd.DataFrame:
+def load_and_prepare(csv_path: str, players_path: str, elo_k: float, elo_base: float):
     df = pd.read_csv(csv_path)
     # Keep only completed or upcoming; label may not exist, but features no leak.
     if "status" in df.columns:
@@ -42,18 +44,28 @@ def load_and_prepare(csv_path: str, elo_k: float, elo_base: float) -> pd.DataFra
         df["winner"] = df["winner"].astype(str).str.strip()
         df["team1_win"] = (df["winner"] == df["team1"]).astype(int)
 
-    feats = build_elo_features(df, team1_col="team1", team2_col="team2", label_col="team1_win" if "team1_win" in df.columns else "__none__", elo_k=elo_k, elo_base=elo_base)
-    feats["match_id"] = df["match_id"] if "match_id" in df.columns else np.arange(len(df))
-    return df, feats
+    # Construir features completas
+    try:
+        df_players = pd.read_csv(players_path)
+    except FileNotFoundError:
+        df_players = pd.DataFrame(columns=["match_id", "player_team", "acs", "kast"])  # vacío -> NaNs en agregados
+    df_with_all, feats = build_full_features(df, df_players, elo_k=elo_k, elo_base=elo_base)
+    feats["match_id"] = df_with_all["match_id"] if "match_id" in df_with_all.columns else np.arange(len(df_with_all))
+    return df_with_all, feats
 
 
 def main():
     args = parse_args()
     model = joblib.load(args.model)
-    df, feats = load_and_prepare(args.csv, args.elo_k, args.elo_base)
+    # cargar train_info para alinear columnas de features
+    try:
+        with open(args.train_info, "r", encoding="utf-8") as f:
+            train_info = json.load(f)
+        feature_names = train_info.get("features", ["elo1_before", "elo2_before", "elo_diff"])  # fallback
+    except FileNotFoundError:
+        feature_names = ["elo1_before", "elo2_before", "elo_diff"]
 
-    # Por compatibilidad con el MVP entrenado
-    feature_names = ["elo1_before", "elo2_before", "elo_diff"]
+    df, feats = load_and_prepare(args.csv, args.players_stats_path, args.elo_k, args.elo_base)
     X = feats[feature_names]
     proba = model.predict_proba(X)[:, 1]
 

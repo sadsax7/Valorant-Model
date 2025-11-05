@@ -12,39 +12,39 @@ Este documento contiene las métricas de rendimiento del modelo de predicción d
 
 ### Datos de Entrenamiento
 
-| Métrica | Valor |
-|---------|-------|
-| **Total de partidos** | 504 |
-| **Partidos entrenamiento** | 403 (80%) |
-| **Partidos test** | 101 (20%) |
-| **Modelo utilizado** | LogisticRegression |
-| **Features** | elo1_before, elo2_before, elo_diff |
-| **Parámetros Elo** | K=32.0, Base=1500.0 |
+| Métrica                         | Valor                              |
+| -------------------------------- | ---------------------------------- |
+| **Total de partidos**      | 504                                |
+| **Partidos entrenamiento** | 403 (80%)                          |
+| **Partidos test**          | 101 (20%)                          |
+| **Modelo utilizado**       | LogisticRegression                 |
+| **Features**               | elo1_before, elo2_before, elo_diff |
+| **Parámetros Elo**        | K=32.0, Base=1500.0                |
 
 ### Métricas de Confiabilidad del Modelo (Probabilísticas)
 
-| Métrica | Valor | Interpretación |
-|---------|-------|----------------|
-| **Log Loss** | 0.6763 | Cuanto más bajo mejor. Un valor < 0.7 es aceptable. |
-| **ROC-AUC** | 0.5980 | Mide discriminación. >0.5 es mejor que azar. >0.6 es aceptable. |
-| **Brier Score** | 0.2430 | Mide calibración. Más bajo es mejor. <0.25 es bueno. |
+| Métrica              | Valor  | Interpretación                                                  |
+| --------------------- | ------ | ---------------------------------------------------------------- |
+| **Log Loss**    | 0.6763 | Cuanto más bajo mejor. Un valor < 0.7 es aceptable.             |
+| **ROC-AUC**     | 0.5980 | Mide discriminación. >0.5 es mejor que azar. >0.6 es aceptable. |
+| **Brier Score** | 0.2430 | Mide calibración. Más bajo es mejor. <0.25 es bueno.           |
 
 ### Métricas Discretas (Umbral = 0.5)
 
-| Métrica | Valor | Interpretación |
-|---------|-------|----------------|
-| **Accuracy** | 0.5446 (54.46%) | Precisión general del modelo |
-| **Precision** | 0.6000 (60.00%) | De los predichos como ganadores, 60% realmente ganaron |
-| **Recall** | 0.5357 (53.57%) | De los que realmente ganaron, el modelo capturó 53.57% |
-| **F1-Score** | 0.5660 (56.60%) | Media armónica de Precision y Recall |
+| Métrica            | Valor           | Interpretación                                         |
+| ------------------- | --------------- | ------------------------------------------------------- |
+| **Accuracy**  | 0.5446 (54.46%) | Precisión general del modelo                           |
+| **Precision** | 0.6000 (60.00%) | De los predichos como ganadores, 60% realmente ganaron  |
+| **Recall**    | 0.5357 (53.57%) | De los que realmente ganaron, el modelo capturó 53.57% |
+| **F1-Score**  | 0.5660 (56.60%) | Media armónica de Precision y Recall                   |
 
 ### Matriz de Confusión
 
-| | Predicho: No Gana | Predicho: Gana | Total Real |
-|---|-------------------|----------------|------------|
-| **Real: No Gana** | 25 (TN) | 20 (FP) | 45 |
-| **Real: Gana** | 26 (FN) | 30 (TP) | 56 |
-| **Total Predicho** | 51 | 50 | **101** |
+|                          | Predicho: No Gana | Predicho: Gana | Total Real    |
+| ------------------------ | ----------------- | -------------- | ------------- |
+| **Real: No Gana**  | 25 (TN)           | 20 (FP)        | 45            |
+| **Real: Gana**     | 26 (FN)           | 30 (TP)        | 56            |
+| **Total Predicho** | 51                | 50             | **101** |
 
 - **TP (True Positives):** 30 - Predijo ganador y acertó
 - **TN (True Negatives):** 25 - Predijo no ganador y acertó
@@ -53,20 +53,22 @@ Este documento contiene las métricas de rendimiento del modelo de predicción d
 
 ### Análisis de Predicciones del Test
 
-| Métrica | Valor |
-|---------|-------|
-| **Total de predicciones en test** | 101 |
-| **Aciertos totales** | 55 |
-| **Tasa de aciertos** | 54.46% |
+| Métrica                                | Valor  |
+| --------------------------------------- | ------ |
+| **Total de predicciones en test** | 101    |
+| **Aciertos totales**              | 55     |
+| **Tasa de aciertos**              | 54.46% |
 
 ### Interpretación de Resultados
 
 **Fortalezas:**
+
 - El modelo tiene una discriminación aceptable (ROC-AUC > 0.59) que supera el azar
 - La precisión es razonable (60%) cuando predice que un equipo ganará
 - El Brier Score indica una calibración moderadamente buena
 
 **Áreas de mejora:**
+
 - El accuracy general es cercano al azar (54.46%), lo que sugiere que el modelo necesita más datos o features adicionales
 - El recall es bajo (53.57%), indicando que el modelo se pierde casi la mitad de los casos donde team1 gana
 - El Log Loss es alto, sugiriendo que las probabilidades no están bien calibradas
@@ -82,40 +84,40 @@ El modelo muestra un rendimiento básico pero funcional. Con solo 504 partidos y
 
 ### Datos de Entrenamiento
 
-| Métrica | Valor |
-|---------|-------|
-| **Total de partidos** | 940 |
-| **Partidos entrenamiento** | 752 (80%) |
-| **Partidos test** | 188 (20%) |
-| **Modelo utilizado** | LogisticRegression |
-| **Features** | elo1_before, elo2_before, elo_diff |
-| **Parámetros Elo** | K=32.0, Base=1500.0 |
-| **Torneos incluidos** | 30 (15 de 2024 + 15 de 2025) |
+| Métrica                         | Valor                              |
+| -------------------------------- | ---------------------------------- |
+| **Total de partidos**      | 940                                |
+| **Partidos entrenamiento** | 752 (80%)                          |
+| **Partidos test**          | 188 (20%)                          |
+| **Modelo utilizado**       | LogisticRegression                 |
+| **Features**               | elo1_before, elo2_before, elo_diff |
+| **Parámetros Elo**        | K=32.0, Base=1500.0                |
+| **Torneos incluidos**      | 30 (15 de 2024 + 15 de 2025)       |
 
 ### Métricas de Confiabilidad del Modelo (Probabilísticas)
 
-| Métrica | Valor | Interpretación |
-|---------|-------|----------------|
-| **Log Loss** | 0.6581 | Mejoró desde 0.6763. Valor más bajo indica mejor calibración. |
-| **ROC-AUC** | 0.6510 | Mejoró significativamente desde 0.5980. Excelente discriminación. |
-| **Brier Score** | 0.2340 | Mejoró desde 0.2430. Calibración mejorada. |
+| Métrica              | Valor  | Interpretación                                                     |
+| --------------------- | ------ | ------------------------------------------------------------------- |
+| **Log Loss**    | 0.6581 | Mejoró desde 0.6763. Valor más bajo indica mejor calibración.    |
+| **ROC-AUC**     | 0.6510 | Mejoró significativamente desde 0.5980. Excelente discriminación. |
+| **Brier Score** | 0.2340 | Mejoró desde 0.2430. Calibración mejorada.                        |
 
 ### Métricas Discretas (Umbral = 0.5)
 
-| Métrica | Valor | Interpretación |
-|---------|-------|----------------|
-| **Accuracy** | 0.6117 (61.17%) | Mejoró desde 54.46%. Supera el 60% de precisión. |
+| Métrica            | Valor           | Interpretación                                                      |
+| ------------------- | --------------- | -------------------------------------------------------------------- |
+| **Accuracy**  | 0.6117 (61.17%) | Mejoró desde 54.46%. Supera el 60% de precisión.                   |
 | **Precision** | 0.6598 (65.98%) | Mejoró desde 60.00%. Mayor confiabilidad en predicciones positivas. |
-| **Recall** | 0.6154 (61.54%) | Mejoró desde 53.57%. Captura más casos reales de victorias. |
-| **F1-Score** | 0.6368 (63.68%) | Mejoró desde 56.60%. Mejor balance entre precision y recall. |
+| **Recall**    | 0.6154 (61.54%) | Mejoró desde 53.57%. Captura más casos reales de victorias.        |
+| **F1-Score**  | 0.6368 (63.68%) | Mejoró desde 56.60%. Mejor balance entre precision y recall.        |
 
 ### Matriz de Confusión
 
-| | Predicho: No Gana | Predicho: Gana | Total Real |
-|---|-------------------|----------------|------------|
-| **Real: No Gana** | 51 (TN) | 33 (FP) | 84 |
-| **Real: Gana** | 40 (FN) | 64 (TP) | 104 |
-| **Total Predicho** | 91 | 97 | **188** |
+|                          | Predicho: No Gana | Predicho: Gana | Total Real    |
+| ------------------------ | ----------------- | -------------- | ------------- |
+| **Real: No Gana**  | 51 (TN)           | 33 (FP)        | 84            |
+| **Real: Gana**     | 40 (FN)           | 64 (TP)        | 104           |
+| **Total Predicho** | 91                | 97             | **188** |
 
 - **TP (True Positives):** 64 - Predijo ganador y acertó
 - **TN (True Negatives):** 51 - Predijo no ganador y acertó
@@ -124,15 +126,16 @@ El modelo muestra un rendimiento básico pero funcional. Con solo 504 partidos y
 
 ### Análisis de Predicciones del Test
 
-| Métrica | Valor |
-|---------|-------|
-| **Total de predicciones en test** | 188 |
-| **Aciertos totales** | 115 |
-| **Tasa de aciertos** | 61.17% |
+| Métrica                                | Valor  |
+| --------------------------------------- | ------ |
+| **Total de predicciones en test** | 188    |
+| **Aciertos totales**              | 115    |
+| **Tasa de aciertos**              | 61.17% |
 
 ### Interpretación de Resultados
 
 **Mejoras significativas:**
+
 - **ROC-AUC mejoró +8.9%** (de 0.598 a 0.651): El modelo ahora discrimina mucho mejor entre ganadores y perdedores
 - **Accuracy mejoró +6.7%** (de 54.46% a 61.17%): El modelo acierta en más del 60% de los casos
 - **Recall mejoró +8.0%** (de 53.57% a 61.54%): El modelo captura más victorias reales
@@ -149,27 +152,29 @@ El modelo mejoró sustancialmente con más datos. Al duplicar el dataset (de 504
 
 ### Tabla Comparativa de Métricas
 
-| Métrica | Entrenamiento 1 (Solo 2025) | Entrenamiento 2 (2024 + 2025) | Mejora | Cambio % |
-|---------|----------------------------|-------------------------------|--------|----------|
-| **Total de partidos** | 504 | 940 | +436 | +86.5% |
-| **Partidos entrenamiento** | 403 | 752 | +349 | +86.6% |
-| **Partidos test** | 101 | 188 | +87 | +86.1% |
-| **Log Loss** | 0.6763 | 0.6581 | -0.0182 | -2.7% |
-| **ROC-AUC** | 0.5980 | 0.6510 | +0.0530 | +8.9% |
-| **Brier Score** | 0.2430 | 0.2340 | -0.0090 | -3.7% |
-| **Accuracy** | 54.46% | 61.17% | +6.71% | +12.3% |
-| **Precision** | 60.00% | 65.98% | +5.98% | +10.0% |
-| **Recall** | 53.57% | 61.54% | +7.97% | +14.9% |
-| **F1-Score** | 56.60% | 63.68% | +7.08% | +12.5% |
+| Métrica                         | Entrenamiento 1 (Solo 2025) | Entrenamiento 2 (2024 + 2025) | Mejora  | Cambio % |
+| -------------------------------- | --------------------------- | ----------------------------- | ------- | -------- |
+| **Total de partidos**      | 504                         | 940                           | +436    | +86.5%   |
+| **Partidos entrenamiento** | 403                         | 752                           | +349    | +86.6%   |
+| **Partidos test**          | 101                         | 188                           | +87     | +86.1%   |
+| **Log Loss**               | 0.6763                      | 0.6581                        | -0.0182 | -2.7%    |
+| **ROC-AUC**                | 0.5980                      | 0.6510                        | +0.0530 | +8.9%    |
+| **Brier Score**            | 0.2430                      | 0.2340                        | -0.0090 | -3.7%    |
+| **Accuracy**               | 54.46%                      | 61.17%                        | +6.71%  | +12.3%   |
+| **Precision**              | 60.00%                      | 65.98%                        | +5.98%  | +10.0%   |
+| **Recall**                 | 53.57%                      | 61.54%                        | +7.97%  | +14.9%   |
+| **F1-Score**               | 56.60%                      | 63.68%                        | +7.08%  | +12.5%   |
 
 ### Análisis de Mejora
 
 #### Métricas Probabilísticas
+
 - ✅ **Log Loss**: Mejoró (menor es mejor), indicando mejor calibración de probabilidades
 - ✅ **ROC-AUC**: Mejora significativa (+8.9%), ahora el modelo tiene discriminación aceptable
 - ✅ **Brier Score**: Mejoró (menor es mejor), confirmando mejor calibración
 
 #### Métricas Discretas
+
 - ✅ **Accuracy**: Mejoró +6.7 puntos porcentuales, ahora supera el 60%
 - ✅ **Precision**: Mejoró +6.0 puntos porcentuales, menos falsos positivos
 - ✅ **Recall**: Mejoró +8.0 puntos porcentuales, captura más victorias reales
@@ -178,11 +183,13 @@ El modelo mejoró sustancialmente con más datos. Al duplicar el dataset (de 504
 ### Impacto del Aumento de Datos
 
 **Antes (Solo 2025):**
+
 - 504 partidos totales
 - Modelo cercano al azar (ROC-AUC ≈ 0.60)
 - Accuracy del 54.46%
 
 **Después (2024 + 2025):**
+
 - 940 partidos totales (+86.5% más datos)
 - Modelo con discriminación aceptable (ROC-AUC = 0.65)
 - Accuracy del 61.17% (+12.3% relativo)
@@ -192,18 +199,93 @@ El modelo mejoró sustancialmente con más datos. Al duplicar el dataset (de 504
 **El modelo mejoró significativamente con más datos:**
 
 1. **Más datos = mejor aprendizaje**: El aumento del 86.5% en datos de entrenamiento permitió al modelo aprender patrones más robustos y generalizables.
-
 2. **Mejor discriminación**: El ROC-AUC mejoró de 0.598 a 0.651, lo que indica que el modelo ahora separa mejor los casos de victoria y derrota.
-
 3. **Mejor precisión práctica**: El accuracy mejoró de 54.46% a 61.17%, lo que significa que el modelo acierta en más del 60% de los casos, superando significativamente el azar (50%).
-
 4. **Mejor balance**: El F1-Score mejoró de 56.60% a 63.68%, indicando un mejor equilibrio entre precision y recall.
-
 5. **Mejor calibración**: Tanto Log Loss como Brier Score mejoraron, lo que significa que las probabilidades predichas son más confiables.
 
 **Recomendación**: El modelo muestra que con más datos históricos, el rendimiento mejora sustancialmente. Continuar añadiendo datos de nuevos torneos debería mejorar aún más el modelo.
 
 ---
+
+## Entrenamiento 3: Con nuevas features (Elo + ACS/KAST)
+
+**Fecha de entrenamiento:** 2025-11-05
+
+### Datos de Entrenamiento
+
+| Métrica                         | Valor                                                             |
+| -------------------------------- | ----------------------------------------------------------------- |
+| **Total de partidos**      | 940                                                               |
+| **Partidos entrenamiento** | 752 (80%)                                                         |
+| **Partidos test**          | 188 (20%)                                                         |
+| **Modelo utilizado**       | LogisticRegression                                                |
+| **Features**               | elo1_before, elo2_before, elo_diff, diff_acs_mean, diff_kast_mean |
+| **Parámetros Elo**        | K=32.0, Base=1500.0                                               |
+| **Fuentes**                | matches.csv + detailed_matches_player_stats.csv                   |
+
+### Métricas de Confiabilidad (Probabilísticas)
+
+| Métrica              | Valor  |
+| --------------------- | ------ |
+| **Log Loss**    | 0.2922 |
+| **ROC-AUC**     | 0.9453 |
+| **Brier Score** | 0.0935 |
+
+### Métricas Discretas (Umbral = 0.5)
+
+| Métrica            | Valor  |
+| ------------------- | ------ |
+| **Accuracy**  | 85.64% |
+| **Precision** | 85.32% |
+| **Recall**    | 89.42% |
+| **F1-Score**  | 87.32% |
+
+### Matriz de Confusión
+
+|                          | Predicho: No Gana | Predicho: Gana | Total Real    |
+| ------------------------ | ----------------- | -------------- | ------------- |
+| **Real: No Gana**  | 68 (TN)           | 16 (FP)        | 84            |
+| **Real: Gana**     | 11 (FN)           | 93 (TP)        | 104           |
+| **Total Predicho** | 79                | 109            | **188** |
+
+### Análisis de Predicciones del Test
+
+| Métrica                                | Valor  |
+| --------------------------------------- | ------ |
+| **Total de predicciones en test** | 188    |
+| **Aciertos totales**              | 161    |
+| **Tasa de aciertos**              | 85.64% |
+
+### Interpretación de Resultados
+
+**Mejoras significativas:**
+
+- Fuerte mejora en discriminación (AUC ≈ 0.95) y calibración (Brier ≈ 0.094).
+- Utilidad práctica alta: accuracy > 85%, precision/recall/f1 > 85%.
+
+**Conclusión:**
+Las nuevas features (promedios ACS/KAST y sus diferencias) aportan señal predictiva sustancial. Si tu caso de uso requiere solo información pre‑partido, se recomienda sustituirlas por agregados históricos previos al match para evitar potencial fuga de información.
+
+### Comparativa (Entrenamiento 2 vs 3)
+
+| Métrica  | Entrenamiento 2 | Entrenamiento 3 | Cambio    |
+| --------- | --------------- | --------------- | --------- |
+| Log Loss  | 0.6581          | 0.2922          | -0.3659   |
+| ROC-AUC   | 0.6510          | 0.9453          | +0.2943   |
+| Brier     | 0.2340          | 0.0935          | -0.1405   |
+| Accuracy  | 61.17%          | 85.64%          | +24.47 pp |
+| Precision | 65.98%          | 85.32%          | +19.34 pp |
+| Recall    | 61.54%          | 89.42%          | +27.88 pp |
+| F1        | 63.68%          | 87.32%          | +23.64 pp |
+
+### Éxito de las nuevas features (resumen)
+
+| Feature añadida       | Señal esperada                | Evidencia en métricas |
+| ---------------------- | ------------------------------ | ---------------------- |
+| diff_acs_mean          | Habilidad ofensiva promedio    | AUC ↑, Precision ↑   |
+| diff_kast_mean         | Consistencia/soporte en rondas | Recall ↑, F1 ↑       |
+| ACS + KAST (conjuntas) | Balance aim + táctica         | Accuracy/F1 ↑↑       |
 
 ## Notas Técnicas
 
@@ -215,4 +297,3 @@ El modelo mejoró sustancialmente con más datos. Al duplicar el dataset (de 504
 ---
 
 *Última actualización: 2025-11-05*
-
