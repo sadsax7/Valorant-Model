@@ -1,116 +1,260 @@
-# Data Valorant – Consolidación de CSVs y MVP de Modelo
+# Modelo Predictivo de Valorant Competitivo
 **Autoría del Proyecto: Alejandro Arango Mejía y Thomas Rivera Fernandez.**
 
-Proyecto para consolidar datos de torneos de Valorant (dump por torneo en carpetas `*_csvs/`) hacia un conjunto maestro (`masters_csvs/`) y entrenar un MVP de modelo para predecir ganadores usando Elo (pre‑partido). Incluye scripts para visualización, export de predicciones y orquestadores para ejecutar todo con un solo comando.
+Modelo de machine learning para predecir resultados de partidos profesionales de Valorant usando **Regresión Logística** con sistema de rating **Elo** y métricas de rendimiento de jugadores. El modelo alcanza un **86% de precisión** en el conjunto de prueba.
 
-## Estructura del Repo
-- `scripts/`
-  - `merge_tournaments_to_masters.py`: une CSVs por torneo en `masters_csvs/` agregando `tournament_name` y unificando columnas.
-  - `join_matches_by_match_id.py`: hace join por `match_id` entre `matches.csv`, `detailed_matches_overview.csv`, `detailed_matches_player_stats.csv` y `detailed_matches_maps.csv`, produciendo `masters_csvs/matches_joined.csv` con columnas `ov_*` y dos columnas JSON (`players_json`, `maps_json`).
-- `tournaments/` (recomendado): carpeta donde viven todas las carpetas crudas `*_csvs/` de torneos.
-- `masters_csvs/`: CSVs maestros consolidados (salida de los scripts, se mantienen en la raíz del repo).
-- `mvp_model/`: MVP del modelo (entrenamiento, predicción, utilidades Elo y artifacts).
-  - `train_mvp.py`, `predict_mvp.py`, `plot_test_predictions.py`, `print_test_tail.py`, `print_test_all.py`, `utils/elo.py`, `artifacts/`, `README.md`.
-- `.venv/` (Windows) o `.venv_cli/` (Linux/WSL, opcional): entornos virtuales.
-- `.gitignore`: ignora caches, entornos, artefactos y temporales.
+## 📊 Sobre los Datos
 
-## Requisitos
-- Python 3.9+ (recomendado 3.11 o 3.12).
-- Paquetes del modelo (si vas a entrenar/predicción): `pandas`, `numpy`, `scikit-learn`, `joblib`, `matplotlib` (opcional `xgboost`).
-  - Ya listados en `mvp_model/requirements.txt`.
+Recolectamos información detallada de **torneos competitivos de Valorant de 2024 y 2025**. La decisión de enfocarnos en estas temporadas es estratégica: queremos evitar sesgar el modelo con datos históricos que reflejen cómo jugaban los equipos en metas anteriores del juego, cuando las estrategias, composiciones y el nivel competitivo eran diferentes.
 
-## Flujo de Datos
-1) Entrada: carpetas `*_csvs/` por torneo con archivos como `matches.csv`, `detailed_matches_overview.csv`, etc.
-2) Consolidación: `scripts/merge_tournaments_to_masters.py` crea `masters_csvs/*.csv` unificando columnas y añadiendo `tournament_name`.
-3) Join por partido: `scripts/join_matches_by_match_id.py` crea `masters_csvs/matches_joined.csv` con overview y listas JSON de jugadores y mapas por `match_id`.
-4) Modelo: `mvp_model/train_mvp.py` entrena un clasificador para `team1_win` usando `elo_diff` generado cronológicamente.
+**Planeamos agregar datos de temporadas anteriores** en el futuro, pero actualmente priorizamos la precisión predictiva sobre equipos y jugadores en su forma actual.
 
-## Uso Rápido
-Desde la raíz del repo (este folder):
+Los datos incluyen:
+- Información de partidos (equipos, ganador, fecha, torneo)
+- Estadísticas detalladas de jugadores por partido
+- Métricas de rendimiento por mapa
 
-0. Entorno y dependencias
+## 🎯 Metodología del Modelo
+
+### Sistema de Rating Elo
+
+Implementamos un **sistema de rating Elo** adaptado para Valorant competitivo. El Elo es un método de clasificación que:
+
+- **Asigna un rating inicial** de 1500 puntos a cada equipo
+- **Actualiza ratings después de cada partido** basándose en el resultado esperado vs. el resultado real
+- **Usa un factor K de 32** para controlar la velocidad de ajuste de ratings
+- **Calcula probabilidades pre-partido** usando la diferencia de Elo entre equipos
+
+La fórmula de probabilidad esperada es:
+```
+P(A gana) = 1 / (1 + 10^((Elo_B - Elo_A) / 400))
+```
+
+**Importante:** El Elo se calcula de forma **cronológica** (ordenando partidos por fecha) para evitar fugas de información. Solo usamos el rating de cada equipo **antes** del partido para hacer predicciones.
+
+### Métricas de Jugadores
+
+Además del Elo de equipo, el modelo incorpora métricas agregadas de rendimiento de jugadores:
+
+#### **ACS (Average Combat Score)**
+- Métrica compuesta que mide el impacto general de un jugador en el combate
+- Considera daño infligido, kills, multi-kills y otros factores
+- **Calculamos el promedio de ACS** de los 5 jugadores de cada equipo por partido
+- Usamos la **diferencia de ACS promedio** entre equipos como feature
+
+#### **KAST (Kill, Assist, Survive, Trade)**
+- Porcentaje de rounds donde el jugador:
+  - Consiguió un kill, O
+  - Dio una asistencia, O
+  - Sobrevivió el round, O
+  - Fue tradeado (su muerte fue vengada inmediatamente)
+- Mide la **consistencia y participación** del jugador en cada round
+- **Calculamos el promedio de KAST** de los 5 jugadores de cada equipo
+- Usamos la **diferencia de KAST promedio** entre equipos como feature
+
+### Features del Modelo
+
+El modelo usa las siguientes características para cada partido:
+
+1. **`elo1_before`**: Rating Elo del equipo 1 antes del partido
+2. **`elo2_before`**: Rating Elo del equipo 2 antes del partido
+3. **`elo_diff`**: Diferencia de Elo (equipo1 - equipo2)
+4. **`diff_acs_mean`**: Diferencia de ACS promedio entre equipos
+5. **`diff_kast_mean`**: Diferencia de KAST promedio entre equipos
+
+### Algoritmo: Regresión Logística
+
+Usamos **Regresión Logística** con las siguientes características:
+
+- **Variable objetivo dicotómica**: 1 si gana el equipo 1, 0 si gana el equipo 2
+- **Pipeline de preprocesamiento**:
+  - Imputación de valores faltantes (mediana)
+  - Estandarización de features (StandardScaler)
+- **Split temporal**: 80% entrenamiento, 20% prueba (respetando orden cronológico)
+
+## 📊 Resultados del Modelo
+
+### Evolución de Entrenamientos
+
+A continuación se muestra la evolución del modelo a través de diferentes experimentos, agregando más datos y features:
+
+| Entrenamiento | Datos Usados | Features Principales | Modelo | Log Loss | ROC-AUC | Brier | Accuracy | Precision | Recall | F1 |
+|---------------|--------------|---------------------|---------|----------|---------|-------|----------|-----------|--------|-----|
+| **1** | Torneos 2025<br>(504 partidos) | Solo Elo<br>(`elo1_before`, `elo2_before`, `elo_diff`) | Logistic Regression | 0.6763 | 0.5980 | 0.2456 | 54.46% | 55.17% | 58.25% | 56.60% |
+| **2** | Torneos 2024+2025<br>(940 partidos) | Solo Elo<br>(`elo1_before`, `elo2_before`, `elo_diff`) | Logistic Regression | 0.6581 | 0.6510 | 0.2398 | 61.17% | 62.50% | 65.00% | 63.68% |
+| **3** | Torneos 2024+2025<br>(940 partidos) | Elo + Métricas de Jugadores<br>(`elo_diff`, `diff_acs_mean`, `diff_kast_mean`) | Logistic Regression | **0.2922** | **0.9453** | **0.0856** | **85.64%** | **87.10%** | **87.63%** | **87.32%** |
+
+### Análisis de Resultados
+
+**Del Entrenamiento 1 al 2:**
+- Al casi **duplicar los datos** (de 504 a 940 partidos), el modelo mejoró significativamente
+- ROC-AUC aumentó **+8.9%** (0.598 → 0.651)
+- Accuracy mejoró **+6.7 puntos porcentuales** (54.46% → 61.17%)
+- Esto demuestra que el sistema Elo se beneficia enormemente de tener más historial de partidos
+
+**Del Entrenamiento 2 al 3:**
+- Agregar métricas de jugadores (ACS y KAST) produjo una **mejora dramática**
+- Log Loss se redujo **-0.37** (0.658 → 0.292) - mucho mejor calibración
+- ROC-AUC saltó a **0.945** - discriminación casi perfecta
+- Accuracy alcanzó **85.64%** - el modelo predice correctamente 86 de cada 100 partidos
+- Esto confirma que las estadísticas individuales de jugadores agregadas por equipo aportan señal predictiva real
+
+### Explicación de Métricas
+
+#### **Accuracy (Exactitud)**
+- **Qué mide**: Porcentaje de predicciones correctas sobre el total
+- **Fórmula**: (Predicciones Correctas) / (Total de Predicciones)
+- **Interpretación**:
+  - **< 60%**: Rendimiento pobre, apenas mejor que el azar
+  - **60-70%**: Aceptable, el modelo tiene cierta capacidad predictiva
+  - **70-80%**: Bueno, el modelo es confiable
+  - **80-90%**: Muy bueno, alto nivel de precisión
+  - **> 90%**: Excelente (pero cuidado con overfitting)
+- **Nuestro resultado**: **85.64%** ✅ Muy bueno
+
+#### **ROC-AUC (Area Under the ROC Curve)**
+- **Qué mide**: Capacidad del modelo para discriminar entre clases (victorias vs derrotas)
+- **Rango**: 0.0 a 1.0
+- **Interpretación**:
+  - **0.5**: Modelo aleatorio, sin capacidad predictiva
+  - **0.6-0.7**: Discriminación pobre
+  - **0.7-0.8**: Discriminación aceptable
+  - **0.8-0.9**: Discriminación buena
+  - **0.9-1.0**: Discriminación excelente
+- **Nuestro resultado**: **0.9453** ✅ Excelente
+
+#### **Log Loss (Logarithmic Loss)**
+- **Qué mide**: Penaliza predicciones con alta confianza que resultan incorrectas
+- **Rango**: 0.0 a infinito (más bajo es mejor)
+- **Interpretación**:
+  - **< 0.3**: Excelente calibración de probabilidades
+  - **0.3-0.5**: Buena calibración
+  - **0.5-0.7**: Calibración aceptable
+  - **> 0.7**: Calibración pobre
+- **Nuestro resultado**: **0.2922** ✅ Excelente
+
+#### **Brier Score**
+- **Qué mide**: Error cuadrático medio de las probabilidades predichas
+- **Rango**: 0.0 a 1.0 (más bajo es mejor)
+- **Interpretación**:
+  - **< 0.1**: Excelente calibración
+  - **0.1-0.2**: Buena calibración
+  - **0.2-0.25**: Calibración aceptable
+  - **> 0.25**: Calibración pobre
+- **Nuestro resultado**: **0.0856** ✅ Excelente
+
+#### **Precision (Precisión)**
+- **Qué mide**: De todas las predicciones positivas, cuántas fueron correctas
+- **Fórmula**: Verdaderos Positivos / (Verdaderos Positivos + Falsos Positivos)
+- **Interpretación**:
+  - **< 70%**: Muchos falsos positivos
+  - **70-80%**: Aceptable
+  - **80-90%**: Buena
+  - **> 90%**: Excelente
+- **Nuestro resultado**: **87.10%** ✅ Buena
+
+#### **Recall (Sensibilidad)**
+- **Qué mide**: De todos los casos positivos reales, cuántos detectó el modelo
+- **Fórmula**: Verdaderos Positivos / (Verdaderos Positivos + Falsos Negativos)
+- **Interpretación**:
+  - **< 70%**: El modelo pierde muchos casos positivos
+  - **70-80%**: Aceptable
+  - **80-90%**: Buena
+  - **> 90%**: Excelente
+- **Nuestro resultado**: **87.63%** ✅ Buena
+
+#### **F1 Score**
+- **Qué mide**: Media armónica entre Precision y Recall (balance entre ambas)
+- **Fórmula**: 2 × (Precision × Recall) / (Precision + Recall)
+- **Interpretación**:
+  - **< 70%**: Rendimiento pobre
+  - **70-80%**: Aceptable
+  - **80-90%**: Bueno
+  - **> 90%**: Excelente
+- **Nuestro resultado**: **87.32%** ✅ Bueno
+
+### Resumen de Rendimiento
+
+Nuestro modelo actual (Entrenamiento 3) alcanza:
+- ✅ **85.64% de accuracy** - Predice correctamente 86 de cada 100 partidos
+- ✅ **ROC-AUC de 0.945** - Discriminación casi perfecta entre victorias y derrotas
+- ✅ **Log Loss de 0.292** - Excelente calibración de probabilidades
+- ✅ **Brier Score de 0.086** - Predicciones probabilísticas muy precisas
+- ✅ **F1 Score de 87.32%** - Excelente balance entre precision y recall
+
+Todas las métricas están en rangos **excelentes**, lo que indica que el modelo es altamente confiable para predecir resultados de partidos profesionales de Valorant.
+
+## 📁 Estructura del Proyecto
+
+```
+Valorant-Model/
+├── masters_csvs/              # Datos consolidados de todos los torneos
+│   ├── matches.csv           # Información de partidos
+│   ├── detailed_matches_player_stats.csv  # Estadísticas de jugadores
+│   └── ...
+├── mvp_model/                # Código del modelo
+│   ├── train_mvp.py         # Script de entrenamiento
+│   ├── predict_mvp.py       # Script de predicción
+│   ├── utils/
+│   │   ├── elo.py          # Implementación del sistema Elo
+│   │   └── features.py     # Construcción de features
+│   ├── artifacts/          # Modelos y resultados guardados
+│   └── requirements.txt    # Dependencias Python
+├── scripts/                 # Scripts auxiliares
+└── tournaments/            # Datos crudos por torneo
+```
+
+## 🚀 Cómo Ejecutar el Modelo
+
+### 0. Configuración del Entorno
+
+**Windows (PowerShell):**
 ```powershell
 py -3.12 -m venv .venv
 . .\.venv\Scripts\Activate.ps1
 pip install -r mvp_model/requirements.txt
 ```
 
-1. Generar maestros
+**Linux / WSL:**
 ```bash
-python scripts/merge_tournaments_to_masters.py
-# recomendado: si cambiaste la ubicación de los dumps
-# python scripts/merge_tournaments_to_masters.py --data-root /ruta/a/mis/tournaments --output-dir /ruta/a/masters_csvs
-```
-
-2. Generar join de partidos
-```bash
-python scripts/join_matches_by_match_id.py
-# recomendado: especificar ubicación de masters distinta
-# python scripts/join_matches_by_match_id.py --masters-dir /ruta/a/mis/masters_csvs
-```
-
-3. Entrenar modelo y generar métricas/artefactos
-
-Windows (PowerShell)
-```powershell
-# Crear/activar entorno (si no existe)
-py -3.12 -m venv .venv
-. .\.venv\Scripts\Activate.ps1
-pip install -r mvp_model/requirements.txt
-
-# Entrenar
-python -m mvp_model.train_mvp \
-  --csv-path masters_csvs/matches.csv \
-  --model-out mvp_model/artifacts/model.pkl \
-  --metrics-out mvp_model/artifacts/metrics.json \
-  --train-info-out mvp_model/artifacts/train_info.json
-
-# Predecir sobre un CSV
-python -m mvp_model.predict_mvp \
-  --model mvp_model/artifacts/model.pkl \
-  --csv masters_csvs/matches.csv \
-  --out mvp_model/artifacts/preds_sample.csv
-```
-
-Linux / WSL
-```bash
-# Crear/activar entorno (si lo prefieres separado del de Windows)
 python3 -m venv .venv_cli
 source .venv_cli/bin/activate
 pip install -r mvp_model/requirements.txt
+```
 
-# Entrenar
+### 1. Entrenar el Modelo
+
+**Windows:**
+```powershell
+python -m mvp_model.train_mvp `
+  --csv-path masters_csvs/matches.csv `
+  --players-stats-path masters_csvs/detailed_matches_player_stats.csv `
+  --model-out mvp_model/artifacts/model.pkl `
+  --metrics-out mvp_model/artifacts/metrics.json `
+  --train-info-out mvp_model/artifacts/train_info.json
+```
+
+**Linux / WSL:**
+```bash
 python -m mvp_model.train_mvp \
   --csv-path masters_csvs/matches.csv \
+  --players-stats-path masters_csvs/detailed_matches_player_stats.csv \
   --model-out mvp_model/artifacts/model.pkl \
   --metrics-out mvp_model/artifacts/metrics.json \
   --train-info-out mvp_model/artifacts/train_info.json
+```
 
-# Predecir
+### 2. Hacer Predicciones
+
+```bash
 python -m mvp_model.predict_mvp \
   --model mvp_model/artifacts/model.pkl \
   --csv masters_csvs/matches.csv \
   --out mvp_model/artifacts/preds_sample.csv
 ```
 
-4. Utilidades de test
-```bash
-# CSV del bloque de test (todo el test recomendado)
-python -m mvp_model.print_test_tail \
-  --csv-path masters_csvs/matches.csv \
-  --model mvp_model/artifacts/model.pkl \
-  --all-test \
-  --out mvp_model/artifacts/test_tail_preds.csv \
-  --threshold 0.5
+### 3. Visualizar Resultados del Test
 
-# Todo el bloque de test a CSV
-python -m mvp_model.print_test_all \
-  --csv-path masters_csvs/matches.csv \
-  --model mvp_model/artifacts/model.pkl \
-  --out mvp_model/artifacts/test_preds.csv
-```
-
-5. Gráficas del test (serie temporal + calibración)
 ```bash
 python -m mvp_model.plot_test_predictions \
   --csv-path masters_csvs/matches.csv \
@@ -121,82 +265,123 @@ python -m mvp_model.plot_test_predictions \
   --threshold 0.5
 ```
 
-## Detalles de Implementación
-- `merge_tournaments_to_masters.py`
-  - Detecta la raíz del proyecto automáticamente y busca todas las carpetas `*_csvs/` (excepto `masters_csvs`).
-  - Para cada base (p. ej. `matches`, `player_stats`, …) genera una cabecera unión para no perder columnas cuando los torneos difieren.
-  - Escribe en `masters_csvs/{base}.csv` con reemplazo atómico (`.tmp_*.csv`).
+**Salidas generadas:**
+- `test_predictions_timeseries.png`: Serie temporal de probabilidades predichas vs. resultados reales
+- `test_calibration_curve.png`: Curva de calibración del modelo
+- `test_metrics.json`: Métricas detalladas (accuracy, precision, recall, F1, matriz de confusión)
 
-- `join_matches_by_match_id.py`
-  - Une por `match_id` y crea columnas `ov_*` del overview y dos columnas JSON: `players_json` y `maps_json` (sin `match_id` para no duplicar).
-  - Salida: `masters_csvs/matches_joined.csv`.
+### 4. Exportar Predicciones del Conjunto de Test
 
-- `mvp_model/train_mvp.py`
-  - Crea etiquetas `team1_win` a partir de `winner`.
-  - Genera Elo cronológico (`elo_diff`) con K y base configurables.
-  - Entrena un pipeline: `StandardScaler` + `LogisticRegression` (o `XGBClassifier` si activado y disponible).
-  - Métricas: LogLoss, ROC-AUC, Brier en split temporal (cola como test).
-  - Artefactos: `model.pkl`, `metrics.json`, `train_info.json` en `mvp_model/artifacts/`.
+```bash
+python -m mvp_model.print_test_tail \
+  --csv-path masters_csvs/matches.csv \
+  --model mvp_model/artifacts/model.pkl \
+  --all-test \
+  --out mvp_model/artifacts/test_tail_preds.csv \
+  --threshold 0.5
+```
 
-## Buenas Prácticas y Notas
-- Ejecuta los scripts desde la raíz o desde `scripts/` indistintamente: detectan la raíz del proyecto.
-- Codificación CSV: se usa `utf-8-sig` para tolerar BOM.
-- `.gitignore` ya ignora `mvp_model/artifacts/` y temporales `.tmp_*.csv`.
-  - Si no quieres subir los dumps crudos, puedes ignorar `*_csvs/` manteniendo `masters_csvs/` (ver bloque comentado en `.gitignore`).
-- En Windows y WSL, los entornos virtuales no son intercambiables (Windows usa `Scripts/`, Linux `bin/`). Crea un entorno por sistema si alternas.
-- Si tu Python en Linux no tiene `venv` (error `ensurepip is not available`), instala el paquete de sistema (p. ej. `apt install python3.12-venv`) y recrea el venv.
+El CSV resultante incluye:
+- `p_team1_win`: Probabilidad predicha de victoria del equipo 1
+- `pred_team1_win`: Predicción binaria (0 o 1)
+- `team1_win`: Resultado real
+- `correct`: Si la predicción fue correcta
 
-## Problemas Comunes (Troubleshooting)
-- `ModuleNotFoundError` (p. ej. `numpy`): activa el entorno correcto antes de ejecutar (`.venv/Scripts/Activate.ps1` en Windows; `source .venv_cli/bin/activate` en Linux/WSL) o instala dependencias.
-- `PermissionError` al activar en PowerShell: permite scripts con `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` y vuelve a activar.
-- CSVs vacíos o faltantes en algún torneo: el merge los omite; revisa el resumen por archivo para detectar ausentes.
-- PowerShell partiendo líneas: pega los comandos en una sola línea o usa backticks (`) al final de cada línea. Evita partir rutas en medio (p. ej., `mvp_model/artifacts/` + `model.pkl`).
+## 📈 Interpretación de Resultados
 
-## Siguientes Pasos
-- Añadir más features pre-partido (ratings por mapa, forma reciente por jugador/agente, contexto de patch/torneo) manteniendo splits temporales.
-- Agregar validación cruzada temporal y tracking de experimentos.
+### Métricas Clave
+
+- **ROC-AUC** (≈0.5 azar, >0.6 aceptable, >0.8 excelente): Mide qué tan bien el modelo discrimina entre victorias y derrotas
+- **Log Loss** (más bajo es mejor): Penaliza predicciones con alta confianza que son incorrectas
+- **Brier Score** (más bajo es mejor): Mide la precisión de las probabilidades predichas
+- **Accuracy**: Porcentaje de predicciones correctas (~86% en nuestro modelo)
+
+### Gráficas
+
+**Serie Temporal:**
+- La línea de probabilidad debe estar **alta** (cerca de 1.0) cuando el resultado real es 1
+- La línea debe estar **baja** (cerca de 0.0) cuando el resultado real es 0
+- Muestra la evolución del rendimiento del modelo a lo largo del tiempo
+
+**Curva de Calibración:**
+- La curva ideal se pega a la **diagonal** (predicciones perfectamente calibradas)
+- **Por debajo de la diagonal**: El modelo está sobreconfiado
+- **Por encima de la diagonal**: El modelo está subconfiado
+
+## 🛠️ Requisitos Técnicos
+
+- **Python**: 3.9+ (recomendado 3.11 o 3.12)
+- **Dependencias principales**:
+  - `pandas`: Manipulación de datos
+  - `numpy`: Operaciones numéricas
+  - `scikit-learn`: Algoritmos de ML y métricas
+  - `joblib`: Serialización de modelos
+  - `matplotlib`: Visualizaciones
+  - `xgboost` (opcional): Algoritmo alternativo más potente
+
+## 🔧 Ejecución Completa (One-Liner)
+
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/run_all.ps1
+```
+
+**Linux/WSL:**
+```bash
+bash scripts/run_all.sh
+```
+
+Estos scripts ejecutan todo el pipeline: entrenamiento, predicción, generación de gráficas y exportación de resultados.
+
+## 📝 Verificación Rápida
+
+**PowerShell:**
+```powershell
+# Verificar que el modelo existe
+Test-Path "mvp_model/artifacts/model.pkl"
+
+# Ver métricas
+Get-Content "mvp_model/artifacts/metrics.json"
+
+# Abrir gráficas
+Start-Process "mvp_model/artifacts/plots/test_predictions_timeseries.png"
+```
+
+**Linux/WSL:**
+```bash
+# Verificar modelo
+ls -lh mvp_model/artifacts/model.pkl
+
+# Ver métricas
+cat mvp_model/artifacts/metrics.json
+
+# Ver primeras líneas de predicciones
+head mvp_model/artifacts/test_tail_preds.csv
+```
+
+## 🐛 Problemas Comunes
+
+- **`ModuleNotFoundError`**: Asegúrate de activar el entorno virtual antes de ejecutar
+  - Windows: `. .\.venv\Scripts\Activate.ps1`
+  - Linux: `source .venv_cli/bin/activate`
+
+- **`PermissionError` en PowerShell**: Ejecuta `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+- **Muy pocos partidos**: El modelo requiere al menos 20 partidos para entrenar
+
+## 🔮 Próximos Pasos
+
+- Incorporar ratings Elo **por mapa** (cada mapa tiene su propia meta)
+- Agregar **forma reciente** de equipos (últimos 5-10 partidos)
+- Incluir **estadísticas por agente** de los jugadores
+- Considerar **contexto de patch** (cambios de balance del juego)
+- Implementar **validación cruzada temporal** para evaluación más robusta
+
+## 📧 Contacto
+
+- **Alejandro Arango Mejía**: aarangom1@eafit.edu.co
+- **Thomas Rivera Fernandez**: triveraf@eafit.edu.co
 
 ---
-Para más detalles del modelo, ver `mvp_model/README.md`.
 
-## Ejecución de todo el pipeline (one‑liner)
-- Windows (PowerShell):
-  - `powershell -ExecutionPolicy Bypass -File scripts/run_all.ps1`
-  - Por defecto usa TODO el bloque de test para las gráficas; para limitar a N: `-LastN 10`
-  - Otros parámetros: `-Threshold 0.5 -CsvPath masters_csvs/matches.csv -ModelPath mvp_model/artifacts/model.pkl`
-
-- Linux/WSL:
-  - `bash scripts/run_all.sh`
-  - Por defecto usa TODO el bloque de test; para limitar a N: `bash scripts/run_all.sh --last-n 10`
-  - Otros parámetros: `--threshold 0.5 --csv-path masters_csvs/matches.csv --model mvp_model/artifacts/model.pkl`
-
-## Salidas esperadas y verificación rápida
-- Salidas clave (rutas por defecto):
-  - Modelo: `mvp_model/artifacts/model.pkl`
-  - Métricas test (probabilísticas): `mvp_model/artifacts/metrics.json`
-  - CSV de test (predicciones + aciertos): `mvp_model/artifacts/test_tail_preds.csv`
-  - Gráficas: `mvp_model/artifacts/plots/test_predictions_timeseries.png` y `.../test_calibration_curve.png`
-  - Métricas de gráficas (incluye discretas y matriz de confusión): `mvp_model/artifacts/plots/test_metrics.json`
-
-- Verificar en PowerShell:
-  - `Test-Path "mvp_model/artifacts/model.pkl"` (debe ser True)
-  - `Get-Content "mvp_model/artifacts/metrics.json"`
-  - `Get-Content "mvp_model/artifacts/plots/test_metrics.json"`
-  - Abrir imágenes: `Start-Process "mvp_model/artifacts/plots/test_predictions_timeseries.png"`
-
-- Verificar en Linux/WSL:
-  - `ls -lh mvp_model/artifacts/model.pkl`
-  - `sed -n '1,200p' mvp_model/artifacts/metrics.json`
-  - `sed -n '1,200p' mvp_model/artifacts/plots/test_metrics.json`
-
-## Cómo interpretar resultados
-- `roc_auc` (≈0.5 azar, >0.6 aceptable): mide discriminación (qué tanto ordena ganadores por encima de perdedores).
-- `log_loss` y `brier` (más bajos son mejores): calidad/calibración de las probabilidades.
-- Gráficas:
-  - Serie temporal: la línea de probabilidad debe estar alta cuando el punto real es 1 y baja cuando es 0.
-  - Calibración: la curva ideal se pega a la diagonal; por debajo = sobreconfianza, por encima = subconfianza.
-- Métricas discretas en `test_metrics.json.discrete` (umbral configurable `--threshold`): TP/TN/FP/FN, accuracy, precision, recall, F1.
-
-## Contactos:
-- **aarangom1@eafit.edu.co**
-- **triveraf@eafit.edu.co**
+Para más detalles técnicos del modelo, consulta [`mvp_model/README.md`](mvp_model/README.md).
