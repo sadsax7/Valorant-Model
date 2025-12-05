@@ -1,0 +1,6 @@
+parsed_date,match_id,team1,team2,p_team1_win,pred_team1_win,team1_win,correct
+,530935,Team Liquid,GIANTX,0.9715622185822389,1,1,True
+,536985,Team Alpha,Team Omega,0.9609021593450982,1,1,True
+,538583,Team France,Team EMEA,0.020040693477526784,0,0,True
+,542272,NRG,FNATIC,0.9314547046490029,1,1,True
+,542279,FNATIC,DRX,0.9750816154724543,1,1,True

@@ -4,6 +4,11 @@ import csv
 import argparse
 from pathlib import Path
 from typing import List, Dict, Optional
+import sys
+
+# Add scripts directory to path for imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from utils.path_detection import detect_project_root, detect_data_root
 
 BASE_NAMES = [
     "agents_stats",
@@ -18,43 +23,6 @@ BASE_NAMES = [
     "player_stats",
 ]
 
-def _detect_project_root() -> str:
-    """Detect project root so the script works from any CWD.
-
-    Preference order:
-      1) Current working directory if it looks like repo root
-      2) Parent of this script directory (assuming scripts/ layout)
-      3) Script directory
-      4) Fallback to current working directory
-    """
-    script_dir = Path(__file__).resolve().parent
-    candidates = [Path.cwd(), script_dir.parent, script_dir]
-    for cand in candidates:
-        if (cand / "masters_csvs").exists() or any(cand.glob("*_csvs")) or (cand / ".git").exists():
-            return str(cand)
-    return str(Path.cwd())
-
-
-ROOT = _detect_project_root()
-
-def _detect_data_root(root: str, override: Optional[str] = None) -> str:
-    """Detect where the raw tournament folders live.
-
-    Preference order (unless overridden):
-      1) ./tournaments
-      2) ./datasets
-      3) ./ (repo root)
-    """
-    if override:
-        return override
-    tournaments_dir = Path(root) / "tournaments"
-    if tournaments_dir.exists() and tournaments_dir.is_dir():
-        return str(tournaments_dir)
-    datasets_dir = Path(root) / "datasets"
-    if datasets_dir.exists() and datasets_dir.is_dir():
-        return str(datasets_dir)
-    return root
-
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Merge tournament CSVs into masters_csvs")
@@ -68,9 +36,11 @@ def parse_args() -> argparse.Namespace:
 
 
 ARGS = parse_args()
-DATA_ROOT = _detect_data_root(ROOT, ARGS.data_root)
+ROOT = detect_project_root()
+DATA_ROOT = str(detect_data_root(ROOT, ARGS.data_root))
 # By default, keep masters_csvs at repo root as requested
-OUTPUT_DIR = ARGS.output_dir or os.path.join(ROOT, "masters_csvs")
+OUTPUT_DIR = ARGS.output_dir or os.path.join(str(ROOT), "masters_csvs")
+
 
 def list_tournament_dirs(root: str, out_dir_name: str) -> List[str]:
     items: List[str] = []

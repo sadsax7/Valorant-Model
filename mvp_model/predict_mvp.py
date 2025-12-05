@@ -6,7 +6,8 @@ import joblib
 import numpy as np
 import pandas as pd
 
-from mvp_model.utils.features import build_full_features
+from mvp_model.utils.data_loader import load_and_prepare_matches, load_player_stats_csv
+from mvp_model.utils.model_utils import build_features_from_data, get_feature_names
 
 
 def parse_args() -> argparse.Namespace:
@@ -21,56 +22,42 @@ def parse_args() -> argparse.Namespace:
     return p.parse_args()
 
 
-def load_and_prepare(csv_path: str, players_path: str, elo_k: float, elo_base: float):
-    df = pd.read_csv(csv_path)
-    # Keep only completed or upcoming; label may not exist, but features no leak.
-    if "status" in df.columns:
-        # No filtramos para predicción, pero mantenemos el orden por fecha si existe
-        pass
-    if "date" in df.columns:
-        df["parsed_date"] = pd.to_datetime(df["date"], errors="coerce")
+def load_and_prepare(csv_path: str, players_path: str, elo_k: float, elo_base: float, feature_names: list):
+    """Load and prepare data for prediction."""
+    # Load matches (don't filter by status for predictions)
+    df = load_and_prepare_matches(csv_path, filter_completed=False)
+    
+    # Load player stats
+    df_players = load_player_stats_csv(players_path)
+    
+    # Build features
+    df_with_all, X = build_features_from_data(df, df_players, elo_k, elo_base, feature_names)
+    
+    # Add match_id to features for output
+    if "match_id" in df_with_all.columns:
+        match_ids = df_with_all["match_id"].values
     else:
-        df["parsed_date"] = pd.NaT
-    if "match_id" in df.columns:
-        df = df.sort_values(["parsed_date", "match_id"], kind="stable").reset_index(drop=True)
-    else:
-        df = df.sort_values(["parsed_date"], kind="stable").reset_index(drop=True)
-
-    # Si existe winner, generamos label para referencia; no se usa para predecir
-    if "winner" in df.columns and "team1" in df.columns:
-        # Limpieza de espacios para evitar mismatches por espacios finales
-        df["team1"] = df["team1"].astype(str).str.strip()
-        df["team2"] = df["team2"].astype(str).str.strip()
-        df["winner"] = df["winner"].astype(str).str.strip()
-        df["team1_win"] = (df["winner"] == df["team1"]).astype(int)
-
-    # Construir features completas
-    try:
-        df_players = pd.read_csv(players_path)
-    except FileNotFoundError:
-        df_players = pd.DataFrame(columns=["match_id", "player_team", "acs", "kast"])  # vacío -> NaNs en agregados
-    df_with_all, feats = build_full_features(df, df_players, elo_k=elo_k, elo_base=elo_base)
-    feats["match_id"] = df_with_all["match_id"] if "match_id" in df_with_all.columns else np.arange(len(df_with_all))
-    return df_with_all, feats
+        match_ids = np.arange(len(df_with_all))
+    
+    return df_with_all, X, match_ids
 
 
 def main():
     args = parse_args()
     model = joblib.load(args.model)
-    # cargar train_info para alinear columnas de features
-    try:
-        with open(args.train_info, "r", encoding="utf-8") as f:
-            train_info = json.load(f)
-        feature_names = train_info.get("features", ["elo1_before", "elo2_before", "elo_diff"])  # fallback
-    except FileNotFoundError:
-        feature_names = ["elo1_before", "elo2_before", "elo_diff"]
-
-    df, feats = load_and_prepare(args.csv, args.players_stats_path, args.elo_k, args.elo_base)
-    X = feats[feature_names]
+    
+    # Get feature names from train_info
+    feature_names = get_feature_names(args.train_info)
+    
+    # Load and prepare data
+    df, X, match_ids = load_and_prepare(
+        args.csv, args.players_stats_path, args.elo_k, args.elo_base, feature_names
+    )
+    
     proba = model.predict_proba(X)[:, 1]
 
     out_df = pd.DataFrame({
-        "match_id": feats["match_id"],
+        "match_id": match_ids,
         "team1": df["team1"],
         "team2": df["team2"],
         "p_team1_win": proba,

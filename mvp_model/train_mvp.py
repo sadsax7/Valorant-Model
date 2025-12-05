@@ -18,6 +18,7 @@ try:
 except Exception:  # pragma: no cover
     HAS_XGB = False
 
+from mvp_model.utils.data_loader import load_and_prepare_matches
 from mvp_model.utils.features import build_full_features
 
 
@@ -33,35 +34,6 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--elo-base", type=float, default=1500.0, help="Elo base rating")
     p.add_argument("--use-xgb", action="store_true", help="Force use XGBoost if available")
     return p.parse_args()
-
-
-def load_matches(csv_path: str) -> pd.DataFrame:
-    df = pd.read_csv(csv_path)
-    # Filtrar solo partidos completados
-    if "status" in df.columns:
-        df = df[df["status"].astype(str).str.lower() == "completed"].copy()
-    # Parse date; fallback to original order if parsing fails
-    if "date" in df.columns:
-        df["parsed_date"] = pd.to_datetime(df["date"], errors="coerce")
-    else:
-        df["parsed_date"] = pd.NaT
-
-    # Limpieza de espacios y normalización básica en nombres de equipo y winner
-    for col in ["team1", "team2", "winner"]:
-        if col in df.columns:
-            df[col] = df[col].astype(str).str.strip()
-    # Label: 1 if team1 == winner else 0
-    if "winner" in df.columns and "team1" in df.columns:
-        df["team1_win"] = (df["winner"] == df["team1"]).astype(int)
-    else:
-        raise ValueError("CSV must contain columns: team1, winner")
-    # Sort chronologically (NaT at end keeps relative order)
-    if "match_id" in df.columns:
-        df = df.sort_values(["parsed_date", "match_id"], kind="stable")
-    else:
-        df = df.sort_values(["parsed_date"], kind="stable")
-    df = df.reset_index(drop=True)
-    return df
 
 
 def make_features(df_matches: pd.DataFrame, df_players: pd.DataFrame, elo_k: float, elo_base: float):
@@ -128,9 +100,10 @@ def evaluate(model: Pipeline, X_test: pd.DataFrame, y_test: np.ndarray) -> dict:
 def main():
     args = parse_args()
 
-    df = load_matches(args.csv_path)
+    df = load_and_prepare_matches(args.csv_path, filter_completed=True)
     # Cargar player stats
-    df_players = pd.read_csv(args.players_stats_path)
+    from mvp_model.utils.data_loader import load_player_stats_csv
+    df_players = load_player_stats_csv(args.players_stats_path)
     if len(df) < 20:
         raise SystemExit("Muy pocos partidos para entrenar un modelo (se requieren > 20).")
 
