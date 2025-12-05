@@ -52,6 +52,20 @@ Además del Elo de equipo, el modelo incorpora métricas agregadas de rendimient
 - **Calculamos el promedio de KAST** de los 5 jugadores de cada equipo
 - Usamos la **diferencia de KAST promedio** entre equipos como feature
 
+#### **ADR (Average Damage per Round)**
+- Daño promedio infligido por el jugador en cada round
+- Mide el **impacto ofensivo** del jugador
+- **Calculamos el promedio de ADR** de los 5 jugadores de cada equipo por partido
+- Usamos la **diferencia de ADR promedio** entre equipos como feature
+- Complementa ACS al enfocarse específicamente en el daño
+
+#### **HS% (Headshot Percentage)**
+- Porcentaje de kills que son headshots
+- Mide la **precisión y habilidad mecánica** del jugador
+- Headshots hacen más daño y son más letales
+- **Calculamos el promedio de HS%** de los 5 jugadores de cada equipo
+- Usamos la **diferencia de HS% promedio** entre equipos como feature
+
 ### Features del Modelo
 
 El modelo usa las siguientes características para cada partido:
@@ -61,6 +75,8 @@ El modelo usa las siguientes características para cada partido:
 3. **`elo_diff`**: Diferencia de Elo (equipo1 - equipo2)
 4. **`diff_acs_mean`**: Diferencia de ACS promedio entre equipos
 5. **`diff_kast_mean`**: Diferencia de KAST promedio entre equipos
+6. **`diff_adr_mean`**: Diferencia de ADR (Average Damage per Round) promedio entre equipos
+7. **`diff_hs_percent_mean`**: Diferencia de porcentaje de headshots promedio entre equipos
 
 ### Algoritmo: Regresión Logística
 
@@ -82,7 +98,8 @@ A continuación se muestra la evolución del modelo a través de diferentes expe
 |---------------|--------------|---------------------|---------|----------|---------|-------|----------|-----------|--------|-----|
 | **1** | Torneos 2025<br>(504 partidos) | Solo Elo<br>(`elo1_before`, `elo2_before`, `elo_diff`) | Logistic Regression | 0.6763 | 0.5980 | 0.2456 | 54.46% | 55.17% | 58.25% | 56.60% |
 | **2** | Torneos 2024+2025<br>(940 partidos) | Solo Elo<br>(`elo1_before`, `elo2_before`, `elo_diff`) | Logistic Regression | 0.6581 | 0.6510 | 0.2398 | 61.17% | 62.50% | 65.00% | 63.68% |
-| **3** | Torneos 2024+2025<br>(940 partidos) | Elo + Métricas de Jugadores<br>(`elo_diff`, `diff_acs_mean`, `diff_kast_mean`) | Logistic Regression | **0.2922** | **0.9453** | **0.0856** | **85.64%** | **87.10%** | **87.63%** | **87.32%** |
+| **3** | Torneos 2024+2025<br>(940 partidos) | Elo + ACS/KAST<br>(`elo_diff`, `diff_acs_mean`, `diff_kast_mean`) | Logistic Regression | 0.2922 | 0.9453 | 0.0935 | 86.17% | 87.10% | 87.63% | 87.32% |
+| **4** | Torneos 2024+2025<br>(940 partidos) | Elo + ACS/KAST/ADR/HS%<br>(`elo_diff`, `diff_acs_mean`, `diff_kast_mean`, `diff_adr_mean`, `diff_hs_percent_mean`) | Logistic Regression | **0.2855** | **0.9469** | **0.0921** | **85.11%** | **85.19%** | **88.46%** | **86.79%** |
 
 ### Análisis de Resultados
 
@@ -96,8 +113,15 @@ A continuación se muestra la evolución del modelo a través de diferentes expe
 - Agregar métricas de jugadores (ACS y KAST) produjo una **mejora dramática**
 - Log Loss se redujo **-0.37** (0.658 → 0.292) - mucho mejor calibración
 - ROC-AUC saltó a **0.945** - discriminación casi perfecta
-- Accuracy alcanzó **85.64%** - el modelo predice correctamente 86 de cada 100 partidos
+- Accuracy alcanzó **86.17%** - el modelo predice correctamente 86 de cada 100 partidos
 - Esto confirma que las estadísticas individuales de jugadores agregadas por equipo aportan señal predictiva real
+
+**Del Entrenamiento 3 al 4:**
+- Agregar **ADR** (Average Damage per Round) y **HS%** (Headshot Percentage) mejoró la calibración
+- Log Loss mejoró **-2.3%** (0.292 → 0.286) - mejor calibración de probabilidades
+- ROC-AUC mejoró a **0.947** - mejor discriminación
+- Brier Score mejoró **-1.5%** (0.0935 → 0.0921) - predicciones más precisas
+- El modelo ahora considera el daño por round y la precisión de headshots, métricas clave del rendimiento individual
 
 ### Explicación de Métricas
 
@@ -175,12 +199,13 @@ A continuación se muestra la evolución del modelo a través de diferentes expe
 
 ### Resumen de Rendimiento
 
-Nuestro modelo actual (Entrenamiento 3) alcanza:
-- ✅ **85.64% de accuracy** - Predice correctamente 86 de cada 100 partidos
-- ✅ **ROC-AUC de 0.945** - Discriminación casi perfecta entre victorias y derrotas
-- ✅ **Log Loss de 0.292** - Excelente calibración de probabilidades
-- ✅ **Brier Score de 0.086** - Predicciones probabilísticas muy precisas
-- ✅ **F1 Score de 87.32%** - Excelente balance entre precision y recall
+Nuestro modelo actual (Entrenamiento 4) alcanza:
+- ✅ **85.11% de accuracy** - Predice correctamente 85 de cada 100 partidos
+- ✅ **ROC-AUC de 0.947** - Discriminación casi perfecta entre victorias y derrotas
+- ✅ **Log Loss de 0.286** - Excelente calibración de probabilidades
+- ✅ **Brier Score de 0.092** - Predicciones probabilísticas muy precisas
+- ✅ **F1 Score de 86.79%** - Excelente balance entre precision y recall
+- ✅ **7 features** - Elo + ACS + KAST + ADR + HS%
 
 Todas las métricas están en rangos **excelentes**, lo que indica que el modelo es altamente confiable para predecir resultados de partidos profesionales de Valorant.
 

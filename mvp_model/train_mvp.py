@@ -38,15 +38,16 @@ def parse_args() -> argparse.Namespace:
 
 def make_features(df_matches: pd.DataFrame, df_players: pd.DataFrame, elo_k: float, elo_base: float):
     df_all, feats = build_full_features(df_matches, df_players, elo_k=elo_k, elo_base=elo_base)
-    # Usaremos diffs + elo_diff (evita duplicidad)
-    feat_cols = [
-        "elo_diff",
-        "diff_acs_mean",
-        "diff_kast_mean",
-    ]
-    # Mantener también los componentes base de Elo por si el modelo los requiere
-    if "elo1_before" in feats.columns and "elo2_before" in feats.columns:
-        feat_cols = ["elo1_before", "elo2_before"] + feat_cols
+    
+    # Detectar dinámicamente todas las columnas diff_* disponibles
+    diff_cols = [col for col in feats.columns if col.startswith("diff_") and col != "diff"]
+    
+    # Usar Elo base + todas las diferencias disponibles
+    feat_cols = ["elo1_before", "elo2_before", "elo_diff"] + diff_cols
+    
+    # Verificar que todas las columnas existen
+    feat_cols = [col for col in feat_cols if col in feats.columns]
+    
     X = feats[feat_cols].copy()
     y = df_all["team1_win"].astype(int).values
     meta = {"feature_names": feat_cols}

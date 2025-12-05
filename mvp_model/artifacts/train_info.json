@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T04:55:01.136392+00:00",
+  "timestamp": "2025-12-05T08:15:53.489072+00:00",
   "n_total": 940,
   "n_train": 752,
   "n_test": 188,
@@ -10,7 +10,9 @@
     "elo2_before",
     "elo_diff",
     "diff_acs_mean",
-    "diff_kast_mean"
+    "diff_kast_mean",
+    "diff_adr_mean",
+    "diff_hs_percent_mean"
   ],
   "model_type": "LogisticRegression",
   "csv_path": "masters_csvs/matches.csv",
